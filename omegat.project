@@ -53,8 +53,8 @@
                 <mapping local="source/website/yml/pt.yml" repository="raw/master/_i18n/en.yml"/>
             </repository>
             <repository type="http" url="https://github.com/OmegaT-L10N/pt_BR/raw/master/">
-                <mapping local="tm/tmx2source/pt_BR.tmx" repository="omegat/project_save.tmx"/>
-                <mapping local="tm/penalty-10/pt_BR.tmx" repository="omegat/project_save.tmx"/>
+                <mapping local="tm/tmx2source/pt-BR.tmx" repository="omegat/project_save.tmx"/>
+                <mapping local="tm/penalty-5/pt_BR.tmx" repository="omegat/project_save.tmx"/>
             </repository>   
         </repositories>
     </project>
