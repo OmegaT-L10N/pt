@@ -1388,6 +1388,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173346Z" creationid="Pedro Albuquerque" creationdate="20210420T173346Z">
+        <seg>A pasta {0} foi automaticamente criada para o projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171422Z" creationid="Pedro Albuquerque" creationdate="20210420T171422Z">
@@ -1814,6 +1822,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173118Z" creationid="Pedro Albuquerque" creationdate="20210420T173118Z">
         <seg>A carregar o projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173352Z" creationid="Pedro Albuquerque" creationdate="20210420T173352Z">
+        <seg>A carregar: {0}</seg>
       </tuv>
     </tu>
     <tu>
