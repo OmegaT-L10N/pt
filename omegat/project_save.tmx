@@ -1030,6 +1030,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173649Z" creationid="Pedro Albuquerque" creationdate="20210420T173649Z">
+        <seg>Impossível criar pasta do projecto em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170711Z" creationid="Pedro Albuquerque" creationdate="20210420T125754Z">
@@ -1058,6 +1066,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125055Z" creationid="Pedro Albuquerque" creationdate="20210420T125055Z">
         <seg>Criar projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173529Z" creationid="Pedro Albuquerque" creationdate="20210420T173529Z">
+        <seg>A criar documentos traduzidos: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,6 +1312,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165953Z" creationid="Pedro Albuquerque" creationdate="20210420T165953Z">
         <seg>Falha ao compilar os ficheiros do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173629Z" creationid="Pedro Albuquerque" creationdate="20210420T173629Z">
+        <seg>Falha ao criar o projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1694,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173715Z" creationid="Pedro Albuquerque" creationdate="20210420T173715Z">
+        <seg>Permissões insuficientes para a pasta de projecto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
@@ -1806,6 +1838,14 @@ na primeira execução.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160709Z" creationid="Pedro Albuquerque" creationdate="20210420T160709Z">
         <seg>Informação de licenciamento
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173518Z" creationid="Pedro Albuquerque" creationdate="20210420T173518Z">
+        <seg>A carregar ficheiros TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2636,6 +2676,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173510Z" creationid="Pedro Albuquerque" creationdate="20210420T173510Z">
+        <seg>Carregamento do ficheiro-fonte concluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170201Z" creationid="Pedro Albuquerque" creationdate="20210420T170201Z">
@@ -2796,6 +2844,22 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173552Z" creationid="Pedro Albuquerque" creationdate="20210420T173542Z">
+        <seg>Documento traduzido criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173539Z" creationid="Pedro Albuquerque" creationdate="20210420T173539Z">
+        <seg>Documentos traduzidos criados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172240Z" creationid="Pedro Albuquerque" creationdate="20210420T172240Z">
@@ -2816,6 +2880,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170815Z" creationid="Pedro Albuquerque" creationdate="20210420T170815Z">
         <seg>DBLQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173617Z" creationid="Pedro Albuquerque" creationdate="20210420T173617Z">
+        <seg>Impossível compilar novo ficheiro TMX!</seg>
       </tuv>
     </tu>
     <tu>
