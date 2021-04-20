@@ -286,6 +286,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123748Z" creationid="Pedro Albuquerque" creationdate="20210420T123748Z">
+        <seg>&lt;automática&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123041Z" creationid="Pedro Albuquerque" creationdate="20210420T123041Z">
@@ -354,6 +362,14 @@ A definição actual é {0}MB;</seg>
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Uma lista de expressões regulares de ficheiros-fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123738Z" creationid="Pedro Albuquerque" creationdate="20210420T123738Z">
+        <seg>Memória actualmente em uso pela VM: {0}MB; da qual livre: {1}MB; máximo disponível: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -564,6 +580,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123310Z" creationid="Pedro Albuquerque" creationdate="20210420T123310Z">
         <seg>Pode tentar resolver este problema das seguintes formas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124202Z" creationid="Pedro Albuquerque" creationdate="20210420T124202Z">
+        <seg>O seu projecto não contém quaisquer ficheiros em formatos suportados.</seg>
       </tuv>
     </tu>
     <tu>
