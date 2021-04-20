@@ -1062,6 +1062,14 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160805Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
+        <seg>OmegaT usa uma série de bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123607Z" creationid="Pedro Albuquerque" creationdate="20210420T123607Z">
@@ -1126,6 +1134,16 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130208Z" creationid="Pedro Albuquerque" creationdate="20210420T130208Z">
         <seg>Fim de formato direccional (FFD U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160838Z" creationid="Pedro Albuquerque" creationdate="20210420T160838Z">
+        <seg>Pré-requisitos para instalar o OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1412,16 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160816Z" creationid="Pedro Albuquerque" creationdate="20210420T160816Z">
+        <seg>A licença de cada biblioteca é mencionada em
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
 - use Project &gt; Copy Files to Source Folder...
@@ -1462,6 +1490,16 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
         <seg>O que é o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160748Z" creationid="Pedro Albuquerque" creationdate="20210420T160748Z">
+        <seg>Pode encontrar o texto da licença em
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
