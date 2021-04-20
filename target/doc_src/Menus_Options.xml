@@ -30,7 +30,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Glossary</term>
+      <term>Glossário</term>
 
       <listitem>
         <para>Select <guimenuitem>Taas Terminology Lookup</guimenuitem> to
@@ -39,7 +39,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Dictionary</term>
+      <term>Dicionário</term>
 
       <listitem>
         <para>Check the <guimenuitem>Use Fuzzy Matching for Dictionary Entries</guimenuitem> option if you want dictionaries to display words that have the same root.</para>
