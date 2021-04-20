@@ -606,6 +606,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125323Z" creationid="Pedro Albuquerque" creationdate="20210420T125323Z">
@@ -830,6 +838,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162208Z" creationid="Pedro Albuquerque" creationdate="20210420T162208Z">
+        <seg>Para uma forma mais fácil de lançar o OmegaT, pode usar o script Kaptain
+fornecido (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161623Z" creationid="Pedro Albuquerque" creationdate="20210420T161623Z">
@@ -872,6 +890,14 @@ to use Java Web Start.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161548Z" creationid="Pedro Albuquerque" creationdate="20210420T161432Z">
         <seg>Se já tem o Java instalado no seu sistema, uma forma de instalar o OmegaT é
 usar o Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162139Z" creationid="Pedro Albuquerque" creationdate="20210420T162139Z">
+        <seg>Se utilizou o script linux-install.sh script, deverá poder lançar o OmegaT com:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,6 +1042,16 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162114Z" creationid="Pedro Albuquerque" creationdate="20210420T162114Z">
+        <seg>Iniciar o OmegaT (Linux)
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
@@ -1032,6 +1068,16 @@ na primeira execução.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161726Z" creationid="Pedro Albuquerque" creationdate="20210420T161726Z">
         <seg>Iniciar o OmegaT (Windows)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162419Z" creationid="Pedro Albuquerque" creationdate="20210420T162419Z">
+        <seg>Início do OmegaT a partir da linha de comando (todos os sistemas)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1664,14 @@ na área de início rápido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162229Z" creationid="Pedro Albuquerque" creationdate="20210420T162229Z">
+        <seg>Para utilizar este script deve primeiro instalar o Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a terminal
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
@@ -1716,6 +1770,15 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162331Z" creationid="Pedro Albuquerque" creationdate="20210420T162331Z">
+        <seg>Pode então iniciar o script Kaptain com:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also launch it from
 the Spotlight search field.</seg>
       </tuv>
@@ -1782,6 +1845,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162145Z" creationid="Pedro Albuquerque" creationdate="20210420T162145Z">
+        <seg>e depois:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161625Z" creationid="Pedro Albuquerque" creationdate="20210420T161625Z">
@@ -1796,6 +1867,22 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122656Z" creationid="Pedro Albuquerque" creationdate="20210420T122656Z">
         <seg>init &lt;idioma-fonte&gt; &lt;idioma-alvo&gt;
 		Initializar um projecto de equipa mínimo com os idiomas especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162145Z" creationid="Pedro Albuquerque" creationdate="20210420T162145Z">
+        <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162333Z" creationid="Pedro Albuquerque" creationdate="20210420T162333Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
