@@ -2177,6 +2177,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180648Z" creationid="Pedro Albuquerque" creationdate="20210420T180648Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
@@ -2237,6 +2245,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164355Z" creationid="Pedro Albuquerque" creationdate="20210420T164355Z">
         <seg>Unir definições alternativas para o mesmo termo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180821Z" creationid="Pedro Albuquerque" creationdate="20210420T180821Z">
+        <seg>Dicionário Merriam Webster - uso</seg>
       </tuv>
     </tu>
     <tu>
@@ -2351,6 +2367,14 @@ a pasta Aplicações.</seg>
         <seg>Opções para modo não-GUI:
 	--quiet
 		Reduzir a saída a stdout na linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180645Z" creationid="Pedro Albuquerque" creationdate="20210420T180645Z">
+        <seg>Note que, para além dos dicionários "fonte-alvo", pode, utilizando a funcionalidade Dicionário, obter acesso a informações tais como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3107,6 +3131,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180731Z" creationid="Pedro Albuquerque" creationdate="20210420T180731Z">
+        <seg>Alguns dos dicionários não têm quaisquer restrições - ou seja, são "livres de usar", ao passo que outros, como a selecção acima, estão sob a licença GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175036Z" creationid="Pedro Albuquerque" creationdate="20210420T175036Z">
@@ -3179,10 +3211,26 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180649Z" creationid="Pedro Albuquerque" creationdate="20210420T180649Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162433Z" creationid="Pedro Albuquerque" creationdate="20210420T162433Z">
         <seg>O comando para inciar o OmegaT é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180756Z" creationid="Pedro Albuquerque" creationdate="20210420T180756Z">
+        <seg>O exemplo seguinte mostra o dicionário Merriam Webster 10th "em acção":</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,6 +3675,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180647Z" creationid="Pedro Albuquerque" creationdate="20210420T180647Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is OmegaT?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
@@ -3776,6 +3832,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162502Z" creationid="Pedro Albuquerque" creationdate="20210420T162502Z">
         <seg>cd &lt;pasta onde se encontra o ficheiro OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180652Z" creationid="Pedro Albuquerque" creationdate="20210420T180652Z">
+        <seg>etc...</seg>
       </tuv>
     </tu>
     <tu>
