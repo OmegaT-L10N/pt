@@ -574,6 +574,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125754Z" creationid="Pedro Albuquerque" creationdate="20210420T125754Z">
+        <seg>Criar entrada de  &amp;glossário...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125025Z" creationid="Pedro Albuquerque" creationdate="20210420T125025Z">
@@ -720,6 +728,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125927Z" creationid="Pedro Albuquerque" creationdate="20210420T125911Z">
+        <seg>Inserir carácter de controlo Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123555Z" creationid="Pedro Albuquerque" creationdate="20210420T123555Z">
@@ -732,6 +748,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
         <seg>Chamar "team -h" para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130034Z" creationid="Pedro Albuquerque" creationdate="20210420T130034Z">
+        <seg>Marca da esquerda para a direita (MED U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -972,6 +996,70 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123007Z" creationid="Pedro Albuquerque" creationdate="20210420T123007Z">
         <seg>Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125824Z" creationid="Pedro Albuquerque" creationdate="20210420T125824Z">
+        <seg>Seleccionar correspondência segui&amp;nte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125842Z" creationid="Pedro Albuquerque" creationdate="20210420T125842Z">
+        <seg>Seleccionar corres&amp;pondência anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125814Z" creationid="Pedro Albuquerque" creationdate="20210420T125814Z">
+        <seg>Seleccionar &amp;correspondência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125859Z" creationid="Pedro Albuquerque" creationdate="20210420T125859Z">
+        <seg>Seleccionar correspondência &amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125903Z" creationid="Pedro Albuquerque" creationdate="20210420T125903Z">
+        <seg>Seleccionar correspondência &amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125906Z" creationid="Pedro Albuquerque" creationdate="20210420T125906Z">
+        <seg>Seleccionar correspondência &amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125910Z" creationid="Pedro Albuquerque" creationdate="20210420T125910Z">
+        <seg>Seleccionar correspondência &amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125915Z" creationid="Pedro Albuquerque" creationdate="20210420T125910Z">
+        <seg>Seleccionar correspondência &amp;5</seg>
       </tuv>
     </tu>
     <tu>
