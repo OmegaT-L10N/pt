@@ -1956,8 +1956,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164436Z" creationid="Pedro Albuquerque" creationdate="20210420T164436Z">
-        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164944Z" creationid="Pedro Albuquerque" creationdate="20210420T164436Z">
+        <seg>Utilizar comparação a&amp;proximada para entradas do dicionário</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +1966,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153039Z" creationid="Pedro Albuquerque" creationdate="20210420T153039Z">
         <seg>Usar &amp;TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164828Z" creationid="Pedro Albuquerque" creationdate="20210420T164828Z">
+        <seg>Utilizar comparação &amp;Fuzzy para entradas do dicionário</seg>
       </tuv>
     </tu>
     <tu>
