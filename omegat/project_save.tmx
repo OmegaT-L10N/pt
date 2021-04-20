@@ -888,6 +888,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161027Z" creationid="Pedro Albuquerque" creationdate="20210420T161027Z">
+        <seg>Instalar o OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161006Z" creationid="Pedro Albuquerque" creationdate="20210420T161006Z">
+        <seg>Instalar o OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123555Z" creationid="Pedro Albuquerque" creationdate="20210420T123555Z">
@@ -900,6 +920,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
         <seg>Chamar "team -h" para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161019Z" creationid="Pedro Albuquerque" creationdate="20210420T161019Z">
+        <seg>Iniciar o programa de instalação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1086,16 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
         <seg>OmegaT esgotou a memória e sairá quando clicar em Aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160927Z" creationid="Pedro Albuquerque" creationdate="20210420T160927Z">
+        <seg>O OmegaT requer que o Java Runtime Environment (JRE) versão 1.8 ou superior esteja
+instalado no seu sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1476,16 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161104Z" creationid="Pedro Albuquerque" creationdate="20210420T161104Z">
+        <seg>Desempacotar o arquivo .zip do OmegaT para obter uma pasta que contenha um ficheiro de documentação
+e a aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115438Z" creationid="Pedro Albuquerque" creationdate="20210420T115415Z">
@@ -1482,6 +1530,16 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124526Z" creationid="Pedro Albuquerque" creationdate="20210420T124526Z">
         <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160957Z" creationid="Pedro Albuquerque" creationdate="20210420T160957Z">
+        <seg>Recomendamos a utilização de pacotes OmegaT que incluam o JRE, para lhe poupar o trabalho
+de o seleccionar, obter e instalar.</seg>
       </tuv>
     </tu>
     <tu>
