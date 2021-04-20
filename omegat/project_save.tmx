@@ -670,9 +670,9 @@
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121144Z" creationid="Pedro Albuquerque" creationdate="20210420T120336Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170640Z" creationid="Pedro Albuquerque" creationdate="20210420T120336Z">
         <seg>--remote-project
-		Transferir um ficheiro omegat.project do URL dado em &lt;caminho do 
+		Transferir um ficheiro omegat.project do URL dado em &lt;caminho do
 		projecto&gt; e carregar o projecto.</seg>
       </tuv>
     </tu>
@@ -988,8 +988,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125754Z" creationid="Pedro Albuquerque" creationdate="20210420T125754Z">
-        <seg>Criar entrada de  &amp;glossário...</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170711Z" creationid="Pedro Albuquerque" creationdate="20210420T125754Z">
+        <seg>Criar entrada de &amp;glossário...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,8 +1388,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170440Z" creationid="Pedro Albuquerque" creationdate="20210420T170440Z">
-        <seg>Insert Mode</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170722Z" creationid="Pedro Albuquerque" creationdate="20210420T170440Z">
+        <seg>Modo de inserção</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,6 +1496,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165715Z" creationid="Pedro Albuquerque" creationdate="20210420T165715Z">
         <seg>Diári&amp;o...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170802Z" creationid="Pedro Albuquerque" creationdate="20210420T170713Z">
+        <seg>BLQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,8 +1826,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170433Z" creationid="Pedro Albuquerque" creationdate="20210420T170433Z">
-        <seg>Modo de sobrescrição</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170736Z" creationid="Pedro Albuquerque" creationdate="20210420T170433Z">
+        <seg>Modo de sobreposição</seg>
       </tuv>
     </tu>
     <tu>
