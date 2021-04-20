@@ -6,6 +6,86 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123036Z" creationid="Pedro Albuquerque" creationdate="20210420T123036Z">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123029Z" creationid="Pedro Albuquerque" creationdate="20210420T123029Z">
+        <seg>&amp;Adicionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122927Z" creationid="Pedro Albuquerque" creationdate="20210420T122927Z">
+        <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122937Z" creationid="Pedro Albuquerque" creationdate="20210420T122937Z">
+        <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123032Z" creationid="Pedro Albuquerque" creationdate="20210420T123032Z">
+        <seg>&amp;Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122941Z" creationid="Pedro Albuquerque" creationdate="20210420T122941Z">
+        <seg>&amp;Filtrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122919Z" creationid="Pedro Albuquerque" creationdate="20210420T122919Z">
+        <seg>&amp;Aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123015Z" creationid="Pedro Albuquerque" creationdate="20210420T123015Z">
+        <seg>&amp;Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122949Z" creationid="Pedro Albuquerque" creationdate="20210420T122949Z">
+        <seg>Substitui&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123012Z" creationid="Pedro Albuquerque" creationdate="20210420T123012Z">
+        <seg>&amp;Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -136,6 +216,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123041Z" creationid="Pedro Albuquerque" creationdate="20210420T123041Z">
+        <seg>A&amp;dicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121936Z" creationid="Pedro Albuquerque" creationdate="20210420T121936Z">
@@ -254,6 +342,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122913Z" creationid="Pedro Albuquerque" creationdate="20210420T122913Z">
+        <seg>Colocar ficheiros-fonte em ./source e material
+suplementar em ./tm, ./glossary e ./dictionary como necessário, e depois
+submeter tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123019Z" creationid="Pedro Albuquerque" creationdate="20210420T123019Z">
+        <seg>R&amp;emover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123000Z" creationid="Pedro Albuquerque" creationdate="20210420T123000Z">
+        <seg>S&amp;ubtituir tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
+        <seg>Restaurar prede&amp;finições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122318Z" creationid="Pedro Albuquerque" creationdate="20210420T122318Z">
@@ -274,6 +398,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121231Z" creationid="Pedro Albuquerque" creationdate="20210420T121231Z">
         <seg>Veja os detalhes abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123007Z" creationid="Pedro Albuquerque" creationdate="20210420T123007Z">
+        <seg>Seleccionar</seg>
       </tuv>
     </tu>
     <tu>
