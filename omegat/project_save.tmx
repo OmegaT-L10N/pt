@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153202Z" creationid="Pedro Albuquerque" creationdate="20210420T153202Z">
+        <seg>&amp;Glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Go To</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130213Z" creationid="Pedro Albuquerque" creationdate="20210420T130213Z">
@@ -730,6 +738,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123738Z" creationid="Pedro Albuquerque" creationdate="20210420T123738Z">
         <seg>Memória actualmente em uso pela VM: {0}MB; da qual livre: {1}MB; máximo disponível: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
+        <seg>Mostrar &amp;descrição contextual para &amp;glossários TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -1364,6 +1380,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153039Z" creationid="Pedro Albuquerque" creationdate="20210420T153039Z">
         <seg>Usar &amp;TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153242Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
     </tu>
     <tu>
