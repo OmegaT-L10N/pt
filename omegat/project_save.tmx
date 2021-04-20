@@ -1184,6 +1184,18 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172847Z" creationid="Pedro Albuquerque" creationdate="20210420T172847Z">
+        <seg>Vazio de alma
+Para sempre a dolorosa escuridão
+A sua página de ajuda não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165528Z" creationid="Pedro Albuquerque" creationdate="20210420T165528Z">
@@ -1204,6 +1216,18 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
         <seg>Insira o número do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172908Z" creationid="Pedro Albuquerque" creationdate="20210420T172908Z">
+        <seg>Página efémera
+Eu sou o ecrã azul da morte
+Ninguém ouve os seus gritos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1402,18 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170303Z" creationid="Pedro Albuquerque" creationdate="20210420T170303Z">
         <seg>Ir para segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173004Z" creationid="Pedro Albuquerque" creationdate="20210420T173004Z">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1822,18 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170329Z" creationid="Pedro Albuquerque" creationdate="20210420T170329Z">
         <seg>Mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173000Z" creationid="Pedro Albuquerque" creationdate="20210420T173000Z">
+        <seg>Luto e tristeza
+404 não está connosco agora
+Perdida para o paraíso</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,6 +2256,18 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125525Z" creationid="Pedro Albuquerque" creationdate="20210420T125459Z">
         <seg>Substituir com correspondência ou s&amp;elecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172942Z" creationid="Pedro Albuquerque" creationdate="20210420T172942Z">
+        <seg>Em vez de apitar
+Ou uma mensagem de erro grosseira,
+Estas palavras: "Página não encontrada"</seg>
       </tuv>
     </tu>
     <tu>
