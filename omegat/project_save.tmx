@@ -600,6 +600,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170950Z" creationid="Pedro Albuquerque" creationdate="20210420T170950Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -1232,6 +1240,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124857Z" creationid="Pedro Albuquerque" creationdate="20210420T124857Z">
         <seg>Falha ao copiar o ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171127Z" creationid="Pedro Albuquerque" creationdate="20210420T171127Z">
+        <seg>Ficheiro: traduzido/número de segmentos (projecto: único traduzido/único, número total de segmentos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171259Z" creationid="Pedro Albuquerque" creationdate="20210420T171259Z">
+        <seg>Ficheiro: % tradução única % (únicos restantes)/projecto: % tradução única % (únicos restantes), número total de segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,7 +2282,7 @@ submeter tudo.</seg>
       <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170900Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
         <seg>Tamanhos de fonte/tradução (caracteres)</seg>
       </tuv>
     </tu>
@@ -2673,6 +2697,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122320Z" creationid="Pedro Albuquerque" creationdate="20210420T122320Z">
         <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171020Z" creationid="Pedro Albuquerque" creationdate="20210420T171020Z">
+        <seg>{0} ({1} restantes) / {2} ({3} restantes), {4}</seg>
       </tuv>
     </tu>
     <tu>
