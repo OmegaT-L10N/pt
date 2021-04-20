@@ -183,7 +183,7 @@
     </variablelist>
 
     <section>
-      <title>Font</title>
+      <title>Letra</title>
 
       <para>Shows the dialog to modify the text display font. Users of old
       computers who feel window resizing is very slow can try changing the
@@ -827,7 +827,7 @@
   </section>
 
   <section>
-    <title>Auto-Completion</title>
+    <title>Conclusão automática</title>
 
     <para>Click on <guimenuitem>Glossary...</guimenuitem> to configure the
     Auto-completer Glossary View.</para>
