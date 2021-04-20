@@ -574,6 +574,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160602Z" creationid="Pedro Albuquerque" creationdate="20210420T160602Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160400Z" creationid="Pedro Albuquerque" creationdate="20210420T160304Z">
@@ -912,6 +920,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160709Z" creationid="Pedro Albuquerque" creationdate="20210420T160709Z">
+        <seg>Informação de licenciamento
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
@@ -1008,6 +1026,30 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124550Z" creationid="Pedro Albuquerque" creationdate="20210420T124550Z">
         <seg>O OmegaT escolheu "Sim" automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160655Z" creationid="Pedro Albuquerque" creationdate="20210420T160655Z">
+        <seg>OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
+com correspondência fuzzy, memória de tradução, pesquisa de palavras-chave, glossários e
+tradução alavancada em projectos actualizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160731Z" creationid="Pedro Albuquerque" creationdate="20210420T160731Z">
+        <seg>OmegaT está disponível sob os termos da GNU General Public License como
+publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
+(à sua escolha) qualquer versão posterior.</seg>
       </tuv>
     </tu>
     <tu>
