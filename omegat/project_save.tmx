@@ -1248,6 +1248,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175811Z" creationid="Pedro Albuquerque" creationdate="20210420T175811Z">
+        <seg>Dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175918Z" creationid="Pedro Albuquerque" creationdate="20210420T175918Z">
+        <seg>Os dicionários no &lt;a0&gt;OmegaT&lt;/a0&gt; são baseados no formato StarDict ou Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164423Z" creationid="Pedro Albuquerque" creationdate="20210420T164423Z">
@@ -1758,6 +1774,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165258Z" creationid="Pedro Albuquerque" creationdate="20210420T165258Z">
         <seg>Previsão do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175834Z" creationid="Pedro Albuquerque" creationdate="20210420T175834Z">
+        <seg>Como transferir e instalar dicionários</seg>
       </tuv>
     </tu>
     <tu>
