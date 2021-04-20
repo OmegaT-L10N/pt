@@ -536,6 +536,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124236Z" creationid="Pedro Albuquerque" creationdate="20210420T124236Z">
+        <seg>Veja Opções&gt; Filtros de ficheiros para uma lista de formatos suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121231Z" creationid="Pedro Albuquerque" creationdate="20210420T121231Z">
