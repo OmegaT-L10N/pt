@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175007Z" creationid="Pedro Albuquerque" creationdate="20210420T175007Z">
+        <seg>Tornar as regras de seg&amp;mentação específicas do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152956Z" creationid="Pedro Albuquerque" creationdate="20210420T152956Z">
@@ -776,6 +784,38 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174752Z" creationid="Pedro Albuquerque" creationdate="20210420T174752Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174751Z" creationid="Pedro Albuquerque" creationdate="20210420T174751Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174751Z" creationid="Pedro Albuquerque" creationdate="20210420T174751Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174750Z" creationid="Pedro Albuquerque" creationdate="20210420T174750Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123748Z" creationid="Pedro Albuquerque" creationdate="20210420T123748Z">
@@ -852,6 +892,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
         <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174835Z" creationid="Pedro Albuquerque" creationdate="20210420T174835Z">
+        <seg>As matrizes não devem estar vazias</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1166,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175017Z" creationid="Pedro Albuquerque" creationdate="20210420T175017Z">
+        <seg>Criar novo projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173529Z" creationid="Pedro Albuquerque" creationdate="20210420T173529Z">
@@ -1248,10 +1304,34 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174858Z" creationid="Pedro Albuquerque" creationdate="20210420T174858Z">
+        <seg>Activar segmentação a &amp;nível de frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125619Z" creationid="Pedro Albuquerque" creationdate="20210420T125619Z">
         <seg>E&amp;xportar selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174905Z" creationid="Pedro Albuquerque" creationdate="20210420T174905Z">
+        <seg>Editar projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174922Z" creationid="Pedro Albuquerque" creationdate="20210420T174922Z">
+        <seg>Editar as propriedades do projecto aqui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1580,22 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174940Z" creationid="Pedro Albuquerque" creationdate="20210420T174940Z">
+        <seg>Localização dos ficheiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174805Z" creationid="Pedro Albuquerque" creationdate="20210420T174805Z">
+        <seg>Ficheiro {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171127Z" creationid="Pedro Albuquerque" creationdate="20210420T171127Z">
@@ -1562,6 +1658,14 @@ provided (omegat.kaptn).</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162208Z" creationid="Pedro Albuquerque" creationdate="20210420T162208Z">
         <seg>Para uma forma mais fácil de lançar o OmegaT, pode usar o script Kaptain
 fornecido (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174815Z" creationid="Pedro Albuquerque" creationdate="20210420T174815Z">
+        <seg>Para todos os ficheiros:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,6 +1992,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174926Z" creationid="Pedro Albuquerque" creationdate="20210420T174926Z">
+        <seg>Idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171411Z" creationid="Pedro Albuquerque" creationdate="20210420T171411Z">
@@ -2168,6 +2280,14 @@ como a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174759Z" creationid="Pedro Albuquerque" creationdate="20210420T174759Z">
+        <seg>Sem correspondência:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -2296,6 +2416,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175025Z" creationid="Pedro Albuquerque" creationdate="20210420T175025Z">
+        <seg>Abrir projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124711Z" creationid="Pedro Albuquerque" creationdate="20210420T124711Z">
@@ -2348,6 +2476,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172135Z" creationid="Pedro Albuquerque" creationdate="20210420T172135Z">
         <seg>Abrir {0} ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174932Z" creationid="Pedro Albuquerque" creationdate="20210420T174932Z">
+        <seg>Opções</seg>
       </tuv>
     </tu>
     <tu>
@@ -2908,6 +3044,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175036Z" creationid="Pedro Albuquerque" creationdate="20210420T175036Z">
+        <seg>Pasta dos ficheiros-fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173510Z" creationid="Pedro Albuquerque" creationdate="20210420T173510Z">
@@ -3120,6 +3264,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173959Z" creationid="Pedro Albuquerque" creationdate="20210420T173959Z">
         <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175044Z" creationid="Pedro Albuquerque" creationdate="20210420T175044Z">
+        <seg>Pasta dos ficheiros-alvo:</seg>
       </tuv>
     </tu>
     <tu>
