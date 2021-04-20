@@ -10,7 +10,7 @@
     </menuchoice></para>
 
   <section>
-    <title>Languages</title>
+    <title>Idiomas</title>
 
     <para>You can either enter the source and target languages by hand or use
     the drop down menus. Bear in mind that changing the languages may render
@@ -22,7 +22,7 @@
   </section>
 
   <section>
-    <title>Options</title>
+    <title>Opções</title>
 
     <variablelist>
       <varlistentry>
@@ -161,7 +161,7 @@
   </section>
 
   <section>
-    <title>File locations</title>
+    <title>Localização dos ficheiros</title>
 
     <para>Here you can select different subfolders, for instance the subfolder
     with source files, subfolder for target files etc. If you enter names of

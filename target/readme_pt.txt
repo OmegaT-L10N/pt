@@ -46,7 +46,7 @@ Instalar o OmegaT (Mac)
 
 Desempacotar o arquivo .zip do OmegaT para obter uma pasta que contenha um ficheiro de documentação
 e a aplicação OmegaT. Deslocar a pasta para um local apropriado, tal como
-como a pasta Aplicações.
+a pasta Aplicações.
 
 
 
@@ -96,7 +96,7 @@ O instalador pode criar atalhos no menu Iniciar, no ambiente de trabalho e
 na área de início rápido. Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.
 
-Se pode ver o ficheiro OmegaT mas não o OmegaT.exe no seu gestor de ficheiros (Windows
+Se pode ver o ficheiro OmegaT, mas não o OmegaT.exe no seu gestor de ficheiros (Windows
 Explorer), altere as definições para que as extensões dos ficheiros sejam mostradas.
 
 
@@ -143,8 +143,7 @@ O comando para inciar o OmegaT é:
 
     <nome e caminho do ficheiro executável Java> -jar OmegaT.jar
 
-(o ficheiro executável Java é o ficheiro java no Linux e java.exe no Windows.  Se o 
-Java está instalado ao nível do sistema e está no caminho de comando, não precisa de introduzir 
+(o ficheiro executável Java é o ficheiro java no Linux e java.exe no Windows.  Se o Java está instalado ao nível do sistema e está no caminho de comando, não precisa de introduzir
 o caminho completo.)
 
 
@@ -186,8 +185,8 @@ Os colaboradores anteriores incluem:
 
 e muitas, muitas mais pessoas muito úteis
 
-(se pensa ter contribuído significativamente para o projecto OmegaT mas
-(não vê o seu nome nas listas, sinta-se à vontade para nos contactar).
+(se pensa ter contribuído significativamente para o projecto OmegaT, mas
+não vê o seu nome nas listas, sinta-se à vontade para nos contactar).
 
 
 

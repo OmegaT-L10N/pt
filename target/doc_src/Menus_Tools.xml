@@ -67,7 +67,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Statistics</term>
+      <term>Estatísticas</term>
 
       <listitem>
         <para>Opens a new window and displays the project statistics, i.e. the
@@ -76,7 +76,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Match Statistics</term>
+      <term>Estatísticas de correspondências</term>
 
       <listitem>
         <para>Displays the Match Statistics for the project: the number of
@@ -86,7 +86,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Match Statistics per File</term>
+      <term>Estatísticas de correspondências por ficheiro</term>
 
       <listitem>
         <para>Displays the Match Statistics for each file of the project: the
