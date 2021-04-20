@@ -1168,6 +1168,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173122Z" creationid="Pedro Albuquerque" creationdate="20210420T173111Z">
+        <seg>A transferir o projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170316Z" creationid="Pedro Albuquerque" creationdate="20210420T170316Z">
@@ -1240,6 +1248,22 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173201Z" creationid="Pedro Albuquerque" creationdate="20210420T173201Z">
+        <seg>Erro ao criar o projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173145Z" creationid="Pedro Albuquerque" creationdate="20210420T173145Z">
+        <seg>Erro ao gravar o ficheiro do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -1296,6 +1320,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170242Z" creationid="Pedro Albuquerque" creationdate="20210420T170242Z">
         <seg>Falha ao actualizar propriedades do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173245Z" creationid="Pedro Albuquerque" creationdate="20210420T173245Z">
+        <seg>Erro fatal encontrado - a gravar o ficheiro de projecto com a extensão de salvaguarda ".recover".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,10 +1442,10 @@ fornecido (omegat.kaptn).</seg>
 From your path it is fleeing
 Its winter has come</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173004Z" creationid="Pedro Albuquerque" creationdate="20210420T173004Z">
-        <seg>Help you are seeking
-From your path it is fleeing
-Its winter has come</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173051Z" creationid="Pedro Albuquerque" creationdate="20210420T173004Z">
+        <seg>Ajuda que procura
+Do seu caminho está a fugir
+O seu Inverno chegou</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1798,22 @@ na primeira execução.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160709Z" creationid="Pedro Albuquerque" creationdate="20210420T160709Z">
         <seg>Informação de licenciamento
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173131Z" creationid="Pedro Albuquerque" creationdate="20210420T173131Z">
+        <seg>A carregar os glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173118Z" creationid="Pedro Albuquerque" creationdate="20210420T173118Z">
+        <seg>A carregar o projecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2148,6 +2196,18 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
         <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173324Z" creationid="Pedro Albuquerque" creationdate="20210420T173324Z">
+        <seg>Por favor, consulte a documentação sobre as suas opções de recuperação e
+devolva as informações abaixo ao programador com
+uma descrição de como este erro foi produzido.</seg>
       </tuv>
     </tu>
     <tu>
