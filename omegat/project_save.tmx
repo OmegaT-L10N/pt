@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130213Z" creationid="Pedro Albuquerque" creationdate="20210420T130213Z">
+        <seg>&amp;Ir para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123124Z" creationid="Pedro Albuquerque" creationdate="20210420T123124Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130221Z" creationid="Pedro Albuquerque" creationdate="20210420T130221Z">
+        <seg>Segmento segui&amp;nte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122919Z" creationid="Pedro Albuquerque" creationdate="20210420T122919Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124701Z" creationid="Pedro Albuquerque" creationdate="20210420T124701Z">
         <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130320Z" creationid="Pedro Albuquerque" creationdate="20210420T130320Z">
+        <seg>Segmento &amp;anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,10 +776,42 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130125Z" creationid="Pedro Albuquerque" creationdate="20210420T130125Z">
+        <seg>Incorporar da esquerda para a direita (IED U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130034Z" creationid="Pedro Albuquerque" creationdate="20210420T130034Z">
         <seg>Marca da esquerda para a direita (MED U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130311Z" creationid="Pedro Albuquerque" creationdate="20210420T130311Z">
+        <seg>Segmento &amp;traduzido seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130253Z" creationid="Pedro Albuquerque" creationdate="20210420T130253Z">
+        <seg>Segmento por traduzir seg&amp;uinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130228Z" creationid="Pedro Albuquerque" creationdate="20210420T130228Z">
+        <seg>N&amp;ota seguinte</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,6 +912,22 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130208Z" creationid="Pedro Albuquerque" creationdate="20210420T130208Z">
+        <seg>Fim de formato direccional (FFD U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130336Z" creationid="Pedro Albuquerque" creationdate="20210420T130336Z">
+        <seg>No&amp;ta anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125135Z" creationid="Pedro Albuquerque" creationdate="20210420T125135Z">
@@ -932,6 +1004,22 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
         <seg>Restaurar prede&amp;finições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130147Z" creationid="Pedro Albuquerque" creationdate="20210420T130147Z">
+        <seg>Incorporar da direita para a esquerda (IDE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130058Z" creationid="Pedro Albuquerque" creationdate="20210420T130058Z">
+        <seg>Marca da direita para a esquerda (MDE U+200F)</seg>
       </tuv>
     </tu>
     <tu>
