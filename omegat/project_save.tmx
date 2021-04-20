@@ -884,6 +884,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173744Z" creationid="Pedro Albuquerque" creationdate="20210420T173744Z">
+        <seg>Impossível aceder à pasta do glossário!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173804Z" creationid="Pedro Albuquerque" creationdate="20210420T173804Z">
+        <seg>Impossível criar pasta para os ficheiros traduzidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
@@ -1272,10 +1288,26 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173949Z" creationid="Pedro Albuquerque" creationdate="20210420T173949Z">
+        <seg>Erro ao monitorizar o comando externo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173145Z" creationid="Pedro Albuquerque" creationdate="20210420T173145Z">
         <seg>Erro ao gravar o ficheiro do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173838Z" creationid="Pedro Albuquerque" creationdate="20210420T173838Z">
+        <seg>Erro ao iniciar comando externo: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,6 +1320,54 @@ Gossamer threads hold you back
         <seg>Excitante página de ajuda
 Os fios de Gossamer retêm-nos
 404 não encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173824Z" creationid="Pedro Albuquerque" creationdate="20210420T173824Z">
+        <seg>A executar comando externo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173911Z" creationid="Pedro Albuquerque" creationdate="20210420T173911Z">
+        <seg>Código de saída {0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173853Z" creationid="Pedro Albuquerque" creationdate="20210420T173853Z">
+        <seg>Código de saída: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173846Z" creationid="Pedro Albuquerque" creationdate="20210420T173846Z">
+        <seg>Comando externo concluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173920Z" creationid="Pedro Albuquerque" creationdate="20210420T173920Z">
+        <seg>Falha no comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173936Z" creationid="Pedro Albuquerque" creationdate="20210420T173936Z">
+        <seg>O comando externo foi interrompido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2216,6 +2296,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173812Z" creationid="Pedro Albuquerque" creationdate="20210420T173812Z">
+        <seg>Segmentos orfãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170736Z" creationid="Pedro Albuquerque" creationdate="20210420T170433Z">
@@ -2340,6 +2428,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171714Z" creationid="Pedro Albuquerque" creationdate="20210420T171714Z">
         <seg>Ficheiros do projecto ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173958Z" creationid="Pedro Albuquerque" creationdate="20210420T173958Z">
+        <seg>Estatísticas do projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,6 +2936,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172217Z" creationid="Pedro Albuquerque" creationdate="20210420T172217Z">
         <seg>Número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173959Z" creationid="Pedro Albuquerque" creationdate="20210420T173959Z">
+        <seg>Total:</seg>
       </tuv>
     </tu>
     <tu>
