@@ -6,6 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121303Z" creationid="Pedro Albuquerque" creationdate="20210420T121303Z">
+        <seg>--config-file=&lt;path&gt;
+		Um ficheiro Java .properties de onde carregar as predefinições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121216Z" creationid="Pedro Albuquerque" creationdate="20210420T121216Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Especificar um modo diferente da predefinição (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -56,6 +76,14 @@
 	Só caminho de projecto: iniciar o GUI e carregar o projecto de equipa
 	especificado
 		Ferramenta de projecto de trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121231Z" creationid="Pedro Albuquerque" creationdate="20210420T121231Z">
+        <seg>Veja os detalhes abaixo.</seg>
       </tuv>
     </tu>
     <tu>
