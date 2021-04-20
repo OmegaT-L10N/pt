@@ -2548,6 +2548,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174357Z" creationid="Pedro Albuquerque" creationdate="20210420T174357Z">
+        <seg>Caracteres restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174245Z" creationid="Pedro Albuquerque" creationdate="20210420T174245Z">
@@ -3004,6 +3012,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174337Z" creationid="Pedro Albuquerque" creationdate="20210420T174337Z">
+        <seg>Total de caracteres (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174229Z" creationid="Pedro Albuquerque" creationdate="20210420T174229Z">
@@ -3092,10 +3108,34 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174408Z" creationid="Pedro Albuquerque" creationdate="20210420T174408Z">
+        <seg>Caracteres únicos (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174304Z" creationid="Pedro Albuquerque" creationdate="20210420T174304Z">
         <seg>Caracteres únicos (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174421Z" creationid="Pedro Albuquerque" creationdate="20210420T174421Z">
+        <seg>Caracteres únicos restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174320Z" creationid="Pedro Albuquerque" creationdate="20210420T174320Z">
+        <seg>Caracteres únicos restantes (sem espaços)</seg>
       </tuv>
     </tu>
     <tu>
