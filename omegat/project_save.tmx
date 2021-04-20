@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170825Z" creationid="Pedro Albuquerque" creationdate="20210420T170825Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -1084,6 +1092,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170836Z" creationid="Pedro Albuquerque" creationdate="20210420T170836Z">
+        <seg>Deseja realmente sair?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
@@ -1290,6 +1306,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125600Z" creationid="Pedro Albuquerque" creationdate="20210420T125600Z">
         <seg>I&amp;nserir fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170822Z" creationid="Pedro Albuquerque" creationdate="20210420T170822Z">
+        <seg>INS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,6 +1720,14 @@ como a pasta Aplicações.</seg>
         <seg>Opções para modo não-GUI:
 	--quiet
 		Reduzir a saída a stdout na linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170820Z" creationid="Pedro Albuquerque" creationdate="20210420T170820Z">
+        <seg>SOB</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,6 +2256,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170900Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
+        <seg>Tamanhos de fonte/tradução (caracteres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165202Z" creationid="Pedro Albuquerque" creationdate="20210420T165202Z">
@@ -2316,6 +2356,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Para utilizar este script, abra um terminal
 (consola), mude para a pasta que contém o OmegaT.jar e o
 linux-install.sh, e execute com ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170815Z" creationid="Pedro Albuquerque" creationdate="20210420T170815Z">
+        <seg>DBLQ</seg>
       </tuv>
     </tu>
     <tu>
