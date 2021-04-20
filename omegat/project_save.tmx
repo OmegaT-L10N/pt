@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175148Z" creationid="Pedro Albuquerque" creationdate="20210420T175148Z">
+        <seg>Idima dos ficheiro&amp;s-fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152929Z" creationid="Pedro Albuquerque" creationdate="20210420T152929Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152837Z" creationid="Pedro Albuquerque" creationdate="20210420T152837Z">
         <seg>Ferramen&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175149Z" creationid="Pedro Albuquerque" creationdate="20210420T175149Z">
+        <seg>&amp;Translated Files Language:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1710,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175055Z" creationid="Pedro Albuquerque" creationdate="20210420T175055Z">
+        <seg>Pasta dos glossários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170303Z" creationid="Pedro Albuquerque" creationdate="20210420T170303Z">
@@ -1779,8 +1803,8 @@ o caminho completo.)</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161948Z" creationid="Pedro Albuquerque" creationdate="20210420T161948Z">
-        <seg>Se pode ver o ficheiro OmegaT mas não o OmegaT.exe no seu gestor de ficheiros (Windows
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175405Z" creationid="Pedro Albuquerque" creationdate="20210420T161948Z">
+        <seg>Se pode ver o ficheiro OmegaT, mas não o OmegaT.exe no seu gestor de ficheiros (Windows
 Explorer), altere as definições para que as extensões dos ficheiros sejam mostradas.</seg>
       </tuv>
     </tu>
@@ -2241,9 +2265,9 @@ Perdida para o paraíso</seg>
         <seg>Move the folder to an appropriate location such
 as the Applications folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161129Z" creationid="Pedro Albuquerque" creationdate="20210420T161110Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175336Z" creationid="Pedro Albuquerque" creationdate="20210420T161110Z">
         <seg>Deslocar a pasta para um local apropriado, tal como
-como a pasta Aplicações.</seg>
+a pasta Aplicações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3300,6 +3324,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175125Z" creationid="Pedro Albuquerque" creationdate="20210420T175125Z">
+        <seg>Pasta da memória de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
@@ -3556,6 +3588,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174005Z" creationid="Pedro Albuquerque" creationdate="20210420T174005Z">
         <seg>Palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175114Z" creationid="Pedro Albuquerque" creationdate="20210420T175114Z">
+        <seg>Ficheiro de glossário editável:</seg>
       </tuv>
     </tu>
     <tu>
