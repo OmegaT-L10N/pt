@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164322Z" creationid="Pedro Albuquerque" creationdate="20210420T164322Z">
+        <seg>&amp;Ignorar correspondências com maiúsculas diferentes (e.g. HÁ vs há)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123124Z" creationid="Pedro Albuquerque" creationdate="20210420T123124Z">
@@ -982,6 +990,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164342Z" creationid="Pedro Albuquerque" creationdate="20210420T164342Z">
+        <seg>Disposição do g&amp;lossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125600Z" creationid="Pedro Albuquerque" creationdate="20210420T125600Z">
@@ -1588,6 +1604,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125719Z" creationid="Pedro Albuquerque" creationdate="20210420T125719Z">
         <seg>Remover tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164246Z" creationid="Pedro Albuquerque" creationdate="20210420T164246Z">
+        <seg>Substituir correspondências do &amp;glossário ao inserir o texto-fonte</seg>
       </tuv>
     </tu>
     <tu>
