@@ -726,6 +726,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162819Z" creationid="Pedro Albuquerque" creationdate="20210420T162819Z">
+        <seg>Contribuintes
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124747Z" creationid="Pedro Albuquerque" creationdate="20210420T124747Z">
@@ -1266,6 +1276,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
 (à sua escolha) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162822Z" creationid="Pedro Albuquerque" creationdate="20210420T162822Z">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
