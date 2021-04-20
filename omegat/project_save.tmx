@@ -6,12 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121700Z" creationid="Pedro Albuquerque" creationdate="20210420T121700Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		tokenizer de idioma fonte- ou alvo a usar (sobrepõe-se às
+		definições do projecto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121303Z" creationid="Pedro Albuquerque" creationdate="20210420T121303Z">
         <seg>--config-file=&lt;path&gt;
 		Um ficheiro Java .properties de onde carregar as predefinições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121527Z" creationid="Pedro Albuquerque" creationdate="20210420T121527Z">
+        <seg>--disable-location-save
+		Não lembrar a última pasta aberta pelo selector de ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121457Z" creationid="Pedro Albuquerque" creationdate="20210420T121457Z">
+        <seg>--disable-project-locking
+		Não tentar bloquear o ficheiros de projecto omegat.project file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +60,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121546Z" creationid="Pedro Albuquerque" creationdate="20210420T121546Z">
+        <seg>--no-team
+		Desactivar a funcionalidade de trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -34,6 +78,20 @@
         <seg>--remote-project
 		Transferir um ficheiro omegat.project do URL dado em &lt;caminho do 
 		projecto&gt; e carregar o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121428Z" creationid="Pedro Albuquerque" creationdate="20210420T121428Z">
+        <seg>--resource-bundle=&lt;path&gt;
+		Um ficheiro Java .properties a usar para texto do ambiente
+	--config-dir=&lt;path&gt;
+		A pasta onde ler/escrever os ficheiros de configuração do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
