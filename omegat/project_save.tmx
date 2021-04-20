@@ -1816,6 +1816,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165804Z" creationid="Pedro Albuquerque" creationdate="20210420T165804Z">
+        <seg>Reabrir o projecto agora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164246Z" creationid="Pedro Albuquerque" creationdate="20210420T164246Z">
