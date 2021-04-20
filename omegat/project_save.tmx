@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130420Z" creationid="Pedro Albuquerque" creationdate="20210420T130420Z">
+        <seg>&amp;Recuar no histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122927Z" creationid="Pedro Albuquerque" creationdate="20210420T122927Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123141Z" creationid="Pedro Albuquerque" creationdate="20210420T123141Z">
         <seg>&amp;Terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130407Z" creationid="Pedro Albuquerque" creationdate="20210420T130407Z">
+        <seg>&amp;Avançar no histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125423Z" creationid="Pedro Albuquerque" creationdate="20210420T125423Z">
         <seg>&amp;Procurar no projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130357Z" creationid="Pedro Albuquerque" creationdate="20210420T130357Z">
+        <seg>&amp;Segmento número...</seg>
       </tuv>
     </tu>
     <tu>
