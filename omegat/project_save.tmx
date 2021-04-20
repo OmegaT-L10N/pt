@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125156Z" creationid="Pedro Albuquerque" creationdate="20210420T125156Z">
+        <seg>&amp;Aceder ao conteúdo do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123036Z" creationid="Pedro Albuquerque" creationdate="20210420T123036Z">
@@ -46,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125309Z" creationid="Pedro Albuquerque" creationdate="20210420T125309Z">
+        <seg>Documento-fonte a&amp;ctual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125208Z" creationid="Pedro Albuquerque" creationdate="20210420T125208Z">
+        <seg>&amp;Dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125345Z" creationid="Pedro Albuquerque" creationdate="20210420T125345Z">
+        <seg>&amp;Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123032Z" creationid="Pedro Albuquerque" creationdate="20210420T123032Z">
@@ -66,6 +98,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123141Z" creationid="Pedro Albuquerque" creationdate="20210420T123141Z">
         <seg>&amp;Terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125213Z" creationid="Pedro Albuquerque" creationdate="20210420T125213Z">
+        <seg>&amp;Glossários</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125342Z" creationid="Pedro Albuquerque" creationdate="20210420T125342Z">
+        <seg>&amp;Sair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125413Z" creationid="Pedro Albuquerque" creationdate="20210420T125413Z">
+        <seg>&amp;Refazer a última acção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reload</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124910Z" creationid="Pedro Albuquerque" creationdate="20210420T124910Z">
@@ -158,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125201Z" creationid="Pedro Albuquerque" creationdate="20210420T125201Z">
+        <seg>&amp;Raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125002Z" creationid="Pedro Albuquerque" creationdate="20210420T125002Z">
@@ -182,10 +246,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125423Z" creationid="Pedro Albuquerque" creationdate="20210420T125423Z">
+        <seg>&amp;Procurar no projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123128Z" creationid="Pedro Albuquerque" creationdate="20210420T123128Z">
         <seg>&amp;Saltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125240Z" creationid="Pedro Albuquerque" creationdate="20210420T125240Z">
+        <seg>Ficheiro&amp;s-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125254Z" creationid="Pedro Albuquerque" creationdate="20210420T125254Z">
+        <seg>Ficheiros-al&amp;vo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125404Z" creationid="Pedro Albuquerque" creationdate="20210420T125404Z">
+        <seg>&amp;Desfazer a última acção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125339Z" creationid="Pedro Albuquerque" creationdate="20210420T125339Z">
+        <seg>Glossário editá&amp;vel</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +466,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121936Z" creationid="Pedro Albuquerque" creationdate="20210420T121936Z">
         <seg>Abort: sair com erro se as etiquetas forem inválidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125323Z" creationid="Pedro Albuquerque" creationdate="20210420T125323Z">
+        <seg>Documento-alvo a&amp;ctual</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,6 +832,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125430Z" creationid="Pedro Albuquerque" creationdate="20210420T125430Z">
+        <seg>Procurar e substituir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
@@ -764,6 +884,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123007Z" creationid="Pedro Albuquerque" creationdate="20210420T123007Z">
         <seg>Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125230Z" creationid="Pedro Albuquerque" creationdate="20210420T125230Z">
+        <seg>&amp;Memórias de tradução</seg>
       </tuv>
     </tu>
     <tu>
