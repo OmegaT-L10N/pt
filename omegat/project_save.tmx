@@ -822,6 +822,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161623Z" creationid="Pedro Albuquerque" creationdate="20210420T161623Z">
+        <seg>Para tal, transfira o seguinte ficheiro e execute-o:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125600Z" creationid="Pedro Albuquerque" creationdate="20210420T125600Z">
@@ -843,9 +851,19 @@ A definição actual é {0}MB;</seg>
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161432Z" creationid="Pedro Albuquerque" creationdate="20210420T161432Z">
-        <seg>If you have already Java installed on your system, one way to install OmegaT is
-to use Java Web Start.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161548Z" creationid="Pedro Albuquerque" creationdate="20210420T161432Z">
+        <seg>Se já tem o Java instalado no seu sistema, uma forma de instalar o OmegaT é
+usar o Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161806Z" creationid="Pedro Albuquerque" creationdate="20210420T161806Z">
+        <seg>Se, durante a instalação, tiver criado um atalho no ambiente de trabalho,
+faça duplo clique nesse atalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,10 +972,38 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161702Z" creationid="Pedro Albuquerque" creationdate="20210420T161702Z">
+        <seg>Isto instala o ambiente correcto para o seu computador e a aplicação
+na primeira execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161715Z" creationid="Pedro Albuquerque" creationdate="20210420T161715Z">
+        <seg>As chamadas posteriores não precisam de estar em linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161019Z" creationid="Pedro Albuquerque" creationdate="20210420T161019Z">
         <seg>Iniciar o programa de instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161726Z" creationid="Pedro Albuquerque" creationdate="20210420T161726Z">
+        <seg>Iniciar o OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,6 +1710,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124202Z" creationid="Pedro Albuquerque" creationdate="20210420T124202Z">
         <seg>O seu projecto não contém quaisquer ficheiros em formatos suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161625Z" creationid="Pedro Albuquerque" creationdate="20210420T161625Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
