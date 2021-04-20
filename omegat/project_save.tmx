@@ -480,6 +480,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124523Z" creationid="Pedro Albuquerque" creationdate="20210420T124344Z">
+        <seg>O projecto está vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123019Z" creationid="Pedro Albuquerque" creationdate="20210420T123019Z">
@@ -560,6 +568,22 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124513Z" creationid="Pedro Albuquerque" creationdate="20210420T124343Z">
+        <seg>Para adicionar ficheiros ao projecto pode
+- arrastar e largar ficheiros neste painel do editor
+- usar Projecto &gt; Copiar ficheiros para a pasta-fonte...
+- clicar em Copiar ficheiros para a pasta-fonte... na janela Ficheiros do projecto
+- copiar ficheiros para a pasta "source" com o seu gestor de ficheiros e recarregar o projecto clicando em Projecto &gt; Recarregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115438Z" creationid="Pedro Albuquerque" creationdate="20210420T115415Z">
@@ -580,6 +604,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122008Z" creationid="Pedro Albuquerque" creationdate="20210420T122008Z">
         <seg>Warn: relatar etiquetas inválidas em stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124526Z" creationid="Pedro Albuquerque" creationdate="20210420T124526Z">
+        <seg>Aviso</seg>
       </tuv>
     </tu>
     <tu>
