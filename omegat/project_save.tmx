@@ -1036,6 +1036,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170417Z" creationid="Pedro Albuquerque" creationdate="20210420T170417Z">
+        <seg>Cursor bloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170424Z" creationid="Pedro Albuquerque" creationdate="20210420T170424Z">
+        <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164415Z" creationid="Pedro Albuquerque" creationdate="20210420T164415Z">
@@ -1366,6 +1382,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125640Z" creationid="Pedro Albuquerque" creationdate="20210420T125640Z">
         <seg>Inserir etique&amp;tas-fonte em falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170440Z" creationid="Pedro Albuquerque" creationdate="20210420T170440Z">
+        <seg>Insert Mode</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,6 +1812,14 @@ instalado no seu sistema.</seg>
 	Só caminho de projecto: iniciar o GUI e carregar o projecto de equipa
 	especificado
 		Ferramenta de projecto de trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170433Z" creationid="Pedro Albuquerque" creationdate="20210420T170433Z">
+        <seg>Modo de sobrescrição</seg>
       </tuv>
     </tu>
     <tu>
