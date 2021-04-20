@@ -110,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125106Z" creationid="Pedro Albuquerque" creationdate="20210420T125106Z">
+        <seg>&amp;Propriedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124910Z" creationid="Pedro Albuquerque" creationdate="20210420T124910Z">
+        <seg>&amp;Recarregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123015Z" creationid="Pedro Albuquerque" creationdate="20210420T123015Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123137Z" creationid="Pedro Albuquerque" creationdate="20210420T123137Z">
         <seg>Substitui&amp;r seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125002Z" creationid="Pedro Albuquerque" creationdate="20210420T125002Z">
+        <seg>&amp;Gravar</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +378,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124954Z" creationid="Pedro Albuquerque" creationdate="20210420T124941Z">
+        <seg>Enviar ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124951Z" creationid="Pedro Albuquerque" creationdate="20210420T124951Z">
+        <seg>Enviar ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123200Z" creationid="Pedro Albuquerque" creationdate="20210420T123200Z">
@@ -414,6 +454,30 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125025Z" creationid="Pedro Albuquerque" creationdate="20210420T125025Z">
+        <seg>Criar documentos &amp;traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125035Z" creationid="Pedro Albuquerque" creationdate="20210420T125035Z">
+        <seg>Criar documento &amp;traduzido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125055Z" creationid="Pedro Albuquerque" creationdate="20210420T125055Z">
+        <seg>Criar projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123738Z" creationid="Pedro Albuquerque" creationdate="20210420T123738Z">
@@ -454,12 +518,36 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125121Z" creationid="Pedro Albuquerque" creationdate="20210420T125121Z">
+        <seg>&amp;Filtros de ficheiros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124857Z" creationid="Pedro Albuquerque" creationdate="20210420T124857Z">
+        <seg>Falha ao copiar o ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122748Z" creationid="Pedro Albuquerque" creationdate="20210420T122748Z">
         <seg>Se chamado numa árvore de trabalho git ou svn checkout, os resultados
 		serão estagiados/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
+        <seg>Falha ao importar a página Wiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -532,6 +620,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125045Z" creationid="Pedro Albuquerque" creationdate="20210420T125045Z">
+        <seg>Abrir projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124711Z" creationid="Pedro Albuquerque" creationdate="20210420T124711Z">
@@ -572,6 +668,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124835Z" creationid="Pedro Albuquerque" creationdate="20210420T124835Z">
         <seg>Por favor, insira ou cole o URL da página mediawiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125135Z" creationid="Pedro Albuquerque" creationdate="20210420T125135Z">
+        <seg>&amp;Ficheiros de projecto...</seg>
       </tuv>
     </tu>
     <tu>
