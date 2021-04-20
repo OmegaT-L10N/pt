@@ -569,9 +569,9 @@
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163231Z" creationid="Pedro Albuquerque" creationdate="20210420T163231Z">
-        <seg>(se pensa ter contribuído significativamente para o projecto OmegaT mas
-(não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175601Z" creationid="Pedro Albuquerque" creationdate="20210420T163231Z">
+        <seg>(se pensa ter contribuído significativamente para o projecto OmegaT, mas
+não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,9 +1782,8 @@ O seu Inverno chegou</seg>
 Java is installed at system level and is in the command path, the full path need
 not be entered.)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162649Z" creationid="Pedro Albuquerque" creationdate="20210420T162649Z">
-        <seg>Se o 
-Java está instalado ao nível do sistema e está no caminho de comando, não precisa de introduzir 
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175507Z" creationid="Pedro Albuquerque" creationdate="20210420T162649Z">
+        <seg>Se o Java está instalado ao nível do sistema e está no caminho de comando, não precisa de introduzir
 o caminho completo.)</seg>
       </tuv>
     </tu>
