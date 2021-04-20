@@ -1320,6 +1320,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180349Z" creationid="Pedro Albuquerque" creationdate="20210420T180349Z">
+        <seg>Transfira o ficheiro - deverá ser um arquivo &lt;f0&gt;tarball&lt;/f0&gt; (extensão &lt;e1&gt;tar.bz&lt;/e1&gt; ou &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173122Z" creationid="Pedro Albuquerque" creationdate="20210420T173111Z">
@@ -3219,6 +3227,14 @@ na área de início rápido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180524Z" creationid="Pedro Albuquerque" creationdate="20210420T180524Z">
+        <seg>Deverá haver três ficheiros, com as extensões &lt;e1&gt;dz, idx &lt;/e1&gt;e &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -3545,6 +3561,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163547Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
         <seg>Usar termos que &amp;aparecem separadamente no texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180501Z" creationid="Pedro Albuquerque" creationdate="20210420T180501Z">
+        <seg>Use o utilitário untar (ou equivalente, por exemplo, o &lt;f0&gt; winrar&lt;/f0&gt; em Windows) para extrair o conteúdo para a pasta de projecto "Dictionary".</seg>
       </tuv>
     </tu>
     <tu>
