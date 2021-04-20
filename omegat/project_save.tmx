@@ -860,10 +860,10 @@ A definição actual é {0}MB;</seg>
 Your page cannot be found, boy
 Buy another drink</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172449Z" creationid="Pedro Albuquerque" creationdate="20210420T172449Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172644Z" creationid="Pedro Albuquerque" creationdate="20210420T172449Z">
         <seg>O empregado grita alto:
-A tua página não pode ser encontrada, rapaz
-Compra outra bebida</seg>
+A sua página não foi encontrada,
+Compre outra bebida</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,6 +2072,18 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172506Z" creationid="Pedro Albuquerque" creationdate="20210420T172506Z">
+        <seg>A página desliza pelos dedos
+Pulso a bater forte e frenético
+Desaparecendo como névoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -2544,6 +2556,18 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172810Z" creationid="Pedro Albuquerque" creationdate="20210420T172607Z">
+        <seg>A página de ajuda que procura
+Fica para além da nossa percepção,
+Mas outros esperam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
@@ -2568,6 +2592,18 @@ na área de início rápido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163257Z" creationid="Pedro Albuquerque" creationdate="20210420T163257Z">
         <seg>A informação mais actual sobre o OmegaT pode ser encontrada em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172711Z" creationid="Pedro Albuquerque" creationdate="20210420T172538Z">
+        <seg>Estes três são certos:
+Morte, impostos, e página não encontrada
+Você foi vítima de um deles</seg>
       </tuv>
     </tu>
     <tu>
