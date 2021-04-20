@@ -840,6 +840,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161432Z" creationid="Pedro Albuquerque" creationdate="20210420T161432Z">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
