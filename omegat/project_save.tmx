@@ -888,12 +888,32 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161134Z" creationid="Pedro Albuquerque" creationdate="20210420T161113Z">
+        <seg>Instalar o OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161027Z" creationid="Pedro Albuquerque" creationdate="20210420T161027Z">
         <seg>Instalar o OmegaT (Mac)
 =======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161357Z" creationid="Pedro Albuquerque" creationdate="20210420T161357Z">
+        <seg>Instalar o OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1018,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161129Z" creationid="Pedro Albuquerque" creationdate="20210420T161110Z">
+        <seg>Deslocar a pasta para um local apropriado, tal como
+como a pasta Aplicações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130311Z" creationid="Pedro Albuquerque" creationdate="20210420T130311Z">
@@ -1082,6 +1112,16 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161234Z" creationid="Pedro Albuquerque" creationdate="20210420T161234Z">
+        <seg>O OmegaT está pronto para
+ser iniciado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
@@ -1156,6 +1196,14 @@ everything.</seg>
         <seg>Colocar ficheiros-fonte em ./source e material
 suplementar em ./tm, ./glossary e ./dictionary como necessário, e depois
 submeter tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
+        <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,6 +1524,18 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161351Z" creationid="Pedro Albuquerque" creationdate="20210420T161351Z">
+        <seg>Para utilizar este script, abra um terminal
+(consola), mude para a pasta que contém o OmegaT.jar e o
+linux-install.sh, e execute com ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
@@ -1514,6 +1574,16 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153242Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
         <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
+        <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1628,16 @@ de o seleccionar, obter e instalar.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160748Z" creationid="Pedro Albuquerque" creationdate="20210420T160748Z">
         <seg>Pode encontrar o texto da licença em
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161304Z" creationid="Pedro Albuquerque" creationdate="20210420T161304Z">
+        <seg>No entanto, pode obter uma instalação mais limpa e mais fácil de utilizar, utilizando o
+script de instalação (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
