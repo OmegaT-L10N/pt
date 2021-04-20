@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165506Z" creationid="Pedro Albuquerque" creationdate="20210420T165302Z">
+        <seg>Activar conclusão do &amp;histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122941Z" creationid="Pedro Albuquerque" creationdate="20210420T122941Z">
@@ -744,6 +752,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165235Z" creationid="Pedro Albuquerque" creationdate="20210420T165235Z">
+        <seg>Conclusão automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163412Z" creationid="Pedro Albuquerque" creationdate="20210420T163412Z">
@@ -1058,6 +1074,22 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164342Z" creationid="Pedro Albuquerque" creationdate="20210420T164342Z">
         <seg>Disposição do g&amp;lossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165249Z" creationid="Pedro Albuquerque" creationdate="20210420T165249Z">
+        <seg>Conclusão do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165258Z" creationid="Pedro Albuquerque" creationdate="20210420T165258Z">
+        <seg>Previsão do histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -1884,6 +1916,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152804Z" creationid="Pedro Albuquerque" creationdate="20210420T152804Z">
         <seg>Fonte da &amp;correspondência seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165202Z" creationid="Pedro Albuquerque" creationdate="20210420T165202Z">
+        <seg>Mudar de vistas com {0} e {1}</seg>
       </tuv>
     </tu>
     <tu>
