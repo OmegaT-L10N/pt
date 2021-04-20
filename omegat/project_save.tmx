@@ -1012,6 +1012,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180959Z" creationid="Pedro Albuquerque" creationdate="20210420T180959Z">
+        <seg>Verificar em &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Propriedades&lt;/g5&gt; &lt;g6&gt;do projecto&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180911Z" creationid="Pedro Albuquerque" creationdate="20210420T180911Z">
+        <seg>Assegure-se de que os seus ficheiros de dicionário se encontram na pasta correcta (ou numa sub-pasta dela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172003Z" creationid="Pedro Albuquerque" creationdate="20210420T172003Z">
@@ -1284,6 +1300,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170836Z" creationid="Pedro Albuquerque" creationdate="20210420T170836Z">
         <seg>Deseja realmente sair?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181018Z" creationid="Pedro Albuquerque" creationdate="20210420T181018Z">
+        <seg>A pasta contém três ficheiros com o mesmo nome, com extensões?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1742,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181112Z" creationid="Pedro Albuquerque" creationdate="20210420T181112Z">
+        <seg>Glossaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164401Z" creationid="Pedro Albuquerque" creationdate="20210420T164401Z">
@@ -1827,6 +1859,22 @@ o caminho completo.)</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122748Z" creationid="Pedro Albuquerque" creationdate="20210420T122748Z">
         <seg>Se chamado numa árvore de trabalho git ou svn checkout, os resultados
 		serão estagiados/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181106Z" creationid="Pedro Albuquerque" creationdate="20210420T181106Z">
+        <seg>Se for &lt;e0&gt;tar.bz&lt;/e0&gt;, esqueceu-se de o desempacotar (untar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181039Z" creationid="Pedro Albuquerque" creationdate="20210420T181039Z">
+        <seg>Se só um ficheiro estiver presente, verifique a sua extensão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2691,6 +2739,14 @@ uma descrição de como este erro foi produzido.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163053Z" creationid="Pedro Albuquerque" creationdate="20210420T163053Z">
         <seg>Os colaboradores anteriores incluem:
 (ordem alfabética)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180831Z" creationid="Pedro Albuquerque" creationdate="20210420T180831Z">
+        <seg>Problemas com dicionários</seg>
       </tuv>
     </tu>
     <tu>
