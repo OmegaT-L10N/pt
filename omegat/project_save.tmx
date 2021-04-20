@@ -766,6 +766,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
+        <seg>Faça duplo clique na aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124657Z" creationid="Pedro Albuquerque" creationdate="20210420T124657Z">
@@ -844,6 +852,16 @@ A definição actual é {0}MB;</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122748Z" creationid="Pedro Albuquerque" creationdate="20210420T122748Z">
         <seg>Se chamado numa árvore de trabalho git ou svn checkout, os resultados
 		serão estagiados/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161948Z" creationid="Pedro Albuquerque" creationdate="20210420T161948Z">
+        <seg>Se pode ver o ficheiro OmegaT mas não o OmegaT.exe no seu gestor de ficheiros (Windows
+Explorer), altere as definições para que as extensões dos ficheiros sejam mostradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1012,16 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161019Z" creationid="Pedro Albuquerque" creationdate="20210420T161019Z">
         <seg>Iniciar o programa de instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161954Z" creationid="Pedro Albuquerque" creationdate="20210420T161954Z">
+        <seg>Iniciar o OmegaT (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1582,16 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161839Z" creationid="Pedro Albuquerque" creationdate="20210420T161839Z">
+        <seg>O instalador pode criar atalhos no menu Iniciar, no ambiente de trabalho e
+na área de início rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -1678,6 +1716,26 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162107Z" creationid="Pedro Albuquerque" creationdate="20210420T162107Z">
+        <seg>Pode também iniciá-lo a partir do
+campo de pesquisa Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
+        <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
+menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
@@ -1694,6 +1752,16 @@ installation script (linux-install.sh).</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161304Z" creationid="Pedro Albuquerque" creationdate="20210420T161304Z">
         <seg>No entanto, pode obter uma instalação mais limpa e mais fácil de utilizar, utilizando o
 script de instalação (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162038Z" creationid="Pedro Albuquerque" creationdate="20210420T162038Z">
+        <seg>Pode arrastar a aplicação OmegaT para a sua doca ou para a barra de ferramentas de um Finder
+para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
     </tu>
     <tu>
