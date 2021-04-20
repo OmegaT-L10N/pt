@@ -266,8 +266,22 @@
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123312Z" creationid="Pedro Albuquerque" creationdate="20210420T123312Z">
-        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123350Z" creationid="Pedro Albuquerque" creationdate="20210420T123312Z">
+        <seg>1) Reduza o número de ficheiros-fonte e traduza em lotes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123520Z" creationid="Pedro Albuquerque" creationdate="20210420T123520Z">
+        <seg>2) Aumente a memória disponível para o OmegaT, especificando
+"java -Xmx&lt;tamanho-em-MB&gt;M -jar OmegaT.jar" na linha de
+comandos ou no script de arranque do OmegaT;
+A definição actual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +384,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123555Z" creationid="Pedro Albuquerque" creationdate="20210420T123555Z">
+        <seg>Instalar e executar o OmegaT" no manual do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
@@ -402,6 +424,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
         <seg>OmegaT esgotou a memória e sairá quando clicar em Aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123607Z" creationid="Pedro Albuquerque" creationdate="20210420T123607Z">
+        <seg>O OmegaT vai agora terminar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +484,22 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
         <seg>Restaurar prede&amp;finições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123645Z" creationid="Pedro Albuquerque" creationdate="20210420T123645Z">
+        <seg>A executar no Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
+        <seg>Veja "Capítulo 3.</seg>
       </tuv>
     </tu>
     <tu>
