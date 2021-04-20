@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9fa0c2fcd" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115406Z" creationid="Pedro Albuquerque" creationdate="20210420T115406Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115636Z" creationid="Pedro Albuquerque" creationdate="20210420T115417Z">
+        <seg>Opções:
+	Nenhuma: iniciar o GUI
+	Só caminho de projecto: iniciar o GUI e carregar o projecto de equipa
+	especificado
+		Ferramenta de projecto de trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115438Z" creationid="Pedro Albuquerque" creationdate="20210420T115415Z">
+        <seg>Uso: java -jar OmegaT.jar [&lt;opções&gt;] [&lt;caminho do projecto&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115409Z" creationid="Pedro Albuquerque" creationdate="20210420T115409Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115409Z" creationid="Pedro Albuquerque" creationdate="20210420T115409Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115408Z" creationid="Pedro Albuquerque" creationdate="20210420T115408Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115408Z" creationid="Pedro Albuquerque" creationdate="20210420T115408Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115408Z" creationid="Pedro Albuquerque" creationdate="20210420T115408Z">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
