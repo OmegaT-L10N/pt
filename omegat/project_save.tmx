@@ -1898,10 +1898,18 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164207Z" creationid="Pedro Albuquerque" creationdate="20210420T163510Z">
+        <seg>Utilizar lematização para entrada&amp;s do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153242Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
-        <seg>Use terms &amp;appearing separately in the source text</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163547Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
+        <seg>Usar termos que &amp;aparecem separadamente no texto-fonte</seg>
       </tuv>
     </tu>
     <tu>
