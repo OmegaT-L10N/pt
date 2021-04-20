@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153024Z" creationid="Pedro Albuquerque" creationdate="20210420T153024Z">
+        <seg>&amp;Alinhar ficheiros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130420Z" creationid="Pedro Albuquerque" creationdate="20210420T130420Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153129Z" creationid="Pedro Albuquerque" creationdate="20210420T153129Z">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122941Z" creationid="Pedro Albuquerque" creationdate="20210420T122941Z">
@@ -150,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152956Z" creationid="Pedro Albuquerque" creationdate="20210420T152956Z">
+        <seg>Estatísticas de &amp;correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124638Z" creationid="Pedro Albuquerque" creationdate="20210420T124638Z">
@@ -178,6 +202,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124701Z" creationid="Pedro Albuquerque" creationdate="20210420T124701Z">
         <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153030Z" creationid="Pedro Albuquerque" creationdate="20210420T153030Z">
+        <seg>&amp;Opções</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153134Z" creationid="Pedro Albuquerque" creationdate="20210420T153134Z">
+        <seg>&amp;Segmentação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123128Z" creationid="Pedro Albuquerque" creationdate="20210420T123128Z">
@@ -322,6 +362,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125240Z" creationid="Pedro Albuquerque" creationdate="20210420T125240Z">
         <seg>Ficheiro&amp;s-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152929Z" creationid="Pedro Albuquerque" creationdate="20210420T152929Z">
+        <seg>E&amp;statísticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +594,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
         <seg>&amp;Procurar problemas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152922Z" creationid="Pedro Albuquerque" creationdate="20210420T152922Z">
+        <seg>Procurar problemas no &amp;documento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,6 +888,46 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
+        <seg>Tra&amp;dução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153127Z" creationid="Pedro Albuquerque" creationdate="20210420T153127Z">
+        <seg>Marcar delimitações de &amp;parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153102Z" creationid="Pedro Albuquerque" creationdate="20210420T153102Z">
+        <seg>Marcar segmentos &amp;traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153114Z" creationid="Pedro Albuquerque" creationdate="20210420T153114Z">
+        <seg>Marcar segmentos não-&amp;trad&amp;uzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153014Z" creationid="Pedro Albuquerque" creationdate="20210420T153001Z">
+        <seg>Estatísticas de correspondências por &amp;ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130311Z" creationid="Pedro Albuquerque" creationdate="20210420T130311Z">
@@ -1080,6 +1176,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153025Z" creationid="Pedro Albuquerque" creationdate="20210420T153025Z">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125430Z" creationid="Pedro Albuquerque" creationdate="20210420T125430Z">
@@ -1252,6 +1356,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122336Z" creationid="Pedro Albuquerque" creationdate="20210420T122336Z">
         <seg>Uso: java -jar OmegaT.jar team &lt;comando&gt; [&lt;opções&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153039Z" creationid="Pedro Albuquerque" creationdate="20210420T153039Z">
+        <seg>Usar &amp;TAB para avançar</seg>
       </tuv>
     </tu>
     <tu>
