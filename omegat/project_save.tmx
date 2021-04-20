@@ -96,6 +96,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121843Z" creationid="Pedro Albuquerque" creationdate="20210420T121843Z">
+        <seg>--script=&lt;path&gt;
+		Um script a executar em eventos do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121857Z" creationid="Pedro Albuquerque" creationdate="20210420T121857Z">
+        <seg>--tag-validation=[abort|warn]
+		Validar etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -110,6 +130,18 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
         <seg>Chamar "team -h" para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121812Z" creationid="Pedro Albuquerque" creationdate="20210420T121812Z">
+        <seg>Opções para modo não-GUI:
+	--quiet
+		Reduzir a saída a stdout na linha de comandos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +166,14 @@
 	Só caminho de projecto: iniciar o GUI e carregar o projecto de equipa
 	especificado
 		Ferramenta de projecto de trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121716Z" creationid="Pedro Albuquerque" creationdate="20210420T121716Z">
+        <seg>Veja OmegaT.jar/META-INF/MANIFEST.MF para valores válidos.</seg>
       </tuv>
     </tu>
     <tu>
