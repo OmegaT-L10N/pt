@@ -148,10 +148,10 @@
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122548Z" creationid="Pedro Albuquerque" creationdate="20210420T122548Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122607Z" creationid="Pedro Albuquerque" creationdate="20210420T122548Z">
         <seg>Comandos:
 	-h, --help
-		Show usage information.</seg>
+		Mostrar informação de utilização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188,6 +188,24 @@
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Uma lista de expressões regulares de ficheiros-fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122748Z" creationid="Pedro Albuquerque" creationdate="20210420T122748Z">
+        <seg>Se chamado numa árvore de trabalho git ou svn checkout, os resultados
+		serão estagiados/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122810Z" creationid="Pedro Albuquerque" creationdate="20210420T122810Z">
+        <seg>Projecto de equipa {0}-{1} inicializado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,6 +298,16 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122008Z" creationid="Pedro Albuquerque" creationdate="20210420T122008Z">
         <seg>Warn: relatar etiquetas inválidas em stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122656Z" creationid="Pedro Albuquerque" creationdate="20210420T122656Z">
+        <seg>init &lt;idioma-fonte&gt; &lt;idioma-alvo&gt;
+		Initializar um projecto de equipa mínimo com os idiomas especificados.</seg>
       </tuv>
     </tu>
     <tu>
