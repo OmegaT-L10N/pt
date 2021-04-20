@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165655Z" creationid="Pedro Albuquerque" creationdate="20210420T165655Z">
+        <seg>&amp;Acerca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125156Z" creationid="Pedro Albuquerque" creationdate="20210420T125156Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165549Z" creationid="Pedro Albuquerque" creationdate="20210420T165549Z">
+        <seg>Confirm&amp;ar sempre a saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165013Z" creationid="Pedro Albuquerque" creationdate="20210420T165013Z">
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122927Z" creationid="Pedro Albuquerque" creationdate="20210420T122927Z">
         <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165725Z" creationid="Pedro Albuquerque" creationdate="20210420T165725Z">
+        <seg>Pro&amp;curar actualizações...</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165640Z" creationid="Pedro Albuquerque" creationdate="20210420T165640Z">
+        <seg>A&amp;juda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164322Z" creationid="Pedro Albuquerque" creationdate="20210420T164322Z">
@@ -202,6 +234,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125452Z" creationid="Pedro Albuquerque" creationdate="20210420T125452Z">
         <seg>&amp;Inserir correspondência ou selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165706Z" creationid="Pedro Albuquerque" creationdate="20210420T165706Z">
+        <seg>Ú&amp;ltimas alterações...</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +290,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153030Z" creationid="Pedro Albuquerque" creationdate="20210420T153030Z">
         <seg>&amp;Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165633Z" creationid="Pedro Albuquerque" creationdate="20210420T165633Z">
+        <seg>&amp;Preferências...</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +378,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123137Z" creationid="Pedro Albuquerque" creationdate="20210420T123137Z">
         <seg>Substitui&amp;r seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165600Z" creationid="Pedro Albuquerque" creationdate="20210420T165600Z">
+        <seg>&amp;Restaurar janela principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +506,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125404Z" creationid="Pedro Albuquerque" creationdate="20210420T125404Z">
         <seg>&amp;Desfazer a última acção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165652Z" creationid="Pedro Albuquerque" creationdate="20210420T165652Z">
+        <seg>Manual do &amp;utilizador...</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,6 +808,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165621Z" creationid="Pedro Albuquerque" creationdate="20210420T165621Z">
+        <seg>Aceder à pasta de conf&amp;iguração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -1020,6 +1092,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165528Z" creationid="Pedro Albuquerque" creationdate="20210420T165528Z">
+        <seg>Activar &amp;previsão do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123157Z" creationid="Pedro Albuquerque" creationdate="20210420T123157Z">
@@ -1074,6 +1154,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164342Z" creationid="Pedro Albuquerque" creationdate="20210420T164342Z">
         <seg>Disposição do g&amp;lossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165534Z" creationid="Pedro Albuquerque" creationdate="20210420T165534Z">
+        <seg>Histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1254,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
         <seg>Falha ao importar a página Wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165752Z" creationid="Pedro Albuquerque" creationdate="20210420T165752Z">
+        <seg>Para que as alterações tenham efeito, o OmegaT tem de fechar e reabrir o projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,6 +1368,14 @@ itself on the first run.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161702Z" creationid="Pedro Albuquerque" creationdate="20210420T161702Z">
         <seg>Isto instala o ambiente correcto para o seu computador e a aplicação
 na primeira execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165715Z" creationid="Pedro Albuquerque" creationdate="20210420T165715Z">
+        <seg>Diári&amp;o...</seg>
       </tuv>
     </tu>
     <tu>
