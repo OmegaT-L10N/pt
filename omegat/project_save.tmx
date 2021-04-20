@@ -126,6 +126,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121936Z" creationid="Pedro Albuquerque" creationdate="20210420T121936Z">
+        <seg>Abort: sair com erro se as etiquetas forem inválidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122149Z" creationid="Pedro Albuquerque" creationdate="20210420T122149Z">
+        <seg>Modo console-pseudotranslatetmx:
+	--pseudotranslatetmx=&lt;path&gt;
+		O ficheiro TMX de saída pseudo-traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122104Z" creationid="Pedro Albuquerque" creationdate="20210420T122104Z">
+        <seg>Modo console-translate:
+	--source-pattern=&lt;pattern&gt;
+		Uma lista de expressões regulares de ficheiros-fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
@@ -190,6 +222,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115438Z" creationid="Pedro Albuquerque" creationdate="20210420T115415Z">
         <seg>Uso: java -jar OmegaT.jar [&lt;opções&gt;] [&lt;caminho do projecto&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122008Z" creationid="Pedro Albuquerque" creationdate="20210420T122008Z">
+        <seg>Warn: relatar etiquetas inválidas em stdout.</seg>
       </tuv>
     </tu>
     <tu>
