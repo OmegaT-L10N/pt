@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171513Z" creationid="Pedro Albuquerque" creationdate="20210420T171513Z">
+        <seg>&amp;Aplicar esta letra aos dados tabulares (ficheiros de projectos, estatísticas, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165013Z" creationid="Pedro Albuquerque" creationdate="20210420T165013Z">
@@ -1260,6 +1268,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171422Z" creationid="Pedro Albuquerque" creationdate="20210420T171422Z">
+        <seg>Letra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
@@ -1540,6 +1556,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171316Z" creationid="Pedro Albuquerque" creationdate="20210420T171316Z">
+        <seg>A saltar para o último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165715Z" creationid="Pedro Albuquerque" creationdate="20210420T165715Z">
@@ -1552,6 +1576,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170802Z" creationid="Pedro Albuquerque" creationdate="20210420T170713Z">
         <seg>BLQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171411Z" creationid="Pedro Albuquerque" creationdate="20210420T171411Z">
+        <seg>Última modificação por {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,6 +2136,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171450Z" creationid="Pedro Albuquerque" creationdate="20210420T171450Z">
+        <seg>Amostra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170407Z" creationid="Pedro Albuquerque" creationdate="20210420T170407Z">
@@ -2264,6 +2304,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171426Z" creationid="Pedro Albuquerque" creationdate="20210420T171426Z">
+        <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170201Z" creationid="Pedro Albuquerque" creationdate="20210420T170201Z">
@@ -2348,6 +2396,14 @@ na área de início rápido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171441Z" creationid="Pedro Albuquerque" creationdate="20210420T171441Z">
+        <seg>Este é o aspecto do texto quando mostrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
 - use Project &gt; Copy Files to Source Folder...
@@ -2380,6 +2436,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Para utilizar este script, abra um terminal
 (consola), mude para a pasta que contém o OmegaT.jar e o
 linux-install.sh, e execute com ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
+        <seg>Tradução modificada por {0} a {1} às {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2689,6 +2753,22 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162333Z" creationid="Pedro Albuquerque" creationdate="20210420T162333Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171326Z" creationid="Pedro Albuquerque" creationdate="20210420T171326Z">
+        <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171418Z" creationid="Pedro Albuquerque" creationdate="20210420T171418Z">
+        <seg>desconhecido</seg>
       </tuv>
     </tu>
     <tu>
