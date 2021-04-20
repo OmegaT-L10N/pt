@@ -1108,6 +1108,38 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170119Z" creationid="Pedro Albuquerque" creationdate="20210420T170119Z">
+        <seg>Falha ao submeter ficheiros-fonte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165953Z" creationid="Pedro Albuquerque" creationdate="20210420T165953Z">
+        <seg>Falha ao compilar os ficheiros do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165937Z" creationid="Pedro Albuquerque" creationdate="20210420T165937Z">
+        <seg>Falha ao carregar o projecto especificado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165921Z" creationid="Pedro Albuquerque" creationdate="20210420T165921Z">
+        <seg>Falha ao carregar a memória de tradução {0} para o projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125121Z" creationid="Pedro Albuquerque" creationdate="20210420T125121Z">
@@ -1358,6 +1390,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
         <seg>Chamar "team -h" para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170017Z" creationid="Pedro Albuquerque" creationdate="20210420T170017Z">
+        <seg>Não foi possível criar documentos traduzidos, porque algumas etiquetas estão em falta ou danificadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,6 +1744,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
         <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170100Z" creationid="Pedro Albuquerque" creationdate="20210420T170100Z">
+        <seg>Por favor, corrija os problemas de etiquetas antes de utilizar novamente Criar documentos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
