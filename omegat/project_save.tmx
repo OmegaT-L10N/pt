@@ -2947,6 +2947,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180307Z" creationid="Pedro Albuquerque" creationdate="20210420T180307Z">
+        <seg>Pesquise a combinação linguística necessária - por exemplo, nas &lt;u0&gt;ligações de dicionário dadas pela wiki do OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
@@ -3243,6 +3251,14 @@ Você foi vítima de um deles</seg>
 - usar Projecto &gt; Copiar ficheiros para a pasta-fonte...
 - clicar em Copiar ficheiros para a pasta-fonte... na janela Ficheiros do projecto
 - copiar ficheiros para a pasta "source" com o seu gestor de ficheiros e recarregar o projecto clicando em Projecto &gt; Recarregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
+        <seg>Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3792,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163347Z" creationid="Pedro Albuquerque" creationdate="20210420T163347Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175942Z" creationid="Pedro Albuquerque" creationdate="20210420T175942Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
