@@ -10,10 +10,10 @@
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120336Z" creationid="Pedro Albuquerque" creationdate="20210420T120336Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121144Z" creationid="Pedro Albuquerque" creationdate="20210420T120336Z">
         <seg>--remote-project
-		Download an omegat.project file from the URL given as &lt;project
-		path&gt; and load the project.</seg>
+		Transferir um ficheiro omegat.project do URL dado em &lt;caminho do 
+		projecto&gt; e carregar o projecto.</seg>
       </tuv>
     </tu>
     <tu>
