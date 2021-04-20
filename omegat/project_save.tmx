@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152837Z" creationid="Pedro Albuquerque" creationdate="20210420T152837Z">
+        <seg>Ferramen&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125404Z" creationid="Pedro Albuquerque" creationdate="20210420T125404Z">
@@ -530,6 +538,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125323Z" creationid="Pedro Albuquerque" creationdate="20210420T125323Z">
         <seg>Documento-alvo a&amp;ctual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
+        <seg>&amp;Procurar problemas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -836,6 +852,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130228Z" creationid="Pedro Albuquerque" creationdate="20210420T130228Z">
         <seg>N&amp;ota seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152828Z" creationid="Pedro Albuquerque" creationdate="20210420T152828Z">
+        <seg>Se&amp;gmento único seguinte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1180,6 +1204,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125727Z" creationid="Pedro Albuquerque" creationdate="20210420T125727Z">
         <seg>Definir tradução vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152804Z" creationid="Pedro Albuquerque" creationdate="20210420T152804Z">
+        <seg>Fonte da &amp;correspondência seleccionada</seg>
       </tuv>
     </tu>
     <tu>
