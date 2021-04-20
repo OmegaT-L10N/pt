@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124729Z" creationid="Pedro Albuquerque" creationdate="20210420T124729Z">
+        <seg>&amp;Limpar menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122937Z" creationid="Pedro Albuquerque" creationdate="20210420T122937Z">
@@ -70,10 +78,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124638Z" creationid="Pedro Albuquerque" creationdate="20210420T124638Z">
+        <seg>&amp;Novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122919Z" creationid="Pedro Albuquerque" creationdate="20210420T122919Z">
         <seg>&amp;Aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124701Z" creationid="Pedro Albuquerque" creationdate="20210420T124701Z">
+        <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124553Z" creationid="Pedro Albuquerque" creationdate="20210420T124553Z">
+        <seg>&amp;Projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +398,50 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124747Z" creationid="Pedro Albuquerque" creationdate="20210420T124747Z">
+        <seg>Cop&amp;iar ficheiros para a pasta-fonte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124752Z" creationid="Pedro Albuquerque" creationdate="20210420T124752Z">
+        <seg>Copiar ficheiros para a pasta-fonte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123738Z" creationid="Pedro Albuquerque" creationdate="20210420T123738Z">
         <seg>Memória actualmente em uso pela VM: {0}MB; da qual livre: {1}MB; máximo disponível: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124657Z" creationid="Pedro Albuquerque" creationdate="20210420T124657Z">
+        <seg>&amp;Transferir projecto de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124808Z" creationid="Pedro Albuquerque" creationdate="20210420T124808Z">
+        <seg>Transferir página Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124812Z" creationid="Pedro Albuquerque" creationdate="20210420T124812Z">
+        <seg>Transferir página MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -436,6 +508,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124550Z" creationid="Pedro Albuquerque" creationdate="20210420T124550Z">
+        <seg>O OmegaT escolheu "Sim" automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
@@ -448,6 +528,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123607Z" creationid="Pedro Albuquerque" creationdate="20210420T123607Z">
         <seg>O OmegaT vai agora terminar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124711Z" creationid="Pedro Albuquerque" creationdate="20210420T124711Z">
+        <seg>Abrir pro&amp;jecto recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,6 +564,14 @@ everything.</seg>
         <seg>Colocar ficheiros-fonte em ./source e material
 suplementar em ./tm, ./glossary e ./dictionary como necessário, e depois
 submeter tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124835Z" creationid="Pedro Albuquerque" creationdate="20210420T124835Z">
+        <seg>Por favor, insira ou cole o URL da página mediawiki</seg>
       </tuv>
     </tu>
     <tu>
