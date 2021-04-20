@@ -900,6 +900,30 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164415Z" creationid="Pedro Albuquerque" creationdate="20210420T164415Z">
+        <seg>Predefinição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164433Z" creationid="Pedro Albuquerque" creationdate="20210420T164433Z">
+        <seg>Dicionár&amp;io</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164423Z" creationid="Pedro Albuquerque" creationdate="20210420T164423Z">
+        <seg>Dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
@@ -986,6 +1010,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161623Z" creationid="Pedro Albuquerque" creationdate="20210420T161623Z">
         <seg>Para tal, transfira o seguinte ficheiro e execute-o:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164401Z" creationid="Pedro Albuquerque" creationdate="20210420T164401Z">
+        <seg>Glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1330,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153014Z" creationid="Pedro Albuquerque" creationdate="20210420T153001Z">
         <seg>Estatísticas de correspondências por &amp;ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164355Z" creationid="Pedro Albuquerque" creationdate="20210420T164355Z">
+        <seg>Unir definições alternativas para o mesmo termo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +1950,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122336Z" creationid="Pedro Albuquerque" creationdate="20210420T122336Z">
         <seg>Uso: java -jar OmegaT.jar team &lt;comando&gt; [&lt;opções&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164436Z" creationid="Pedro Albuquerque" creationdate="20210420T164436Z">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
     </tu>
     <tu>
