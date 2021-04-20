@@ -884,6 +884,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174611Z" creationid="Pedro Albuquerque" creationdate="20210420T174611Z">
+        <seg>C&amp;opiar tudo para a área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125323Z" creationid="Pedro Albuquerque" creationdate="20210420T125323Z">
@@ -1332,6 +1340,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173838Z" creationid="Pedro Albuquerque" creationdate="20210420T173838Z">
         <seg>Erro ao iniciar comando externo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174748Z" creationid="Pedro Albuquerque" creationdate="20210420T174748Z">
+        <seg>Correspondência exacta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,10 +2042,26 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174634Z" creationid="Pedro Albuquerque" creationdate="20210420T174634Z">
+        <seg>Estatísticas de correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153014Z" creationid="Pedro Albuquerque" creationdate="20210420T153001Z">
         <seg>Estatísticas de correspondências por &amp;ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174653Z" creationid="Pedro Albuquerque" creationdate="20210420T174653Z">
+        <seg>Estatísticas de correspondências por ficheiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2612,6 +2644,30 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174738Z" creationid="Pedro Albuquerque" creationdate="20210420T174738Z">
+        <seg>Repetições de outros ficheiros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174716Z" creationid="Pedro Albuquerque" creationdate="20210420T174716Z">
+        <seg>Repetições neste ficheiro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174659Z" creationid="Pedro Albuquerque" creationdate="20210420T174659Z">
+        <seg>Repetições:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164246Z" creationid="Pedro Albuquerque" creationdate="20210420T164246Z">
@@ -2880,6 +2936,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
         <seg>Tamanhos de fonte/tradução (caracteres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
+        <seg>Estatísticas</seg>
       </tuv>
     </tu>
     <tu>
