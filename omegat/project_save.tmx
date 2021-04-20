@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165013Z" creationid="Pedro Albuquerque" creationdate="20210420T165013Z">
+        <seg>&amp;Pesquisa automática de texto do segmento no dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130420Z" creationid="Pedro Albuquerque" creationdate="20210420T130420Z">
@@ -374,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165048Z" creationid="Pedro Albuquerque" creationdate="20210420T165048Z">
+        <seg>Mo&amp;strar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165120Z" creationid="Pedro Albuquerque" creationdate="20210420T165106Z">
+        <seg>Mo&amp;strar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123128Z" creationid="Pedro Albuquerque" creationdate="20210420T123128Z">
@@ -684,6 +708,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123041Z" creationid="Pedro Albuquerque" creationdate="20210420T123041Z">
         <seg>A&amp;dicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165059Z" creationid="Pedro Albuquerque" creationdate="20210420T165059Z">
+        <seg>Concl&amp;usão automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,6 +1744,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165026Z" creationid="Pedro Albuquerque" creationdate="20210420T165026Z">
+        <seg>Procurar nos dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125430Z" creationid="Pedro Albuquerque" creationdate="20210420T125430Z">
@@ -1972,8 +2012,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164828Z" creationid="Pedro Albuquerque" creationdate="20210420T164828Z">
-        <seg>Utilizar comparação &amp;Fuzzy para entradas do dicionário</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164956Z" creationid="Pedro Albuquerque" creationdate="20210420T164828Z">
+        <seg>Utilizar comparação a&amp;proximada para entradas do dicionário</seg>
       </tuv>
     </tu>
     <tu>
