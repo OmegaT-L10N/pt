@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163416Z" creationid="Pedro Albuquerque" creationdate="20210420T163416Z">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125156Z" creationid="Pedro Albuquerque" creationdate="20210420T125156Z">
@@ -414,6 +422,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163231Z" creationid="Pedro Albuquerque" creationdate="20210420T163231Z">
+        <seg>(se pensa ter contribuído significativamente para o projecto OmegaT mas
+(não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162545Z" creationid="Pedro Albuquerque" creationdate="20210420T162545Z">
@@ -682,6 +700,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
         <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163412Z" creationid="Pedro Albuquerque" creationdate="20210420T163412Z">
+        <seg>Relatórios de erros (em inglês), na página SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1600,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163346Z" creationid="Pedro Albuquerque" creationdate="20210420T163346Z">
+        <seg>Pedidos de melhorias (em inglês), na página SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
@@ -1786,6 +1820,14 @@ na área de início rápido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163257Z" creationid="Pedro Albuquerque" creationdate="20210420T163257Z">
+        <seg>A informação mais actual sobre o OmegaT pode ser encontrada em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
 - use Project &gt; Copy Files to Source Folder...
@@ -1860,6 +1902,24 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153242Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
         <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163240Z" creationid="Pedro Albuquerque" creationdate="20210420T163240Z">
+        <seg>Ligações úteis
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163310Z" creationid="Pedro Albuquerque" creationdate="20210420T163310Z">
+        <seg>Recursos de apoio ao utilizador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1983,6 +2043,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and many, many more very helpful people</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163203Z" creationid="Pedro Albuquerque" creationdate="20210420T163203Z">
+        <seg>e muitas, muitas mais pessoas muito úteis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162145Z" creationid="Pedro Albuquerque" creationdate="20210420T162145Z">
@@ -1999,10 +2067,42 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163258Z" creationid="Pedro Albuquerque" creationdate="20210420T163258Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163311Z" creationid="Pedro Albuquerque" creationdate="20210420T163311Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161625Z" creationid="Pedro Albuquerque" creationdate="20210420T161625Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163413Z" creationid="Pedro Albuquerque" creationdate="20210420T163413Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163347Z" creationid="Pedro Albuquerque" creationdate="20210420T163347Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
