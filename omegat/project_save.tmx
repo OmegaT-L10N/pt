@@ -856,6 +856,18 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172449Z" creationid="Pedro Albuquerque" creationdate="20210420T172449Z">
+        <seg>O empregado grita alto:
+A tua página não pode ser encontrada, rapaz
+Compra outra bebida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163412Z" creationid="Pedro Albuquerque" creationdate="20210420T163412Z">
@@ -1200,6 +1212,18 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123157Z" creationid="Pedro Albuquerque" creationdate="20210420T123157Z">
         <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172314Z" creationid="Pedro Albuquerque" creationdate="20210420T172314Z">
+        <seg>Excitante página de ajuda
+Os fios de Gossamer retêm-nos
+404 não encontrado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1852,6 +1876,14 @@ como a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172228Z" creationid="Pedro Albuquerque" creationdate="20210420T172228Z">
+        <seg>Número de segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170820Z" creationid="Pedro Albuquerque" creationdate="20210420T170820Z">
@@ -1988,6 +2020,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172119Z" creationid="Pedro Albuquerque" creationdate="20210420T172119Z">
         <seg>Abrir ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172203Z" creationid="Pedro Albuquerque" creationdate="20210420T172203Z">
+        <seg>Abrir localização do ficheiro-alvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,6 +2616,22 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172217Z" creationid="Pedro Albuquerque" creationdate="20210420T172217Z">
+        <seg>Número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172240Z" creationid="Pedro Albuquerque" creationdate="20210420T172240Z">
+        <seg>Segmentos únicos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
@@ -2724,6 +2780,18 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
         <seg>O que é o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172403Z" creationid="Pedro Albuquerque" creationdate="20210420T172403Z">
+        <seg>O vento apanha o lírio
+Pétalas ao vento:
+A sua página não foi encontrada</seg>
       </tuv>
     </tu>
     <tu>
