@@ -888,6 +888,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172003Z" creationid="Pedro Albuquerque" creationdate="20210420T172003Z">
+        <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -1288,6 +1296,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171739Z" creationid="Pedro Albuquerque" creationdate="20210420T171739Z">
         <seg>Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171947Z" creationid="Pedro Albuquerque" creationdate="20210420T171947Z">
+        <seg>Filtro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,10 +1766,34 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171858Z" creationid="Pedro Albuquerque" creationdate="20210420T171858Z">
+        <seg>Mover a&amp;baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move &amp;First</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171838Z" creationid="Pedro Albuquerque" creationdate="20210420T171838Z">
         <seg>Mover para &amp;primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171914Z" creationid="Pedro Albuquerque" creationdate="20210420T171914Z">
+        <seg>Move para ú&amp;ltimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171850Z" creationid="Pedro Albuquerque" creationdate="20210420T171850Z">
+        <seg>Mover a&amp;cima</seg>
       </tuv>
     </tu>
     <tu>
@@ -1924,6 +1964,46 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124711Z" creationid="Pedro Albuquerque" creationdate="20210420T124711Z">
         <seg>Abrir pro&amp;jecto recente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172034Z" creationid="Pedro Albuquerque" creationdate="20210420T172034Z">
+        <seg>Abrir ficheiro-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172107Z" creationid="Pedro Albuquerque" creationdate="20210420T172107Z">
+        <seg>Abrir localização do ficheiro-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172119Z" creationid="Pedro Albuquerque" creationdate="20210420T172119Z">
+        <seg>Abrir ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172048Z" creationid="Pedro Albuquerque" creationdate="20210420T172048Z">
+        <seg>Abrir {0} ficheiros fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172135Z" creationid="Pedro Albuquerque" creationdate="20210420T172135Z">
+        <seg>Abrir {0} ficheiros-alvo</seg>
       </tuv>
     </tu>
     <tu>
