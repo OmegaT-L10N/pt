@@ -1172,6 +1172,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171746Z" creationid="Pedro Albuquerque" creationdate="20210420T171746Z">
+        <seg>Codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
@@ -1264,6 +1272,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171259Z" creationid="Pedro Albuquerque" creationdate="20210420T171259Z">
         <seg>Ficheiro: % tradução única % (únicos restantes)/projecto: % tradução única % (únicos restantes), número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171735Z" creationid="Pedro Albuquerque" creationdate="20210420T171735Z">
+        <seg>Nome de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171739Z" creationid="Pedro Albuquerque" creationdate="20210420T171739Z">
+        <seg>Filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1750,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171838Z" creationid="Pedro Albuquerque" creationdate="20210420T171838Z">
+        <seg>Mover para &amp;primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move the folder to an appropriate location such
 as the Applications folder.</seg>
       </tuv>
@@ -2000,6 +2032,22 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171727Z" creationid="Pedro Albuquerque" creationdate="20210420T171727Z">
+        <seg>Ficheiros do projecto ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171714Z" creationid="Pedro Albuquerque" creationdate="20210420T171714Z">
+        <seg>Ficheiros do projecto ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124523Z" creationid="Pedro Albuquerque" creationdate="20210420T124344Z">
@@ -2220,6 +2268,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170325Z" creationid="Pedro Albuquerque" creationdate="20210420T170325Z">
         <seg>Segmento {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171749Z" creationid="Pedro Albuquerque" creationdate="20210420T171749Z">
+        <seg>Segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,6 +2512,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171757Z" creationid="Pedro Albuquerque" creationdate="20210420T171757Z">
+        <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
@@ -2609,6 +2673,16 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
         <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171810Z" creationid="Pedro Albuquerque" creationdate="20210420T171810Z">
+        <seg>Pode encontrar informação estatística detalhada no ficheiro:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
