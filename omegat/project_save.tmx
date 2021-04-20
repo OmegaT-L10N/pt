@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174036Z" creationid="Pedro Albuquerque" creationdate="20210420T174036Z">
+        <seg>Nº de ficheiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165655Z" creationid="Pedro Albuquerque" creationdate="20210420T165655Z">
@@ -900,6 +908,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174026Z" creationid="Pedro Albuquerque" creationdate="20210420T174026Z">
+        <seg>Caracteres (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174014Z" creationid="Pedro Albuquerque" creationdate="20210420T174014Z">
+        <seg>Caracteres (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
@@ -1452,6 +1476,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174111Z" creationid="Pedro Albuquerque" creationdate="20210420T174111Z">
+        <seg>Nome do ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171127Z" creationid="Pedro Albuquerque" creationdate="20210420T171127Z">
@@ -1674,6 +1706,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165752Z" creationid="Pedro Albuquerque" creationdate="20210420T165752Z">
         <seg>Para que as alterações tenham efeito, o OmegaT tem de fechar e reabrir o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174106Z" creationid="Pedro Albuquerque" creationdate="20210420T174106Z">
+        <seg>Estatísticas de ficheiro individual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2548,38 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174245Z" creationid="Pedro Albuquerque" creationdate="20210420T174245Z">
+        <seg>Caracteres restantess (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174126Z" creationid="Pedro Albuquerque" creationdate="20210420T174126Z">
+        <seg>Segmentos restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174159Z" creationid="Pedro Albuquerque" creationdate="20210420T174159Z">
+        <seg>Palavras restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174040Z" creationid="Pedro Albuquerque" creationdate="20210420T174040Z">
+        <seg>Restantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125719Z" creationid="Pedro Albuquerque" creationdate="20210420T125719Z">
@@ -2932,6 +3004,30 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174229Z" creationid="Pedro Albuquerque" creationdate="20210420T174229Z">
+        <seg>Total de caracteres (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174118Z" creationid="Pedro Albuquerque" creationdate="20210420T174118Z">
+        <seg>Total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174151Z" creationid="Pedro Albuquerque" creationdate="20210420T174151Z">
+        <seg>Total de palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172217Z" creationid="Pedro Albuquerque" creationdate="20210420T172217Z">
@@ -2996,10 +3092,66 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174304Z" creationid="Pedro Albuquerque" creationdate="20210420T174304Z">
+        <seg>Caracteres únicos (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174144Z" creationid="Pedro Albuquerque" creationdate="20210420T174144Z">
+        <seg>Segmentos únicos restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174215Z" creationid="Pedro Albuquerque" creationdate="20210420T174215Z">
+        <seg>Palavras únicas restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174049Z" creationid="Pedro Albuquerque" creationdate="20210420T174049Z">
+        <seg>Restantes únicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174133Z" creationid="Pedro Albuquerque" creationdate="20210420T174133Z">
+        <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174205Z" creationid="Pedro Albuquerque" creationdate="20210420T174205Z">
+        <seg>Palavras únicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171757Z" creationid="Pedro Albuquerque" creationdate="20210420T171757Z">
         <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174053Z" creationid="Pedro Albuquerque" creationdate="20210420T174053Z">
+        <seg>Únicos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,6 +3292,14 @@ Your page is not found</seg>
         <seg>O vento apanha o lírio
 Pétalas ao vento:
 A sua página não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174005Z" creationid="Pedro Albuquerque" creationdate="20210420T174005Z">
+        <seg>Palavras</seg>
       </tuv>
     </tu>
     <tu>
