@@ -1224,6 +1224,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090244Z" creationid="Pedro Albuquerque" creationdate="20210421T090244Z">
+        <seg>&lt;&amp;br&gt; (novas linhas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -2770,10 +2778,26 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090256Z" creationid="Pedro Albuquerque" creationdate="20210421T090256Z">
+        <seg>Excepção ao editar as opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063732Z" creationid="Pedro Albuquerque" creationdate="20210421T063732Z">
         <seg>Excepção ao analisar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090524Z" creationid="Pedro Albuquerque" creationdate="20210421T090524Z">
+        <seg>Erro durante o carregamento das regras de segmentação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,6 +3384,22 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090314Z" creationid="Pedro Albuquerque" creationdate="20210421T090314Z">
+        <seg>Ficheiro HHC muito grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090304Z" creationid="Pedro Albuquerque" creationdate="20210421T090304Z">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074240Z" creationid="Pedro Albuquerque" creationdate="20210421T074240Z">
@@ -3563,6 +3603,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074355Z" creationid="Pedro Albuquerque" creationdate="20210421T074355Z">
         <seg>Se o ficheiro HTML tiver a declaração de codificação, esta será utilizada sem ter em conta qualquer valor definido neste diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090421Z" creationid="Pedro Albuquerque" creationdate="20210421T090421Z">
+        <seg>Se um ficheiro HHC ou HHK tiver uma declaração de codificação, ela será utilizada independentemente de qualquer valor especificado neste diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,6 +4761,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070600Z" creationid="Pedro Albuquerque" creationdate="20210421T070600Z">
         <seg>Nota: os ficheiros DocBook só são reconhecidos pela extensão do ficheiro, mas têm também de ter uma declaração DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... para DocBook 4, ou um Namespace: xmlns="http://docbook.org/ns/docbook" para DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090354Z" creationid="Pedro Albuquerque" creationdate="20210421T090354Z">
+        <seg>Nota: a definição da codificação do ficheiro-fonte só afecta os ficheiros HHC e HHK que não contêm uma declaração de codificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,6 +7935,22 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055601Z" creationid="Pedro Albuquerque" creationdate="20210421T055601Z">
         <seg>A pasta de glossários editáveis não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090422Z" creationid="Pedro Albuquerque" creationdate="20210421T090422Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090434Z" creationid="Pedro Albuquerque" creationdate="20210421T090434Z">
+        <seg>Opções de filtro XHTML</seg>
       </tuv>
     </tu>
     <tu>
