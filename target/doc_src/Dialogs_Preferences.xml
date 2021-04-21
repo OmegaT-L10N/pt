@@ -587,7 +587,7 @@
   </section>
 
   <section id="dialogs.preferences.segmentationsetup">
-    <title>Segmentation Setup</title>
+    <title>Configuração da segmentação</title>
 
     <para>Translation memory tools work with textual units called segments.
     <application>OmegaT</application> has two ways to segment a text: by
@@ -1110,7 +1110,7 @@
   </section>
 
   <section id="dialogs.preferences.tagprocessing">
-    <title>Tag Processing</title>
+    <title>Processamento de etiquetas</title>
 
     <para>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn&quot;t do it out of the box already. The PO filter already handles %.. and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</para>
 
@@ -1124,7 +1124,7 @@
   </section>
 
   <section>
-    <title>Team</title>
+    <title>Equipa</title>
 
     <para>Enter your name here and it will be attached to all segments
     translated by you.</para>
@@ -1137,11 +1137,11 @@
   </section>
 
   <section>
-    <title>TM Matches</title>
+    <title>Correspondências de MTs</title>
 
     <variablelist>
       <varlistentry>
-        <term>Sort fuzzy matches by:</term>
+        <term>Ordenar correspondências aproximadas por:</term>
 
         <listitem>
           <para>By default, the closest matches displayed in the <guilabel>Fuzzy Matches</guilabel> pane are determined using stemming.</para>
@@ -1160,7 +1160,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Match display template</term>
+        <term>Comparar modelo de disposição</term>
 
         <listitem>
           <para>Change how fuzzy matches are displayed, through the use of
@@ -1244,7 +1244,7 @@
   </section>
 
   <section>
-    <title>View</title>
+    <title>Ver</title>
 
     <para>Contains options for displaying texts and modification information
     in different ways.</para>
@@ -1303,7 +1303,7 @@
   </section>
 
   <section>
-    <title>Proxy Login</title>
+    <title>Sessão com proxy</title>
 
     <para>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</para>
   </section>
