@@ -484,6 +484,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091124Z" creationid="Pedro Albuquerque" creationdate="20210421T091124Z">
+        <seg>&amp;Mover abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070113Z" creationid="Pedro Albuquerque" creationdate="20210421T070113Z">
@@ -4703,6 +4711,22 @@ Perdida para o paraíso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091117Z" creationid="Pedro Albuquerque" creationdate="20210421T091117Z">
+        <seg>Mover a&amp;baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091107Z" creationid="Pedro Albuquerque" creationdate="20210421T091107Z">
+        <seg>Mover a&amp;cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move the folder to an appropriate location such
 as the Applications folder.</seg>
       </tuv>
@@ -4873,6 +4897,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn"t contain the mappings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090909Z" creationid="Pedro Albuquerque" creationdate="20210421T090909Z">
+        <seg>Nota: Todos os conjuntos de regras de segmentação com um padrão de idioma correspondente são aplicados na ordem dada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7119,6 +7151,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091046Z" creationid="Pedro Albuquerque" creationdate="20210421T091046Z">
+        <seg>Depois, ao traduzir do francês canadiano, o seu projecto utilizará todas as regras definidas para toda a cadeia linguística, na ordem correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180524Z" creationid="Pedro Albuquerque" creationdate="20210420T180524Z">
@@ -7233,6 +7273,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073102Z" creationid="Pedro Albuquerque" creationdate="20210421T073102Z">
         <seg>Este programa é livre; pode redistribuí-lo e/ou modificá-lo sob os termos da GNU General Public License conforme publicada pela Free Software Foundation; ou a versão 3 da Licença, ou (à sua escolha) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091017Z" creationid="Pedro Albuquerque" creationdate="20210421T091017Z">
+        <seg>Assim, por exemplo, regras para fracês do Canadá (FR-CA) devem estar acima das regras para francês (FR.*) e acima das predefinidas (.*).</seg>
       </tuv>
     </tu>
     <tu>
