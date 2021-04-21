@@ -252,6 +252,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110938Z" creationid="Pedro Albuquerque" creationdate="20210421T110938Z">
+        <seg>&amp;Ciclo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125208Z" creationid="Pedro Albuquerque" creationdate="20210420T125208Z">
@@ -528,6 +536,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070059Z" creationid="Pedro Albuquerque" creationdate="20210421T070059Z">
         <seg>Quebras de &amp;linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110915Z" creationid="Pedro Albuquerque" creationdate="20210421T110843Z">
+        <seg>Minúscu&amp;las</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,6 +860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110934Z" creationid="Pedro Albuquerque" creationdate="20210421T110934Z">
+        <seg>&amp;Frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070928Z" creationid="Pedro Albuquerque" creationdate="20210421T070928Z">
@@ -940,6 +964,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110927Z" creationid="Pedro Albuquerque" creationdate="20210421T110927Z">
+        <seg>&amp;Títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152837Z" creationid="Pedro Albuquerque" creationdate="20210420T152837Z">
@@ -972,6 +1004,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110909Z" creationid="Pedro Albuquerque" creationdate="20210421T110909Z">
+        <seg>Maiúsc&amp;ulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165652Z" creationid="Pedro Albuquerque" creationdate="20210420T165652Z">
@@ -984,6 +1024,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091726Z" creationid="Pedro Albuquerque" creationdate="20210421T091726Z">
         <seg>&amp;Validar etiquetas ao sair do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110942Z" creationid="Pedro Albuquerque" creationdate="20210421T110942Z">
+        <seg>&amp;Ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2750,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072851Z" creationid="Pedro Albuquerque" creationdate="20210421T072851Z">
         <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110946Z" creationid="Pedro Albuquerque" creationdate="20210421T110946Z">
+        <seg>Display &amp;Source Segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -7453,8 +7509,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110809Z" creationid="Pedro Albuquerque" creationdate="20210421T110809Z">
-        <seg>S&amp;witch Case To</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110848Z" creationid="Pedro Albuquerque" creationdate="20210421T110809Z">
+        <seg>&amp;Trocar letras para</seg>
       </tuv>
     </tu>
     <tu>
