@@ -964,6 +964,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180948Z" creationid="Pedro Albuquerque" creationdate="20210421T180948Z">
+        <seg>Armazenar só para esta &amp;sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125254Z" creationid="Pedro Albuquerque" creationdate="20210420T125254Z">
@@ -6073,6 +6081,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180756Z" creationid="Pedro Albuquerque" creationdate="20210421T180756Z">
+        <seg>URL do servidor Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -6551,6 +6567,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>ODFAuthors and LibreOffice"s Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180901Z" creationid="Pedro Albuquerque" creationdate="20210421T180901Z">
+        <seg>Aceitar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8317,6 +8341,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180923Z" creationid="Pedro Albuquerque" creationdate="20210421T180923Z">
+        <seg>O servidor não compreende o método "translate"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110420Z" creationid="Pedro Albuquerque" creationdate="20210421T110420Z">
@@ -8789,6 +8821,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180821Z" creationid="Pedro Albuquerque" creationdate="20210421T180821Z">
+        <seg>Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180826Z" creationid="Pedro Albuquerque" creationdate="20210421T180826Z">
+        <seg>A testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065957Z" creationid="Pedro Albuquerque" creationdate="20210421T065957Z">
@@ -8892,6 +8940,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065843Z" creationid="Pedro Albuquerque" creationdate="20210421T065843Z">
         <seg>O filtro Moodle PHP gerou uma excepção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180813Z" creationid="Pedro Albuquerque" creationdate="20210421T180813Z">
+        <seg>O URL do servidor Moses não está definido</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,10 +9810,34 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180705Z" creationid="Pedro Albuquerque" creationdate="20210421T180705Z">
+        <seg>Impossível analisar resposta do serviço IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065125Z" creationid="Pedro Albuquerque" creationdate="20210421T065125Z">
         <seg>Impossível analisar ficheiro de configuração de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180746Z" creationid="Pedro Albuquerque" creationdate="20210421T180746Z">
+        <seg>Impossível analisar relatório de erro do serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180726Z" creationid="Pedro Albuquerque" creationdate="20210421T180709Z">
+        <seg>Impossível analisar resposta do serviço de tradução</seg>
       </tuv>
     </tu>
     <tu>
