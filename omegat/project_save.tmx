@@ -1608,6 +1608,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182710Z" creationid="Pedro Albuquerque" creationdate="20210421T182710Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162947Z" creationid="Pedro Albuquerque" creationdate="20210420T162947Z">
@@ -5279,6 +5287,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182624Z" creationid="Pedro Albuquerque" creationdate="20210421T182624Z">
+        <seg>O seu objectivo é desenvolver, distribuir e apoiar a utilização do OmegaT, uma aplicação de memória de tradução de código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110308Z" creationid="Pedro Albuquerque" creationdate="20210421T110308Z">
@@ -5371,6 +5387,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173508Z" creationid="Pedro Albuquerque" creationdate="20210421T173508Z">
         <seg>Manter etiquetas no texto traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182658Z" creationid="Pedro Albuquerque" creationdate="20210421T182658Z">
+        <seg>Keith Godfrey</seg>
       </tuv>
     </tu>
     <tu>
@@ -5651,6 +5675,14 @@ na primeira execução.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162419Z" creationid="Pedro Albuquerque" creationdate="20210420T162419Z">
         <seg>Início do OmegaT a partir da linha de comando (todos os sistemas)
 ====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182732Z" creationid="Pedro Albuquerque" creationdate="20210421T182732Z">
+        <seg>Programador principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -7029,6 +7061,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182656Z" creationid="Pedro Albuquerque" creationdate="20210421T182656Z">
+        <seg>Autor original da aplicação OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173812Z" creationid="Pedro Albuquerque" creationdate="20210420T173812Z">
@@ -7571,6 +7611,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104957Z" creationid="Pedro Albuquerque" creationdate="20210421T104957Z">
         <seg>Início do carregamento do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182707Z" creationid="Pedro Albuquerque" creationdate="20210421T182707Z">
+        <seg>Gestor do projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9072,6 +9120,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182508Z" creationid="Pedro Albuquerque" creationdate="20210421T182508Z">
+        <seg>O projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182551Z" creationid="Pedro Albuquerque" creationdate="20210421T182551Z">
+        <seg>O projecto OmegaT é mantido por um grupo informal e internacional de voluntários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065704Z" creationid="Pedro Albuquerque" creationdate="20210421T065704Z">
@@ -9272,6 +9336,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The perfect companion for those of us who don"t need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182641Z" creationid="Pedro Albuquerque" creationdate="20210421T182641Z">
+        <seg>Os principais membros do projecto são:</seg>
       </tuv>
     </tu>
     <tu>
