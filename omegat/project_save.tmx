@@ -4070,6 +4070,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173442Z" creationid="Pedro Albuquerque" creationdate="20210421T173442Z">
+        <seg>ID da pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055728Z" creationid="Pedro Albuquerque" creationdate="20210421T055728Z">
@@ -5303,6 +5311,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173508Z" creationid="Pedro Albuquerque" creationdate="20210421T173508Z">
+        <seg>Manter etiquetas no texto traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101111Z" creationid="Pedro Albuquerque" creationdate="20210421T101111Z">
@@ -6207,6 +6223,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173429Z" creationid="Pedro Albuquerque" creationdate="20210421T173429Z">
+        <seg>Tradução automática neural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New Language and Country</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091212Z" creationid="Pedro Albuquerque" creationdate="20210421T091212Z">
@@ -6255,10 +6279,26 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173533Z" creationid="Pedro Albuquerque" creationdate="20210421T173533Z">
+        <seg>Nenhum símbolo OAuth especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105219Z" creationid="Pedro Albuquerque" creationdate="20210421T105219Z">
         <seg>Sem sugestões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173550Z" creationid="Pedro Albuquerque" creationdate="20210421T173550Z">
+        <seg>Nenhuma ID de pasta especificada</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,6 +6535,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073827Z" creationid="Pedro Albuquerque" creationdate="20210421T073827Z">
         <seg>O&amp;pções...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173448Z" creationid="Pedro Albuquerque" creationdate="20210421T173448Z">
+        <seg>Símbolo OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +10024,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092751Z" creationid="Pedro Albuquerque" creationdate="20210421T092751Z">
         <seg>Usar modelos personalizados para &amp;informação de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173518Z" creationid="Pedro Albuquerque" creationdate="20210421T173518Z">
+        <seg>Usar termos do glossário</seg>
       </tuv>
     </tu>
     <tu>
