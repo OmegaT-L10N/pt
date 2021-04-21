@@ -2394,10 +2394,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092529Z" creationid="Pedro Albuquerque" creationdate="20210421T092529Z">
+        <seg>Mostrar segmento-fonte &amp;activo em negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092001Z" creationid="Pedro Albuquerque" creationdate="20210421T092001Z">
         <seg>Mostrar e&amp;tiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092505Z" creationid="Pedro Albuquerque" creationdate="20210421T092505Z">
+        <seg>Mostrar todos os &amp;segmentos-fonte em negrito</seg>
       </tuv>
     </tu>
     <tu>
@@ -4095,6 +4111,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092618Z" creationid="Pedro Albuquerque" creationdate="20210421T092618Z">
+        <seg>&amp;Incluir o primeiro segmento não-único ao marcar segmentos não-únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174106Z" creationid="Pedro Albuquerque" creationdate="20210420T174106Z">
@@ -4799,6 +4823,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071723Z" creationid="Pedro Albuquerque" creationdate="20210421T071723Z">
         <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092410Z" creationid="Pedro Albuquerque" creationdate="20210421T092410Z">
+        <seg>Limite mínimo para mostrar uma correspondência aproximada:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,6 +6771,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092639Z" creationid="Pedro Albuquerque" creationdate="20210421T092639Z">
+        <seg>Simplificar dicas em par&amp;tes protegidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7039,6 +7079,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125230Z" creationid="Pedro Albuquerque" creationdate="20210420T125230Z">
         <seg>&amp;Memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092436Z" creationid="Pedro Albuquerque" creationdate="20210421T092436Z">
+        <seg>Correspondências de MTs</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,6 +8295,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063705Z" creationid="Pedro Albuquerque" creationdate="20210421T063705Z">
         <seg>Versão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092440Z" creationid="Pedro Albuquerque" creationdate="20210421T092440Z">
+        <seg>Ver</seg>
       </tuv>
     </tu>
     <tu>
