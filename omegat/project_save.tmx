@@ -196,6 +196,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073000Z" creationid="Pedro Albuquerque" creationdate="20210421T073000Z">
+        <seg>&amp;Copiar informações de suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125309Z" creationid="Pedro Albuquerque" creationdate="20210420T125309Z">
@@ -2098,6 +2106,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072935Z" creationid="Pedro Albuquerque" creationdate="20210421T072935Z">
+        <seg>DictZip de JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164433Z" creationid="Pedro Albuquerque" creationdate="20210420T164433Z">
@@ -3168,6 +3184,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072916Z" creationid="Pedro Albuquerque" creationdate="20210421T072916Z">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062622Z" creationid="Pedro Albuquerque" creationdate="20210421T062622Z">
@@ -3905,6 +3929,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073010Z" creationid="Pedro Albuquerque" creationdate="20210421T073010Z">
+        <seg>Últimas alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171411Z" creationid="Pedro Albuquerque" creationdate="20210420T171411Z">
@@ -4071,6 +4103,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060638Z" creationid="Pedro Albuquerque" creationdate="20210421T060638Z">
         <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073015Z" creationid="Pedro Albuquerque" creationdate="20210421T073015Z">
+        <seg>Diário:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4655,6 +4695,14 @@ ser iniciado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073004Z" creationid="Pedro Albuquerque" creationdate="20210421T073004Z">
+        <seg>Licença OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
@@ -4895,6 +4943,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065718Z" creationid="Pedro Albuquerque" creationdate="20210421T065718Z">
         <seg>Entrada PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072914Z" creationid="Pedro Albuquerque" creationdate="20210421T072914Z">
+        <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6083,6 +6139,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165202Z" creationid="Pedro Albuquerque" creationdate="20210420T165202Z">
@@ -6569,6 +6633,22 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This package is bundled with Oracle"s Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073150Z" creationid="Pedro Albuquerque" creationdate="20210421T073150Z">
+        <seg>Este programa é distribuído na esperança de ser útil, mas SEM QUALQUER GARANTIA; sem sequer a garantia implícita de COMERCIALIZAÇÃO ou ADEQUAÇÃO A UMA FINALIDADE EM PARTICULAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073102Z" creationid="Pedro Albuquerque" creationdate="20210421T073102Z">
+        <seg>Este programa é livre; pode redistribuí-lo e/ou modificá-lo sob os termos da GNU General Public License conforme publicada pela Free Software Foundation; ou a versão 3 da Licença, ou (à sua escolha) qualquer versão posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,10 +7818,26 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072924Z" creationid="Pedro Albuquerque" creationdate="20210421T072924Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063139Z" creationid="Pedro Albuquerque" creationdate="20210421T063139Z">
         <seg>carregado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
+        <seg>mALIGNa (Licença MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,6 +7870,22 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171326Z" creationid="Pedro Albuquerque" creationdate="20210420T171326Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072922Z" creationid="Pedro Albuquerque" creationdate="20210421T072922Z">
+        <seg>slf4j (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
+        <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
