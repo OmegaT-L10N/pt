@@ -92,6 +92,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091506Z" creationid="Pedro Albuquerque" creationdate="20210421T091506Z">
+        <seg>Permitir que a tr&amp;adução seja igual à fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074446Z" creationid="Pedro Albuquerque" creationdate="20210421T074446Z">
@@ -364,6 +372,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091618Z" creationid="Pedro Albuquerque" creationdate="20210421T091618Z">
+        <seg>&amp;Ir para o segmento não traduzido seguinte pára quando houver pelo menos uma tradução alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165640Z" creationid="Pedro Albuquerque" creationdate="20210420T165640Z">
@@ -576,6 +592,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165633Z" creationid="Pedro Albuquerque" creationdate="20210420T165633Z">
         <seg>&amp;Preferências...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091436Z" creationid="Pedro Albuquerque" creationdate="20210421T091436Z">
+        <seg>&amp;Prefixo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,6 +920,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165652Z" creationid="Pedro Albuquerque" creationdate="20210420T165652Z">
         <seg>Manual do &amp;utilizador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091726Z" creationid="Pedro Albuquerque" creationdate="20210421T091726Z">
+        <seg>&amp;Validar etiquetas ao sair do segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,6 +1488,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
+        <seg>Permitir edição de eti&amp;quetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065457Z" creationid="Pedro Albuquerque" creationdate="20210421T065457Z">
@@ -1548,6 +1588,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>At the top of that dialog, select your source file"s language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091647Z" creationid="Pedro Albuquerque" creationdate="20210421T091647Z">
+        <seg>Tentar converter &amp;números ao inserir uma cadeia aproximada</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2606,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125619Z" creationid="Pedro Albuquerque" creationdate="20210420T125619Z">
         <seg>E&amp;xportar selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091522Z" creationid="Pedro Albuquerque" creationdate="20210421T091522Z">
+        <seg>E&amp;xportar o segmento para ficheiros de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -8500,6 +8556,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054722Z" creationid="Pedro Albuquerque" creationdate="20210421T054722Z">
         <seg>Ficheiros ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091441Z" creationid="Pedro Albuquerque" creationdate="20210421T091441Z">
+        <seg>[aproximada]</seg>
       </tuv>
     </tu>
     <tu>
