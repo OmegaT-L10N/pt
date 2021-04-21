@@ -1704,6 +1704,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181845Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
+        <seg>Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
@@ -8553,6 +8561,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054508Z" creationid="Pedro Albuquerque" creationdate="20210421T054508Z">
         <seg>Algumas pastas do projecto parecem ter sido movidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182305Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
+        <seg>Desculpe</seg>
       </tuv>
     </tu>
     <tu>
