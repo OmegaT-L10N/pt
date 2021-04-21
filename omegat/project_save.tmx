@@ -132,6 +132,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105319Z" creationid="Pedro Albuquerque" creationdate="20210421T105319Z">
+        <seg>Verificar &amp;automaticamente a ortografia do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165013Z" creationid="Pedro Albuquerque" creationdate="20210420T165013Z">
@@ -160,6 +168,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054245Z" creationid="Pedro Albuquerque" creationdate="20210421T054245Z">
         <seg>&amp;Navegar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105420Z" creationid="Pedro Albuquerque" creationdate="20210421T105420Z">
+        <seg>&amp;Navegar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,6 +464,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125452Z" creationid="Pedro Albuquerque" creationdate="20210420T125452Z">
         <seg>&amp;Inserir correspondência ou selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105430Z" creationid="Pedro Albuquerque" creationdate="20210421T105430Z">
+        <seg>&amp;Instalar novo dicionário...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2562,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105330Z" creationid="Pedro Albuquerque" creationdate="20210421T105330Z">
+        <seg>Dicionários já instalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175918Z" creationid="Pedro Albuquerque" creationdate="20210420T175918Z">
@@ -2554,6 +2586,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105358Z" creationid="Pedro Albuquerque" creationdate="20210421T105343Z">
+        <seg>Pasta dos dicionários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary Files Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054416Z" creationid="Pedro Albuquerque" creationdate="20210421T054416Z">
@@ -2566,6 +2606,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054026Z" creationid="Pedro Albuquerque" creationdate="20210421T054026Z">
         <seg>Pasta de dicionários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105347Z" creationid="Pedro Albuquerque" creationdate="20210421T105342Z">
+        <seg>Pasta dos dicionários:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7709,6 +7757,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105258Z" creationid="Pedro Albuquerque" creationdate="20210421T105258Z">
+        <seg>Verificador ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105253Z" creationid="Pedro Albuquerque" creationdate="20210421T105253Z">
+        <seg>Configurar o verificador ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065543Z" creationid="Pedro Albuquerque" creationdate="20210421T065543Z">
@@ -8718,6 +8782,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054903Z" creationid="Pedro Albuquerque" creationdate="20210421T054903Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105456Z" creationid="Pedro Albuquerque" creationdate="20210421T105456Z">
+        <seg>URL de dicionários online:</seg>
       </tuv>
     </tu>
     <tu>
