@@ -845,7 +845,7 @@
   </section>
 
   <section>
-    <title>Spellchecker</title>
+    <title>Verificador ortográfico</title>
 
     <para>OmegaT has a built-in spell checker based on the <link linkend="appendix.spellchecker">spelling checker</link> used in Apache
     OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able
@@ -858,7 +858,7 @@
 
     <variablelist>
       <varlistentry>
-        <term>Service type</term>
+        <term>Tipo de serviço</term>
 
         <listitem>
           <para>Select the location of the language checker.</para>
@@ -868,7 +868,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Rules</term>
+        <term>Regras</term>
 
         <listitem>
           <para>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</para>
