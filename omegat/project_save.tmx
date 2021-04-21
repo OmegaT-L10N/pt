@@ -1120,6 +1120,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173323Z" creationid="Pedro Albuquerque" creationdate="20210421T173323Z">
+        <seg>(deixe a senha em branco se estiver a usar uma chave da API)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162545Z" creationid="Pedro Albuquerque" creationdate="20210420T162545Z">
@@ -2734,6 +2742,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114935Z" creationid="Pedro Albuquerque" creationdate="20210421T114935Z">
         <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173134Z" creationid="Pedro Albuquerque" creationdate="20210421T173134Z">
+        <seg>Chave da API do DeepL indisponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4588,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173227Z" creationid="Pedro Albuquerque" creationdate="20210421T173227Z">
+        <seg>IBM Watson indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ILIAS Language File</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070736Z" creationid="Pedro Albuquerque" creationdate="20210421T070736Z">
@@ -5937,6 +5961,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173410Z" creationid="Pedro Albuquerque" creationdate="20210421T173410Z">
+        <seg>Chave de subscrição do Microsoft Translator indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092410Z" creationid="Pedro Albuquerque" creationdate="20210421T092410Z">
@@ -5949,6 +5981,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101448Z" creationid="Pedro Albuquerque" creationdate="20210421T101448Z">
         <seg>Minimizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173216Z" creationid="Pedro Albuquerque" creationdate="20210421T173216Z">
+        <seg>Id do modelo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8565,6 +8605,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173339Z" creationid="Pedro Albuquerque" creationdate="20210421T173339Z">
+        <seg>Chave da subscrição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
@@ -9982,6 +10030,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173151Z" creationid="Pedro Albuquerque" creationdate="20210421T173151Z">
+        <seg>Utilizador ou chave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
@@ -10276,6 +10332,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055601Z" creationid="Pedro Albuquerque" creationdate="20210421T055601Z">
         <seg>A pasta de glossários editáveis não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong response from engine</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173346Z" creationid="Pedro Albuquerque" creationdate="20210421T173346Z">
+        <seg>Resposta errada do motor</seg>
       </tuv>
     </tu>
     <tu>
