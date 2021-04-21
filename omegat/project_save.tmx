@@ -10392,6 +10392,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182324Z" creationid="Pedro Albuquerque" creationdate="20210421T182324Z">
+        <seg>Não conseguimos encontrar a página que procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
 of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -10725,6 +10733,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160748Z" creationid="Pedro Albuquerque" creationdate="20210420T160748Z">
         <seg>Pode encontrar o texto da licença em
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182432Z" creationid="Pedro Albuquerque" creationdate="20210421T182432Z">
+        <seg>Pode ir à &lt;a0&gt;página inicial&lt;/a0&gt; e, esperançosamente encontrar aí a informação que procura.</seg>
       </tuv>
     </tu>
     <tu>
