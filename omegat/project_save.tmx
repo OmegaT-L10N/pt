@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054057Z" creationid="Pedro Albuquerque" creationdate="20210421T054057Z">
+        <seg>&amp;Auto-propagação das traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165013Z" creationid="Pedro Albuquerque" creationdate="20210420T165013Z">
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054018Z" creationid="Pedro Albuquerque" creationdate="20210421T053931Z">
+        <seg>Lema&amp;tizador do idioma-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152837Z" creationid="Pedro Albuquerque" creationdate="20210420T152837Z">
@@ -844,6 +860,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123748Z" creationid="Pedro Albuquerque" creationdate="20210420T123748Z">
         <seg>&lt;automática&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054215Z" creationid="Pedro Albuquerque" creationdate="20210421T054215Z">
+        <seg>&lt;html&gt;Os comandos externos por projecto estão desactivados e não serão executados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,6 +1320,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054026Z" creationid="Pedro Albuquerque" creationdate="20210421T054026Z">
+        <seg>Pasta de dicionários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
@@ -1428,6 +1460,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054239Z" creationid="Pedro Albuquerque" creationdate="20210421T054239Z">
+        <seg>Active-os em &lt;b&gt;Preferências &gt; Gravação e saída...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171746Z" creationid="Pedro Albuquerque" creationdate="20210420T171746Z">
@@ -1536,6 +1576,22 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173853Z" creationid="Pedro Albuquerque" creationdate="20210420T173853Z">
         <seg>Código de saída: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054142Z" creationid="Pedro Albuquerque" creationdate="20210421T054142Z">
+        <seg>Comando externo de pós-proessamento (desactivado):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054133Z" creationid="Pedro Albuquerque" creationdate="20210421T054133Z">
+        <seg>Comando externo de pós-proessamento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2895,6 +2951,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174040Z" creationid="Pedro Albuquerque" creationdate="20210420T174040Z">
         <seg>Restantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054109Z" creationid="Pedro Albuquerque" creationdate="20210421T054109Z">
+        <seg>Remover eti&amp;quetas</seg>
       </tuv>
     </tu>
     <tu>
