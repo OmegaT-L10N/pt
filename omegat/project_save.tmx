@@ -1620,6 +1620,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090611Z" creationid="Pedro Albuquerque" creationdate="20210421T090611Z">
+        <seg>Quebra/Excepção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054306Z" creationid="Pedro Albuquerque" creationdate="20210421T054306Z">
@@ -1756,6 +1764,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090625Z" creationid="Pedro Albuquerque" creationdate="20210421T090625Z">
+        <seg>Catalão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change to "needs-review-translation" instead of "translated"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071722Z" creationid="Pedro Albuquerque" creationdate="20210421T071722Z">
@@ -1824,6 +1840,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180911Z" creationid="Pedro Albuquerque" creationdate="20210420T180911Z">
         <seg>Assegure-se de que os seus ficheiros de dicionário se encontram na pasta correcta (ou numa sub-pasta dela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090733Z" creationid="Pedro Albuquerque" creationdate="20210421T090733Z">
+        <seg>Chinês</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2194,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090631Z" creationid="Pedro Albuquerque" creationdate="20210421T090631Z">
+        <seg>Checo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072135Z" creationid="Pedro Albuquerque" creationdate="20210421T072135Z">
@@ -2458,6 +2490,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090708Z" creationid="Pedro Albuquerque" creationdate="20210421T090708Z">
+        <seg>Holandês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174858Z" creationid="Pedro Albuquerque" creationdate="20210420T174858Z">
@@ -2606,6 +2646,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090642Z" creationid="Pedro Albuquerque" creationdate="20210421T090642Z">
+        <seg>Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
@@ -2702,6 +2750,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173145Z" creationid="Pedro Albuquerque" creationdate="20210420T173145Z">
         <seg>Erro ao gravar o ficheiro do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090544Z" creationid="Pedro Albuquerque" creationdate="20210421T090544Z">
+        <seg>Erro ao gravar a configuração das regras de segmentação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,6 +3182,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090652Z" creationid="Pedro Albuquerque" creationdate="20210421T090652Z">
+        <seg>Finlandês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070422Z" creationid="Pedro Albuquerque" creationdate="20210421T070422Z">
@@ -3256,10 +3320,26 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090656Z" creationid="Pedro Albuquerque" creationdate="20210421T090656Z">
+        <seg>Francês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060136Z" creationid="Pedro Albuquerque" creationdate="20210421T060136Z">
         <seg>Insensível a caracteres de meia largura/largura completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090634Z" creationid="Pedro Albuquerque" creationdate="20210421T090634Z">
+        <seg>Alemão</seg>
       </tuv>
     </tu>
     <tu>
@@ -3404,6 +3484,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074240Z" creationid="Pedro Albuquerque" creationdate="20210421T074240Z">
         <seg>HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090759Z" creationid="Pedro Albuquerque" creationdate="20210421T090759Z">
+        <seg>Segmentação HTML, XHTML, ODF e Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,6 +4129,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090659Z" creationid="Pedro Albuquerque" creationdate="20210421T090659Z">
+        <seg>Italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072832Z" creationid="Pedro Albuquerque" creationdate="20210421T072832Z">
@@ -4053,6 +4149,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072837Z" creationid="Pedro Albuquerque" creationdate="20210421T072837Z">
         <seg>JSch (Licença JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090704Z" creationid="Pedro Albuquerque" creationdate="20210421T090704Z">
+        <seg>Japonês</seg>
       </tuv>
     </tu>
     <tu>
@@ -4149,6 +4253,22 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065356Z" creationid="Pedro Albuquerque" creationdate="20210421T065356Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090549Z" creationid="Pedro Albuquerque" creationdate="20210421T090549Z">
+        <seg>Nome do idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090555Z" creationid="Pedro Albuquerque" creationdate="20210421T090555Z">
+        <seg>Padrão do idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -5295,6 +5415,22 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090621Z" creationid="Pedro Albuquerque" creationdate="20210421T090621Z">
+        <seg>Padrão após</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090616Z" creationid="Pedro Albuquerque" creationdate="20210421T090616Z">
+        <seg>Padrão antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -5371,6 +5507,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065028Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Extensão carregada com sucesso da classe "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090712Z" creationid="Pedro Albuquerque" creationdate="20210421T090712Z">
+        <seg>Polaco</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,6 +5657,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073514Z" creationid="Pedro Albuquerque" creationdate="20210421T073514Z">
         <seg>Filtros de ficheiro específicos do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090831Z" creationid="Pedro Albuquerque" creationdate="20210421T090817Z">
+        <seg>Configuração da segmentação específica do projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,6 +6073,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090717Z" creationid="Pedro Albuquerque" creationdate="20210421T090717Z">
+        <seg>Russo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072034Z" creationid="Pedro Albuquerque" creationdate="20210421T071948Z">
@@ -6155,6 +6315,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090813Z" creationid="Pedro Albuquerque" creationdate="20210421T090813Z">
+        <seg>Configuração da segmentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation method: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063713Z" creationid="Pedro Albuquerque" creationdate="20210421T063713Z">
@@ -6331,6 +6499,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090727Z" creationid="Pedro Albuquerque" creationdate="20210421T090727Z">
+        <seg>Eslovaco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -6459,6 +6635,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090646Z" creationid="Pedro Albuquerque" creationdate="20210421T090646Z">
+        <seg>Espanhol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071701Z" creationid="Pedro Albuquerque" creationdate="20210421T071701Z">
@@ -6527,6 +6711,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090723Z" creationid="Pedro Albuquerque" creationdate="20210421T090723Z">
+        <seg>Sueco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +6809,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060719Z" creationid="Pedro Albuquerque" creationdate="20210421T060719Z">
         <seg>Procurar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090747Z" creationid="Pedro Albuquerque" creationdate="20210421T090747Z">
+        <seg>Segmentação de ficheiros de texto</seg>
       </tuv>
     </tu>
     <tu>
