@@ -690,6 +690,30 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063130Z" creationid="Pedro Albuquerque" creationdate="20210421T063130Z">
+        <seg>(etiqueta de fecho)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063046Z" creationid="Pedro Albuquerque" creationdate="20210421T063046Z">
+        <seg>(etiqueta de comentário)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063119Z" creationid="Pedro Albuquerque" creationdate="20210421T063119Z">
+        <seg>(etiqueta vazia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062759Z" creationid="Pedro Albuquerque" creationdate="20210421T062759Z">
@@ -1322,6 +1346,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063027Z" creationid="Pedro Albuquerque" creationdate="20210421T063027Z">
+        <seg>Confuso por início falso da etiqueta de comentário!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -1750,6 +1782,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063220Z" creationid="Pedro Albuquerque" creationdate="20210421T063220Z">
+        <seg>Encontrado fim de fluxo sem encontrar fim de bloco!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
@@ -2086,6 +2126,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063113Z" creationid="Pedro Albuquerque" creationdate="20210421T063113Z">
+        <seg>Carácter "?" flutuante não ligado a "'&gt;"!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055728Z" creationid="Pedro Albuquerque" creationdate="20210421T055728Z">
@@ -2296,6 +2344,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170822Z" creationid="Pedro Albuquerque" creationdate="20210420T170822Z">
         <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062941Z" creationid="Pedro Albuquerque" creationdate="20210421T062941Z">
+        <seg>Encontrada IOException:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4095,6 +4151,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063037Z" creationid="Pedro Albuquerque" creationdate="20210421T063037Z">
+        <seg>Nome da etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170224Z" creationid="Pedro Albuquerque" creationdate="20210420T170224Z">
@@ -4521,6 +4585,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
         <seg>Impossível ler o ficheiro de projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063000Z" creationid="Pedro Albuquerque" creationdate="20210421T063000Z">
+        <seg>Carácter {0} ({1}) inesperado!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,6 +5048,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063147Z" creationid="Pedro Albuquerque" creationdate="20210421T063147Z">
+        <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162502Z" creationid="Pedro Albuquerque" creationdate="20210420T162502Z">
@@ -5054,6 +5134,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122656Z" creationid="Pedro Albuquerque" creationdate="20210420T122656Z">
         <seg>init &lt;idioma-fonte&gt; &lt;idioma-alvo&gt;
 		Initializar um projecto de equipa mínimo com os idiomas especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063139Z" creationid="Pedro Albuquerque" creationdate="20210421T063139Z">
+        <seg>carregado</seg>
       </tuv>
     </tu>
     <tu>
