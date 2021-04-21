@@ -2737,6 +2737,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064014Z" creationid="Pedro Albuquerque" creationdate="20210421T064014Z">
+        <seg>Idioma não especificado para variante da unidade de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174926Z" creationid="Pedro Albuquerque" creationdate="20210420T174926Z">
@@ -4231,6 +4239,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064100Z" creationid="Pedro Albuquerque" creationdate="20210421T064100Z">
+        <seg>Impossível encontrar o segmento-fonte para certas unidades de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
@@ -4325,6 +4341,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180649Z" creationid="Pedro Albuquerque" creationdate="20210420T180649Z">
         <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064146Z" creationid="Pedro Albuquerque" creationdate="20210421T064146Z">
+        <seg>O idioma-fonte da TMX ({0}) é diferente do idioma-fonte do projecto ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4435,6 +4459,14 @@ You, victim of one</seg>
         <seg>Estes três são certos:
 Morte, impostos, e página não encontrada
 Você foi vítima de um deles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064111Z" creationid="Pedro Albuquerque" creationdate="20210421T064111Z">
+        <seg>Estas unidades foram ignoradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4951,6 +4983,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064022Z" creationid="Pedro Albuquerque" creationdate="20210421T064022Z">
+        <seg>Variante ignorada.</seg>
       </tuv>
     </tu>
     <tu>
