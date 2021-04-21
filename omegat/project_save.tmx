@@ -1020,6 +1020,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114920Z" creationid="Pedro Albuquerque" creationdate="20210421T114920Z">
+        <seg>Só segmentos não trad&amp;uzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110909Z" creationid="Pedro Albuquerque" creationdate="20210421T110909Z">
@@ -1560,6 +1568,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115049Z" creationid="Pedro Albuquerque" creationdate="20210421T115049Z">
+        <seg>Chave API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114954Z" creationid="Pedro Albuquerque" creationdate="20210421T114954Z">
+        <seg>Chave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162947Z" creationid="Pedro Albuquerque" creationdate="20210420T162947Z">
@@ -1812,6 +1836,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091205Z" creationid="Pedro Albuquerque" creationdate="20210421T091205Z">
@@ -1968,6 +2000,14 @@ Buy another drink</seg>
         <seg>O empregado grita alto:
 A sua página não foi encontrada,
 Compre outra bebida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2450,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115026Z" creationid="Pedro Albuquerque" creationdate="20210421T115026Z">
+        <seg>Ligar a servidor personalizado em vez do apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -2650,6 +2698,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115040Z" creationid="Pedro Albuquerque" creationdate="20210421T115040Z">
+        <seg>URL do servidor personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114839Z" creationid="Pedro Albuquerque" creationdate="20210421T114839Z">
@@ -2670,6 +2726,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072135Z" creationid="Pedro Albuquerque" creationdate="20210421T072135Z">
         <seg>D&amp;iagramas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114935Z" creationid="Pedro Albuquerque" creationdate="20210421T114935Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3290,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114948Z" creationid="Pedro Albuquerque" creationdate="20210421T114948Z">
+        <seg>Email:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -3298,6 +3370,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090642Z" creationid="Pedro Albuquerque" creationdate="20210421T090642Z">
         <seg>Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115121Z" creationid="Pedro Albuquerque" creationdate="20210421T115121Z">
+        <seg>Assegure-se que o URL está correcto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3550,22 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064956Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Erro ao descarregar extensão da classe "{0}": {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114947Z" creationid="Pedro Albuquerque" creationdate="20210421T114947Z">
+        <seg>Erro ao ler resultados da MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114959Z" creationid="Pedro Albuquerque" creationdate="20210421T114959Z">
+        <seg>Erro {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4248,6 +4344,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
+        <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072916Z" creationid="Pedro Albuquerque" creationdate="20210421T072916Z">
@@ -4440,6 +4544,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>I"ve been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114936Z" creationid="Pedro Albuquerque" creationdate="20210421T114936Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -5793,6 +5905,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114922Z" creationid="Pedro Albuquerque" creationdate="20210421T114922Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092410Z" creationid="Pedro Albuquerque" creationdate="20210421T092410Z">
@@ -5861,6 +5981,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>More precisely, OmegaT attempts to match each filter"s source filename patterns against the filename.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114935Z" creationid="Pedro Albuquerque" creationdate="20210421T114935Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -5987,6 +6115,22 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065937Z" creationid="Pedro Albuquerque" creationdate="20210421T065937Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114928Z" creationid="Pedro Albuquerque" creationdate="20210421T114928Z">
+        <seg>MyMemory (humana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114934Z" creationid="Pedro Albuquerque" creationdate="20210421T114934Z">
+        <seg>MyMemory (automática)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,6 +9578,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115103Z" creationid="Pedro Albuquerque" creationdate="20210421T115103Z">
+        <seg>Impossível ligar ao servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054807Z" creationid="Pedro Albuquerque" creationdate="20210421T054807Z">
@@ -10116,6 +10268,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070426Z" creationid="Pedro Albuquerque" creationdate="20210421T070426Z">
         <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114936Z" creationid="Pedro Albuquerque" creationdate="20210421T114936Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
