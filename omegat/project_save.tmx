@@ -2471,6 +2471,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061646Z" creationid="Pedro Albuquerque" creationdate="20210421T061529Z">
+        <seg>as procuras por palavra-chave correspondem a qualquer palavra-chave separada por espaços, independentemente da sua ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165715Z" creationid="Pedro Albuquerque" creationdate="20210420T165715Z">
@@ -3351,6 +3359,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125738Z" creationid="Pedro Albuquerque" creationdate="20210420T125738Z">
         <seg>Registar tradução idêntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061648Z" creationid="Pedro Albuquerque" creationdate="20210421T061617Z">
+        <seg>a procura por expressões regulares corresponde a expressões regulares Java, como documentado no manual do utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4557,6 +4573,16 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
         <seg>O que é o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061746Z" creationid="Pedro Albuquerque" creationdate="20210421T061637Z">
+        <seg>Caracteres universais:
+tanto as procuras exactas como por palavras-chave suportam os caracteres universais * e ?.</seg>
       </tuv>
     </tu>
     <tu>
