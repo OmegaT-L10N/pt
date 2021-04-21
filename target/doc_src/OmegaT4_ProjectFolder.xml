@@ -130,9 +130,7 @@
             <para>Make decision about immunity of the enforced
             segments:<itemizedlist>
                 <listitem>
-                  <para>If they <emphasis>don't need</emphasis> to stay immune
-                  from further changes, then remove the TMX from
-                  /tm/enforce.</para>
+                  <para>If they <emphasis>don&quot;t need</emphasis> to stay immune from further changes, then remove the TMX from /tm/enforce.</para>
                 </listitem>
 
                 <listitem>
@@ -143,8 +141,7 @@
           </listitem>
         </orderedlist></para>
 
-      <para>Note: if TMX is removed from /tm/enforce before step 3,
-      enforcements aren't kept at all.</para>
+      <para>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren&quot;t kept at all.</para>
     </section>
 
     <section>

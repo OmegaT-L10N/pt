@@ -208,9 +208,7 @@
       <term>Quit</term>
 
       <listitem>
-        <para>Saves the project and quits <application>OmegaT</application>.
-        If you haven't yet saved the project, this manually confirms whether
-        you really wish to quit.</para>
+        <para>Saves the project and quits <application>OmegaT</application>. If you haven&quot;t yet saved the project, this manually confirms whether you really wish to quit.</para>
       </listitem>
     </varlistentry>
   </variablelist>

@@ -132,7 +132,7 @@
           <term>Browse TaaS Collections...</term>
 
           <listitem>
-            <para>This button enables you to browse and download the collections that exist for the project's source and target languages. Private collections are displayed in bold. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</para>
+            <para>This button enables you to browse and download the collections that exist for the project&quot;s source and target languages. Private collections are displayed in bold. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</para>
           </listitem>
         </varlistentry>
 
@@ -200,7 +200,7 @@
   </section>
 
   <section id="dialogs.preferences.filefilters">
-    <title>File Filters</title>
+    <title>Filtros de ficheiro</title>
 
     <para>This dialog lists the file filters available. The filters used by the current project are displayed in bold. If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name. OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents. When you wish to use the filter again, just tick the check box. Click <emphasis role="bold">Defaults</emphasis> to reset the file filters to the default settings. To edit the files and encodings a filter is used for, select the filter in the list and click <emphasis role="bold">Edit.</emphasis></para>
 
@@ -264,8 +264,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;'
-          in header</emphasis></para>
+          <para><emphasis>Auto replace &quot;nplurals=INTEGER; plural=EXPRESSION;&quot; in header</emphasis></para>
 
           <para><emphasis>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</emphasis></para>
         </listitem>
@@ -343,7 +342,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Other Options: </emphasis></para>
+          <para><emphasis role="bold">Outras opções:</emphasis></para>
 
           <itemizedlist>
             <listitem>
@@ -429,7 +428,7 @@
       <section id="source.filetype.and.filename.pattern">
         <title>Source file type, filename pattern</title>
 
-        <para>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension. More precisely, OmegaT attempts to match each filter's source filename patterns against the filename. For example, the pattern <literal>*.xhtml </literal>matches any file with the <literal>.xhtml</literal> extension. If the appropriate filter is found, the file is assigned to it for processing. For example, by default, the XHTML filter is used to process files with the .xhtml extension. You can change or add filename patterns for files to be handled by each file filter. Source filename patterns use wild card characters similar to those used in <emphasis role="bold">Searches. </emphasis>The '*' character matches zero or more characters. The '?' character matches exactly one character. All other characters represent themselves. For example, if you wish the text filter to handle readme files (<literal>readme, read.me</literal>, and <literal>readme.txt</literal>) you should use the pattern <literal>read*</literal>.</para>
+        <para>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file&quot;s extension. More precisely, OmegaT attempts to match each filter&quot;s source filename patterns against the filename. For example, the pattern <literal>*.xhtml </literal>matches any file with the <literal>.xhtml</literal> extension. If the appropriate filter is found, the file is assigned to it for processing. For example, by default, the XHTML filter is used to process files with the .xhtml extension. You can change or add filename patterns for files to be handled by each file filter. Source filename patterns use wild card characters similar to those used in <emphasis role="bold">Searches. </emphasis>The &quot;*&quot; character matches zero or more characters. The &quot;?&quot; character matches exactly one character. All other characters represent themselves. For example, if you wish the text filter to handle readme files (<literal>readme, read.me</literal>, and <literal>readme.txt</literal>) you should use the pattern <literal>read*</literal>.</para>
       </section>
 
       <section id="source.and.target.files.encoding">
@@ -460,7 +459,7 @@
       <section id="target.name">
         <title>Translated filename</title>
 
-        <para>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name. The target filename pattern uses a special syntax, so if you want to edit this field, you must click <emphasis role="bold">Edit...</emphasis>and use the Edit Pattern Dialog. If you want to revert to the filter's default configuration, click <emphasis role="bold">Defaults.</emphasis> You can also modify the name directly in the target filename pattern field of the file filters dialog. The Edit Pattern Dialog offers among others the following options:</para>
+        <para>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name. The target filename pattern uses a special syntax, so if you want to edit this field, you must click <emphasis role="bold">Edit...</emphasis>and use the Edit Pattern Dialog. If you want to revert to the filter&quot;s default configuration, click <emphasis role="bold">Defaults.</emphasis> You can also modify the name directly in the target filename pattern field of the file filters dialog. The Edit Pattern Dialog offers among others the following options:</para>
 
         <itemizedlist>
           <listitem>
@@ -778,8 +777,7 @@
 
           <tbody>
             <row>
-              <entry>Set the segment start after a period ('.') followed by a
-              space, tab ...</entry>
+              <entry>Set the segment start after a period (&quot;.&quot;) followed by a space, tab ...</entry>
 
               <entry align="center">\.</entry>
 
@@ -887,7 +885,7 @@
         <term>Enable project-specific commands</term>
 
         <listitem>
-          <para>By default, OmegaT does not execute the commands specified in the project-specific settings (the <filename>finder.xml</filename> file in the <filename>omegat</filename> folder), because they may have a critical impact on the machine's security.</para>
+          <para>By default, OmegaT does not execute the commands specified in the project-specific settings (the <filename>finder.xml</filename> file in the <filename>omegat</filename> folder), because they may have a critical impact on the machine&quot;s security.</para>
 
           <para>Only activate this option if you know what you are doing, and only for projects from trusted sources.</para>
         </listitem>
@@ -1105,10 +1103,7 @@
         <term>Initially load this many segments</term>
 
         <listitem>
-          <para>By default the editor displays 2,000 of initial segments, and
-          progressively loads more as you scroll up or down. If you have a
-          powerful machine, and/or if you don't like how the scrollbar behaves
-          during progressive loading, you can increase this number.</para>
+          <para>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down. If you have a powerful machine, and/or if you don&quot;t like how the scrollbar behaves during progressive loading, you can increase this number.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -1117,7 +1112,7 @@
   <section id="dialogs.preferences.tagprocessing">
     <title>Tag Processing</title>
 
-    <para>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already. The PO filter already handles %.. and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</para>
+    <para>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn&quot;t do it out of the box already. The PO filter already handles %.. and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</para>
 
     <para>You can also define various options relating to tag validation and define custom tags.</para>
 
@@ -1291,7 +1286,7 @@
         <listitem>
           <para>Specify commands that are executed after the <guimenuitem>Create Translated Documents</guimenuitem> command.</para>
 
-          <para>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</para>
+          <para>An example of the use of this feature would be to send translated documents automatically to the client&quot;s FTP server.</para>
         </listitem>
       </varlistentry>
 
@@ -1299,7 +1294,7 @@
         <term>Also allow per-project external commands</term>
 
         <listitem>
-          <para>By default, OmegaT does not execute the commands specified in the project-specific settings (the <filename>omegat.project</filename> file), because they may have a critical impact on the machine's security.</para>
+          <para>By default, OmegaT does not execute the commands specified in the project-specific settings (the <filename>omegat.project</filename> file), because they may have a critical impact on the machine&quot;s security.</para>
 
           <para>Only activate this option if you know what you are doing, and only for projects from trusted sources.</para>
         </listitem>

@@ -237,28 +237,13 @@
     <para>It is possible to modify the sort order of the three percentages but
     not which is used to select the fuzzy matches.</para>
 
-    <para>The selected fuzzy match is highlighted in bold, words that are
-    missing in the segment you are translating are colored blue and words
-    adjacent to the missing parts green. In the above example the source segment
-    is <emphasis role="bold">Context menu command</emphasis>. The top match is
-    100%, because all words match. So do the next two matches, and the match #4
-    is similar, but different. The line with the matching percentage also
-    includes the name of the translation memory containing the match. If there's
-    no file name displayed, the source is the internal project translation
-    memory. Orphan segments (match #2) describe segments in the default project
-    translation memory that have no corresponding source segment.</para>
+    <para>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green. In the above example the source segment is <emphasis role="bold">Context menu command</emphasis>. The top match is 100%, because all words match. So do the next two matches, and the match #4 is similar, but different. The line with the matching percentage also includes the name of the translation memory containing the match. If there&quot;s no file name displayed, the source is the internal project translation memory. Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</para>
   </section>
 
   <section>
     <title>Glossário</title>
 
-    <para>The Glossary pane allows you to access your own collection of
-    expressions and specialist terminology which you have built up in your
-    glossary files. It shows translation of terms found in the current
-    segment. The source segment in the example below was “<emphasis>Context
-    menu command</emphasis>”, as in the Fuzzy Matches example above, and the
-    terms shown were found in the glossaries, available (Microsoft's Term
-    collection and Slovenian Linux User group Glossary).</para>
+    <para>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files. It shows translation of terms found in the current segment. The source segment in the example below was “<emphasis>Context menu command</emphasis>”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft&quot;s Term collection and Slovenian Linux User group Glossary).</para>
 
     <para>If you have TransTips option activated (<guimenuitem>Options →
     TransTips</guimenuitem>), you can right click on the highlighted word in

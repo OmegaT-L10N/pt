@@ -7,9 +7,7 @@
   SVN or Git versioning systems. It should thus be carried out by a project
   manager, a project leader or a localisation engineer.</para>
 
-  <para>As plenty of information about SVN and Git is easily available, we
-  won't describe how they work here, but only how OmegaT works with
-  them.</para>
+  <para>As plenty of information about SVN and Git is easily available, we won&quot;t describe how they work here, but only how OmegaT works with them.</para>
 
   <section>
     <title>Step 1: Create an empty project on a server</title>
@@ -325,22 +323,13 @@
         <filename>source/file.txt</filename> and <filename>/home/me/myfiles/some/file.txt</filename> is mapped to the local file <filename>source/file2.txt</filename>.
     </para>
 
-    <para>Warning: if a file does not exist, the project won't load.</para>
-    <para>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.
-    This feature is intended for gathering source files, but you're not restricted to source files.</para>
+    <para>Warning: if a file does not exist, the project won&quot;t load.</para>
+    <para>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project. This feature is intended for gathering source files, but you&quot;re not restricted to source files.</para>
   </section>
   <section>
     <title>Note about omegat.project and mappings</title>
-    <para>When you create a new project and commit that to a repository, the <filename>omegat.project</filename> file
-        doesn't contain any mapping.
-        When you download the project, the project is converted to a team project locally and a default mapping is added.
-    </para>
-    <para>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain
-        the mappings. When you load a project, all changes in the repository are copied to the local project, including
-        the <filename>omegat.project</filename> file with project settings. If the file doesn't contain mappings, the
-        existing local mappings are re-applied, and only those. All other local changes to the project are reverted.
-      If the file does contain mappings, then local changes to mappings are lost.
-    </para>
+    <para>When you create a new project and commit that to a repository, the <filename>omegat.project</filename> file doesn&quot;t contain any mapping. When you download the project, the project is converted to a team project locally and a default mapping is added.</para>
+    <para>Note that the omegat.project file in the repository is not changed automatically and still doesn&quot;t contain the mappings. When you load a project, all changes in the repository are copied to the local project, including the <filename>omegat.project</filename> file with project settings. If the file doesn&quot;t contain mappings, the existing local mappings are re-applied, and only those. All other local changes to the project are reverted. If the file does contain mappings, then local changes to mappings are lost.</para>
   </section>
 
 </section>

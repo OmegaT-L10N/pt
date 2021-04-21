@@ -151,7 +151,7 @@ o caminho completo.)
 Contribuintes
 ============
 
-OmegaT é o trabalho original de Keith Godfrey.
+O OmegaT é o trabalho original de Keith Godfrey.
 
 Aaron Madlon-Kay é o gestor do projecto OmegaT.
 

@@ -10,8 +10,7 @@
       <title id="which.package.to.download.windows">Downloading the
       package</title>
 
-      <para>Do you have a Java implementation compatible with Oracle's Java 8
-      JRE?</para>
+      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
 
       <itemizedlist>
         <listitem>
@@ -20,12 +19,9 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">No / I don't know:</emphasis> download
-          <filename>OmegaT_4.n.n_Windows.exe</filename>.</para>
+          <para><emphasis role="bold">No / I don&quot;t know:</emphasis> download <filename>OmegaT_4.n.n_Windows.exe</filename>.</para>
 
-          <para>This package is bundled with Oracle's Java Runtime
-          Environment. This JRE will not interfere with other Java
-          implementations that may already be installed on your system.</para>
+          <para>This package is bundled with Oracle&quot;s Java Runtime Environment. This JRE will not interfere with other Java implementations that may already be installed on your system.</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -67,7 +63,7 @@
       as the user language and Canada as the country:</para>
 
       <programlisting># OmegaT.exe runtime configuration
-# To use a parameter, remove the '#' before the '-'
+# To use a parameter, remove the &quot;#&quot; before the &quot;-&quot;
 # Memory
 -Xmx1024M
 # Language
@@ -142,8 +138,7 @@
     <section id="which.package.to.download.Linux">
       <title>Downloading the right package</title>
 
-      <para>Do you have a Java implementation compatible with Oracle's Java 8
-      JRE?</para>
+      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
 
       <itemizedlist>
         <listitem>
@@ -152,12 +147,9 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">No / I don't know:</emphasis> download
-          <filename>OmegaT_4.n.n_Linux.tar.bz2</filename>.</para>
+          <para><emphasis role="bold">No / I don&quot;t know:</emphasis> download <filename>OmegaT_4.n.n_Linux.tar.bz2</filename>.</para>
 
-          <para>This package is bundled with Oracle's Java Runtime
-          Environment. This JRE will not interfere with other Java
-          implementations that may already be installed on your system.</para>
+          <para>This package is bundled with Oracle&quot;s Java Runtime Environment. This JRE will not interfere with other Java implementations that may already be installed on your system.</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -308,10 +300,7 @@
       <para>Double-click on <filename>OmegaT.app</filename> or click
       on its location in the Dock.</para>
 
-      <para>You can modify OmegaT's behaviour by editing the
-      <emphasis>Properties</emphasis> as well as the
-      <filename>Configuration.properties</filename> file in the
-      package.</para>
+      <para>You can modify OmegaT&quot;s behaviour by editing the <emphasis>Properties</emphasis> as well as the <filename>Configuration.properties</filename> file in the package.</para>
 
       <para>To access <filename>Configuration.properties</filename>, right-click
       on <filename>OmegaT.app</filename> and select &quot;Show Package Contents&quot;,
@@ -372,8 +361,7 @@
       Windows x64 etc) must have a running compatible Java JRE on their system
       to be able to use <application>OmegaT</application>.</para>
 
-      <para>Do you have a Java implementation compatible with Oracle's Java 8
-      JRE?</para>
+      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
 
       <itemizedlist>
         <listitem>
@@ -384,10 +372,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">I don't know:</emphasis> open a terminal
-          and type <command>java -version</command>. If a &quot;command not found&quot; or
-          similar message is returned, it is likely that Java is not installed
-          on your system.</para>
+          <para><emphasis role="bold">I don&quot;t know:</emphasis> open a terminal and type <command>java -version</command>. If a &quot;command not found&quot; or similar message is returned, it is likely that Java is not installed on your system.</para>
         </listitem>
 
         <listitem>
@@ -419,9 +404,7 @@
     <section id="installing.convenient.shortcuts">
       <title>Installing convenient shortcuts</title>
 
-      <para>Follow your system's instructions to install
-      <application>OmegaT</application> shortcuts in convenient places of your
-      choosing.</para>
+      <para>Follow your system&quot;s instructions to install <application>OmegaT</application> shortcuts in convenient places of your choosing.</para>
     </section>
 
     <section id="running.OmegaT.other">
@@ -485,11 +468,7 @@
     <title id="commandline.launching.title">Starting OmegaT from the command
     line</title>
 
-    <para>Normally, it is not necessary to start
-    <application>OmegaT</application> from the command line. However, the
-    command-line alternative allows the user to control and modify the
-    program's behavior. There are two ways of launching
-    <application>OmegaT</application> using the command line.</para>
+    <para>Normally, it is not necessary to start <application>OmegaT</application> from the command line. However, the command-line alternative allows the user to control and modify the program&quot;s behavior. There are two ways of launching <application>OmegaT</application> using the command line.</para>
 
     <section id="method1.opening.commandline.window">
       <title>Opening a command line window</title>
@@ -569,25 +548,9 @@
           <para><emphasis role="bold">User interface language
           </emphasis></para>
 
-          <para><emphasis role="bold"><literal>-Duser.language=<parameter>XX</parameter></literal></emphasis>
-          Normally, i.e. when <application>OmegaT</application> is launched
-          without any arguments, the program first detects the language of the
-          user's operating system. If a user interface in this language is
-          available, <application>OmegaT</application> uses it. So, if the
-          user's operating system is Russian and
-          <application>OmegaT</application> has been localized in Russian,
-          <application>OmegaT</application> is displayed with a Russian user
-          interface, Russian menus, etc. If the language of the user's system is
-          not available, <application>OmegaT</application> defaults to
-          English. This is the standard behavior.</para>
+          <para><emphasis role="bold"><literal>-Duser.language=<parameter>XX</parameter></literal></emphasis> Normally, i.e. when <application>OmegaT</application> is launched without any arguments, the program first detects the language of the user&quot;s operating system. If a user interface in this language is available, <application>OmegaT</application> uses it. So, if the user&quot;s operating system is Russian and <application>OmegaT</application> has been localized in Russian, <application>OmegaT</application> is displayed with a Russian user interface, Russian menus, etc. If the language of the user&quot;s system is not available, <application>OmegaT</application> defaults to English. This is the standard behavior.</para>
 
-          <para>The <literal>-Duser.language=<parameter>XX</parameter></literal>
-          argument causes <application>OmegaT</application> to use the language
-          specified rather than the language of the user's operating
-          system. <parameter>XX</parameter> in the command stands for the
-          two-digit code of the desired language. To launch
-          <application>OmegaT</application> with a French interface (for example
-          on a Russian operating system), the command would therefore be:</para>
+          <para>The <literal>-Duser.language=<parameter>XX</parameter></literal> argument causes <application>OmegaT</application> to use the language specified rather than the language of the user&quot;s operating system. <parameter>XX</parameter> in the command stands for the two-digit code of the desired language. To launch <application>OmegaT</application> with a French interface (for example on a Russian operating system), the command would therefore be:</para>
 
           <programlisting>java -Duser.language=fr -jar OmegaT.jar</programlisting>
         </listitem>
@@ -597,13 +560,7 @@
         <listitem>
           <para><emphasis role="bold">User country</emphasis></para>
 
-          <para><emphasis role="bold">-Duser.country=<parameter>XX</parameter></emphasis>
-          Besides the language, you can also specify the country, for example
-          <literal>CN</literal> or <literal>TW</literal> in case of the Chinese
-          language. To display the instant start guide in the desired language,
-          you need to specify both the language and the country. This is
-          necessary even if there's only one combination available, like
-          <literal>pt_BR</literal> in case of Brazilian Portuguese.</para>
+          <para><emphasis role="bold">-Duser.country=<parameter>XX</parameter></emphasis> Besides the language, you can also specify the country, for example <literal>CN</literal> or <literal>TW</literal> in case of the Chinese language. To display the instant start guide in the desired language, you need to specify both the language and the country. This is necessary even if there&quot;s only one combination available, like <literal>pt_BR</literal> in case of Brazilian Portuguese.</para>
         </listitem>
       </itemizedlist>
 
@@ -709,16 +666,7 @@
           </listitem>
 
           <listitem>
-            <para>If you can't run <application>OmegaT</application> normally
-            (no graphical environment available): copy the settings files from
-            some other <application>OmegaT</application> installation on another
-            machine to a specific folder. The location does not matter, since
-            you can add it to the command line at startup. The relevant files
-            are <filename>filters.conf</filename> and
-            <filename>segmentation.conf</filename> and can be found in the user
-            home folder (e.g. <filename>C:\Documents and
-            Settings\<parameter>user</parameter>\OmegaT</filename> under
-            Windows, <filename>~/.omegat/</filename> under Linux).</para>
+            <para>If you can&quot;t run <application>OmegaT</application> normally (no graphical environment available): copy the settings files from some other <application>OmegaT</application> installation on another machine to a specific folder. The location does not matter, since you can add it to the command line at startup. The relevant files are <filename>filters.conf</filename> and <filename>segmentation.conf</filename> and can be found in the user home folder (e.g. <filename>C:\Documents and Settings\<parameter>user</parameter>\OmegaT</filename> under Windows, <filename>~/.omegat/</filename> under Linux).</para>
           </listitem>
         </itemizedlist>
       </section>
@@ -831,10 +779,7 @@
           <listitem>
             <para><literal>--source-pattern=<parameter>regexp</parameter></literal></para>
 
-            <para>When mode has been used, this option will specify the files
-            to be processed automatically. If the parameter is not specified,
-            all files will be processed. Here's few typical examples to limit
-            your choice:</para>
+            <para>When mode has been used, this option will specify the files to be processed automatically. If the parameter is not specified, all files will be processed. Here&quot;s few typical examples to limit your choice:</para>
 
             <itemizedlist>
               <listitem>

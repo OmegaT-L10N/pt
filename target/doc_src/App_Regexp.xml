@@ -70,37 +70,37 @@
         <row>
           <entry>\t</entry>
 
-          <entry>The tab character ('\u0009')</entry>
+          <entry>The tab character (&quot;\u0009&quot;)</entry>
         </row>
 
         <row>
           <entry>\n</entry>
 
-          <entry>The newline (line feed) character ('\u000A')</entry>
+          <entry>The newline (line feed) character (&quot;\u000A&quot;)</entry>
         </row>
 
         <row>
           <entry>\r</entry>
 
-          <entry>The carriage-return character ('\u000D')</entry>
+          <entry>The carriage-return character (&quot;\u000D&quot;)</entry>
         </row>
 
         <row>
           <entry>\f</entry>
 
-          <entry>The form-feed character ('\u000C')</entry>
+          <entry>The form-feed character (&quot;\u000C&quot;)</entry>
         </row>
 
         <row>
           <entry>\a</entry>
 
-          <entry>The alert (bell) character ('\u0007')</entry>
+          <entry>The alert (bell) character (&quot;\u0007&quot;)</entry>
         </row>
 
         <row>
           <entry>\e</entry>
 
-          <entry>The escape character ('\u001B')</entry>
+          <entry>The escape character (&quot;\u001B&quot;)</entry>
         </row>
 
         <row>
@@ -589,7 +589,7 @@
           <row>
             <entry>\bis\b</entry>
 
-            <entry>search for “is”, not “this” or “isn't” etc.</entry>
+            <entry>search for “is”, not “this” or “isn&quot;t” etc.</entry>
           </row>
         </tbody>
       </tgroup>

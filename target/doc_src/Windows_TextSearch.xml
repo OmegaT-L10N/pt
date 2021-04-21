@@ -78,32 +78,21 @@
   <section id="using.wild.cards">
     <title>Using wild cards</title>
 
-    <para>In both exact and keyword searches, the wild card search characters
-    '*' and '?' can be used. They have the meaning, familiar to Word
-    users:</para>
+    <para>In both exact and keyword searches, the wild card search characters &quot;*&quot; and &quot;?&quot; can be used. They have the meaning, familiar to Word users:</para>
 
     <itemizedlist>
       <listitem>
-        <para>'*' matches zero or more characters, from the current position
-        in a given word to its end. The search term <literal>'run*'</literal>
-        for example would match words <literal>'run'</literal>,
-        <literal>'runs'</literal> and <literal>'running'</literal>.</para>
+        <para>&quot;*&quot; matches zero or more characters, from the current position in a given word to its end. The search term <literal>&quot;run*&quot;</literal> for example would match words <literal>&quot;run&quot;</literal>, <literal>&quot;runs&quot;</literal> and <literal>&quot;running&quot;</literal>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>'?' matches any single character. For instance,
-        <literal>'run?'</literal> would match the word
-        <literal>'runs'</literal> and <literal>'runn'</literal> in the word
-        <literal>'running'</literal>.</para>
+        <para>&quot;?&quot; matches any single character. For instance, <literal>&quot;run?&quot;</literal> would match the word <literal>&quot;runs&quot;</literal> and <literal>&quot;runn&quot;</literal> in the word <literal>&quot;running&quot;</literal>.</para>
       </listitem>
     </itemizedlist>
 
-    <para>The matches will be displayed in bold blue. Note that '*' and '?'
-    have special meaning in regular expressions, so wild card search, as
-    described here, applies to exact and keyword search only (see
-    below).</para>
+    <para>The matches will be displayed in bold blue. Note that &quot;*&quot; and &quot;?&quot; have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</para>
   </section>
 
   <section id="search.methoids">

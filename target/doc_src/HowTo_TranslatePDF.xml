@@ -42,11 +42,7 @@
     <para>Other plain text or formatted text file formats suitable for
     processing in OmegaT may also exist.</para>
 
-    <para>External tools can be used to convert files to supported
-    formats. The translated files will then need to be converted back to the
-    original format. For example, if you have an outdated Microsoft Word
-    version, that does not handle the ODT format, here's a round trip for Word
-    files with the DOC extension:</para>
+    <para>External tools can be used to convert files to supported formats. The translated files will then need to be converted back to the original format. For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here&quot;s a round trip for Word files with the DOC extension:</para>
 
     <itemizedlist>
       <listitem>
