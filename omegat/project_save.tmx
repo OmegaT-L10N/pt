@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054245Z" creationid="Pedro Albuquerque" creationdate="20210421T054245Z">
+        <seg>&amp;Navegar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122927Z" creationid="Pedro Albuquerque" creationdate="20210420T122927Z">
@@ -960,6 +968,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054258Z" creationid="Pedro Albuquerque" creationdate="20210421T054258Z">
+        <seg>Navega&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
@@ -968,6 +984,30 @@ Buy another drink</seg>
         <seg>O empregado grita alto:
 A sua página não foi encontrada,
 Compre outra bebida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054306Z" creationid="Pedro Albuquerque" creationdate="20210421T054306Z">
+        <seg>Na&amp;vegar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054317Z" creationid="Pedro Albuquerque" creationdate="20210421T054317Z">
+        <seg>Nav&amp;egar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054310Z" creationid="Pedro Albuquerque" creationdate="20210421T054310Z">
+        <seg>Navegar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,6 +1360,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054416Z" creationid="Pedro Albuquerque" creationdate="20210421T054416Z">
+        <seg>Pasta dos dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054026Z" creationid="Pedro Albuquerque" creationdate="20210421T054026Z">
@@ -1412,6 +1460,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174858Z" creationid="Pedro Albuquerque" creationdate="20210420T174858Z">
         <seg>Activar segmentação a &amp;nível de frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054250Z" creationid="Pedro Albuquerque" creationdate="20210421T054250Z">
+        <seg>E&amp;xclusões...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,6 +1648,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054133Z" creationid="Pedro Albuquerque" creationdate="20210421T054133Z">
         <seg>Comando externo de pós-proessamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054448Z" creationid="Pedro Albuquerque" creationdate="20210421T054448Z">
+        <seg>Procura externa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1890,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164342Z" creationid="Pedro Albuquerque" creationdate="20210420T164342Z">
         <seg>Disposição do g&amp;lossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054350Z" creationid="Pedro Albuquerque" creationdate="20210421T054350Z">
+        <seg>Pasta dos glossários</seg>
       </tuv>
     </tu>
     <tu>
@@ -2763,6 +2835,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054611Z" creationid="Pedro Albuquerque" creationdate="20210421T054611Z">
+        <seg>Por favor, seleccione o idioma dos ficheiros-fonte e o idioma-alvo para o qual quer traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124835Z" creationid="Pedro Albuquerque" creationdate="20210420T124835Z">
@@ -3027,6 +3107,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054441Z" creationid="Pedro Albuquerque" creationdate="20210421T054441Z">
+        <seg>Mapeamento do repositório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163346Z" creationid="Pedro Albuquerque" creationdate="20210420T163346Z">
@@ -3263,6 +3351,22 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180731Z" creationid="Pedro Albuquerque" creationdate="20210420T180731Z">
         <seg>Alguns dos dicionários não têm quaisquer restrições - ou seja, são "livres de usar", ao passo que outros, como a selecção acima, estão sob a licença GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054508Z" creationid="Pedro Albuquerque" creationdate="20210421T054508Z">
+        <seg>Algumas pastas do projecto parecem ter sido movidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054331Z" creationid="Pedro Albuquerque" creationdate="20210421T054331Z">
+        <seg>Pasta dos ficheiros-fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -3523,6 +3627,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054337Z" creationid="Pedro Albuquerque" creationdate="20210421T054337Z">
+        <seg>Pasta dos ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated Files Folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175044Z" creationid="Pedro Albuquerque" creationdate="20210420T175044Z">
@@ -3551,6 +3663,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172240Z" creationid="Pedro Albuquerque" creationdate="20210420T172240Z">
         <seg>Segmentos únicos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054405Z" creationid="Pedro Albuquerque" creationdate="20210421T054405Z">
+        <seg>Pasta das memórias de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -3839,6 +3959,14 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054428Z" creationid="Pedro Albuquerque" creationdate="20210421T054428Z">
+        <seg>Ficheiro de glossário editável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writeable Glossary File:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175114Z" creationid="Pedro Albuquerque" creationdate="20210420T175114Z">
@@ -3928,6 +4056,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170347Z" creationid="Pedro Albuquerque" creationdate="20210420T170347Z">
         <seg>Tem de inserir um número entre 1 e {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054527Z" creationid="Pedro Albuquerque" creationdate="20210421T054527Z">
+        <seg>Deve especificar a nova localização ou recriá-las.</seg>
       </tuv>
     </tu>
     <tu>
