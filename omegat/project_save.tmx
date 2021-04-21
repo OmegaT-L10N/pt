@@ -1528,6 +1528,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100833Z" creationid="Pedro Albuquerque" creationdate="20210421T100833Z">
+        <seg>Permite ver, adicionar, eliminar ou editar uma nota presente no segmento activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -2506,6 +2514,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100551Z" creationid="Pedro Albuquerque" creationdate="20210421T100551Z">
+        <seg>Mostra as entradas de dicionário presentes nos ficheiros localizados na pasta /dictionary/, caso estes estejam presentes no segmento-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100252Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
@@ -2518,6 +2534,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093920Z" creationid="Pedro Albuquerque" creationdate="20210421T093920Z">
         <seg>Mostra os segmentos das memórias de tradução que correspondem ao segmento-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100719Z" creationid="Pedro Albuquerque" creationdate="20210421T100719Z">
+        <seg>Mostra a tradução do segmento-fonte efectuada pelos serviços de tradução automática que tiver seleccionado em Opções &gt; Tradução automática, caso esses serviços estejam disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4867,6 +4891,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100629Z" creationid="Pedro Albuquerque" creationdate="20210421T100629Z">
+        <seg>Tradução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100735Z" creationid="Pedro Albuquerque" creationdate="20210421T100735Z">
+        <seg>Opções da tradução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070727Z" creationid="Pedro Albuquerque" creationdate="20210421T070727Z">
@@ -5365,6 +5405,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100741Z" creationid="Pedro Albuquerque" creationdate="20210421T100741Z">
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100619Z" creationid="Pedro Albuquerque" creationdate="20210421T100619Z">
+        <seg>Notificar quando um segmento tem correspondências no dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095843Z" creationid="Pedro Albuquerque" creationdate="20210421T095843Z">
@@ -5703,6 +5759,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172203Z" creationid="Pedro Albuquerque" creationdate="20210420T172203Z">
         <seg>Abrir localização do ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100513Z" creationid="Pedro Albuquerque" creationdate="20210421T100513Z">
+        <seg>Abrir glossário editável</seg>
       </tuv>
     </tu>
     <tu>
