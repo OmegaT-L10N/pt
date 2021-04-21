@@ -1488,6 +1488,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060421Z" creationid="Pedro Albuquerque" creationdate="20210421T060421Z">
+        <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170836Z" creationid="Pedro Albuquerque" creationdate="20210420T170836Z">
@@ -4069,6 +4077,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060415Z" creationid="Pedro Albuquerque" creationdate="20210421T060415Z">
+        <seg>Tradu&amp;zidos ou não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054337Z" creationid="Pedro Albuquerque" creationdate="20210421T054337Z">
@@ -4594,6 +4610,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054722Z" creationid="Pedro Albuquerque" creationdate="20210421T054722Z">
         <seg>Ficheiros ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060443Z" creationid="Pedro Albuquerque" creationdate="20210421T060443Z">
+        <seg>todos os segmentos correspondentes</seg>
       </tuv>
     </tu>
     <tu>
