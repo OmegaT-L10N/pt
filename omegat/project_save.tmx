@@ -1996,6 +1996,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105722Z" creationid="Pedro Albuquerque" creationdate="20210421T105722Z">
+        <seg>Impossível instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073309Z" creationid="Pedro Albuquerque" creationdate="20210421T073309Z">
@@ -2262,6 +2270,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073241Z" creationid="Pedro Albuquerque" creationdate="20210421T073241Z">
         <seg>Confirmar remoção do padrão {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105652Z" creationid="Pedro Albuquerque" creationdate="20210421T105652Z">
+        <seg>Confirmar desinstalação</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3746,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055728Z" creationid="Pedro Albuquerque" creationdate="20210421T055728Z">
         <seg>A pasta já existe e não está vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105753Z" creationid="Pedro Albuquerque" creationdate="20210421T105753Z">
+        <seg>A pasta não existe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6575,6 +6599,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105644Z" creationid="Pedro Albuquerque" creationdate="20210421T105644Z">
+        <seg>Continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125135Z" creationid="Pedro Albuquerque" creationdate="20210420T125135Z">
@@ -8284,6 +8316,22 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105745Z" creationid="Pedro Albuquerque" creationdate="20210421T105745Z">
+        <seg>A pasta de dicionário especificada não pode ser utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105807Z" creationid="Pedro Albuquerque" creationdate="20210421T105807Z">
+        <seg>A pasta de dicionário especificada não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -8858,6 +8906,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105707Z" creationid="Pedro Albuquerque" creationdate="20210421T105707Z">
+        <seg>Impossível desinstalar o dicionário seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101500Z" creationid="Pedro Albuquerque" creationdate="20210421T101500Z">
@@ -8870,6 +8926,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063000Z" creationid="Pedro Albuquerque" creationdate="20210421T063000Z">
         <seg>Carácter {0} ({1}) inesperado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105714Z" creationid="Pedro Albuquerque" creationdate="20210421T105714Z">
+        <seg>Falha ao desinstalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9485,6 +9549,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060739Z" creationid="Pedro Albuquerque" creationdate="20210421T060739Z">
         <seg>Vai modificar {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105639Z" creationid="Pedro Albuquerque" creationdate="20210421T105639Z">
+        <seg>Está a desinstalar o dicionário de verificação ortográfica que o seu projecto utiliza actualmente.</seg>
       </tuv>
     </tu>
     <tu>
