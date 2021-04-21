@@ -508,6 +508,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181022Z" creationid="Pedro Albuquerque" creationdate="20210421T181022Z">
+        <seg>Corrector gramatica&amp;l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165706Z" creationid="Pedro Albuquerque" creationdate="20210420T165706Z">
@@ -2958,6 +2966,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060421Z" creationid="Pedro Albuquerque" creationdate="20210421T060421Z">
         <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181203Z" creationid="Pedro Albuquerque" creationdate="20210421T181203Z">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6211,6 +6227,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065937Z" creationid="Pedro Albuquerque" creationdate="20210421T065937Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181105Z" creationid="Pedro Albuquerque" creationdate="20210421T181050Z">
+        <seg>Traduções múltiplas</seg>
       </tuv>
     </tu>
     <tu>
