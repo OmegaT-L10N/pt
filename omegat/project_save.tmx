@@ -4907,6 +4907,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095756Z" creationid="Pedro Albuquerque" creationdate="20210421T095756Z">
+        <seg>As correspondências podem ser encontradas na sua tradução actual ou nos ficheiros TMX que colocou na pasta /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070219Z" creationid="Pedro Albuquerque" creationdate="20210421T070219Z">
