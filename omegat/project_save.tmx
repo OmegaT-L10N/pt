@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T053929Z" creationid="Pedro Albuquerque" creationdate="20210421T053657Z">
+        <seg>Lemati&amp;zador do idioma-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152929Z" creationid="Pedro Albuquerque" creationdate="20210420T152929Z">
@@ -536,8 +544,8 @@
       <tuv lang="en">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175149Z" creationid="Pedro Albuquerque" creationdate="20210420T175149Z">
-        <seg>&amp;Translated Files Language:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T053742Z" creationid="Pedro Albuquerque" creationdate="20210420T175149Z">
+        <seg>Idioma dos ficheiros &amp;traduzidos</seg>
       </tuv>
     </tu>
     <tu>
