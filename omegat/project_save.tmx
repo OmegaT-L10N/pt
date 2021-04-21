@@ -646,6 +646,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062052Z" creationid="Pedro Albuquerque" creationdate="20210421T062052Z">
+        <seg>'*' corresponde a zero ou mais caracteres ("ru*" encontra "runa", "ruínas", "rui", etc.)
+'?' corresponde exactamente a um carácter ("run?" encontra "runa", mas não "ruína" ou "runas").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
