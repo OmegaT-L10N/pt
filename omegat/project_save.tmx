@@ -6189,8 +6189,8 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074519Z" creationid="Pedro Albuquerque" creationdate="20210421T074519Z">
-        <seg>Skip text matching regular expression:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085706Z" creationid="Pedro Albuquerque" creationdate="20210421T074519Z">
+        <seg>Ignorar texto correspondente a expressão regular:</seg>
       </tuv>
     </tu>
     <tu>
