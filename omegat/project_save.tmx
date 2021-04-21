@@ -2418,6 +2418,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073820Z" creationid="Pedro Albuquerque" creationdate="20210421T073820Z">
+        <seg>Editar padrões do filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174905Z" creationid="Pedro Albuquerque" creationdate="20210420T174905Z">
@@ -3493,6 +3501,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If the file doesn"t contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073811Z" creationid="Pedro Albuquerque" creationdate="20210421T073811Z">
+        <seg>Se o filtro tiver opções, pode alterá-las clicando em Opções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,6 +4645,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073827Z" creationid="Pedro Albuquerque" creationdate="20210421T073827Z">
+        <seg>O&amp;pções...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -5185,6 +5209,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073947Z" creationid="Pedro Albuquerque" creationdate="20210421T073947Z">
+        <seg>Preservar espaços para &amp;todas as etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -5481,10 +5513,26 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073853Z" creationid="Pedro Albuquerque" creationdate="20210421T073853Z">
+        <seg>Remover eti&amp;quetas iniciais e finais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054109Z" creationid="Pedro Albuquerque" creationdate="20210421T054109Z">
         <seg>Remover eti&amp;quetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073918Z" creationid="Pedro Albuquerque" creationdate="20210421T073918Z">
+        <seg>Remover espaços iniciais e finais em projectos não segmentados</seg>
       </tuv>
     </tu>
     <tu>
@@ -6759,8 +6807,8 @@ Você foi vítima de um deles</seg>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073620Z" creationid="Pedro Albuquerque" creationdate="20210421T073620Z">
-        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073746Z" creationid="Pedro Albuquerque" creationdate="20210421T073620Z">
+        <seg>Para editar que ficheiros em que codificações o filtro vai processar, seleccione o filtro da lista e clique em Editar.</seg>
       </tuv>
     </tu>
     <tu>
