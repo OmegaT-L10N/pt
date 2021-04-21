@@ -1058,6 +1058,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064526Z" creationid="Pedro Albuquerque" creationdate="20210421T064526Z">
+        <seg>Adicionadas {0} entradas de glossário a partir de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -1846,6 +1854,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062600Z" creationid="Pedro Albuquerque" creationdate="20210421T062600Z">
         <seg>Erro durante a substituição da expressão regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064818Z" creationid="Pedro Albuquerque" creationdate="20210421T064818Z">
+        <seg>Error initializing marker '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2879,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173131Z" creationid="Pedro Albuquerque" creationdate="20210420T173131Z">
         <seg>A carregar os glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064502Z" creationid="Pedro Albuquerque" creationdate="20210421T064502Z">
+        <seg>A carregar glossário {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,6 +4905,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174053Z" creationid="Pedro Albuquerque" creationdate="20210420T174053Z">
         <seg>Únicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064556Z" creationid="Pedro Albuquerque" creationdate="20210421T064556Z">
+        <seg>Tipo de extensão "{0}" desconhecido em "{1}"</seg>
       </tuv>
     </tu>
     <tu>
