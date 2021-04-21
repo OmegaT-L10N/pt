@@ -92,6 +92,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074446Z" creationid="Pedro Albuquerque" creationdate="20210421T074446Z">
+        <seg>&amp;Sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165549Z" creationid="Pedro Albuquerque" creationdate="20210420T165549Z">
@@ -912,6 +920,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074406Z" creationid="Pedro Albuquerque" creationdate="20210421T074406Z">
+        <seg>Opções de filtro (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063130Z" creationid="Pedro Albuquerque" creationdate="20210421T063130Z">
@@ -1372,6 +1388,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074030Z" creationid="Pedro Albuquerque" creationdate="20210421T074030Z">
         <seg>Adicionar padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074438Z" creationid="Pedro Albuquerque" creationdate="20210421T074438Z">
+        <seg>Adicionar ou reescrever declaração de codificação em ficheiros HTML e XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3296,6 +3320,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074240Z" creationid="Pedro Albuquerque" creationdate="20210421T074240Z">
+        <seg>HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072648Z" creationid="Pedro Albuquerque" creationdate="20210421T072648Z">
@@ -3483,6 +3515,14 @@ not be entered.)</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175507Z" creationid="Pedro Albuquerque" creationdate="20210420T162649Z">
         <seg>Se o Java está instalado ao nível do sistema e está no caminho de comando, não precisa de introduzir
 o caminho completo.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074355Z" creationid="Pedro Albuquerque" creationdate="20210421T074355Z">
+        <seg>Se o ficheiro HTML tiver a declaração de codificação, esta será utilizada sem ter em conta qualquer valor definido neste diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4637,6 +4677,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074327Z" creationid="Pedro Albuquerque" creationdate="20210421T074327Z">
+        <seg>Nota: a definição da codificação do ficheiro-fonte só afecta os ficheiros HTML que não têm declaração de codificação no seu interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4895,6 +4943,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>OmegaT"s developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074510Z" creationid="Pedro Albuquerque" creationdate="20210421T074510Z">
+        <seg>Só se o ficheiro (X)HTML tiver um cabeçal&amp;ho</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,6 +6183,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171426Z" creationid="Pedro Albuquerque" creationdate="20210420T171426Z">
         <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074519Z" creationid="Pedro Albuquerque" creationdate="20210421T074519Z">
+        <seg>Skip text matching regular expression:</seg>
       </tuv>
     </tu>
     <tu>
