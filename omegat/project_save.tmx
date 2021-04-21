@@ -1100,6 +1100,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054716Z" creationid="Pedro Albuquerque" creationdate="20210421T054716Z">
+        <seg>Escolher projecto MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172003Z" creationid="Pedro Albuquerque" creationdate="20210420T172003Z">
@@ -1274,6 +1282,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175017Z" creationid="Pedro Albuquerque" creationdate="20210420T175017Z">
         <seg>Criar novo projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054709Z" creationid="Pedro Albuquerque" creationdate="20210421T054709Z">
+        <seg>Criar um novo projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1942,14 @@ Its winter has come</seg>
         <seg>Ajuda que procura
 Do seu caminho está a fugir
 O seu Inverno chegou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054658Z" creationid="Pedro Albuquerque" creationdate="20210421T054658Z">
+        <seg>Aqui pode também especificar a localização personalizada das pastas do of projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,6 +2607,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115406Z" creationid="Pedro Albuquerque" creationdate="20210420T115406Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054740Z" creationid="Pedro Albuquerque" creationdate="20210421T054740Z">
+        <seg>Ficheiros de projecto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3443,6 +3475,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054842Z" creationid="Pedro Albuquerque" creationdate="20210421T054842Z">
+        <seg>Mapeamento do repositório em modo de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180649Z" creationid="Pedro Albuquerque" creationdate="20210420T180649Z">
@@ -3703,6 +3743,30 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173617Z" creationid="Pedro Albuquerque" creationdate="20210420T173617Z">
         <seg>Impossível compilar novo ficheiro TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054807Z" creationid="Pedro Albuquerque" creationdate="20210421T054807Z">
+        <seg>Impossível converter o projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054819Z" creationid="Pedro Albuquerque" creationdate="20210421T054819Z">
+        <seg>Impossível transferir o projecto de equipa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
+        <seg>Impossível ler o ficheiro de projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,6 +4136,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124202Z" creationid="Pedro Albuquerque" creationdate="20210420T124202Z">
         <seg>O seu projecto não contém quaisquer ficheiros em formatos suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054722Z" creationid="Pedro Albuquerque" creationdate="20210421T054722Z">
+        <seg>Ficheiros ZIP</seg>
       </tuv>
     </tu>
     <tu>
