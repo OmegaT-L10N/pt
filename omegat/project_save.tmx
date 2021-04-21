@@ -1588,6 +1588,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104500Z" creationid="Pedro Albuquerque" creationdate="20210421T104500Z">
+        <seg>Ocorreu um erro ao processar um evento de fecho da aplicação:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
@@ -3180,10 +3190,26 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104406Z" creationid="Pedro Albuquerque" creationdate="20210421T104406Z">
+        <seg>Evento: fecho da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Event: application startup</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102532Z" creationid="Pedro Albuquerque" creationdate="20210421T102532Z">
         <seg>Evento: arranque da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104515Z" creationid="Pedro Albuquerque" creationdate="20210421T104515Z">
+        <seg>Evento: novo ficheiro activado ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -5403,8 +5429,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093510Z" creationid="Pedro Albuquerque" creationdate="20210421T093510Z">
-        <seg>NT: o filtro Java™ Resource Bundles já os detecta .</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104630Z" creationid="Pedro Albuquerque" creationdate="20210421T093510Z">
+        <seg>NT: o filtro Java™ Resource Bundles já os detecta.</seg>
       </tuv>
     </tu>
     <tu>
