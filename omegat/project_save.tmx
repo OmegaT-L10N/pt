@@ -2498,6 +2498,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093920Z" creationid="Pedro Albuquerque" creationdate="20210421T093920Z">
+        <seg>Mostra os segmentos das memórias de tradução que correspondem ao segmento-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093757Z" creationid="Pedro Albuquerque" creationdate="20210421T093757Z">
@@ -3580,6 +3588,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060136Z" creationid="Pedro Albuquerque" creationdate="20210421T060136Z">
         <seg>Insensível a caracteres de meia largura/largura completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093847Z" creationid="Pedro Albuquerque" creationdate="20210421T093847Z">
+        <seg>Correspondências aproximadas</seg>
       </tuv>
     </tu>
     <tu>
