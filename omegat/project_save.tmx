@@ -5211,6 +5211,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181831Z" creationid="Pedro Albuquerque" creationdate="20210421T181831Z">
+        <seg>Também contém instruções de instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091244Z" creationid="Pedro Albuquerque" creationdate="20210421T091244Z">
@@ -6645,8 +6653,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>OmegaT 4.2 - User's Guide</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>OmegaT 4.2 - User"s Guide</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181627Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>OmegaT 4.2 - Guia do utilizador</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,6 +6799,14 @@ installed on your system.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160927Z" creationid="Pedro Albuquerque" creationdate="20210420T160927Z">
         <seg>O OmegaT requer que o Java Runtime Environment (JRE) versão 1.8 ou superior esteja
 instalado no seu sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181633Z" creationid="Pedro Albuquerque" creationdate="20210421T181633Z">
+        <seg>Equipa do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -9404,8 +9420,8 @@ Você foi vítima de um deles</seg>
       <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This document is the official user"s guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181735Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Este documento é o guia oficial do utilizador do OmegaT, a ferramenta gratuita de tradução assistida por computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10859,6 +10875,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162502Z" creationid="Pedro Albuquerque" creationdate="20210420T162502Z">
         <seg>cd &lt;pasta onde se encontra o ficheiro OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181616Z" creationid="Pedro Albuquerque" creationdate="20210421T181616Z">
+        <seg>pt</seg>
       </tuv>
     </tu>
     <tu>
