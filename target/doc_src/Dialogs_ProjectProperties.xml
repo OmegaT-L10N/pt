@@ -143,7 +143,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Repository Mapping...</term>
+        <term>Mapeamento do repositório...</term>
 
         <listitem>
           <para>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples <link linkend="howto.setupteamproject.mappingparameters">here</link>).</para>
@@ -151,7 +151,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>External Search...</term>
+        <term>Procura externa...</term>
 
         <listitem>
           <para>Defines the project-specific external search resources.</para>
