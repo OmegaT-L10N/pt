@@ -1632,6 +1632,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114518Z" creationid="Pedro Albuquerque" creationdate="20210421T114518Z">
+        <seg>Utilização &amp;forçada da letra de garantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
@@ -4184,6 +4192,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114546Z" creationid="Pedro Albuquerque" creationdate="20210421T114546Z">
+        <seg>Ir para a fonte do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072916Z" creationid="Pedro Albuquerque" creationdate="20210421T072916Z">
@@ -4767,6 +4783,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091808Z" creationid="Pedro Albuquerque" creationdate="20210421T091808Z">
         <seg>Carregar inicialmente estes segmentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114629Z" creationid="Pedro Albuquerque" creationdate="20210421T114629Z">
+        <seg>Inserir correspondência ou selecção na tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -5545,6 +5569,30 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114324Z" creationid="Pedro Albuquerque" creationdate="20210421T114324Z">
+        <seg>Mar&amp;car espaços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114433Z" creationid="Pedro Albuquerque" creationdate="20210421T114433Z">
+        <seg>Marcar segmentos povoados &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114400Z" creationid="Pedro Albuquerque" creationdate="20210421T114400Z">
+        <seg>Marcar caracteres de controlo do algoritmo &amp;bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114309Z" creationid="Pedro Albuquerque" creationdate="20210421T114309Z">
@@ -5573,6 +5621,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153114Z" creationid="Pedro Albuquerque" creationdate="20210420T153114Z">
         <seg>Marcar segmentos não-&amp;trad&amp;uzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114533Z" creationid="Pedro Albuquerque" creationdate="20210421T114533Z">
+        <seg>Marcar correspondências de glossário</seg>
       </tuv>
     </tu>
     <tu>
