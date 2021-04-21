@@ -263,7 +263,7 @@
   </section>
 
   <section>
-    <title>Machine Translation</title>
+    <title>Tradução automática</title>
 
     <para>The machine translation pane, when opened, contains the suggestions
     by machine translation tools for the current segment. Press
@@ -285,7 +285,7 @@
   </section>
 
   <section>
-    <title>Notes</title>
+    <title>Notas</title>
 
     <para>The translator can add notes to the opened segment, for instance to
     come back later to the segment and redo the translation, check that
@@ -296,7 +296,7 @@
   </section>
 
   <section>
-    <title>Comments</title>
+    <title>Comentários</title>
 
     <para>Some of the file formats, specialized for translation work, for
     instance PO, allow the inclusion of comments. This way the translator can
