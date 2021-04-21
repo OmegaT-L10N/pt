@@ -2850,6 +2850,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093113Z" creationid="Pedro Albuquerque" creationdate="20210421T093113Z">
+        <seg>Erro ao descodificar utilizador e senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062600Z" creationid="Pedro Albuquerque" creationdate="20210421T062600Z">
@@ -3973,6 +3981,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If they &lt;e0&gt;don"t need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093101Z" creationid="Pedro Albuquerque" creationdate="20210421T093101Z">
+        <seg>Se estiver a utilizar um proxy autenticado, insira aqui o seu utilizador e senha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5311,8 +5327,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>OmegaT can also check for programming variables (printf-function variables) like "%s".</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093232Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O OmegaT também pode procurar variáveis de programação (variáveis de funções printf) como "%s".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5727,6 +5743,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093122Z" creationid="Pedro Albuquerque" creationdate="20210421T093122Z">
+        <seg>Senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern After</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090621Z" creationid="Pedro Albuquerque" creationdate="20210421T090621Z">
@@ -6049,6 +6073,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061340Z" creationid="Pedro Albuquerque" creationdate="20210421T061340Z">
         <seg>As procuras em projectos são feitas, por predefinição, em fontes, alvos, memórias de tradução, glossários, notas e comentários do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093037Z" creationid="Pedro Albuquerque" creationdate="20210421T093037Z">
+        <seg>Sessão com proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7151,6 +7183,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064234Z" creationid="Pedro Albuquerque" creationdate="20210421T064234Z">
         <seg>Ficheiro TMX criado pelo OmegaT 1.4.x ou anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093148Z" creationid="Pedro Albuquerque" creationdate="20210421T093148Z">
+        <seg>Processamento de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8325,6 +8365,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>User"s Manual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093119Z" creationid="Pedro Albuquerque" creationdate="20210421T093119Z">
+        <seg>Utilizador:</seg>
       </tuv>
     </tu>
     <tu>
