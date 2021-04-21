@@ -132,6 +132,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070822Z" creationid="Pedro Albuquerque" creationdate="20210421T070822Z">
+        <seg>Marcad&amp;ores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054245Z" creationid="Pedro Albuquerque" creationdate="20210421T054245Z">
@@ -320,6 +328,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060347Z" creationid="Pedro Albuquerque" creationdate="20210421T060347Z">
         <seg>Na &amp;tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070808Z" creationid="Pedro Albuquerque" creationdate="20210421T070808Z">
+        <seg>Entradas de índ&amp;ice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,6 +1272,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070626Z" creationid="Pedro Albuquerque" creationdate="20210421T070626Z">
+        <seg>Recursos Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174835Z" creationid="Pedro Albuquerque" creationdate="20210420T174835Z">
@@ -1368,6 +1392,14 @@ Buy another drink</seg>
         <seg>O empregado grita alto:
 A sua página não foi encontrada,
 Compre outra bebida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070834Z" creationid="Pedro Albuquerque" creationdate="20210421T070834Z">
+        <seg>&amp;Referências de marcadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -1988,6 +2020,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181018Z" creationid="Pedro Albuquerque" creationdate="20210420T181018Z">
         <seg>A pasta contém três ficheiros com o mesmo nome, com extensões?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070705Z" creationid="Pedro Albuquerque" creationdate="20210421T070705Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,6 +3034,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070736Z" creationid="Pedro Albuquerque" creationdate="20210421T070736Z">
+        <seg>Ficheiro de idioma ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INS</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170822Z" creationid="Pedro Albuquerque" creationdate="20210420T170822Z">
@@ -3463,6 +3511,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070705Z" creationid="Pedro Albuquerque" creationdate="20210421T070705Z">
+        <seg>Texto chave=valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062244Z" creationid="Pedro Albuquerque" creationdate="20210421T062104Z">
@@ -3693,6 +3749,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
         <seg>Tra&amp;dução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070727Z" creationid="Pedro Albuquerque" creationdate="20210421T070727Z">
+        <seg>CSV de idioma Magento CE</seg>
       </tuv>
     </tu>
     <tu>
@@ -4347,6 +4411,22 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172135Z" creationid="Pedro Albuquerque" creationdate="20210420T172135Z">
         <seg>Abrir {0} ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070736Z" creationid="Pedro Albuquerque" creationdate="20210421T070736Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070745Z" creationid="Pedro Albuquerque" creationdate="20210421T070745Z">
+        <seg>Opções de filtro OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -5487,6 +5567,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070612Z" creationid="Pedro Albuquerque" creationdate="20210421T070607Z">
+        <seg>Legendas SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
@@ -6085,6 +6173,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070756Z" creationid="Pedro Albuquerque" creationdate="20210421T070756Z">
+        <seg>Traduzir os seguintes elementos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065340Z" creationid="Pedro Albuquerque" creationdate="20210421T065340Z">
@@ -6649,6 +6745,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070621Z" creationid="Pedro Albuquerque" creationdate="20210421T070621Z">
+        <seg>Legendas WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210420T180647Z">
@@ -6928,6 +7032,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054527Z" creationid="Pedro Albuquerque" creationdate="20210421T054527Z">
         <seg>Deve especificar a nova localização ou recriá-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070617Z" creationid="Pedro Albuquerque" creationdate="20210421T070609Z">
+        <seg>Legendas YouTube</seg>
       </tuv>
     </tu>
     <tu>
