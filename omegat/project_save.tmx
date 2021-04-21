@@ -1400,6 +1400,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055702Z" creationid="Pedro Albuquerque" creationdate="20210421T055702Z">
+        <seg>A pasta de dicionários não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
@@ -1500,6 +1508,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125619Z" creationid="Pedro Albuquerque" creationdate="20210420T125619Z">
         <seg>E&amp;xportar selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055705Z" creationid="Pedro Albuquerque" creationdate="20210421T055705Z">
+        <seg>ERRO: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1876,6 +1892,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055728Z" creationid="Pedro Albuquerque" creationdate="20210421T055728Z">
+        <seg>A pasta já existe e não está vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173346Z" creationid="Pedro Albuquerque" creationdate="20210420T173346Z">
@@ -1962,6 +1986,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175055Z" creationid="Pedro Albuquerque" creationdate="20210420T175055Z">
         <seg>Pasta dos glossários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055546Z" creationid="Pedro Albuquerque" creationdate="20210421T055546Z">
+        <seg>A pasta de glossários não existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,6 +2731,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055714Z" creationid="Pedro Albuquerque" creationdate="20210421T055714Z">
+        <seg>Pasta de projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124550Z" creationid="Pedro Albuquerque" creationdate="20210420T124550Z">
@@ -2943,6 +2983,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170100Z" creationid="Pedro Albuquerque" creationdate="20210420T170100Z">
         <seg>Por favor, corrija os problemas de etiquetas antes de utilizar novamente Criar documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055740Z" creationid="Pedro Albuquerque" creationdate="20210421T055740Z">
+        <seg>Por favor, escolha outra pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,6 +3603,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055518Z" creationid="Pedro Albuquerque" creationdate="20210421T055518Z">
+        <seg>A pasta de ficheiros-fonte não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152804Z" creationid="Pedro Albuquerque" creationdate="20210420T152804Z">
@@ -3705,6 +3761,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055454Z" creationid="Pedro Albuquerque" creationdate="20210421T055454Z">
         <seg>O idioma do ficheiro-alvo é inválido!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055633Z" creationid="Pedro Albuquerque" creationdate="20210421T055633Z">
+        <seg>O glossário editável deve estar dentro da pasta de glossários</seg>
       </tuv>
     </tu>
     <tu>
@@ -3861,6 +3925,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055527Z" creationid="Pedro Albuquerque" creationdate="20210421T055527Z">
+        <seg>A pasta de ficheiros-alvo não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172240Z" creationid="Pedro Albuquerque" creationdate="20210420T172240Z">
@@ -3889,6 +3961,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
         <seg>Tradução modificada por {0} a {1} às {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055650Z" creationid="Pedro Albuquerque" creationdate="20210421T055650Z">
+        <seg>A pasta de memórias de tradução não existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4213,6 +4293,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175114Z" creationid="Pedro Albuquerque" creationdate="20210420T175114Z">
         <seg>Ficheiro de glossário editável:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055601Z" creationid="Pedro Albuquerque" creationdate="20210421T055601Z">
+        <seg>A pasta de glossários editáveis não existe!</seg>
       </tuv>
     </tu>
     <tu>
