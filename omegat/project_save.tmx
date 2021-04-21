@@ -444,6 +444,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073604Z" creationid="Pedro Albuquerque" creationdate="20210421T073604Z">
+        <seg>Tor&amp;nar as definições de filtros de ficheiro específicas do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175007Z" creationid="Pedro Albuquerque" creationdate="20210420T175007Z">
@@ -5269,6 +5277,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073514Z" creationid="Pedro Albuquerque" creationdate="20210421T073514Z">
+        <seg>Filtros de ficheiro específicos do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173958Z" creationid="Pedro Albuquerque" creationdate="20210420T173958Z">
@@ -6741,6 +6757,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073620Z" creationid="Pedro Albuquerque" creationdate="20210421T073620Z">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
@@ -7359,6 +7383,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063705Z" creationid="Pedro Albuquerque" creationdate="20210421T063705Z">
         <seg>Versão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073615Z" creationid="Pedro Albuquerque" creationdate="20210421T073615Z">
+        <seg>Ver ou editar filtros de ficheiros.</seg>
       </tuv>
     </tu>
     <tu>
