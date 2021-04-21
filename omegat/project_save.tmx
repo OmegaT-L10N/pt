@@ -1568,6 +1568,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085715Z" creationid="Pedro Albuquerque" creationdate="20210421T085715Z">
+        <seg>Má expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062533Z" creationid="Pedro Albuquerque" creationdate="20210421T062533Z">
@@ -2254,6 +2262,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060421Z" creationid="Pedro Albuquerque" creationdate="20210421T060421Z">
         <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085840Z" creationid="Pedro Albuquerque" creationdate="20210421T085802Z">
+        <seg>Não traduzir o atributo de conteúdo das meta-etiquetas com os seguintes pares chave-valor de atributos (separar com vírgulas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085836Z" creationid="Pedro Albuquerque" creationdate="20210421T085836Z">
+        <seg>Não traduzir o conteúdo das etiquetas com os seguintes pares chave-valor de atributos (separar com vírgulas):</seg>
       </tuv>
     </tu>
     <tu>
