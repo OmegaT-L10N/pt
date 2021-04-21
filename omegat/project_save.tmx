@@ -2481,6 +2481,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062244Z" creationid="Pedro Albuquerque" creationdate="20210421T062104Z">
+        <seg>As procuras por palavra-chave não estão disponíveis na cadeia de procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061646Z" creationid="Pedro Albuquerque" creationdate="20210421T061529Z">
@@ -3967,6 +3975,16 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062155Z" creationid="Pedro Albuquerque" creationdate="20210421T062101Z">
+        <seg>Substituição de texto:
+o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham ou não conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060719Z" creationid="Pedro Albuquerque" creationdate="20210421T060719Z">
@@ -4583,6 +4601,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
         <seg>O que é o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062326Z" creationid="Pedro Albuquerque" creationdate="20210421T062326Z">
+        <seg>Ao utilizar expressões regulares, a cadeia de substituição suporta referências a grupos definidos na cadeia de procura.</seg>
       </tuv>
     </tu>
     <tu>
