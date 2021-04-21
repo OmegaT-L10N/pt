@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060347Z" creationid="Pedro Albuquerque" creationdate="20210421T060347Z">
+        <seg>Na &amp;tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123124Z" creationid="Pedro Albuquerque" creationdate="20210420T123124Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152837Z" creationid="Pedro Albuquerque" creationdate="20210420T152837Z">
         <seg>Ferramen&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060246Z" creationid="Pedro Albuquerque" creationdate="20210421T060246Z">
+        <seg>&amp;Traduzidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2261,6 +2277,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060334Z" creationid="Pedro Albuquerque" creationdate="20210421T060334Z">
+        <seg>Na font&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055112Z" creationid="Pedro Albuquerque" creationdate="20210421T055112Z">
@@ -2645,6 +2669,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174653Z" creationid="Pedro Albuquerque" creationdate="20210420T174653Z">
         <seg>Estatísticas de correspondências por ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060233Z" creationid="Pedro Albuquerque" creationdate="20210421T060233Z">
+        <seg>Memór&amp;ia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3475,6 +3507,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060221Z" creationid="Pedro Albuquerque" creationdate="20210421T060221Z">
+        <seg>Es&amp;paços correspondem a espaços inseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171450Z" creationid="Pedro Albuquerque" creationdate="20210420T171450Z">
@@ -3527,6 +3567,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055814Z" creationid="Pedro Albuquerque" creationdate="20210421T055814Z">
         <seg>Procurar por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060225Z" creationid="Pedro Albuquerque" creationdate="20210421T060225Z">
+        <seg>Procurar em</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,6 +4153,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054902Z" creationid="Pedro Albuquerque" creationdate="20210421T054902Z">
         <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060312Z" creationid="Pedro Albuquerque" creationdate="20210421T060312Z">
+        <seg>&amp;Não traduzidos</seg>
       </tuv>
     </tu>
     <tu>
