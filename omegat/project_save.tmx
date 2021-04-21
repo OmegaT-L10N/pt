@@ -1042,10 +1042,34 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062412Z" creationid="Pedro Albuquerque" creationdate="20210421T062412Z">
+        <seg>Sincronização automática com o editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054258Z" creationid="Pedro Albuquerque" creationdate="20210421T054258Z">
         <seg>Navega&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062426Z" creationid="Pedro Albuquerque" creationdate="20210421T062426Z">
+        <seg>Voltar ao segmento inicial ao fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062533Z" creationid="Pedro Albuquerque" creationdate="20210421T062533Z">
+        <seg>Má expressão regular!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1746,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062600Z" creationid="Pedro Albuquerque" creationdate="20210421T062600Z">
+        <seg>Erro durante a substituição da expressão regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173949Z" creationid="Pedro Albuquerque" creationdate="20210420T173949Z">
@@ -1734,6 +1766,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173145Z" creationid="Pedro Albuquerque" creationdate="20210420T173145Z">
         <seg>Erro ao gravar o ficheiro do projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062525Z" creationid="Pedro Albuquerque" creationdate="20210421T062525Z">
+        <seg>Erro ao procurar na árvore de pastas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1810,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055101Z" creationid="Pedro Albuquerque" creationdate="20210421T055101Z">
         <seg>Padrão de exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062436Z" creationid="Pedro Albuquerque" creationdate="20210421T062436Z">
+        <seg>Excluir segmentos orfãos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2164,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170303Z" creationid="Pedro Albuquerque" creationdate="20210420T170303Z">
         <seg>Ir para segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062622Z" creationid="Pedro Albuquerque" creationdate="20210421T062622Z">
+        <seg>O grupo {0} não existe na expressão de procura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2727,6 +2783,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174653Z" creationid="Pedro Albuquerque" creationdate="20210420T174653Z">
         <seg>Estatísticas de correspondências por ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062512Z" creationid="Pedro Albuquerque" creationdate="20210421T062512Z">
+        <seg>Foi atingido o máximo de resultados ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,6 +4547,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122336Z" creationid="Pedro Albuquerque" creationdate="20210420T122336Z">
         <seg>Uso: java -jar OmegaT.jar team &lt;comando&gt; [&lt;opções&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062351Z" creationid="Pedro Albuquerque" creationdate="20210421T062351Z">
+        <seg>Use $n para se referir ao n-ésimo grupo.</seg>
       </tuv>
     </tu>
     <tu>
