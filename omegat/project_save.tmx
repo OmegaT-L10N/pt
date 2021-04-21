@@ -1504,6 +1504,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105235Z" creationid="Pedro Albuquerque" creationdate="20210421T105235Z">
+        <seg>Adicionar ao dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074438Z" creationid="Pedro Albuquerque" creationdate="20210421T074438Z">
@@ -2332,6 +2340,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173649Z" creationid="Pedro Albuquerque" creationdate="20210420T173649Z">
         <seg>Impossível criar pasta do projecto em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105213Z" creationid="Pedro Albuquerque" creationdate="20210421T105213Z">
+        <seg>Impossível eliminar {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4395,6 +4411,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105225Z" creationid="Pedro Albuquerque" creationdate="20210421T105225Z">
+        <seg>Ignorar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071605Z" creationid="Pedro Albuquerque" creationdate="20210421T071605Z">
@@ -5511,6 +5535,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105219Z" creationid="Pedro Albuquerque" creationdate="20210421T105219Z">
+        <seg>Sem sugestões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174759Z" creationid="Pedro Albuquerque" creationdate="20210420T174759Z">
@@ -5523,6 +5555,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062740Z" creationid="Pedro Albuquerque" creationdate="20210421T062740Z">
         <seg>Nenhum resultado devolvido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105107Z" creationid="Pedro Albuquerque" creationdate="20210421T105107Z">
+        <seg>Não precisa de gravar o projecto, não há alterações feitas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6543,6 +6583,46 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105113Z" creationid="Pedro Albuquerque" creationdate="20210421T105113Z">
+        <seg>Projecto fechado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105133Z" creationid="Pedro Albuquerque" creationdate="20210421T105133Z">
+        <seg>Fim da compilação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105126Z" creationid="Pedro Albuquerque" creationdate="20210421T105126Z">
+        <seg>Início da compilação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105202Z" creationid="Pedro Albuquerque" creationdate="20210421T105202Z">
+        <seg>Fim da criação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105157Z" creationid="Pedro Albuquerque" creationdate="20210421T105157Z">
+        <seg>Início da criação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124523Z" creationid="Pedro Albuquerque" creationdate="20210420T124344Z">
@@ -6551,10 +6631,42 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105005Z" creationid="Pedro Albuquerque" creationdate="20210421T105005Z">
+        <seg>Fim do carregamento do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104957Z" creationid="Pedro Albuquerque" creationdate="20210421T104957Z">
+        <seg>Início do carregamento do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170412Z" creationid="Pedro Albuquerque" creationdate="20210420T170412Z">
         <seg>Projecto gravado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105041Z" creationid="Pedro Albuquerque" creationdate="20210421T105041Z">
+        <seg>Fim da gravação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105029Z" creationid="Pedro Albuquerque" creationdate="20210421T105029Z">
+        <seg>Início da gravação do projecto</seg>
       </tuv>
     </tu>
     <tu>
