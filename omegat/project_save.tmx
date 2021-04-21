@@ -1868,6 +1868,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181318Z" creationid="Pedro Albuquerque" creationdate="20210421T181318Z">
+        <seg>Apêndices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091205Z" creationid="Pedro Albuquerque" creationdate="20210421T091205Z">
@@ -4580,6 +4588,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181344Z" creationid="Pedro Albuquerque" creationdate="20210421T181344Z">
+        <seg>Guias práticos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175834Z" creationid="Pedro Albuquerque" creationdate="20210420T175834Z">
@@ -5969,6 +5985,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181346Z" creationid="Pedro Albuquerque" creationdate="20210421T181346Z">
+        <seg>Menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164355Z" creationid="Pedro Albuquerque" creationdate="20210420T164355Z">
@@ -7057,6 +7081,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181330Z" creationid="Pedro Albuquerque" creationdate="20210421T181330Z">
+        <seg>Panes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091856Z" creationid="Pedro Albuquerque" creationdate="20210421T091856Z">
@@ -7483,6 +7515,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105157Z" creationid="Pedro Albuquerque" creationdate="20210421T105157Z">
         <seg>Início da criação do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181356Z" creationid="Pedro Albuquerque" creationdate="20210421T181356Z">
+        <seg>Project folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -9074,6 +9114,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181604Z" creationid="Pedro Albuquerque" creationdate="20210421T181604Z">
+        <seg>A diferença é mínima: chamamos "janela" a uma janela que permanece aberta junto ao editor e interage com ele, e "diálogo" a uma janela onde tem de seleccionar parâmetros antes de a fechar e continuar a sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9708,6 +9756,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101124Z" creationid="Pedro Albuquerque" creationdate="20210421T101124Z">
         <seg>Tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181408Z" creationid="Pedro Albuquerque" creationdate="20210421T181408Z">
+        <seg>Resolução de problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10428,6 +10484,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065752Z" creationid="Pedro Albuquerque" creationdate="20210421T065752Z">
         <seg>Recursos Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181417Z" creationid="Pedro Albuquerque" creationdate="20210421T181417Z">
+        <seg>Janelas e diálogos</seg>
       </tuv>
     </tu>
     <tu>
