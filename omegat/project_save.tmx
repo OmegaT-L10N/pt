@@ -1504,6 +1504,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093657Z" creationid="Pedro Albuquerque" creationdate="20210421T093657Z">
+        <seg>Permitir uma ordem di&amp;ferente para as etiquetas traduzidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065457Z" creationid="Pedro Albuquerque" creationdate="20210421T065457Z">
@@ -2216,6 +2224,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093838Z" creationid="Pedro Albuquerque" creationdate="20210421T093838Z">
+        <seg>Contar o texto &amp;protegido e as etiquetas personalizadas nas estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170711Z" creationid="Pedro Albuquerque" creationdate="20210420T125754Z">
@@ -2478,6 +2494,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060421Z" creationid="Pedro Albuquerque" creationdate="20210421T060421Z">
         <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093757Z" creationid="Pedro Albuquerque" creationdate="20210421T093757Z">
+        <seg>Não permitir a criação de documentos traduzidos com problemas de et&amp;iquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6233,6 +6257,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093526Z" creationid="Pedro Albuquerque" creationdate="20210421T093526Z">
+        <seg>Expressão regular para etiquetas personalizadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093559Z" creationid="Pedro Albuquerque" creationdate="20210421T093559Z">
+        <seg>Expressão regular para fragmentos que deviam ser removidos da tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061648Z" creationid="Pedro Albuquerque" creationdate="20210421T061617Z">
@@ -8519,6 +8559,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063751Z" creationid="Pedro Albuquerque" creationdate="20210421T063751Z">
         <seg>Aviso na linha {0}, coluna {1} ao analisar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093726Z" creationid="Pedro Albuquerque" creationdate="20210421T093726Z">
+        <seg>Aviso: alterar a ordem das etiquetas pode quebrar o documento traduzido!</seg>
       </tuv>
     </tu>
     <tu>
