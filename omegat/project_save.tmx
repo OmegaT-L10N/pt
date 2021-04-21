@@ -580,6 +580,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113830Z" creationid="Pedro Albuquerque" creationdate="20210421T113830Z">
+        <seg>Informação sobre &amp;modificações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091124Z" creationid="Pedro Albuquerque" creationdate="20210421T091124Z">
@@ -2754,6 +2762,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113848Z" creationid="Pedro Albuquerque" creationdate="20210421T113848Z">
+        <seg>&amp;Não mostrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113726Z" creationid="Pedro Albuquerque" creationdate="20210421T110946Z">
@@ -2790,6 +2806,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
         <seg>Mostrar &amp;descrição contextual para &amp;glossários TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113934Z" creationid="Pedro Albuquerque" creationdate="20210421T113934Z">
+        <seg>Mostr&amp;ar para todos os segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113905Z" creationid="Pedro Albuquerque" creationdate="20210421T113905Z">
+        <seg>Mostrar para o &amp;segmento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,6 +5545,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114309Z" creationid="Pedro Albuquerque" creationdate="20210421T114309Z">
+        <seg>Marcar espaços i&amp;nseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153127Z" creationid="Pedro Albuquerque" creationdate="20210420T153127Z">
@@ -5533,6 +5573,22 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153114Z" creationid="Pedro Albuquerque" creationdate="20210420T153114Z">
         <seg>Marcar segmentos não-&amp;trad&amp;uzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113745Z" creationid="Pedro Albuquerque" creationdate="20210421T113745Z">
+        <seg>Marcar se&amp;gmentos não-únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113808Z" creationid="Pedro Albuquerque" creationdate="20210421T113808Z">
+        <seg>Marcar se&amp;gmentos com notas</seg>
       </tuv>
     </tu>
     <tu>
