@@ -1472,6 +1472,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101517Z" creationid="Pedro Albuquerque" creationdate="20210421T101517Z">
+        <seg>Acções &amp; Definições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054847Z" creationid="Pedro Albuquerque" creationdate="20210421T054847Z">
@@ -6729,6 +6737,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101453Z" creationid="Pedro Albuquerque" creationdate="20210421T101453Z">
+        <seg>Restaurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
@@ -8433,6 +8449,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065139Z" creationid="Pedro Albuquerque" creationdate="20210421T065128Z">
         <seg>Impossível gravar ficheiro de configuração de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101500Z" creationid="Pedro Albuquerque" creationdate="20210421T101500Z">
+        <seg>Desancorar</seg>
       </tuv>
     </tu>
     <tu>
