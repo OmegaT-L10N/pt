@@ -180,6 +180,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070851Z" creationid="Pedro Albuquerque" creationdate="20210421T070851Z">
+        <seg>&amp;Comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071026Z" creationid="Pedro Albuquerque" creationdate="20210421T071026Z">
+        <seg>&amp;Compatibilidade com o OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125309Z" creationid="Pedro Albuquerque" creationdate="20210420T125309Z">
@@ -420,6 +436,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070844Z" creationid="Pedro Albuquerque" creationdate="20210421T070844Z">
+        <seg>&amp;Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122919Z" creationid="Pedro Albuquerque" creationdate="20210420T122919Z">
@@ -448,6 +472,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165633Z" creationid="Pedro Albuquerque" creationdate="20210420T165633Z">
         <seg>&amp;Preferências...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070906Z" creationid="Pedro Albuquerque" creationdate="20210421T070906Z">
+        <seg>Notas de a&amp;presentações</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,6 +656,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153134Z" creationid="Pedro Albuquerque" creationdate="20210420T153134Z">
         <seg>&amp;Segmentação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070928Z" creationid="Pedro Albuquerque" creationdate="20210421T070928Z">
+        <seg>Nomes de folha&amp;s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1148,6 +1188,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
         <seg>&lt;nome e caminho do ficheiro executável Java&gt; -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071133Z" creationid="Pedro Albuquerque" creationdate="20210421T071133Z">
+        <seg>I&amp;D &lt;unid-trad&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,6 +2320,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070934Z" creationid="Pedro Albuquerque" creationdate="20210421T070934Z">
+        <seg>Erro no ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070440Z" creationid="Pedro Albuquerque" creationdate="20210421T070440Z">
@@ -3058,6 +3114,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071044Z" creationid="Pedro Albuquerque" creationdate="20210421T071044Z">
+        <seg>Identificador usado para traduções alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If
 Java is installed at system level and is in the command path, the full path need
 not be entered.)</seg>
@@ -3669,6 +3733,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070210Z" creationid="Pedro Albuquerque" creationdate="20210421T070210Z">
         <seg>Tamanho da linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070912Z" creationid="Pedro Albuquerque" creationdate="20210421T070912Z">
+        <seg>Ligações (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,6 +4743,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071101Z" creationid="Pedro Albuquerque" creationdate="20210421T071101Z">
+        <seg>Parágrafos anteriores e segui&amp;ntes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous contributors include:
 (alphabetical order)</seg>
       </tuv>
@@ -5547,6 +5627,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
         <seg>Tamanhos de fonte/tradução (caracteres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071012Z" creationid="Pedro Albuquerque" creationdate="20210421T071012Z">
+        <seg>Especificar a gestão de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6899,6 +6987,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070343Z" creationid="Pedro Albuquerque" creationdate="20210421T070343Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070942Z" creationid="Pedro Albuquerque" creationdate="20210421T070942Z">
+        <seg>Opções de filtro XLIFF</seg>
       </tuv>
     </tu>
     <tu>
