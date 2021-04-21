@@ -132,6 +132,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114901Z" creationid="Pedro Albuquerque" creationdate="20210421T114901Z">
+        <seg>Obter traduções &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105319Z" creationid="Pedro Albuquerque" creationdate="20210421T105319Z">
@@ -1082,6 +1090,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>"?" matches any single character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114729Z" creationid="Pedro Albuquerque" creationdate="20210421T114729Z">
+        <seg>(+{0} mais)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2480,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114842Z" creationid="Pedro Albuquerque" creationdate="20210421T114842Z">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124752Z" creationid="Pedro Albuquerque" creationdate="20210420T124752Z">
@@ -2622,6 +2646,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170424Z" creationid="Pedro Albuquerque" creationdate="20210420T170424Z">
         <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114839Z" creationid="Pedro Albuquerque" creationdate="20210421T114839Z">
+        <seg>Cortar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3418,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114802Z" creationid="Pedro Albuquerque" creationdate="20210421T114802Z">
+        <seg>Erro no arranque da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064451Z" creationid="Pedro Albuquerque" creationdate="20210421T064451Z">
@@ -4032,6 +4072,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114716Z" creationid="Pedro Albuquerque" creationdate="20210421T114716Z">
+        <seg>Encontrado em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090656Z" creationid="Pedro Albuquerque" creationdate="20210421T090656Z">
@@ -4326,8 +4374,8 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Hide "{0}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114749Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Ocultar "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6737,6 +6785,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114845Z" creationid="Pedro Albuquerque" creationdate="20210421T114845Z">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101118Z" creationid="Pedro Albuquerque" creationdate="20210421T101118Z">
@@ -7463,6 +7519,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164246Z" creationid="Pedro Albuquerque" creationdate="20210420T164246Z">
         <seg>Substituir correspondências do &amp;glossário ao inserir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114652Z" creationid="Pedro Albuquerque" creationdate="20210421T114652Z">
+        <seg>Substituir tradução por correspondência ou selecção</seg>
       </tuv>
     </tu>
     <tu>
@@ -8373,6 +8437,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114744Z" creationid="Pedro Albuquerque" creationdate="20210421T114744Z">
+        <seg>Opções de correspondência da MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064234Z" creationid="Pedro Albuquerque" creationdate="20210421T064234Z">
@@ -8982,6 +9054,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073102Z" creationid="Pedro Albuquerque" creationdate="20210421T073102Z">
         <seg>Este programa é livre; pode redistribuí-lo e/ou modificá-lo sob os termos da GNU General Public License conforme publicada pela Free Software Foundation; ou a versão 3 da Licença, ou (à sua escolha) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114722Z" creationid="Pedro Albuquerque" creationdate="20210421T114722Z">
+        <seg>Este projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,6 +10253,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114832Z" creationid="Pedro Albuquerque" creationdate="20210421T114832Z">
+        <seg>Tem de actualizar o seu JDK 1.6 para a versão mais recente, ou simplesmente remover os ficheiros jaxb-*.jar da pasta OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054527Z" creationid="Pedro Albuquerque" creationdate="20210421T054527Z">
@@ -10219,6 +10307,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054722Z" creationid="Pedro Albuquerque" creationdate="20210421T054722Z">
         <seg>Ficheiros ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114659Z" creationid="Pedro Albuquerque" creationdate="20210421T114659Z">
+        <seg>[Aproximada]</seg>
       </tuv>
     </tu>
     <tu>
