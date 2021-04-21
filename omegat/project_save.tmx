@@ -420,6 +420,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072359Z" creationid="Pedro Albuquerque" creationdate="20210421T072359Z">
+        <seg>&amp;Licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070059Z" creationid="Pedro Albuquerque" creationdate="20210421T070059Z">
@@ -1304,6 +1312,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072345Z" creationid="Pedro Albuquerque" creationdate="20210421T072345Z">
+        <seg>Acerca do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165621Z" creationid="Pedro Albuquerque" creationdate="20210420T165621Z">
@@ -1748,6 +1764,16 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072543Z" creationid="Pedro Albuquerque" creationdate="20210421T072543Z">
+        <seg>Contribuições para o código por:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065249Z" creationid="Pedro Albuquerque" creationdate="20210421T065249Z">
@@ -1898,6 +1924,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124752Z" creationid="Pedro Albuquerque" creationdate="20210420T124752Z">
         <seg>Copiar ficheiros para a pasta-fonte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072353Z" creationid="Pedro Albuquerque" creationdate="20210421T072353Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,6 +4537,14 @@ tradução alavancada em projectos actualizados.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072515Z" creationid="Pedro Albuquerque" creationdate="20210421T072515Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador multi-plataforma livre e de código aberto com correspondência aproximada, memória de tradução, procura de palavras-chave, glossários, e tradução alavancada em projectos actualizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -4517,8 +4559,8 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
       <tuv lang="en">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162924Z" creationid="Pedro Albuquerque" creationdate="20210420T162822Z">
-        <seg>OmegaT é o trabalho original de Keith Godfrey.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072520Z" creationid="Pedro Albuquerque" creationdate="20210420T162822Z">
+        <seg>O OmegaT é o trabalho original de Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4747,6 +4789,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072154Z" creationid="Pedro Albuquerque" creationdate="20210421T072154Z">
         <seg>Outras opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072605Z" creationid="Pedro Albuquerque" creationdate="20210421T072605Z">
+        <seg>Outras contribuições são detalhadas no ficheiro readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7676,22 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062807Z" creationid="Pedro Albuquerque" creationdate="20210421T062807Z">
         <seg>{0} +{1} mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072327Z" creationid="Pedro Albuquerque" creationdate="20210421T072327Z">
+        <seg>{0} versão {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072340Z" creationid="Pedro Albuquerque" creationdate="20210421T072340Z">
+        <seg>{0} versão {1}, actualização {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
