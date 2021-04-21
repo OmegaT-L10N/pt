@@ -1624,6 +1624,18 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102102Z" creationid="Pedro Albuquerque" creationdate="20210421T102102Z">
+        <seg>Por este motivo,
+tudo estará com as predefinições, pelo que poderá 
+experimentar um comportamento inesperado, mas correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7657,6 +7669,15 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101928Z" creationid="Pedro Albuquerque" creationdate="20210421T101928Z">
+        <seg>Será utilizada a sua pasta actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9232,6 +9253,16 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064326Z" creationid="Pedro Albuquerque" creationdate="20210421T064326Z">
         <seg>O seu projecto actual usa segmentação por frase, mas o ficheiro TMX foi criado com segmentação por parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102133Z" creationid="Pedro Albuquerque" creationdate="20210421T102133Z">
+        <seg>O sistema operativo impediu que o OmegaT
+criasse o ficheiro de configuração.</seg>
       </tuv>
     </tu>
     <tu>
