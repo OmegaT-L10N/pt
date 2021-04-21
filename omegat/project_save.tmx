@@ -3287,6 +3287,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061340Z" creationid="Pedro Albuquerque" creationdate="20210421T061340Z">
+        <seg>As procuras em projectos são feitas, por predefinição, em fontes, alvos, memórias de tradução, glossários, notas e comentários do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123019Z" creationid="Pedro Albuquerque" creationdate="20210420T123019Z">
@@ -3583,6 +3591,16 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170407Z" creationid="Pedro Albuquerque" creationdate="20210420T170407Z">
         <seg>A gravar o projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061214Z" creationid="Pedro Albuquerque" creationdate="20210421T061214Z">
+        <seg>Âmbito:
+por predefinição, o âmbito da procura é o projecto e pode ser definido para quaisquer ficheiros numa dada hierarquia de pastas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4241,6 +4259,16 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054902Z" creationid="Pedro Albuquerque" creationdate="20210421T054902Z">
         <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061409Z" creationid="Pedro Albuquerque" creationdate="20210421T061409Z">
+        <seg>Tipos:
+procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
     </tu>
     <tu>
