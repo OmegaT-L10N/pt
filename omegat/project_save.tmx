@@ -2018,6 +2018,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092844Z" creationid="Pedro Albuquerque" creationdate="20210421T092844Z">
+        <seg>Comentário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124954Z" creationid="Pedro Albuquerque" creationdate="20210420T124941Z">
@@ -2196,6 +2204,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125035Z" creationid="Pedro Albuquerque" creationdate="20210420T125035Z">
         <seg>Criar documento &amp;traduzido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092803Z" creationid="Pedro Albuquerque" creationdate="20210421T092803Z">
+        <seg>Criar entrada de glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -2786,6 +2802,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090642Z" creationid="Pedro Albuquerque" creationdate="20210421T090642Z">
         <seg>Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092828Z" creationid="Pedro Albuquerque" creationdate="20210421T092828Z">
+        <seg>Insira um termo-fonte, um termo-alvo e um comentário:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3580,6 +3604,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175055Z" creationid="Pedro Albuquerque" creationdate="20210420T175055Z">
         <seg>Pasta dos glossários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092856Z" creationid="Pedro Albuquerque" creationdate="20210421T092856Z">
+        <seg>Ficheiro de glossário: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,6 +4863,22 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092410Z" creationid="Pedro Albuquerque" creationdate="20210421T092410Z">
         <seg>Limite mínimo para mostrar uma correspondência aproximada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092704Z" creationid="Pedro Albuquerque" creationdate="20210421T092704Z">
+        <seg>Modelo de informação de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092729Z" creationid="Pedro Albuquerque" creationdate="20210421T092729Z">
+        <seg>Modelo de informação de modificação para segmentos sem data</seg>
       </tuv>
     </tu>
     <tu>
@@ -6963,6 +7011,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092834Z" creationid="Pedro Albuquerque" creationdate="20210421T092834Z">
+        <seg>Termo-fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
@@ -7111,6 +7167,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170224Z" creationid="Pedro Albuquerque" creationdate="20210420T170224Z">
         <seg>Ficheiros-alvo submetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092840Z" creationid="Pedro Albuquerque" creationdate="20210421T092840Z">
+        <seg>Termo-alvo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8211,6 +8275,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164207Z" creationid="Pedro Albuquerque" creationdate="20210420T163510Z">
         <seg>Utilizar lematização para entrada&amp;s do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092751Z" creationid="Pedro Albuquerque" creationdate="20210421T092751Z">
+        <seg>Usar modelos personalizados para &amp;informação de modificação</seg>
       </tuv>
     </tu>
     <tu>
