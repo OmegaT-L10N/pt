@@ -1472,6 +1472,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100409Z" creationid="Pedro Albuquerque" creationdate="20210421T100409Z">
+        <seg>Adicionar entrada de glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074030Z" creationid="Pedro Albuquerque" creationdate="20210421T074030Z">
@@ -2894,6 +2902,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100400Z" creationid="Pedro Albuquerque" creationdate="20210421T100400Z">
+        <seg>As entradas de glossário editável estão a negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ephemeral page
 I am the Blue Screen of Death
 No one hears your screams</seg>
@@ -4311,6 +4327,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100418Z" creationid="Pedro Albuquerque" creationdate="20210421T100418Z">
+        <seg>Inserir selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125713Z" creationid="Pedro Albuquerque" creationdate="20210420T125713Z">
@@ -5345,6 +5369,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095843Z" creationid="Pedro Albuquerque" creationdate="20210421T095843Z">
         <seg>Notificar quando um segmento tem correspondências aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100502Z" creationid="Pedro Albuquerque" creationdate="20210421T100502Z">
+        <seg>Notificar quando um segmento tem correspondências no glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -8884,6 +8916,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
         <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100321Z" creationid="Pedro Albuquerque" creationdate="20210421T100321Z">
+        <seg>Pode criar entradas no glossário com a opção Criar entrada no glossário do menu Editar.</seg>
       </tuv>
     </tu>
     <tu>
