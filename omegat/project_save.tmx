@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062830Z" creationid="Pedro Albuquerque" creationdate="20210421T062830Z">
+        <seg>&amp;Repor opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165600Z" creationid="Pedro Albuquerque" creationdate="20210420T165600Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125423Z" creationid="Pedro Albuquerque" creationdate="20210420T125423Z">
         <seg>&amp;Procurar no projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062822Z" creationid="Pedro Albuquerque" creationdate="20210421T062822Z">
+        <seg>Procurar por &amp;selecção</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +686,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162545Z" creationid="Pedro Albuquerque" creationdate="20210420T162545Z">
         <seg>(o ficheiro executável Java é o ficheiro java no Linux e java.exe no Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062759Z" creationid="Pedro Albuquerque" creationdate="20210421T062759Z">
+        <seg>+{0} mais</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1086,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062426Z" creationid="Pedro Albuquerque" creationdate="20210421T062426Z">
         <seg>Voltar ao segmento inicial ao fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062632Z" creationid="Pedro Albuquerque" creationdate="20210421T062632Z">
+        <seg>Mau nome de pasta {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1678,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055705Z" creationid="Pedro Albuquerque" creationdate="20210421T055705Z">
         <seg>ERRO: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062824Z" creationid="Pedro Albuquerque" creationdate="20210421T062824Z">
+        <seg>Editar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2921,6 +2961,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062740Z" creationid="Pedro Albuquerque" creationdate="20210421T062740Z">
+        <seg>Nenhum resultado devolvido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -2929,6 +2977,14 @@ a pasta Aplicações.</seg>
         <seg>Opções para modo não-GUI:
 	--quiet
 		Reduzir a saída a stdout na linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062931Z" creationid="Pedro Albuquerque" creationdate="20210421T062931Z">
+        <seg>Ficheiro XML inválido!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,6 +3001,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055952Z" creationid="Pedro Albuquerque" creationdate="20210421T055952Z">
         <seg>Agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062752Z" creationid="Pedro Albuquerque" creationdate="20210421T062752Z">
+        <seg>Nº de segments correspondentes: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3229,6 +3293,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
         <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062724Z" creationid="Pedro Albuquerque" creationdate="20210421T062724Z">
+        <seg>Por favor, feche a janela de procura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3747,6 +3819,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060225Z" creationid="Pedro Albuquerque" creationdate="20210421T060225Z">
         <seg>Procurar em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062705Z" creationid="Pedro Albuquerque" creationdate="20210421T062705Z">
+        <seg>Fio de procura quebrado inesperadamente!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4429,6 +4509,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062855Z" creationid="Pedro Albuquerque" creationdate="20210421T062855Z">
+        <seg>Impossível inicializar a leitura do ficheiro XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
@@ -4531,6 +4619,14 @@ file and the OmegaT application.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161104Z" creationid="Pedro Albuquerque" creationdate="20210420T161104Z">
         <seg>Desempacotar o arquivo .zip do OmegaT para obter uma pasta que contenha um ficheiro de documentação
 e a aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062912Z" creationid="Pedro Albuquerque" creationdate="20210421T062912Z">
+        <seg>Versão XML {0} não suportada!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,6 +5102,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171020Z" creationid="Pedro Albuquerque" creationdate="20210420T171020Z">
         <seg>{0} ({1} restantes) / {2} ({3} restantes), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062807Z" creationid="Pedro Albuquerque" creationdate="20210421T062807Z">
+        <seg>{0} +{1} mais</seg>
       </tuv>
     </tu>
     <tu>
