@@ -476,6 +476,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065829Z" creationid="Pedro Albuquerque" creationdate="20210421T065829Z">
+        <seg>&amp;Remover cadeias não traduzidas nos ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122949Z" creationid="Pedro Albuquerque" creationdate="20210420T122949Z">
@@ -3269,6 +3277,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065712Z" creationid="Pedro Albuquerque" creationdate="20210421T065712Z">
+        <seg>Formato de ficheiro inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055124Z" creationid="Pedro Albuquerque" creationdate="20210421T055124Z">
@@ -3649,6 +3665,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065754Z" creationid="Pedro Albuquerque" creationdate="20210421T065754Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065803Z" creationid="Pedro Albuquerque" creationdate="20210421T065803Z">
+        <seg>Opções de filtro Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170329Z" creationid="Pedro Albuquerque" creationdate="20210420T170329Z">
@@ -3731,6 +3763,38 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Moving original "{0}" to "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065844Z" creationid="Pedro Albuquerque" creationdate="20210421T065844Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065853Z" creationid="Pedro Albuquerque" creationdate="20210421T065853Z">
+        <seg>Opções de filtro Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065913Z" creationid="Pedro Albuquerque" creationdate="20210421T065913Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065922Z" creationid="Pedro Albuquerque" creationdate="20210421T065922Z">
+        <seg>Opções de filtro Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -4183,6 +4247,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065718Z" creationid="Pedro Albuquerque" creationdate="20210421T065718Z">
+        <seg>Entrada PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PO</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065357Z" creationid="Pedro Albuquerque" creationdate="20210421T065357Z">
@@ -4215,6 +4287,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063458Z" creationid="Pedro Albuquerque" creationdate="20210421T063458Z">
         <seg>Erro ao analisar o ficheiro de preferências!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065745Z" creationid="Pedro Albuquerque" creationdate="20210421T065745Z">
+        <seg>Ficheiros PDF protegidos com senha não são suportados: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5305,10 +5385,42 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065843Z" creationid="Pedro Albuquerque" creationdate="20210421T065843Z">
+        <seg>O filtro Moodle PHP gerou uma excepção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065912Z" creationid="Pedro Albuquerque" creationdate="20210421T065912Z">
+        <seg>O filtro Mozilla DTD gerou uma excepção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065934Z" creationid="Pedro Albuquerque" creationdate="20210421T065934Z">
+        <seg>O filtro Mozilla FTL gerou uma excepção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The OmegaT developers" list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065704Z" creationid="Pedro Albuquerque" creationdate="20210421T065704Z">
+        <seg>O filtro PO gerou uma excepção:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,6 +6459,14 @@ Your page is not found</seg>
         <seg>O vento apanha o lírio
 Pétalas ao vento:
 A sua página não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065752Z" creationid="Pedro Albuquerque" creationdate="20210421T065752Z">
+        <seg>Recursos Windows</seg>
       </tuv>
     </tu>
     <tu>
