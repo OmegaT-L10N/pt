@@ -1508,6 +1508,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065249Z" creationid="Pedro Albuquerque" creationdate="20210421T065249Z">
+        <seg>O índice da coluna tem de ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -2060,6 +2068,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065232Z" creationid="Pedro Albuquerque" creationdate="20210421T065232Z">
+        <seg>Activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171746Z" creationid="Pedro Albuquerque" creationdate="20210420T171746Z">
@@ -2428,6 +2444,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065228Z" creationid="Pedro Albuquerque" creationdate="20210421T065228Z">
+        <seg>Formato de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174111Z" creationid="Pedro Albuquerque" creationdate="20210420T174111Z">
@@ -2494,8 +2518,8 @@ Os fios de Gossamer retêm-nos
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Filter "{0}" could not be loaded from "{1}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065159Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O filtro "{0}" não pôde ser carregado de "{1}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4969,8 +4993,8 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Skipping previously loaded plugin from class "{0}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065101Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A ignorar extensão previamente carregada da classe "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4995,6 +5019,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054508Z" creationid="Pedro Albuquerque" creationdate="20210421T054508Z">
         <seg>Algumas pastas do projecto parecem ter sido movidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065326Z" creationid="Pedro Albuquerque" creationdate="20210421T065326Z">
+        <seg>Codificação de ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065312Z" creationid="Pedro Albuquerque" creationdate="20210421T065312Z">
+        <seg>Padrão do nome de ficheiros-fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -5653,6 +5693,16 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065222Z" creationid="Pedro Albuquerque" creationdate="20210421T065222Z">
+        <seg>O caminho do ficheiro traduzido não pode ser idêntico ao caminho do ficheiro de origem:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055527Z" creationid="Pedro Albuquerque" creationdate="20210421T055527Z">
@@ -5783,6 +5833,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065125Z" creationid="Pedro Albuquerque" creationdate="20210421T065125Z">
+        <seg>Impossível analisar ficheiro de configuração de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063519Z" creationid="Pedro Albuquerque" creationdate="20210421T063519Z">
@@ -5795,6 +5853,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
         <seg>Impossível ler o ficheiro de projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065139Z" creationid="Pedro Albuquerque" creationdate="20210421T065128Z">
+        <seg>Impossível gravar ficheiro de configuração de filtros</seg>
       </tuv>
     </tu>
     <tu>
