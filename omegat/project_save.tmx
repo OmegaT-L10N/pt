@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.5.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1568,11 +1568,31 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T094021Z" creationid="Pedro Albuquerque" creationdate="20210421T094021Z">
+        <seg>ação An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102515Z" creationid="Pedro Albuquerque" creationdate="20210421T102515Z">
         <seg>Ocorreu um erro ao processar um evento de mudança de projecto:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093931Z" creationid="Pedro Albuquerque" creationdate="20210421T093931Z">
+        <seg>Ocorreu um erro ao processar um evento de arranque da aplicação:
 {0}</seg>
       </tuv>
     </tu>
