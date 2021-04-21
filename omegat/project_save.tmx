@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055900Z" creationid="Pedro Albuquerque" creationdate="20210421T055900Z">
+        <seg>Procura &amp;exacta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122941Z" creationid="Pedro Albuquerque" creationdate="20210420T122941Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125452Z" creationid="Pedro Albuquerque" creationdate="20210420T125452Z">
         <seg>&amp;Inserir correspondência ou selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055850Z" creationid="Pedro Albuquerque" creationdate="20210421T055850Z">
+        <seg>Procurar palavra-c&amp;have</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125413Z" creationid="Pedro Albuquerque" creationdate="20210420T125413Z">
         <seg>&amp;Refazer a última acção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055911Z" creationid="Pedro Albuquerque" creationdate="20210421T055911Z">
+        <seg>Expressões &amp;regulares</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,6 +992,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055948Z" creationid="Pedro Albuquerque" creationdate="20210421T055948Z">
+        <seg>Aut&amp;or:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165235Z" creationid="Pedro Albuquerque" creationdate="20210420T165235Z">
@@ -1028,6 +1060,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060035Z" creationid="Pedro Albuquerque" creationdate="20210421T060035Z">
+        <seg>Sensível a maiúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174611Z" creationid="Pedro Albuquerque" creationdate="20210420T174611Z">
@@ -1056,6 +1096,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173804Z" creationid="Pedro Albuquerque" creationdate="20210420T173804Z">
         <seg>Impossível criar pasta para os ficheiros traduzidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060027Z" creationid="Pedro Albuquerque" creationdate="20210421T060002Z">
+        <seg>&amp;Alterado antes de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055957Z" creationid="Pedro Albuquerque" creationdate="20210421T055957Z">
+        <seg>Alterado após:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,6 +1998,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060136Z" creationid="Pedro Albuquerque" creationdate="20210421T060136Z">
+        <seg>Insensível a caracteres de meia largura/largura completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Git</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
@@ -2030,6 +2094,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054658Z" creationid="Pedro Albuquerque" creationdate="20210421T054658Z">
         <seg>Aqui pode também especificar a localização personalizada das pastas do of projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055942Z" creationid="Pedro Albuquerque" creationdate="20210421T055942Z">
+        <seg>Ocultar &amp;opções avançadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,6 +2233,22 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
         <seg>Falha ao importar a página Wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
+        <seg>Nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055915Z" creationid="Pedro Albuquerque" creationdate="20210421T055915Z">
+        <seg>Nas notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,6 +2787,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055952Z" creationid="Pedro Albuquerque" creationdate="20210421T055952Z">
+        <seg>Agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172228Z" creationid="Pedro Albuquerque" creationdate="20210420T172228Z">
@@ -2735,6 +2831,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055714Z" creationid="Pedro Albuquerque" creationdate="20210421T055714Z">
         <seg>Pasta de projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055807Z" creationid="Pedro Albuquerque" creationdate="20210421T055807Z">
+        <seg>O OmegaT não tem permissões de escrita e leitura nesta pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,6 +3395,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055821Z" creationid="Pedro Albuquerque" creationdate="20210421T055821Z">
+        <seg>Substituir por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054946Z" creationid="Pedro Albuquerque" creationdate="20210421T054946Z">
@@ -3407,6 +3519,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180307Z" creationid="Pedro Albuquerque" creationdate="20210420T180307Z">
         <seg>Pesquise a combinação linguística necessária - por exemplo, nas &lt;u0&gt;ligações de dicionário dadas pela wiki do OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055814Z" creationid="Pedro Albuquerque" creationdate="20210421T055814Z">
+        <seg>Procurar por:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,6 +3663,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125727Z" creationid="Pedro Albuquerque" creationdate="20210420T125727Z">
         <seg>Definir tradução vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055931Z" creationid="Pedro Albuquerque" creationdate="20210421T055931Z">
+        <seg>Mostrar &amp;opções avançadas</seg>
       </tuv>
     </tu>
     <tu>
