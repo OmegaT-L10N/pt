@@ -1568,6 +1568,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102515Z" creationid="Pedro Albuquerque" creationdate="20210421T102515Z">
+        <seg>Ocorreu um erro ao processar um evento de mudança de projecto:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -2042,8 +2052,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Click on "{0}" menu item</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102427Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Clique no item de menu "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3156,22 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063335Z" creationid="Pedro Albuquerque" creationdate="20210421T063335Z">
         <seg>Carácter decimal escapado contém dados mal-formados ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102532Z" creationid="Pedro Albuquerque" creationdate="20210421T102532Z">
+        <seg>Evento: arranque da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102439Z" creationid="Pedro Albuquerque" creationdate="20210421T102439Z">
+        <seg>Evento: alteração de projecto - "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4383,6 +4409,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102333Z" creationid="Pedro Albuquerque" creationdate="20210421T102333Z">
+        <seg>Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122810Z" creationid="Pedro Albuquerque" creationdate="20210420T122810Z">
@@ -4663,6 +4697,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070223Z" creationid="Pedro Albuquerque" creationdate="20210421T070223Z">
         <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102350Z" creationid="Pedro Albuquerque" creationdate="20210421T102350Z">
+        <seg>Java: versão {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7820,6 +7862,15 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102326Z" creationid="Pedro Albuquerque" creationdate="20210421T102326Z">
+        <seg>Será utilizada a pasta de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -9654,8 +9705,8 @@ criasse o ficheiro de configuração.</seg>
       <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>{1}, executed from "{2}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102403Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>{1}, executado de "{2}"</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
