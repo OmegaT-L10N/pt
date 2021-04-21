@@ -2500,8 +2500,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095848Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
-        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100252Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
+        <seg>Mostra as entradas de glossário encontradas nos ficheiros localizados na pasta /glossary/ se estes estiverem presentes no segmento-fonte.</seg>
       </tuv>
     </tu>
     <tu>
