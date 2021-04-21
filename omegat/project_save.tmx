@@ -868,6 +868,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105913Z" creationid="Pedro Albuquerque" creationdate="20210421T105913Z">
+        <seg>&amp;Fonte (segmento {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125240Z" creationid="Pedro Albuquerque" creationdate="20210420T125240Z">
@@ -1596,6 +1604,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Although many users are aware of this, their reaction is often "But I can"t program!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105852Z" creationid="Pedro Albuquerque" creationdate="20210421T105852Z">
+        <seg>Ocorreu um erro ao transferir o dicionário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,6 +2400,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105834Z" creationid="Pedro Albuquerque" creationdate="20210421T105834Z">
+        <seg>Impossível criar a pasta especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not delete {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105213Z" creationid="Pedro Albuquerque" creationdate="20210421T105213Z">
@@ -2774,6 +2798,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060747Z" creationid="Pedro Albuquerque" creationdate="20210421T060747Z">
         <seg>Deseja continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105814Z" creationid="Pedro Albuquerque" creationdate="20210421T105814Z">
+        <seg>Deseja criá-la?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4991,6 +5023,62 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110004Z" creationid="Pedro Albuquerque" creationdate="20210421T110004Z">
+        <seg>Versão da API do LanguageTool trocada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110015Z" creationid="Pedro Albuquerque" creationdate="20210421T110015Z">
+        <seg>LanguageTool mal configurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105929Z" creationid="Pedro Albuquerque" creationdate="20210421T105929Z">
+        <seg>Servidor LanguageTool iniciado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105946Z" creationid="Pedro Albuquerque" creationdate="20210421T105946Z">
+        <seg>Servidor LanguageTool parado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110034Z" creationid="Pedro Albuquerque" creationdate="20210421T110034Z">
+        <seg>LanguageTool: caminho local errado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110049Z" creationid="Pedro Albuquerque" creationdate="20210421T110049Z">
+        <seg>LanguageTool: porta local indisponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110113Z" creationid="Pedro Albuquerque" creationdate="20210421T110113Z">
+        <seg>LanguageTool: o servidor devolveu XML onde era esperado JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174926Z" creationid="Pedro Albuquerque" creationdate="20210420T174926Z">
@@ -6465,6 +6553,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105900Z" creationid="Pedro Albuquerque" creationdate="20210421T105900Z">
+        <seg>Por favor, tente novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124835Z" creationid="Pedro Albuquerque" creationdate="20210420T124835Z">
@@ -7881,6 +7977,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165202Z" creationid="Pedro Albuquerque" creationdate="20210420T165202Z">
         <seg>Mudar de vistas com {0} e {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110024Z" creationid="Pedro Albuquerque" creationdate="20210421T110024Z">
+        <seg>A mudar para a versão interna.</seg>
       </tuv>
     </tu>
     <tu>
