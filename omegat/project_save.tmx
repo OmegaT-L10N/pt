@@ -4487,6 +4487,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101705Z" creationid="Pedro Albuquerque" creationdate="20210421T101705Z">
+        <seg>Arranque instantâneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173715Z" creationid="Pedro Albuquerque" creationdate="20210420T173715Z">
@@ -5673,6 +5681,18 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
 (à sua escolha) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101744Z" creationid="Pedro Albuquerque" creationdate="20210421T101744Z">
+        <seg>Foi recusado ao OmegaT o acesso à propriedade de sistema que contém
+o nome do seu SO e/ou a propriedade de sistema que contém
+a sua pasta raiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,9 +7966,9 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Therefore, the location of OmegaT"s
-configuration folder cannot be reliably determined.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101910Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Portanto, a localização da pasta de configuração
+do OmegaT não pode ser determinada de forma fiável.</seg>
       </tuv>
     </tu>
     <tu>
