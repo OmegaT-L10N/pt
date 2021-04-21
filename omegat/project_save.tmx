@@ -876,6 +876,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090110Z" creationid="Pedro Albuquerque" creationdate="20210421T090110Z">
+        <seg>&amp;value (de entrada de formulário, incluindo botão, submissão e reposição)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -1918,6 +1926,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170215Z" creationid="Pedro Albuquerque" creationdate="20210420T170215Z">
         <seg>A submeter ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090154Z" creationid="Pedro Albuquerque" creationdate="20210421T090154Z">
+        <seg>Comprimir espaços no documento traduzido</seg>
       </tuv>
     </tu>
     <tu>
@@ -5657,6 +5673,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090213Z" creationid="Pedro Albuquerque" creationdate="20210421T090213Z">
+        <seg>Remover comentários HTML no documento traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054109Z" creationid="Pedro Albuquerque" creationdate="20210421T054109Z">
@@ -6411,6 +6435,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090234Z" creationid="Pedro Albuquerque" creationdate="20210421T090234Z">
+        <seg>Começar um novo parágrafo em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
@@ -7069,6 +7101,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060415Z" creationid="Pedro Albuquerque" creationdate="20210421T060415Z">
         <seg>Tradu&amp;zidos ou não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085931Z" creationid="Pedro Albuquerque" creationdate="20210421T085931Z">
+        <seg>Traduzir os seguintes atributos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8080,6 +8120,22 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090020Z" creationid="Pedro Albuquerque" creationdate="20210421T090020Z">
+        <seg>h&amp;reflang (idioma de ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
+        <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163258Z" creationid="Pedro Albuquerque" creationdate="20210420T163258Z">
@@ -8154,6 +8210,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090009Z" creationid="Pedro Albuquerque" creationdate="20210421T090009Z">
+        <seg>lan&amp;g (atributo de idioma)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063139Z" creationid="Pedro Albuquerque" creationdate="20210421T063139Z">
@@ -8210,6 +8274,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085955Z" creationid="Pedro Albuquerque" creationdate="20210421T085955Z">
+        <seg>src (URL de &amp;imagens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
@@ -8230,6 +8302,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171418Z" creationid="Pedro Albuquerque" creationdate="20210420T171418Z">
         <seg>desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090135Z" creationid="Pedro Albuquerque" creationdate="20210421T090135Z">
+        <seg>value (de botão, &amp;submissão e reposição da entrada)</seg>
       </tuv>
     </tu>
     <tu>
