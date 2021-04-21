@@ -1400,6 +1400,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100923Z" creationid="Pedro Albuquerque" creationdate="20210421T100923Z">
+        <seg>Uma nota é simplesmente um comentário relacionado com este conjunto texto-fonte/tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123041Z" creationid="Pedro Albuquerque" creationdate="20210420T123041Z">
@@ -2082,6 +2090,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101003Z" creationid="Pedro Albuquerque" creationdate="20210421T101003Z">
+        <seg>Comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124954Z" creationid="Pedro Albuquerque" creationdate="20210420T124941Z">
@@ -2510,6 +2526,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060421Z" creationid="Pedro Albuquerque" creationdate="20210421T060421Z">
         <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101106Z" creationid="Pedro Albuquerque" creationdate="20210421T101106Z">
+        <seg>Mostra os comentários presentes no segmento activo se existirem no ficheiro-fonte e o filtro de ficheiro os suporte (e.g., filtro PO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,6 +5457,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100502Z" creationid="Pedro Albuquerque" creationdate="20210421T100502Z">
         <seg>Notificar quando um segmento tem correspondências no glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100958Z" creationid="Pedro Albuquerque" creationdate="20210421T100958Z">
+        <seg>Notificar quando um segmento tem notas</seg>
       </tuv>
     </tu>
     <tu>
