@@ -3456,6 +3456,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092342Z" creationid="Pedro Albuquerque" creationdate="20210421T092342Z">
+        <seg>Texto completo, incluindo etiquetas e números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060136Z" creationid="Pedro Albuquerque" creationdate="20210421T060136Z">
@@ -4075,6 +4083,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055112Z" creationid="Pedro Albuquerque" creationdate="20210421T055112Z">
         <seg>Padrão de inclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092046Z" creationid="Pedro Albuquerque" creationdate="20210421T092046Z">
+        <seg>Incluir correspondências de &amp;outros idiomas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,6 +4747,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092226Z" creationid="Pedro Albuquerque" creationdate="20210421T092226Z">
+        <seg>Comparar modelo de disposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070219Z" creationid="Pedro Albuquerque" creationdate="20210421T070219Z">
@@ -4997,6 +5021,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062740Z" creationid="Pedro Albuquerque" creationdate="20210421T062740Z">
         <seg>Nenhum resultado devolvido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092321Z" creationid="Pedro Albuquerque" creationdate="20210421T092321Z">
+        <seg>Sem etiquetas nem números</seg>
       </tuv>
     </tu>
     <tu>
@@ -5627,6 +5659,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090616Z" creationid="Pedro Albuquerque" creationdate="20210421T090616Z">
         <seg>Padrão antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092117Z" creationid="Pedro Albuquerque" creationdate="20210421T092117Z">
+        <seg>Penalização para correspondências de outros idiomas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6779,6 +6819,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092246Z" creationid="Pedro Albuquerque" creationdate="20210421T092246Z">
+        <seg>Ordenar correspondências aproximadas por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065326Z" creationid="Pedro Albuquerque" creationdate="20210421T065326Z">
@@ -6939,6 +6987,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092306Z" creationid="Pedro Albuquerque" creationdate="20210421T092306Z">
+        <seg>Lematização, sem etiquetas nem números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubRip Subtitles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070612Z" creationid="Pedro Albuquerque" creationdate="20210421T070607Z">
@@ -7023,6 +7079,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054842Z" creationid="Pedro Albuquerque" creationdate="20210421T054842Z">
         <seg>Mapeamento do repositório em modo de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092129Z" creationid="Pedro Albuquerque" creationdate="20210421T092129Z">
+        <seg>Variáveis do modelo:</seg>
       </tuv>
     </tu>
     <tu>
