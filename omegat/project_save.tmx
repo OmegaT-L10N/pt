@@ -1114,6 +1114,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063534Z" creationid="Pedro Albuquerque" creationdate="20210421T063534Z">
+        <seg>Preferências salvaguardadas em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062632Z" creationid="Pedro Albuquerque" creationdate="20210421T062632Z">
@@ -1476,6 +1484,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054709Z" creationid="Pedro Albuquerque" creationdate="20210421T054709Z">
         <seg>Criar um novo projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063700Z" creationid="Pedro Albuquerque" creationdate="20210421T063700Z">
+        <seg>Criado por: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +1914,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063732Z" creationid="Pedro Albuquerque" creationdate="20210421T063732Z">
+        <seg>Excepção ao analisar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -1998,6 +2022,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063608Z" creationid="Pedro Albuquerque" creationdate="20210421T063608Z">
+        <seg>Falha ao salvaguardar o ficheiro de preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170119Z" creationid="Pedro Albuquerque" creationdate="20210420T170119Z">
@@ -2058,6 +2090,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173245Z" creationid="Pedro Albuquerque" creationdate="20210420T173245Z">
         <seg>Erro fatal encontrado - a gravar o ficheiro de projecto com a extensão de salvaguarda ".recover".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063810Z" creationid="Pedro Albuquerque" creationdate="20210421T063810Z">
+        <seg>Erro fatal na linha {0}, coluna {1} ao analisar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3645,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063640Z" creationid="Pedro Albuquerque" creationdate="20210421T063640Z">
+        <seg>A ler o ficheiro TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063653Z" creationid="Pedro Albuquerque" creationdate="20210421T063653Z">
+        <seg>Leitura do ficheiro TMX concluída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
@@ -3983,6 +4039,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063713Z" creationid="Pedro Albuquerque" creationdate="20210421T063713Z">
+        <seg>Método de segmentação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171749Z" creationid="Pedro Albuquerque" creationdate="20210420T171749Z">
@@ -4147,6 +4211,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055518Z" creationid="Pedro Albuquerque" creationdate="20210421T055518Z">
         <seg>A pasta de ficheiros-fonte não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063721Z" creationid="Pedro Albuquerque" creationdate="20210421T063721Z">
+        <seg>Idioma-fonte: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4555,6 +4627,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063836Z" creationid="Pedro Albuquerque" creationdate="20210421T063836Z">
+        <seg>Encontrada unidade de tradução antes do cabeçalho TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054902Z" creationid="Pedro Albuquerque" creationdate="20210421T054902Z">
@@ -4767,6 +4847,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063628Z" creationid="Pedro Albuquerque" creationdate="20210421T063628Z">
+        <seg>Versão do ficheiro de projecto não suportada ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115438Z" creationid="Pedro Albuquerque" creationdate="20210420T115415Z">
@@ -4867,6 +4955,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063705Z" creationid="Pedro Albuquerque" creationdate="20210421T063705Z">
+        <seg>Versão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122008Z" creationid="Pedro Albuquerque" creationdate="20210420T122008Z">
@@ -4879,6 +4975,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124526Z" creationid="Pedro Albuquerque" creationdate="20210420T124526Z">
         <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063751Z" creationid="Pedro Albuquerque" creationdate="20210421T063751Z">
+        <seg>Aviso na linha {0}, coluna {1} ao analisar:</seg>
       </tuv>
     </tu>
     <tu>
