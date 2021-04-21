@@ -2666,6 +2666,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110655Z" creationid="Pedro Albuquerque" creationdate="20210421T110655Z">
+        <seg>Instalador de dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary file folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105347Z" creationid="Pedro Albuquerque" creationdate="20210421T105342Z">
@@ -5047,6 +5055,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110640Z" creationid="Pedro Albuquerque" creationdate="20210421T110640Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072912Z" creationid="Pedro Albuquerque" creationdate="20210421T072734Z">
@@ -5067,6 +5083,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110015Z" creationid="Pedro Albuquerque" creationdate="20210421T110015Z">
         <seg>LanguageTool mal configurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110541Z" creationid="Pedro Albuquerque" creationdate="20210421T110541Z">
+        <seg>O LanguageTool não está disponível para o idioma-alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5275,8 +5299,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Load a project to configure rules for that project"s languages.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Carregue um projecto para configurar regras para os idiomas desse projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5325,6 +5349,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055040Z" creationid="Pedro Albuquerque" creationdate="20210421T055040Z">
         <seg>Ficheiro/Pasta local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110432Z" creationid="Pedro Albuquerque" creationdate="20210421T110432Z">
+        <seg>Caminho da instalação local:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +6649,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110730Z" creationid="Pedro Albuquerque" creationdate="20210421T110730Z">
+        <seg>Por favor, seleccione os dicionários que deseja instalar e clique em Instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054611Z" creationid="Pedro Albuquerque" creationdate="20210421T054611Z">
@@ -7331,6 +7371,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110509Z" creationid="Pedro Albuquerque" creationdate="20210421T110509Z">
+        <seg>A ID da regra só pode conter letras latinas, sublinhados e pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110442Z" creationid="Pedro Albuquerque" creationdate="20210421T110442Z">
+        <seg>Regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7721,6 +7777,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072805Z" creationid="Pedro Albuquerque" creationdate="20210421T072805Z">
         <seg>Sequence Library (Licença Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110420Z" creationid="Pedro Albuquerque" creationdate="20210421T110420Z">
+        <seg>Tipo de serviço</seg>
       </tuv>
     </tu>
     <tu>
@@ -8580,6 +8644,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110602Z" creationid="Pedro Albuquerque" creationdate="20210421T110602Z">
+        <seg>Ocorreu um erro ao incializar o LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
@@ -8606,6 +8678,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064111Z" creationid="Pedro Albuquerque" creationdate="20210421T064111Z">
         <seg>Estas unidades foram ignoradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110521Z" creationid="Pedro Albuquerque" creationdate="20210421T110521Z">
+        <seg>Esta ID já está em uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,6 +9134,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105456Z" creationid="Pedro Albuquerque" creationdate="20210421T105456Z">
         <seg>URL de dicionários online:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110436Z" creationid="Pedro Albuquerque" creationdate="20210421T110436Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
