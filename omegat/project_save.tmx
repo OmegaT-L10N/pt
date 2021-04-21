@@ -2850,6 +2850,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101140Z" creationid="Pedro Albuquerque" creationdate="20210421T101140Z">
+        <seg>[fuzzy]&amp;Editor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091253Z" creationid="Pedro Albuquerque" creationdate="20210421T091253Z">
@@ -4617,6 +4625,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101111Z" creationid="Pedro Albuquerque" creationdate="20210421T101111Z">
+        <seg>Chave:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key=Value Text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070705Z" creationid="Pedro Albuquerque" creationdate="20210421T070705Z">
@@ -5437,6 +5453,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101139Z" creationid="Pedro Albuquerque" creationdate="20210421T101139Z">
+        <seg>Notificar quando um segmento tenha comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100619Z" creationid="Pedro Albuquerque" creationdate="20210421T100619Z">
@@ -5987,6 +6011,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093122Z" creationid="Pedro Albuquerque" creationdate="20210421T093122Z">
         <seg>Senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101118Z" creationid="Pedro Albuquerque" creationdate="20210421T101118Z">
+        <seg>Caminho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,6 +8279,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063836Z" creationid="Pedro Albuquerque" creationdate="20210421T063836Z">
         <seg>Encontrada unidade de tradução antes do cabeçalho TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101124Z" creationid="Pedro Albuquerque" creationdate="20210421T101124Z">
+        <seg>Tradução:</seg>
       </tuv>
     </tu>
     <tu>
