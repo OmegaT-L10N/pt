@@ -260,6 +260,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071828Z" creationid="Pedro Albuquerque" creationdate="20210421T071828Z">
+        <seg>Notas f&amp;inais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055900Z" creationid="Pedro Albuquerque" creationdate="20210421T055900Z">
@@ -288,6 +296,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123141Z" creationid="Pedro Albuquerque" creationdate="20210420T123141Z">
         <seg>&amp;Terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071818Z" creationid="Pedro Albuquerque" creationdate="20210421T071818Z">
+        <seg>Notas de r&amp;odapé</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,6 +1612,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071722Z" creationid="Pedro Albuquerque" creationdate="20210421T071722Z">
+        <seg>Alterar para "needs-review-translation" em vez de "translated"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060027Z" creationid="Pedro Albuquerque" creationdate="20210421T060002Z">
@@ -1692,6 +1716,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071800Z" creationid="Pedro Albuquerque" creationdate="20210421T071800Z">
+        <seg>Co&amp;mentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065249Z" creationid="Pedro Albuquerque" creationdate="20210421T065249Z">
@@ -1708,6 +1740,14 @@ Compre outra bebida</seg>
         <seg>Comandos:
 	-h, --help
 		Mostrar informação de utilização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071931Z" creationid="Pedro Albuquerque" creationdate="20210421T071931Z">
+        <seg>Come&amp;ntários</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,6 +2120,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071924Z" creationid="Pedro Albuquerque" creationdate="20210421T071924Z">
+        <seg>Propriedades do doc&amp;umento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070441Z" creationid="Pedro Albuquerque" creationdate="20210421T070441Z">
@@ -2164,6 +2212,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173122Z" creationid="Pedro Albuquerque" creationdate="20210420T173111Z">
         <seg>A transferir o projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071913Z" creationid="Pedro Albuquerque" creationdate="20210421T071913Z">
+        <seg>Texto &amp;garantia duplicado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2452,6 +2508,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174748Z" creationid="Pedro Albuquerque" creationdate="20210420T174748Z">
         <seg>Correspondência exacta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071925Z" creationid="Pedro Albuquerque" creationdate="20210421T071925Z">
+        <seg>Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2804,6 +2868,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071843Z" creationid="Pedro Albuquerque" creationdate="20210421T071843Z">
+        <seg>&amp;Rodapés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
@@ -3002,6 +3074,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Have you ever written an article for your professional association"s journal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071836Z" creationid="Pedro Albuquerque" creationdate="20210421T071836Z">
+        <seg>C&amp;abeçalhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,6 +4041,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071723Z" creationid="Pedro Albuquerque" creationdate="20210421T071723Z">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065638Z" creationid="Pedro Albuquerque" creationdate="20210421T065638Z">
@@ -4167,6 +4255,14 @@ a pasta Aplicações.</seg>
         <seg>Opções para modo não-GUI:
 	--quiet
 		Reduzir a saída a stdout na linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071753Z" creationid="Pedro Albuquerque" creationdate="20210421T071753Z">
+        <seg>Te&amp;xto de instruções não visíveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,6 +4599,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071731Z" creationid="Pedro Albuquerque" creationdate="20210421T071731Z">
+        <seg>Opções de filtro Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172048Z" creationid="Pedro Albuquerque" creationdate="20210420T172048Z">
@@ -4727,6 +4831,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130208Z" creationid="Pedro Albuquerque" creationdate="20210420T130208Z">
         <seg>Fim de formato direccional (FFD U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071933Z" creationid="Pedro Albuquerque" creationdate="20210421T071933Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -5205,6 +5317,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072003Z" creationid="Pedro Albuquerque" creationdate="20210421T071948Z">
+        <seg>Comentários do &amp;diapositivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060221Z" creationid="Pedro Albuquerque" creationdate="20210421T060221Z">
@@ -5547,6 +5667,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065101Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>A ignorar extensão previamente carregada da classe "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071953Z" creationid="Pedro Albuquerque" creationdate="20210421T071953Z">
+        <seg>Sli&amp;de Masters</seg>
       </tuv>
     </tu>
     <tu>
@@ -6987,6 +7115,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065752Z" creationid="Pedro Albuquerque" creationdate="20210421T065752Z">
         <seg>Recursos Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071734Z" creationid="Pedro Albuquerque" creationdate="20210421T071734Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
