@@ -364,6 +364,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074023Z" creationid="Pedro Albuquerque" creationdate="20210421T074023Z">
+        <seg>&amp;Ignorar contexto do ficheiro ao identificar segmentos com traduções alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164322Z" creationid="Pedro Albuquerque" creationdate="20210420T164322Z">
@@ -1356,6 +1364,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054847Z" creationid="Pedro Albuquerque" creationdate="20210421T054847Z">
         <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074030Z" creationid="Pedro Albuquerque" creationdate="20210421T074030Z">
+        <seg>Adicionar padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2442,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074034Z" creationid="Pedro Albuquerque" creationdate="20210421T074034Z">
+        <seg>Editar padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174905Z" creationid="Pedro Albuquerque" creationdate="20210420T174905Z">
@@ -2978,6 +3002,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171735Z" creationid="Pedro Albuquerque" creationdate="20210420T171735Z">
         <seg>Nome de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074142Z" creationid="Pedro Albuquerque" creationdate="20210421T074142Z">
+        <seg>Variáveis do nome de ficheiros:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3819,6 +3851,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173715Z" creationid="Pedro Albuquerque" creationdate="20210420T173715Z">
         <seg>Permissões insuficientes para a pasta de projecto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074237Z" creationid="Pedro Albuquerque" creationdate="20210421T074237Z">
+        <seg>Ficheiro HTML inválido</seg>
       </tuv>
     </tu>
     <tu>
@@ -5325,6 +5365,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074212Z" creationid="Pedro Albuquerque" creationdate="20210421T074212Z">
+        <seg>Projecto gravado automaticamente às {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124523Z" creationid="Pedro Albuquerque" creationdate="20210420T124344Z">
@@ -6139,10 +6187,26 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074110Z" creationid="Pedro Albuquerque" creationdate="20210421T074110Z">
+        <seg>Codificação do ficheiro-fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065312Z" creationid="Pedro Albuquerque" creationdate="20210421T065312Z">
         <seg>Padrão do nome de ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074057Z" creationid="Pedro Albuquerque" creationdate="20210421T074057Z">
+        <seg>Padrão de nome do ficheiro-fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6849,6 +6913,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074226Z" creationid="Pedro Albuquerque" creationdate="20210421T074226Z">
+        <seg>Ficheiro HTML muito grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174337Z" creationid="Pedro Albuquerque" creationdate="20210420T174337Z">
@@ -6917,6 +6989,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065340Z" creationid="Pedro Albuquerque" creationdate="20210421T065340Z">
         <seg>Codificação de ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074125Z" creationid="Pedro Albuquerque" creationdate="20210421T074114Z">
+        <seg>Codificação do ficheiro-alvo:</seg>
       </tuv>
     </tu>
     <tu>
