@@ -236,6 +236,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093343Z" creationid="Pedro Albuquerque" creationdate="20210421T093343Z">
+        <seg>Não procurar &amp;variáveis printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070331Z" creationid="Pedro Albuquerque" creationdate="20210421T070331Z">
@@ -1908,6 +1916,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093421Z" creationid="Pedro Albuquerque" creationdate="20210421T093421Z">
+        <seg>Procurar todas as variáveis printf (e.g., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093409Z" creationid="Pedro Albuquerque" creationdate="20210421T093409Z">
+        <seg>Procurar variáveis printf &amp;simples (e.g., %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152922Z" creationid="Pedro Albuquerque" creationdate="20210420T152922Z">
@@ -1920,6 +1944,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180959Z" creationid="Pedro Albuquerque" creationdate="20210420T180959Z">
         <seg>Verificar em &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Propriedades&lt;/g5&gt; &lt;g6&gt;do projecto&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093440Z" creationid="Pedro Albuquerque" creationdate="20210421T093440Z">
+        <seg>Procurar padrões simples &amp;java MessageFormat (e.g. {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3504,6 +3536,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093308Z" creationid="Pedro Albuquerque" creationdate="20210421T093308Z">
+        <seg>A verificação completa pode levar a falsos positivos em textos normais e o filtro PO já os detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092342Z" creationid="Pedro Albuquerque" creationdate="20210421T092342Z">
@@ -5065,6 +5105,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093510Z" creationid="Pedro Albuquerque" creationdate="20210421T093510Z">
+        <seg>NT: o filtro Java™ Resource Bundles já os detecta .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New Language and Country</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091212Z" creationid="Pedro Albuquerque" creationdate="20210421T091212Z">
@@ -5859,6 +5907,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091330Z" creationid="Pedro Albuquerque" creationdate="20210421T091330Z">
         <seg>Por favor, seleccione o texto que gostaria de inserir no segmento ainda não traduzido, quando passar para ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093250Z" creationid="Pedro Albuquerque" creationdate="20210421T093250Z">
+        <seg>Por favor, seleccione o comportamento apropriado.</seg>
       </tuv>
     </tu>
     <tu>
