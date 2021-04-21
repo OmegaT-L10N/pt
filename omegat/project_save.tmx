@@ -1296,6 +1296,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072820Z" creationid="Pedro Albuquerque" creationdate="20210421T072820Z">
+        <seg>ANTLR (Licença ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162947Z" creationid="Pedro Albuquerque" creationdate="20210420T162947Z">
@@ -1396,6 +1404,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070626Z" creationid="Pedro Albuquerque" creationdate="20210421T070626Z">
         <seg>Recursos Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072903Z" creationid="Pedro Albuquerque" creationdate="20210421T072903Z">
+        <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2150,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055702Z" creationid="Pedro Albuquerque" creationdate="20210421T055702Z">
         <seg>A pasta de dicionários não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072851Z" creationid="Pedro Albuquerque" creationdate="20210421T072851Z">
+        <seg>Diff (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,6 +3176,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072648Z" creationid="Pedro Albuquerque" creationdate="20210421T072648Z">
+        <seg>HTMLParser 1.6 por Somik Raha, Derrick Oswald e outros (Licença LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055209Z" creationid="Pedro Albuquerque" creationdate="20210421T055209Z">
@@ -3737,6 +3769,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072832Z" creationid="Pedro Albuquerque" creationdate="20210421T072832Z">
+        <seg>JGit (Licença Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072837Z" creationid="Pedro Albuquerque" creationdate="20210421T072837Z">
+        <seg>JSch (Licença JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065005Z" creationid="Pedro Albuquerque" creationdate="20210421T065005Z">
@@ -3765,6 +3813,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070223Z" creationid="Pedro Albuquerque" creationdate="20210421T070223Z">
         <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072734Z" creationid="Pedro Albuquerque" creationdate="20210421T072702Z">
+        <seg>Jmyspell (Licença LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3829,6 +3885,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064014Z" creationid="Pedro Albuquerque" creationdate="20210421T064014Z">
         <seg>Idioma não especificado para variante da unidade de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072912Z" creationid="Pedro Albuquerque" creationdate="20210421T072734Z">
+        <seg>LanguageTool (Licença LGPL e outras)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4015,6 +4079,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180648Z" creationid="Pedro Albuquerque" creationdate="20210420T180648Z">
         <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072900Z" creationid="Pedro Albuquerque" creationdate="20210421T072900Z">
+        <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4605,6 +4677,16 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160805Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
         <seg>OmegaT usa uma série de bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072618Z" creationid="Pedro Albuquerque" creationdate="20210421T072618Z">
+        <seg>O OmegaT usa as seguintes bibliotecas:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5447,6 +5529,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072826Z" creationid="Pedro Albuquerque" creationdate="20210421T072826Z">
+        <seg>SQLJet (Licença GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070421Z" creationid="Pedro Albuquerque" creationdate="20210421T070421Z">
@@ -5475,6 +5565,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>SVN "{0}" execution start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072754Z" creationid="Pedro Albuquerque" creationdate="20210421T072754Z">
+        <seg>SVNKit (Licença TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5589,6 +5687,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
         <seg>Veja "Capítulo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072625Z" creationid="Pedro Albuquerque" creationdate="20210421T072625Z">
+        <seg>Veja /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5733,6 +5839,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125915Z" creationid="Pedro Albuquerque" creationdate="20210420T125910Z">
         <seg>Seleccionar correspondência &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072805Z" creationid="Pedro Albuquerque" creationdate="20210421T072805Z">
+        <seg>Sequence Library (Licença Sequence Library)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +7179,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072734Z" creationid="Pedro Albuquerque" creationdate="20210421T072701Z">
+        <seg>VLDocking Framework (Licença LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064022Z" creationid="Pedro Albuquerque" creationdate="20210421T064022Z">
@@ -7608,6 +7730,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072848Z" creationid="Pedro Albuquerque" creationdate="20210421T072848Z">
+        <seg>jsch-agent-proxy (Licença jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063139Z" creationid="Pedro Albuquerque" creationdate="20210421T063139Z">
@@ -7644,6 +7774,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171326Z" creationid="Pedro Albuquerque" creationdate="20210420T171326Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072857Z" creationid="Pedro Albuquerque" creationdate="20210421T072857Z">
+        <seg>trilead-ssh2 (Licença Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
