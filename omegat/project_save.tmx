@@ -4352,6 +4352,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T161004Z" creationid="Pedro Albuquerque" creationdate="20210421T161004Z">
+        <seg>Chave da API Google indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
@@ -8041,6 +8049,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122318Z" creationid="Pedro Albuquerque" creationdate="20210420T122318Z">
         <seg>Veja Ajuda &gt; Manual do utilizador para mais informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T161022Z" creationid="Pedro Albuquerque" creationdate="20210421T161022Z">
+        <seg>Veja o manual do OmegaT para mais instruções.</seg>
       </tuv>
     </tu>
     <tu>
