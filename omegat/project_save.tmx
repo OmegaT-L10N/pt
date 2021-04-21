@@ -180,6 +180,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110346Z" creationid="Pedro Albuquerque" creationdate="20210421T110346Z">
+        <seg>&amp;Interno (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122927Z" creationid="Pedro Albuquerque" creationdate="20210420T122927Z">
@@ -488,6 +496,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165706Z" creationid="Pedro Albuquerque" creationdate="20210420T165706Z">
         <seg>Ú&amp;ltimas alterações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110402Z" creationid="Pedro Albuquerque" creationdate="20210421T110402Z">
+        <seg>Iniciar o servidor &amp;local</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3158,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110144Z" creationid="Pedro Albuquerque" creationdate="20210421T110144Z">
+        <seg>Assegure-se de que especifica a versão da API correcta (o URL deve incluir "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092828Z" creationid="Pedro Albuquerque" creationdate="20210421T092828Z">
@@ -4855,6 +4879,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110308Z" creationid="Pedro Albuquerque" creationdate="20210421T110308Z">
+        <seg>Ficheiros JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072832Z" creationid="Pedro Albuquerque" creationdate="20210421T072832Z">
@@ -5051,6 +5083,46 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105946Z" creationid="Pedro Albuquerque" creationdate="20210421T105946Z">
         <seg>Servidor LanguageTool parado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110251Z" creationid="Pedro Albuquerque" creationdate="20210421T110251Z">
+        <seg>Definições do LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110244Z" creationid="Pedro Albuquerque" creationdate="20210421T110244Z">
+        <seg>O LanguageTool será desactivado até que o projecto seja fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110223Z" creationid="Pedro Albuquerque" creationdate="20210421T110223Z">
+        <seg>LanguageTool: ocorreu um erro durante a verificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110152Z" creationid="Pedro Albuquerque" creationdate="20210421T110152Z">
+        <seg>LanguageTool: URL errado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110207Z" creationid="Pedro Albuquerque" creationdate="20210421T110207Z">
+        <seg>LanguageTool: o início do servidor expirou</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,6 +5389,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070727Z" creationid="Pedro Albuquerque" creationdate="20210421T070727Z">
         <seg>CSV de idioma Magento CE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110319Z" creationid="Pedro Albuquerque" creationdate="20210421T110319Z">
+        <seg>Regras definidas manualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,6 +5739,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091212Z" creationid="Pedro Albuquerque" creationdate="20210421T091212Z">
         <seg>Novo idioma e país</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110337Z" creationid="Pedro Albuquerque" creationdate="20210421T110337Z">
+        <seg>Nova regra LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -7019,6 +7107,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110413Z" creationid="Pedro Albuquerque" creationdate="20210421T110413Z">
+        <seg>&amp;Servidor remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055051Z" creationid="Pedro Albuquerque" creationdate="20210421T055051Z">
@@ -7609,6 +7705,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125915Z" creationid="Pedro Albuquerque" creationdate="20210420T125910Z">
         <seg>Seleccionar correspondência &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110302Z" creationid="Pedro Albuquerque" creationdate="20210421T110302Z">
+        <seg>Seleccionar languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8884,6 +8988,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054902Z" creationid="Pedro Albuquerque" creationdate="20210421T054902Z">
         <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110329Z" creationid="Pedro Albuquerque" creationdate="20210421T110329Z">
+        <seg>Insira a nova ID de regra</seg>
       </tuv>
     </tu>
     <tu>
