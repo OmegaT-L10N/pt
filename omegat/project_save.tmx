@@ -444,6 +444,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091401Z" creationid="Pedro Albuquerque" creationdate="20210421T091401Z">
+        <seg>Dei&amp;xar o segmento vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072359Z" creationid="Pedro Albuquerque" creationdate="20210421T072359Z">
@@ -484,10 +492,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091432Z" creationid="Pedro Albuquerque" creationdate="20210421T091432Z">
+        <seg>Semelhança &amp;mínima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091124Z" creationid="Pedro Albuquerque" creationdate="20210421T091124Z">
         <seg>&amp;Mover abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091246Z" creationid="Pedro Albuquerque" creationdate="20210421T091246Z">
+        <seg>&amp;Nome/ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1492,6 +1516,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072903Z" creationid="Pedro Albuquerque" creationdate="20210421T072903Z">
         <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091205Z" creationid="Pedro Albuquerque" creationdate="20210421T091205Z">
+        <seg>Tem a certeza de que deseja remover o conjunto {0} de regras de segmentação?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2582,6 +2614,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174922Z" creationid="Pedro Albuquerque" creationdate="20210420T174922Z">
         <seg>Editar as propriedades do projecto aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091254Z" creationid="Pedro Albuquerque" creationdate="20210421T091254Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091253Z" creationid="Pedro Albuquerque" creationdate="20210421T091253Z">
+        <seg>Opções do editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -4023,6 +4071,22 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091420Z" creationid="Pedro Albuquerque" creationdate="20210421T091420Z">
+        <seg>Inserir a melhor cadeia a&amp;proximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091349Z" creationid="Pedro Albuquerque" creationdate="20210421T091349Z">
+        <seg>In&amp;serir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
@@ -4107,6 +4171,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T120316Z" creationid="Pedro Albuquerque" creationdate="20210420T120316Z">
         <seg>Chamar "team -h" para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091244Z" creationid="Pedro Albuquerque" creationdate="20210421T091244Z">
+        <seg>É utilizado para marcar as suas traduções</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,6 +4861,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065937Z" creationid="Pedro Albuquerque" creationdate="20210421T065937Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091212Z" creationid="Pedro Albuquerque" creationdate="20210421T091212Z">
+        <seg>Novo idioma e país</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,6 +5591,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091228Z" creationid="Pedro Albuquerque" creationdate="20210421T091228Z">
+        <seg>Por favor, insira o seu nome/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055740Z" creationid="Pedro Albuquerque" creationdate="20210421T055740Z">
@@ -5523,6 +5611,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054611Z" creationid="Pedro Albuquerque" creationdate="20210421T054611Z">
         <seg>Por favor, seleccione o idioma dos ficheiros-fonte e o idioma-alvo para o qual quer traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091330Z" creationid="Pedro Albuquerque" creationdate="20210421T091330Z">
+        <seg>Por favor, seleccione o texto que gostaria de inserir no segmento ainda não traduzido, quando passar para ele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6363,6 +6459,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091149Z" creationid="Pedro Albuquerque" creationdate="20210421T091149Z">
+        <seg>As regras de segmentação são aplicadas na seguinte ordem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171749Z" creationid="Pedro Albuquerque" creationdate="20210420T171749Z">
@@ -6471,6 +6575,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Set the segment start after a period (".") followed by a space, tab ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091136Z" creationid="Pedro Albuquerque" creationdate="20210421T091136Z">
+        <seg>Conjuntos de regras de segmentação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,6 +6903,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170224Z" creationid="Pedro Albuquerque" creationdate="20210420T170224Z">
         <seg>Ficheiros-alvo submetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091216Z" creationid="Pedro Albuquerque" creationdate="20210421T091216Z">
+        <seg>Equipa</seg>
       </tuv>
     </tu>
     <tu>
