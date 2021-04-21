@@ -4109,6 +4109,18 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102239Z" creationid="Pedro Albuquerque" creationdate="20210421T102239Z">
+        <seg>Caso posteriormente seja concedido acesso à localização
+pretendida, essa localização será utilizada e tudo voltará às
+predefinições como resultado da mudança de localização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4551,6 +4563,16 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091244Z" creationid="Pedro Albuquerque" creationdate="20210421T091244Z">
         <seg>É utilizado para marcar as suas traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102253Z" creationid="Pedro Albuquerque" creationdate="20210421T102253Z">
+        <seg>Não foi possível criar a pasta de scripts
+dentro da pasta de configuração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7794,6 +7816,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162433Z" creationid="Pedro Albuquerque" creationdate="20210420T162433Z">
         <seg>O comando para inciar o OmegaT é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102154Z" creationid="Pedro Albuquerque" creationdate="20210421T102154Z">
+        <seg>Será utilizada a pasta actual.</seg>
       </tuv>
     </tu>
     <tu>
