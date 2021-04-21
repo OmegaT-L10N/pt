@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060701Z" creationid="Pedro Albuquerque" creationdate="20210421T060701Z">
+        <seg>&amp;Ficheiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122941Z" creationid="Pedro Albuquerque" creationdate="20210420T122941Z">
@@ -1504,6 +1512,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060747Z" creationid="Pedro Albuquerque" creationdate="20210421T060747Z">
+        <seg>Deseja continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181018Z" creationid="Pedro Albuquerque" creationdate="20210420T181018Z">
@@ -2609,6 +2625,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060638Z" creationid="Pedro Albuquerque" creationdate="20210421T060638Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180648Z" creationid="Pedro Albuquerque" creationdate="20210420T180648Z">
@@ -2831,6 +2855,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055952Z" creationid="Pedro Albuquerque" creationdate="20210421T055952Z">
         <seg>Agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060750Z" creationid="Pedro Albuquerque" creationdate="20210421T060750Z">
+        <seg>Number of matching segments:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3191,6 +3223,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060703Z" creationid="Pedro Albuquerque" creationdate="20210421T060703Z">
+        <seg>Pro&amp;jecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Problems with dictionaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180831Z" creationid="Pedro Albuquerque" creationdate="20210420T180831Z">
@@ -3287,6 +3327,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125612Z" creationid="Pedro Albuquerque" creationdate="20210420T125612Z">
         <seg>Substituir &amp;pela fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
+        <seg>Procura recursi&amp;va</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3715,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060655Z" creationid="Pedro Albuquerque" creationdate="20210421T060655Z">
+        <seg>Seleccionar &amp;pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125814Z" creationid="Pedro Albuquerque" creationdate="20210420T125814Z">
@@ -3859,6 +3915,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060726Z" creationid="Pedro Albuquerque" creationdate="20210421T060726Z">
+        <seg>Substituir texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060719Z" creationid="Pedro Albuquerque" creationdate="20210421T060719Z">
+        <seg>Procurar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180649Z" creationid="Pedro Albuquerque" creationdate="20210420T180649Z">
@@ -3908,8 +3980,8 @@ na área de início rápido.</seg>
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055433Z" creationid="Pedro Albuquerque" creationdate="20210421T055433Z">
-        <seg>O código de idioma deve estar na forma xx-YY, xxx-YY, xx_YY ou xxx_YY, onde 
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060618Z" creationid="Pedro Albuquerque" creationdate="20210421T055433Z">
+        <seg>O código de idioma deve estar na forma xx-YY, xxx-YY, xx_YY ou xxx_YY, onde
 xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opcional).</seg>
       </tuv>
     </tu>
@@ -4514,6 +4586,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060739Z" creationid="Pedro Albuquerque" creationdate="20210421T060739Z">
+        <seg>Vai modificar {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also launch it from
 the Spotlight search field.</seg>
       </tuv>
@@ -4650,6 +4730,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180652Z" creationid="Pedro Albuquerque" creationdate="20210420T180652Z">
         <seg>etc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060633Z" creationid="Pedro Albuquerque" creationdate="20210421T060633Z">
+        <seg>nomes de ficheiro</seg>
       </tuv>
     </tu>
     <tu>
