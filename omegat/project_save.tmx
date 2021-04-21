@@ -1824,6 +1824,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110806Z" creationid="Pedro Albuquerque" creationdate="20210421T110806Z">
+        <seg>Dicionários disponíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054258Z" creationid="Pedro Albuquerque" creationdate="20210421T054258Z">
@@ -4739,6 +4747,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110752Z" creationid="Pedro Albuquerque" creationdate="20210421T110752Z">
+        <seg>Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
@@ -5843,6 +5859,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105107Z" creationid="Pedro Albuquerque" creationdate="20210421T105107Z">
         <seg>Não precisa de gravar o projecto, não há alterações feitas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110748Z" creationid="Pedro Albuquerque" creationdate="20210421T110748Z">
+        <seg>Não há novos dicionários disponíveis no servidor remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7447,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060221Z" creationid="Pedro Albuquerque" creationdate="20210421T060221Z">
         <seg>Es&amp;paços correspondem a espaços inseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110809Z" creationid="Pedro Albuquerque" creationdate="20210421T110809Z">
+        <seg>S&amp;witch Case To</seg>
       </tuv>
     </tu>
     <tu>
