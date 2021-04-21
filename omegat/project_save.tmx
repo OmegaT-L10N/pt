@@ -1568,11 +1568,21 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104833Z" creationid="Pedro Albuquerque" creationdate="20210421T104833Z">
+        <seg>Ocorreu um erro ao processar um evento de letra alterada:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T094021Z" creationid="Pedro Albuquerque" creationdate="20210421T094021Z">
-        <seg>ação An error occurred while processing a new file event:
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104741Z" creationid="Pedro Albuquerque" creationdate="20210421T094021Z">
+        <seg>Ocorreu um erro ao processar um evento de novo ficheiro:
 {0}</seg>
       </tuv>
     </tu>
@@ -1603,6 +1613,16 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093931Z" creationid="Pedro Albuquerque" creationdate="20210421T093931Z">
         <seg>Ocorreu um erro ao processar um evento de arranque da aplicação:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104813Z" creationid="Pedro Albuquerque" creationdate="20210421T104754Z">
+        <seg>Ocorreu um erro ao processar um evento de entrada activada:
 {0}</seg>
       </tuv>
     </tu>
@@ -1668,9 +1688,9 @@ A definição actual é {0}MB;</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102102Z" creationid="Pedro Albuquerque" creationdate="20210421T102102Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104658Z" creationid="Pedro Albuquerque" creationdate="20210421T102102Z">
         <seg>Por este motivo,
-tudo estará com as predefinições, pelo que poderá 
+tudo estará com as predefinições, pelo que poderá
 experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
     </tu>
@@ -3202,6 +3222,22 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102532Z" creationid="Pedro Albuquerque" creationdate="20210421T102532Z">
         <seg>Evento: arranque da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104822Z" creationid="Pedro Albuquerque" creationdate="20210421T104822Z">
+        <seg>Evento: letra alterada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104752Z" creationid="Pedro Albuquerque" creationdate="20210421T104752Z">
+        <seg>Evento: nova entrada activada</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8182,22 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This button enables you to browse and download the collections that exist for the project"s source and target languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104942Z" creationid="Pedro Albuquerque" creationdate="20210421T104911Z">
+        <seg>Esta chama NÃO PODE estar na linha swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104909Z" creationid="Pedro Albuquerque" creationdate="20210421T104909Z">
+        <seg>Esta chama TEM de estar na linha swing</seg>
       </tuv>
     </tu>
     <tu>
