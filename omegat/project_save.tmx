@@ -2498,6 +2498,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095848Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093920Z" creationid="Pedro Albuquerque" creationdate="20210421T093920Z">
@@ -5329,6 +5337,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073449Z" creationid="Pedro Albuquerque" creationdate="20210421T073449Z">
         <seg>Nota: nem todos os filtros permitem seleccionar a codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095843Z" creationid="Pedro Albuquerque" creationdate="20210421T095843Z">
+        <seg>Notificar quando um segmento tem correspondências aproximadas</seg>
       </tuv>
     </tu>
     <tu>
