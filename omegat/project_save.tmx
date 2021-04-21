@@ -84,6 +84,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065434Z" creationid="Pedro Albuquerque" creationdate="20210421T065434Z">
+        <seg>Permitir tr&amp;aduções em branco nos ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165549Z" creationid="Pedro Albuquerque" creationdate="20210420T165549Z">
@@ -584,6 +592,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123128Z" creationid="Pedro Albuquerque" creationdate="20210420T123128Z">
         <seg>&amp;Saltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065508Z" creationid="Pedro Albuquerque" creationdate="20210421T065508Z">
+        <seg>&amp;Saltar cabeçalho PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,6 +1160,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065457Z" creationid="Pedro Albuquerque" creationdate="20210421T065457Z">
+        <seg>Permitir tradução de segmentos-fonte em &amp;branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -1218,8 +1242,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Auto replace "nplurals=INTEGER; &amp;plural=EXPRESSION;" in header</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065529Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Substituir automaticamente "nplurals=INTEGER; &amp;plural=EXPRESSION;" no cabeçalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2662,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065533Z" creationid="Pedro Albuquerque" creationdate="20210421T065533Z">
+        <seg>Formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060136Z" creationid="Pedro Albuquerque" creationdate="20210421T060136Z">
@@ -3327,6 +3359,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065356Z" creationid="Pedro Albuquerque" creationdate="20210421T065356Z">
+        <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064014Z" creationid="Pedro Albuquerque" creationdate="20210421T064014Z">
@@ -3597,6 +3637,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180821Z" creationid="Pedro Albuquerque" creationdate="20210420T180821Z">
         <seg>Dicionário Merriam Webster - uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065638Z" creationid="Pedro Albuquerque" creationdate="20210421T065638Z">
+        <seg>Monolingue</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,6 +4179,22 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170736Z" creationid="Pedro Albuquerque" creationdate="20210420T170433Z">
         <seg>Modo de sobreposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065357Z" creationid="Pedro Albuquerque" creationdate="20210421T065357Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065407Z" creationid="Pedro Albuquerque" creationdate="20210421T065407Z">
+        <seg>Opções de filtro PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -5111,6 +5175,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065543Z" creationid="Pedro Albuquerque" creationdate="20210421T065543Z">
+        <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
@@ -5657,6 +5729,22 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060415Z" creationid="Pedro Albuquerque" creationdate="20210421T060415Z">
         <seg>Tradu&amp;zidos ou não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065340Z" creationid="Pedro Albuquerque" creationdate="20210421T065340Z">
+        <seg>Codificação de ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065355Z" creationid="Pedro Albuquerque" creationdate="20210421T065355Z">
+        <seg>Padrão de nome de ficheiros-alvo</seg>
       </tuv>
     </tu>
     <tu>
