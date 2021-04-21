@@ -944,6 +944,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054847Z" creationid="Pedro Albuquerque" creationdate="20210421T054847Z">
+        <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -1628,6 +1636,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055101Z" creationid="Pedro Albuquerque" creationdate="20210421T055101Z">
+        <seg>Padrão de exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173824Z" creationid="Pedro Albuquerque" creationdate="20210420T173824Z">
@@ -2093,6 +2109,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055112Z" creationid="Pedro Albuquerque" creationdate="20210421T055112Z">
+        <seg>Padrão de inclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174106Z" creationid="Pedro Albuquerque" creationdate="20210420T174106Z">
@@ -2201,6 +2225,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173715Z" creationid="Pedro Albuquerque" creationdate="20210420T173715Z">
         <seg>Permissões insuficientes para a pasta de projecto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055124Z" creationid="Pedro Albuquerque" creationdate="20210421T055124Z">
+        <seg>Tipo de repositório inválido: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2385,6 +2417,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055040Z" creationid="Pedro Albuquerque" creationdate="20210421T055040Z">
+        <seg>Ficheiro/Pasta local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180648Z" creationid="Pedro Albuquerque" creationdate="20210420T180648Z">
@@ -2397,6 +2437,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
         <seg>Tra&amp;dução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054939Z" creationid="Pedro Albuquerque" creationdate="20210421T054939Z">
+        <seg>Mapeamento de pastas locais para pstas remotas nos repositórios</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,6 +3115,30 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055051Z" creationid="Pedro Albuquerque" creationdate="20210421T055051Z">
+        <seg>Ficheiro/Pasta remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054859Z" creationid="Pedro Albuquerque" creationdate="20210421T054859Z">
+        <seg>Repositórios remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054850Z" creationid="Pedro Albuquerque" creationdate="20210421T054850Z">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054109Z" creationid="Pedro Albuquerque" creationdate="20210421T054109Z">
@@ -3139,10 +3211,26 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054946Z" creationid="Pedro Albuquerque" creationdate="20210421T054946Z">
+        <seg>Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054441Z" creationid="Pedro Albuquerque" creationdate="20210421T054441Z">
         <seg>Mapeamento do repositório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055141Z" creationid="Pedro Albuquerque" creationdate="20210421T055141Z">
+        <seg>O repositório {0} já está presente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,10 +3819,26 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054902Z" creationid="Pedro Albuquerque" creationdate="20210421T054902Z">
+        <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170815Z" creationid="Pedro Albuquerque" creationdate="20210420T170815Z">
         <seg>DBLQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054903Z" creationid="Pedro Albuquerque" creationdate="20210421T054903Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
