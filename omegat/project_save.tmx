@@ -1866,6 +1866,30 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063305Z" creationid="Pedro Albuquerque" creationdate="20210421T063305Z">
+        <seg>Carácter binário escapado contém dados mal-formados ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063233Z" creationid="Pedro Albuquerque" creationdate="20210421T063233Z">
+        <seg>Carácter escapado não terminado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063335Z" creationid="Pedro Albuquerque" creationdate="20210421T063335Z">
+        <seg>Carácter decimal escapado contém dados mal-formados ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174748Z" creationid="Pedro Albuquerque" creationdate="20210420T174748Z">
@@ -2074,6 +2098,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174940Z" creationid="Pedro Albuquerque" creationdate="20210420T174940Z">
         <seg>Localização dos ficheiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063348Z" creationid="Pedro Albuquerque" creationdate="20210421T063348Z">
+        <seg>O ficheiro {0} não existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3333,6 +3365,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063458Z" creationid="Pedro Albuquerque" creationdate="20210421T063458Z">
+        <seg>Erro ao analisar o ficheiro de preferências!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -3409,6 +3449,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130208Z" creationid="Pedro Albuquerque" creationdate="20210420T130208Z">
         <seg>Fim de formato direccional (FFD U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063419Z" creationid="Pedro Albuquerque" creationdate="20210421T063419Z">
+        <seg>Falha ao gravar as preferências do sistema!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4581,6 +4629,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063519Z" creationid="Pedro Albuquerque" creationdate="20210421T063519Z">
+        <seg>Impossível ler o ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
@@ -4699,6 +4755,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062912Z" creationid="Pedro Albuquerque" creationdate="20210421T062912Z">
         <seg>Versão XML {0} não suportada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063509Z" creationid="Pedro Albuquerque" creationdate="20210421T063509Z">
+        <seg>Codificação de ficheiro não suportada</seg>
       </tuv>
     </tu>
     <tu>
