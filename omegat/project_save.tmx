@@ -294,8 +294,8 @@
       <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071355Z" creationid="Pedro Albuquerque" creationdate="20210421T071355Z">
-        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071459Z" creationid="Pedro Albuquerque" creationdate="20210421T071355Z">
+        <seg>&amp;Forçar atalho como "f" para etiquetas &lt;it pos="end"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,6 +344,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164322Z" creationid="Pedro Albuquerque" creationdate="20210420T164322Z">
         <seg>&amp;Ignorar correspondências com maiúsculas diferentes (e.g. HÁ vs há)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071547Z" creationid="Pedro Albuquerque" creationdate="20210421T071547Z">
+        <seg>&amp;Ignorar atributos type e ctype ao construir atalhos de etiqueta &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3325,6 +3333,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071605Z" creationid="Pedro Albuquerque" creationdate="20210421T071605Z">
+        <seg>&amp;Ignorar atributos type e ctype ao construir atalhos de etiqueta &lt;&amp;bpt&gt; e &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
@@ -5643,6 +5659,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170959Z" creationid="Pedro Albuquerque" creationdate="20210420T170900Z">
         <seg>Tamanhos de fonte/tradução (caracteres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071701Z" creationid="Pedro Albuquerque" creationdate="20210421T071701Z">
+        <seg>Especificar a gestão de atributos de estado</seg>
       </tuv>
     </tu>
     <tu>
