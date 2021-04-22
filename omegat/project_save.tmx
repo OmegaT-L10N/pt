@@ -11135,6 +11135,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100801Z" creationid="Pedro Albuquerque" creationdate="20210422T100801Z">
+        <seg>Clique com o botão direito do rato sobre o termo sublinhado e seleccione um termo-alvo para o inserir na posição do cursor na parte alvo do segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130147Z" creationid="Pedro Albuquerque" creationdate="20210420T130147Z">
@@ -13794,6 +13802,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100510Z" creationid="Pedro Albuquerque" creationdate="20210422T100510Z">
+        <seg>Para mostrar o menu contextual &lt;g0&gt;Conclusão automática&lt;/g0&gt; para as correspondências do glossário, prima a tecla dependente do SO (&lt;k1&gt;Ecape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espaço&lt;/k2&gt; para as outras plataformas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073746Z" creationid="Pedro Albuquerque" creationdate="20210421T073620Z">
@@ -13814,6 +13830,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>To remind yourself of the project"s initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100600Z" creationid="Pedro Albuquerque" creationdate="20210422T100600Z">
+        <seg>Para sublinhar termos correspondentes na parte da fonte do segmento utilizar &lt;g0&gt;Ver&lt;/g0&gt; &gt; &lt;g1&gt;Marcar correspondências do glossário&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
