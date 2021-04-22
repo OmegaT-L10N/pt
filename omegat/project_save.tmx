@@ -1466,6 +1466,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113946Z" creationid="Pedro Albuquerque" creationdate="20210422T113946Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Anthony Baldwin (localisation manager)
 - Didier Briel (project manager)
 - Alex Buloichik (lead developer)
@@ -1822,6 +1830,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091142Z" creationid="Pedro Albuquerque" creationdate="20210422T091142Z">
         <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114039Z" creationid="Pedro Albuquerque" creationdate="20210422T114039Z">
+        <seg>&lt;c0&gt;&lt;evento&gt;&lt;/c0&gt; pode ser: &lt;e1&gt; dactilografado&lt;/e1&gt;, &lt;e2&gt;premido&lt;/e2&gt;, &lt;e3&gt;libertado&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113852Z" creationid="Pedro Albuquerque" creationdate="20210422T113852Z">
+        <seg>&lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt; pode ser: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9943,6 +9967,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113942Z" creationid="Pedro Albuquerque" creationdate="20210422T113942Z">
+        <seg>Emo Mac, o modificador &lt;e0&gt;meta&lt;/e0&gt; deve ser utilizado para especificar a tecla &lt;e1&gt;comando&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113151Z" creationid="Pedro Albuquerque" creationdate="20210422T113151Z">
@@ -14088,6 +14120,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114132Z" creationid="Pedro Albuquerque" creationdate="20210422T114132Z">
+        <seg>Os possíveis eventos-chave (teclas) estão listados na seguinte documentação Java 1.6 da Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182641Z" creationid="Pedro Albuquerque" creationdate="20210421T182641Z">
@@ -16807,6 +16847,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114055Z" creationid="Pedro Albuquerque" creationdate="20210422T114055Z">
+        <seg>e &lt;c0&gt;&lt; tecla&gt;&lt;/c0&gt; pode ser qualquer tecla disponível no seu teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163203Z" creationid="Pedro Albuquerque" creationdate="20210420T163203Z">
@@ -16931,6 +16979,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
         <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114056Z" creationid="Pedro Albuquerque" creationdate="20210422T114056Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
     </tu>
     <tu>
