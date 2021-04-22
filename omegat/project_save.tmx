@@ -1938,6 +1938,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100945Z" creationid="Pedro Albuquerque" creationdate="20210422T100945Z">
+        <seg>Um possível terceiro formato é o "TBX" (TermBase eXchange) ISO padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123041Z" creationid="Pedro Albuquerque" creationdate="20210420T123041Z">
@@ -5712,6 +5720,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100809Z" creationid="Pedro Albuquerque" creationdate="20210422T100809Z">
+        <seg>Formato de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174940Z" creationid="Pedro Albuquerque" creationdate="20210420T174940Z">
@@ -9365,6 +9381,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100844Z" creationid="Pedro Albuquerque" creationdate="20210422T100844Z">
+        <seg>Os ficheiros de glossário do OmegaT são simples listas de três colunas em texto simples com o termo-fonte na primeira coluna, um termo-alvo opcional na segunda coluna e um comentário opcional na terceira coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124550Z" creationid="Pedro Albuquerque" creationdate="20210420T124550Z">
@@ -9963,6 +9987,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
         <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100907Z" creationid="Pedro Albuquerque" creationdate="20210422T100907Z">
+        <seg>Os glossários de texto simples podem ser ficheiros de "valores separados por tabulação" (TSV) ou ficheiros de "valores separados por vírgula" (CSV).</seg>
       </tuv>
     </tu>
     <tu>
