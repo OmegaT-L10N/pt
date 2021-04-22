@@ -1778,6 +1778,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090828Z" creationid="Pedro Albuquerque" creationdate="20210422T090828Z">
+        <seg>&lt;html&gt;Termo: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossários:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -14817,6 +14825,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091140Z" creationid="Pedro Albuquerque" creationdate="20210422T091140Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061918Z" creationid="Pedro Albuquerque" creationdate="20210422T061918Z">
@@ -14853,6 +14869,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090812Z" creationid="Pedro Albuquerque" creationdate="20210422T090812Z">
         <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090812Z" creationid="Pedro Albuquerque" creationdate="20210422T090812Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
