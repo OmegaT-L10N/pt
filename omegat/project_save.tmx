@@ -948,6 +948,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092727Z" creationid="Pedro Albuquerque" creationdate="20210422T092727Z">
+        <seg>&amp;Repor a senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062830Z" creationid="Pedro Albuquerque" creationdate="20210421T062830Z">
@@ -2202,6 +2210,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092856Z" creationid="Pedro Albuquerque" creationdate="20210422T092856Z">
+        <seg>Todas as preferências protegidas pela senha mestra serão repostas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
@@ -2454,6 +2470,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092627Z" creationid="Pedro Albuquerque" creationdate="20210422T092627Z">
+        <seg>Aparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendices</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181318Z" creationid="Pedro Albuquerque" creationdate="20210421T181318Z">
@@ -2474,6 +2498,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091205Z" creationid="Pedro Albuquerque" creationdate="20210421T091205Z">
         <seg>Tem a certeza de que deseja remover o conjunto {0} de regras de segmentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092820Z" creationid="Pedro Albuquerque" creationdate="20210422T092820Z">
+        <seg>Tem a certeza de que quer redefinir a senha mestra?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5770,6 +5802,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092622Z" creationid="Pedro Albuquerque" creationdate="20210422T092622Z">
+        <seg>Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>German</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090634Z" creationid="Pedro Albuquerque" creationdate="20210421T090634Z">
@@ -7811,6 +7851,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092718Z" creationid="Pedro Albuquerque" creationdate="20210422T092718Z">
+        <seg>Senha mestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174634Z" creationid="Pedro Albuquerque" creationdate="20210420T174634Z">
@@ -8573,6 +8621,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092754Z" creationid="Pedro Albuquerque" creationdate="20210422T092754Z">
+        <seg>Não definida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062931Z" creationid="Pedro Albuquerque" creationdate="20210421T062931Z">
@@ -8881,6 +8937,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055807Z" creationid="Pedro Albuquerque" creationdate="20210421T055807Z">
         <seg>O OmegaT não tem permissões de escrita e leitura nesta pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092708Z" creationid="Pedro Albuquerque" creationdate="20210422T092708Z">
+        <seg>OmegaT encripta senhas sensíveis e chaves API com uma senha mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10543,6 +10607,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092804Z" creationid="Pedro Albuquerque" creationdate="20210422T092804Z">
+        <seg>Repor a senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064648Z" creationid="Pedro Albuquerque" creationdate="20210422T064648Z">
@@ -11009,6 +11081,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092638Z" creationid="Pedro Albuquerque" creationdate="20210422T092638Z">
+        <seg>Loja segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
@@ -11361,6 +11441,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092749Z" creationid="Pedro Albuquerque" creationdate="20210422T092749Z">
+        <seg>Definida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092743Z" creationid="Pedro Albuquerque" creationdate="20210422T092743Z">
+        <seg>Definida &amp; Armazenada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set My Own Password</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092211Z" creationid="Pedro Albuquerque" creationdate="20210422T092211Z">
@@ -11421,6 +11517,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061203Z" creationid="Pedro Albuquerque" creationdate="20210422T061203Z">
         <seg>Atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092900Z" creationid="Pedro Albuquerque" creationdate="20210422T092900Z">
+        <seg>Atalho:</seg>
       </tuv>
     </tu>
     <tu>
