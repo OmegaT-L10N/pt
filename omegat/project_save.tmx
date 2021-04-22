@@ -1100,6 +1100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093717Z" creationid="Pedro Albuquerque" creationdate="20210422T093717Z">
+        <seg>Mo&amp;strar no menu contextual do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165120Z" creationid="Pedro Albuquerque" creationdate="20210420T165106Z">
@@ -3304,6 +3312,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093536Z" creationid="Pedro Albuquerque" creationdate="20210422T093536Z">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093403Z" creationid="Pedro Albuquerque" creationdate="20210422T093403Z">
@@ -3348,6 +3364,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093339Z" creationid="Pedro Albuquerque" creationdate="20210422T093339Z">
         <seg>Comando sem alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093803Z" creationid="Pedro Albuquerque" creationdate="20210422T093803Z">
+        <seg>Comando:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,6 +4008,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061853Z" creationid="Pedro Albuquerque" creationdate="20210422T061853Z">
         <seg>Eliminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093541Z" creationid="Pedro Albuquerque" creationdate="20210422T093541Z">
+        <seg>Delimitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093816Z" creationid="Pedro Albuquerque" creationdate="20210422T093816Z">
+        <seg>Delimitador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4628,6 +4668,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093737Z" creationid="Pedro Albuquerque" creationdate="20210422T093737Z">
+        <seg>Ed&amp;itar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062824Z" creationid="Pedro Albuquerque" creationdate="20210421T062824Z">
@@ -4636,10 +4684,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093759Z" creationid="Pedro Albuquerque" creationdate="20210422T093759Z">
+        <seg>Editar comando de procura externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093531Z" creationid="Pedro Albuquerque" creationdate="20210422T093531Z">
         <seg>Editar item de procura externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093750Z" creationid="Pedro Albuquerque" creationdate="20210422T093750Z">
+        <seg>Editar URL de procura externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,6 +4852,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171746Z" creationid="Pedro Albuquerque" creationdate="20210420T171746Z">
         <seg>Codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093811Z" creationid="Pedro Albuquerque" creationdate="20210422T093811Z">
+        <seg>Codificação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,6 +8609,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093544Z" creationid="Pedro Albuquerque" creationdate="20210422T093544Z">
+        <seg>Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093152Z" creationid="Pedro Albuquerque" creationdate="20210422T093152Z">
@@ -10543,6 +10623,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093734Z" creationid="Pedro Albuquerque" creationdate="20210422T093734Z">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110413Z" creationid="Pedro Albuquerque" creationdate="20210421T110413Z">
@@ -11213,6 +11301,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052222Z" creationid="Pedro Albuquerque" creationdate="20210422T052222Z">
         <seg>Pasta de scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093728Z" creationid="Pedro Albuquerque" creationdate="20210422T093728Z">
+        <seg>De&amp;finir</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,6 +12233,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093701Z" creationid="Pedro Albuquerque" creationdate="20210422T093701Z">
+        <seg>Especificar um atalho com "&amp;": E.g., "Ferramen&amp;ta" para usar o T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071701Z" creationid="Pedro Albuquerque" creationdate="20210421T071701Z">
@@ -12537,6 +12641,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093806Z" creationid="Pedro Albuquerque" creationdate="20210422T093806Z">
+        <seg>Alvo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091216Z" creationid="Pedro Albuquerque" creationdate="20210421T091216Z">
@@ -12792,6 +12904,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064146Z" creationid="Pedro Albuquerque" creationdate="20210421T064146Z">
         <seg>O idioma-fonte da TMX ({0}) é diferente do idioma-fonte do projecto ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093857Z" creationid="Pedro Albuquerque" creationdate="20210422T093857Z">
+        <seg>O URL tem de incluir "{target}", que será substituído pelo texto a procurar.</seg>
       </tuv>
     </tu>
     <tu>
