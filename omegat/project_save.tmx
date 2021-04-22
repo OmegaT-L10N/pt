@@ -2996,8 +2996,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181203Z" creationid="Pedro Albuquerque" creationdate="20210421T181203Z">
-        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051820Z" creationid="Pedro Albuquerque" creationdate="20210421T181203Z">
+        <seg>Mostra traduções alternativas que criou para segmentos que são repetidos no projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10280,6 +10280,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164207Z" creationid="Pedro Albuquerque" creationdate="20210420T163510Z">
         <seg>Utilizar lematização para entrada&amp;s do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051759Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
+        <seg>Use as Default Translation</seg>
       </tuv>
     </tu>
     <tu>
