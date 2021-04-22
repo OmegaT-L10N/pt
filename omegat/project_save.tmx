@@ -916,6 +916,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064302Z" creationid="Pedro Albuquerque" creationdate="20210422T064302Z">
+        <seg>&amp;Repor esta cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165600Z" creationid="Pedro Albuquerque" creationdate="20210420T165600Z">
@@ -1682,6 +1690,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064345Z" creationid="Pedro Albuquerque" creationdate="20210422T064345Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferências&lt;/i&gt; &amp;gt; &lt;i&gt;Geral&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avançar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062933Z" creationid="Pedro Albuquerque" creationdate="20210422T062933Z">
@@ -1998,6 +2014,38 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181845Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
         <seg>Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064208Z" creationid="Pedro Albuquerque" creationdate="20210422T064208Z">
+        <seg>Grupo de alinhamento "Aceite"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064223Z" creationid="Pedro Albuquerque" creationdate="20210422T064223Z">
+        <seg>Grupo de alinhamento "A rever"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064231Z" creationid="Pedro Albuquerque" creationdate="20210422T064231Z">
+        <seg>Realce do alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064254Z" creationid="Pedro Albuquerque" creationdate="20210422T064254Z">
+        <seg>Realce da linha de tabela de alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +2916,14 @@ Compre outra bebida</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072543Z" creationid="Pedro Albuquerque" creationdate="20210421T072543Z">
         <seg>Contribuições para o código por:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064307Z" creationid="Pedro Albuquerque" creationdate="20210422T064307Z">
+        <seg>Cores</seg>
       </tuv>
     </tu>
     <tu>
@@ -6341,6 +6397,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090659Z" creationid="Pedro Albuquerque" creationdate="20210421T090659Z">
         <seg>Italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064255Z" creationid="Pedro Albuquerque" creationdate="20210422T064255Z">
+        <seg>Item:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13701,6 +13765,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061650Z" creationid="Pedro Albuquerque" creationdate="20210422T061650Z">
         <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064422Z" creationid="Pedro Albuquerque" creationdate="20210422T064422Z">
+        <seg>{0} alterna a orientação entre EPD, DPE e dependente do idioma</seg>
       </tuv>
     </tu>
     <tu>
