@@ -5240,6 +5240,22 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112110Z" creationid="Pedro Albuquerque" creationdate="20210422T112110Z">
+        <seg>Inglês: a mesma verificação que acima, mas relativa às consoantes ("a", não "an")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112053Z" creationid="Pedro Albuquerque" creationdate="20210422T112053Z">
+        <seg>Inglês: palavras, começando com vogais, devem geralmente ser precedidas por "an", não "a".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T160927Z" creationid="Pedro Albuquerque" creationdate="20210421T160927Z">
@@ -10303,6 +10319,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053445Z" creationid="Pedro Albuquerque" creationdate="20210422T053445Z">
         <seg>Talvez já esteja aberto noutra instância do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112147Z" creationid="Pedro Albuquerque" creationdate="20210422T112147Z">
+        <seg>Ponto, seguido de uma letra maiúscula - possivelmente falta um espaço entre o ponto e o início de uma nova frase?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16407,6 +16431,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112120Z" creationid="Pedro Albuquerque" creationdate="20210422T112120Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\0mnn</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105704Z" creationid="Pedro Albuquerque" creationdate="20210422T105704Z">
@@ -16511,6 +16543,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112147Z" creationid="Pedro Albuquerque" creationdate="20210422T112147Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105612Z" creationid="Pedro Albuquerque" creationdate="20210422T105612Z">
@@ -16595,6 +16635,30 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111913Z" creationid="Pedro Albuquerque" creationdate="20210422T111913Z">
         <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111941Z" creationid="Pedro Albuquerque" creationdate="20210422T111941Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112054Z" creationid="Pedro Albuquerque" creationdate="20210422T112054Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112111Z" creationid="Pedro Albuquerque" creationdate="20210422T112111Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16753,8 +16817,8 @@ criasse o ficheiro de configuração.</seg>
       <tuv lang="en">
         <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111915Z" creationid="Pedro Albuquerque" creationdate="20210422T111915Z">
-        <seg>extra spaces after the period at the end of the line</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111939Z" creationid="Pedro Albuquerque" creationdate="20210422T111915Z">
+        <seg>espaços extra após o ponto no final da linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -16913,6 +16977,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112120Z" creationid="Pedro Albuquerque" creationdate="20210422T112120Z">
+        <seg>mais de um espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111144Z" creationid="Pedro Albuquerque" creationdate="20210422T111106Z">
@@ -16939,8 +17011,8 @@ criasse o ficheiro de configuração.</seg>
       <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>search for “is”, not “this” or “isn"t” etc.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112237Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>procurar por "is", não por "this" ou "isn't", etc.</seg>
       </tuv>
     </tu>
     <tu>
