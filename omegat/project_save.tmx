@@ -1688,6 +1688,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053046Z" creationid="Pedro Albuquerque" creationdate="20210422T053046Z">
+        <seg>Abortado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072345Z" creationid="Pedro Albuquerque" creationdate="20210421T072345Z">
@@ -1780,6 +1788,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114518Z" creationid="Pedro Albuquerque" creationdate="20210421T114518Z">
         <seg>Utilização &amp;forçada da letra de garantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053155Z" creationid="Pedro Albuquerque" creationdate="20210422T053155Z">
+        <seg>Alinhar projecto contra {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,6 +1936,14 @@ A definição actual é {0}MB;</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104813Z" creationid="Pedro Albuquerque" creationdate="20210421T104754Z">
         <seg>Ocorreu um erro ao processar um evento de entrada activada:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053238Z" creationid="Pedro Albuquerque" creationdate="20210422T053238Z">
+        <seg>Ocorreu um erro ao tentar executar o processo de consola: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2820,6 +2844,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054709Z" creationid="Pedro Albuquerque" creationdate="20210421T054709Z">
         <seg>Criar um novo projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053117Z" creationid="Pedro Albuquerque" creationdate="20210422T053117Z">
+        <seg>Criar um TMX de pseudo-tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,6 +3974,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053249Z" creationid="Pedro Albuquerque" creationdate="20210422T053249Z">
+        <seg>A executar o script {0} (evento {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173911Z" creationid="Pedro Albuquerque" creationdate="20210420T173911Z">
@@ -4564,6 +4604,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055546Z" creationid="Pedro Albuquerque" creationdate="20210421T055546Z">
         <seg>A pasta de glossários não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053337Z" creationid="Pedro Albuquerque" creationdate="20210422T053337Z">
+        <seg>A pasta de glossários {0} não existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5909,6 +5957,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Carregue um projecto para configurar regras para os idiomas desse projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053203Z" creationid="Pedro Albuquerque" creationdate="20210422T053203Z">
+        <seg>A carregar projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9093,6 +9149,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053303Z" creationid="Pedro Albuquerque" creationdate="20210422T053303Z">
+        <seg>A pasta-fonte {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063721Z" creationid="Pedro Albuquerque" creationdate="20210421T063721Z">
@@ -9337,6 +9401,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170224Z" creationid="Pedro Albuquerque" creationdate="20210420T170224Z">
         <seg>Ficheiros-alvo submetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053315Z" creationid="Pedro Albuquerque" creationdate="20210422T053315Z">
+        <seg>A pasta-alvo {0} não existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,6 +9824,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182641Z" creationid="Pedro Albuquerque" creationdate="20210421T182641Z">
         <seg>Os principais membros do projecto são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053218Z" creationid="Pedro Albuquerque" creationdate="20210422T053218Z">
+        <seg>O projecto não pôde ser verificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,6 +10300,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055527Z" creationid="Pedro Albuquerque" creationdate="20210421T055527Z">
         <seg>A pasta de ficheiros-alvo não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053143Z" creationid="Pedro Albuquerque" creationdate="20210422T053143Z">
+        <seg>Localização de ficheiros traduzidos não definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -10812,6 +10900,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072734Z" creationid="Pedro Albuquerque" creationdate="20210421T072701Z">
         <seg>VLDocking Framework (Licença LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053042Z" creationid="Pedro Albuquerque" creationdate="20210422T053042Z">
+        <seg>A validar etiquetas</seg>
       </tuv>
     </tu>
     <tu>
