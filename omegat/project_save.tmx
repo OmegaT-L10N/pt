@@ -2462,6 +2462,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063528Z" creationid="Pedro Albuquerque" creationdate="20210422T063528Z">
+        <seg>Caracteres de controlo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070834Z" creationid="Pedro Albuquerque" creationdate="20210421T070834Z">
@@ -5122,6 +5130,46 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063557Z" creationid="Pedro Albuquerque" creationdate="20210422T063557Z">
+        <seg>Da memória 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063548Z" creationid="Pedro Albuquerque" creationdate="20210422T063548Z">
+        <seg>Da memória ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063608Z" creationid="Pedro Albuquerque" creationdate="20210422T063608Z">
+        <seg>Da memória automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063617Z" creationid="Pedro Albuquerque" creationdate="20210422T063617Z">
+        <seg>Da memória forçada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063541Z" creationid="Pedro Albuquerque" creationdate="20210422T063541Z">
+        <seg>Da memória</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093308Z" creationid="Pedro Albuquerque" creationdate="20210421T093308Z">
@@ -5270,6 +5318,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175055Z" creationid="Pedro Albuquerque" creationdate="20210420T175055Z">
         <seg>Pasta dos glossários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063656Z" creationid="Pedro Albuquerque" creationdate="20210422T063656Z">
+        <seg>Correspondências do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -6421,6 +6477,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065356Z" creationid="Pedro Albuquerque" creationdate="20210421T065356Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063646Z" creationid="Pedro Albuquerque" creationdate="20210422T063646Z">
+        <seg>Verificador do idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -7589,6 +7653,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063510Z" creationid="Pedro Albuquerque" creationdate="20210422T063510Z">
+        <seg>Espaços inquebráveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063343Z" creationid="Pedro Albuquerque" creationdate="20210422T063312Z">
@@ -8351,6 +8423,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181330Z" creationid="Pedro Albuquerque" creationdate="20210421T181330Z">
         <seg>Panes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063632Z" creationid="Pedro Albuquerque" creationdate="20210422T063632Z">
+        <seg>Delimitação do parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,6 +9335,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063500Z" creationid="Pedro Albuquerque" creationdate="20210422T063500Z">
+        <seg>Remover texto do alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125719Z" creationid="Pedro Albuquerque" creationdate="20210420T125719Z">
@@ -9299,6 +9387,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174659Z" creationid="Pedro Albuquerque" creationdate="20210420T174659Z">
         <seg>Repetições:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063638Z" creationid="Pedro Albuquerque" creationdate="20210422T063638Z">
+        <seg>Substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,6 +10617,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063703Z" creationid="Pedro Albuquerque" creationdate="20210422T063703Z">
+        <seg>Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105258Z" creationid="Pedro Albuquerque" creationdate="20210421T105258Z">
@@ -10761,6 +10865,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063413Z" creationid="Pedro Albuquerque" creationdate="20210422T063413Z">
+        <seg>Etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062301Z" creationid="Pedro Albuquerque" creationdate="20210422T062301Z">
@@ -10821,6 +10933,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092129Z" creationid="Pedro Albuquerque" creationdate="20210421T092129Z">
         <seg>Variáveis do modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063710Z" creationid="Pedro Albuquerque" creationdate="20210422T063710Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,6 +12846,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055955Z" creationid="Pedro Albuquerque" creationdate="20210422T055955Z">
         <seg>Espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063513Z" creationid="Pedro Albuquerque" creationdate="20210422T063513Z">
+        <seg>Espaços</seg>
       </tuv>
     </tu>
     <tu>
