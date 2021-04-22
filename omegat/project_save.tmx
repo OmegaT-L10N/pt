@@ -364,6 +364,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052707Z" creationid="Pedro Albuquerque" creationdate="20210422T052707Z">
+        <seg>&amp;Localizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123141Z" creationid="Pedro Albuquerque" creationdate="20210420T123141Z">
@@ -628,6 +636,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052642Z" creationid="Pedro Albuquerque" creationdate="20210422T052642Z">
+        <seg>&amp;Novo script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124638Z" creationid="Pedro Albuquerque" creationdate="20210420T124638Z">
@@ -808,6 +824,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123137Z" creationid="Pedro Albuquerque" creationdate="20210420T123137Z">
         <seg>Substitui&amp;r seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052718Z" creationid="Pedro Albuquerque" creationdate="20210422T052718Z">
+        <seg>Substitui&amp;r...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,6 +1568,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052627Z" creationid="Pedro Albuquerque" creationdate="20210422T052627Z">
+        <seg>&lt;nenhum&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071221Z" creationid="Pedro Albuquerque" creationdate="20210421T071221Z">
@@ -1672,6 +1704,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052701Z" creationid="Pedro Albuquerque" creationdate="20210422T052701Z">
+        <seg>Aceder à pasta de scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101517Z" creationid="Pedro Albuquerque" creationdate="20210421T101517Z">
@@ -1700,6 +1740,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074030Z" creationid="Pedro Albuquerque" creationdate="20210421T074030Z">
         <seg>Adicionar padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052536Z" creationid="Pedro Albuquerque" creationdate="20210422T052536Z">
+        <seg>Adicionar script</seg>
       </tuv>
     </tu>
     <tu>
@@ -4528,6 +4576,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052731Z" creationid="Pedro Albuquerque" creationdate="20210422T052731Z">
+        <seg>Ir para &amp;linha...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072916Z" creationid="Pedro Albuquerque" creationdate="20210421T072916Z">
@@ -6535,10 +6591,26 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052527Z" creationid="Pedro Albuquerque" creationdate="20210422T052527Z">
+        <seg>Nenhum script vinculado à ranhura {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052302Z" creationid="Pedro Albuquerque" creationdate="20210422T052302Z">
         <seg>Nenhum script seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052507Z" creationid="Pedro Albuquerque" creationdate="20210422T052507Z">
+        <seg>Nenhum script definido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,6 +8051,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052543Z" creationid="Pedro Albuquerque" creationdate="20210422T052543Z">
+        <seg>Remover script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054109Z" creationid="Pedro Albuquerque" creationdate="20210421T054109Z">
@@ -8187,6 +8267,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052454Z" creationid="Pedro Albuquerque" creationdate="20210422T052454Z">
+        <seg>Executar script na ranhura {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -8349,10 +8437,26 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052556Z" creationid="Pedro Albuquerque" creationdate="20210422T052556Z">
+        <seg>Script "{0}" vinculado à ranhura {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052437Z" creationid="Pedro Albuquerque" creationdate="20210422T052437Z">
         <seg>Script "{0}" gravado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052607Z" creationid="Pedro Albuquerque" creationdate="20210422T052607Z">
+        <seg>Script "{0}" desvinculado da ranhura {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8677,6 +8781,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052651Z" creationid="Pedro Albuquerque" creationdate="20210422T052651Z">
+        <seg>Definir pasta de scripts...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125727Z" creationid="Pedro Albuquerque" creationdate="20210420T125727Z">
@@ -8705,6 +8817,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055931Z" creationid="Pedro Albuquerque" creationdate="20210421T055931Z">
         <seg>Mostrar &amp;opções avançadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052749Z" creationid="Pedro Albuquerque" creationdate="20210422T052749Z">
+        <seg>Mostrar barra de procura</seg>
       </tuv>
     </tu>
     <tu>
@@ -11211,6 +11331,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180652Z" creationid="Pedro Albuquerque" creationdate="20210420T180652Z">
         <seg>etc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052635Z" creationid="Pedro Albuquerque" creationdate="20210422T052635Z">
+        <seg>extensões:</seg>
       </tuv>
     </tu>
     <tu>
