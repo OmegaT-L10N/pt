@@ -8891,6 +8891,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112700Z" creationid="Pedro Albuquerque" creationdate="20210422T112700Z">
+        <seg>A maioria dos itens que aparecem no menu principal pode ter um novo atalho atribuído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -16177,6 +16185,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
         <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112833Z" creationid="Pedro Albuquerque" creationdate="20210422T112833Z">
+        <seg>Pode alterar os atalhos já atribuídos e adicionar novos atalhos colocando um ficheiro de definição de atalhos na sua pasta de preferências do &lt;a0&gt;OmegaT&lt;/a0&gt; (acessível em &lt;m1&gt; &lt;g2&gt;Opções&lt;/g2&gt; &lt;g3&gt;Aceder à pasta de configurações&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
