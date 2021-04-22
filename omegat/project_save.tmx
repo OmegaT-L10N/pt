@@ -2018,6 +2018,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111739Z" creationid="Pedro Albuquerque" creationdate="20210422T111739Z">
+        <seg>Uma bela colecção de casos regex úteis pode ser encontrada no &lt;a0&gt;OmegaT&lt;/a0&gt; em si mesmo (ver Opções &gt; Segmentação).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110425Z" creationid="Pedro Albuquerque" creationdate="20210422T110425Z">
@@ -11151,6 +11159,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111503Z" creationid="Pedro Albuquerque" creationdate="20210422T111503Z">
+        <seg>Teste de Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111315Z" creationid="Pedro Albuquerque" creationdate="20210422T111315Z">
@@ -12053,6 +12069,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072625Z" creationid="Pedro Albuquerque" creationdate="20210421T072625Z">
         <seg>Veja /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111657Z" creationid="Pedro Albuquerque" creationdate="20210422T111657Z">
+        <seg>Veja o &lt;u0&gt;The Regex Coach&lt;/u0&gt; para Windows,Linux, FreeBSD como ferramenta independente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,6 +14350,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054924Z" creationid="Pedro Albuquerque" creationdate="20210422T054924Z">
         <seg>Este é um ficheiro de projecto válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111707Z" creationid="Pedro Albuquerque" creationdate="20210422T111707Z">
+        <seg>Isto é muito idêntico ao exemplo acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,6 +16707,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110038Z" creationid="Pedro Albuquerque" creationdate="20210422T110038Z">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111506Z" creationid="Pedro Albuquerque" creationdate="20210422T111506Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
