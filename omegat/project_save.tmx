@@ -7139,6 +7139,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063354Z" creationid="Pedro Albuquerque" creationdate="20210422T063354Z">
+        <seg>Informação de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092704Z" creationid="Pedro Albuquerque" creationdate="20210421T092704Z">
@@ -7151,6 +7159,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092729Z" creationid="Pedro Albuquerque" creationdate="20210421T092729Z">
         <seg>Modelo de informação de modificação para segmentos sem data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063406Z" creationid="Pedro Albuquerque" creationdate="20210422T063406Z">
+        <seg>Texto da informação de modificação</seg>
       </tuv>
     </tu>
     <tu>
@@ -7569,6 +7585,22 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055812Z" creationid="Pedro Albuquerque" creationdate="20210422T055812Z">
         <seg>Espaço inseparável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063343Z" creationid="Pedro Albuquerque" creationdate="20210422T063312Z">
+        <seg>Segmentos não únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063337Z" creationid="Pedro Albuquerque" creationdate="20210422T063313Z">
+        <seg>Fundo dos segmentos não únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9809,6 +9841,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063133Z" creationid="Pedro Albuquerque" creationdate="20210422T063133Z">
+        <seg>Fundo do marcador do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063122Z" creationid="Pedro Albuquerque" creationdate="20210422T063122Z">
+        <seg>Texto do marcador do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070048Z" creationid="Pedro Albuquerque" creationdate="20210421T070048Z">
@@ -9853,6 +9901,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171749Z" creationid="Pedro Albuquerque" creationdate="20210420T171749Z">
         <seg>Segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063204Z" creationid="Pedro Albuquerque" creationdate="20210422T063204Z">
+        <seg>Segmentos com notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063216Z" creationid="Pedro Albuquerque" creationdate="20210422T063216Z">
+        <seg>Texto dos segmentos com notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10397,6 +10461,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064100Z" creationid="Pedro Albuquerque" creationdate="20210421T064100Z">
         <seg>Impossível encontrar o segmento-fonte para certas unidades de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063140Z" creationid="Pedro Albuquerque" creationdate="20210422T063140Z">
+        <seg>Segmentos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063150Z" creationid="Pedro Albuquerque" creationdate="20210422T063150Z">
+        <seg>Texto dos segmentos-fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11728,6 +11808,22 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063255Z" creationid="Pedro Albuquerque" creationdate="20210422T063255Z">
+        <seg>Segmentos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063301Z" creationid="Pedro Albuquerque" creationdate="20210422T063301Z">
+        <seg>Texto dos segmentos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172240Z" creationid="Pedro Albuquerque" creationdate="20210420T172240Z">
@@ -12184,6 +12280,22 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063628Z" creationid="Pedro Albuquerque" creationdate="20210421T063628Z">
         <seg>Versão do ficheiro de projecto não suportada ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063226Z" creationid="Pedro Albuquerque" creationdate="20210422T063226Z">
+        <seg>Segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063247Z" creationid="Pedro Albuquerque" creationdate="20210422T063247Z">
+        <seg>Texto dos segmentos não traduzidos</seg>
       </tuv>
     </tu>
     <tu>
