@@ -2032,6 +2032,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052952Z" creationid="Pedro Albuquerque" creationdate="20210422T052952Z">
+        <seg>Atributo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055948Z" creationid="Pedro Albuquerque" creationdate="20210421T055948Z">
@@ -4014,6 +4022,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052900Z" creationid="Pedro Albuquerque" creationdate="20210422T052900Z">
+        <seg>Comentários extraídos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063608Z" creationid="Pedro Albuquerque" creationdate="20210421T063608Z">
@@ -4226,6 +4242,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171947Z" creationid="Pedro Albuquerque" creationdate="20210420T171947Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053036Z" creationid="Pedro Albuquerque" creationdate="20210422T053036Z">
+        <seg>Concluído</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,6 +5207,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122810Z" creationid="Pedro Albuquerque" creationdate="20210420T122810Z">
         <seg>Projecto de equipa {0}-{1} inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053002Z" creationid="Pedro Albuquerque" creationdate="20210422T053002Z">
+        <seg>A inicializar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6907,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052845Z" creationid="Pedro Albuquerque" creationdate="20210422T052845Z">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054740Z" creationid="Pedro Albuquerque" creationdate="20210421T054740Z">
@@ -7449,6 +7489,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052842Z" creationid="Pedro Albuquerque" creationdate="20210422T052842Z">
+        <seg>Por favor, insira o nome deste conjunto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091228Z" creationid="Pedro Albuquerque" creationdate="20210421T091228Z">
@@ -7501,6 +7549,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093250Z" creationid="Pedro Albuquerque" creationdate="20210421T093250Z">
         <seg>Por favor, seleccione o comportamento apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052944Z" creationid="Pedro Albuquerque" creationdate="20210422T052944Z">
+        <seg>Por favor, traduza este plural como forma plural {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,6 +7975,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
         <seg>Procura recursi&amp;va</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052906Z" creationid="Pedro Albuquerque" creationdate="20210422T052906Z">
+        <seg>Referências:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8387,6 +8451,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052820Z" creationid="Pedro Albuquerque" creationdate="20210422T052820Z">
+        <seg>Gravar o conjunto actual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052405Z" creationid="Pedro Albuquerque" creationdate="20210422T052405Z">
@@ -8805,6 +8877,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052809Z" creationid="Pedro Albuquerque" creationdate="20210422T052809Z">
+        <seg>Conjuntos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091136Z" creationid="Pedro Albuquerque" creationdate="20210421T091136Z">
@@ -8825,6 +8905,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052749Z" creationid="Pedro Albuquerque" creationdate="20210422T052749Z">
         <seg>Mostrar barra de procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052800Z" creationid="Pedro Albuquerque" creationdate="20210422T052800Z">
+        <seg>Mostrar barra de substituição</seg>
       </tuv>
     </tu>
     <tu>
@@ -9225,6 +9313,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063037Z" creationid="Pedro Albuquerque" creationdate="20210421T063037Z">
         <seg>Nome da etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053013Z" creationid="Pedro Albuquerque" creationdate="20210422T053013Z">
+        <seg>Falha ao validar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052948Z" creationid="Pedro Albuquerque" creationdate="20210422T052948Z">
+        <seg>Etiqueta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10128,6 +10232,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053023Z" creationid="Pedro Albuquerque" creationdate="20210422T053023Z">
+        <seg>A traduzir o projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054405Z" creationid="Pedro Albuquerque" creationdate="20210421T054405Z">
@@ -10172,6 +10284,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101124Z" creationid="Pedro Albuquerque" creationdate="20210421T101124Z">
         <seg>Tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052853Z" creationid="Pedro Albuquerque" creationdate="20210422T052853Z">
+        <seg>Comentários do tradutor:</seg>
       </tuv>
     </tu>
     <tu>
