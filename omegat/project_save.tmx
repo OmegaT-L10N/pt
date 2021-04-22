@@ -1418,6 +1418,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111840Z" creationid="Pedro Albuquerque" creationdate="20210422T111840Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063130Z" creationid="Pedro Albuquerque" creationdate="20210421T063130Z">
@@ -6044,6 +6052,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085525Z" creationid="Pedro Albuquerque" creationdate="20210422T085525Z">
         <seg>Filtros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111839Z" creationid="Pedro Albuquerque" creationdate="20210422T111839Z">
+        <seg>Encontra o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11111,6 +11127,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111824Z" creationid="Pedro Albuquerque" creationdate="20210422T111824Z">
+        <seg>Regex - Exemplos de expressões regulares em traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105308Z" creationid="Pedro Albuquerque" creationdate="20210422T105308Z">
@@ -11179,6 +11203,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125738Z" creationid="Pedro Albuquerque" creationdate="20210420T125738Z">
         <seg>Registar tradução idêntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111832Z" creationid="Pedro Albuquerque" creationdate="20210422T111832Z">
+        <seg>Expressão regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -13822,6 +13854,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111813Z" creationid="Pedro Albuquerque" creationdate="20210422T111813Z">
+        <seg>A lista seguinte inclui expressões que poderá achar úteis ao pesquisar através da memória de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071351Z" creationid="Pedro Albuquerque" creationdate="20210421T071351Z">
@@ -16287,6 +16327,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111851Z" creationid="Pedro Albuquerque" creationdate="20210422T111851Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110215Z" creationid="Pedro Albuquerque" creationdate="20210422T110215Z">
@@ -16347,6 +16395,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105747Z" creationid="Pedro Albuquerque" creationdate="20210422T105747Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111911Z" creationid="Pedro Albuquerque" creationdate="20210422T111911Z">
+        <seg>\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16535,6 +16591,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111913Z" creationid="Pedro Albuquerque" creationdate="20210422T111913Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\t</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105442Z" creationid="Pedro Albuquerque" creationdate="20210422T105442Z">
@@ -16639,10 +16703,26 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111910Z" creationid="Pedro Albuquerque" creationdate="20210422T111910Z">
+        <seg>vírgula ou um ponto, seguido de espaços e ainda outra vírgula ou ponto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052124Z" creationid="Pedro Albuquerque" creationdate="20210422T052124Z">
         <seg>feito, ({0} ms decorridos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111851Z" creationid="Pedro Albuquerque" creationdate="20210422T111851Z">
+        <seg>palavras duplas</seg>
       </tuv>
     </tu>
     <tu>
@@ -16667,6 +16747,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052635Z" creationid="Pedro Albuquerque" creationdate="20210422T052635Z">
         <seg>extensões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111915Z" creationid="Pedro Albuquerque" creationdate="20210422T111915Z">
+        <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
     </tu>
     <tu>
