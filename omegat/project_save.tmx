@@ -3304,6 +3304,62 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093403Z" creationid="Pedro Albuquerque" creationdate="20210422T093403Z">
+        <seg>Delimitador de comando vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093325Z" creationid="Pedro Albuquerque" creationdate="20210422T093325Z">
+        <seg>Comando não contém "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093308Z" creationid="Pedro Albuquerque" creationdate="20210422T093308Z">
+        <seg>Comando sem cadeia de comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093353Z" creationid="Pedro Albuquerque" creationdate="20210422T093353Z">
+        <seg>Comando sem delimitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093347Z" creationid="Pedro Albuquerque" creationdate="20210422T093347Z">
+        <seg>Comando sem codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093339Z" creationid="Pedro Albuquerque" creationdate="20210422T093339Z">
+        <seg>Comando sem alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093411Z" creationid="Pedro Albuquerque" creationdate="20210422T093411Z">
+        <seg>Comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -3524,6 +3580,14 @@ Compre outra bebida</seg>
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Uma lista de expressões regulares de ficheiros-fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093519Z" creationid="Pedro Albuquerque" creationdate="20210422T093519Z">
+        <seg>Prioridade do menu contextual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4636,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093531Z" creationid="Pedro Albuquerque" creationdate="20210422T093531Z">
+        <seg>Editar item de procura externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073230Z" creationid="Pedro Albuquerque" creationdate="20210421T073230Z">
@@ -4684,6 +4756,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165528Z" creationid="Pedro Albuquerque" creationdate="20210420T165528Z">
         <seg>Activar &amp;previsão do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093501Z" creationid="Pedro Albuquerque" creationdate="20210422T093501Z">
+        <seg>Activar comandos específicos do projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5252,6 +5332,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054133Z" creationid="Pedro Albuquerque" creationdate="20210421T054133Z">
         <seg>Comando externo de pós-proessamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093418Z" creationid="Pedro Albuquerque" creationdate="20210422T093418Z">
+        <seg>Procura externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,6 +6765,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093449Z" creationid="Pedro Albuquerque" creationdate="20210422T093449Z">
+        <seg>No editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7133,6 +7229,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064255Z" creationid="Pedro Albuquerque" creationdate="20210422T064255Z">
         <seg>Item:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093435Z" creationid="Pedro Albuquerque" creationdate="20210422T093435Z">
+        <seg>Itens</seg>
       </tuv>
     </tu>
     <tu>
@@ -10059,6 +10163,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093431Z" creationid="Pedro Albuquerque" creationdate="20210422T093431Z">
+        <seg>Procura externa específica do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073514Z" creationid="Pedro Albuquerque" creationdate="20210421T073514Z">
@@ -12193,6 +12305,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093440Z" creationid="Pedro Albuquerque" creationdate="20210422T093440Z">
+        <seg>Resumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
@@ -13698,10 +13818,34 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093241Z" creationid="Pedro Albuquerque" creationdate="20210422T093241Z">
+        <seg>URL não contém "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093229Z" creationid="Pedro Albuquerque" creationdate="20210422T093229Z">
         <seg>URL sem a cadeia de URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093258Z" creationid="Pedro Albuquerque" creationdate="20210422T093258Z">
+        <seg>URL sem codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093251Z" creationid="Pedro Albuquerque" creationdate="20210422T093251Z">
+        <seg>URL sem alvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13718,6 +13862,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110436Z" creationid="Pedro Albuquerque" creationdate="20210421T110436Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093404Z" creationid="Pedro Albuquerque" creationdate="20210422T093404Z">
+        <seg>URLs</seg>
       </tuv>
     </tu>
     <tu>
