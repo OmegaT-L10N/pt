@@ -100,6 +100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055802Z" creationid="Pedro Albuquerque" creationdate="20210422T055802Z">
+        <seg>Permitir t&amp;ambém comandos externos por projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074446Z" creationid="Pedro Albuquerque" creationdate="20210421T074446Z">
@@ -2194,6 +2202,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055900Z" creationid="Pedro Albuquerque" creationdate="20210422T055900Z">
+        <seg>Aninhamento incorrecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085715Z" creationid="Pedro Albuquerque" creationdate="20210421T085715Z">
@@ -3484,6 +3500,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055851Z" creationid="Pedro Albuquerque" creationdate="20210422T055851Z">
+        <seg>Duplicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071913Z" creationid="Pedro Albuquerque" creationdate="20210421T071913Z">
@@ -3808,6 +3832,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062600Z" creationid="Pedro Albuquerque" creationdate="20210421T062600Z">
         <seg>Erro durante a substituição da expressão regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060028Z" creationid="Pedro Albuquerque" creationdate="20210422T060028Z">
+        <seg>Erro ao reparar as etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4212,6 +4244,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052900Z" creationid="Pedro Albuquerque" creationdate="20210422T052900Z">
         <seg>Comentários extraídos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055936Z" creationid="Pedro Albuquerque" creationdate="20210422T055936Z">
+        <seg>Estranha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6491,6 +6531,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055906Z" creationid="Pedro Albuquerque" creationdate="20210422T055906Z">
+        <seg>Em falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173216Z" creationid="Pedro Albuquerque" creationdate="20210421T173216Z">
@@ -6897,6 +6945,14 @@ a pasta Aplicações.</seg>
         <seg>Opções para modo não-GUI:
 	--quiet
 		Reduzir a saída a stdout na linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055812Z" creationid="Pedro Albuquerque" creationdate="20210422T055812Z">
+        <seg>Espaço inseparável</seg>
       </tuv>
     </tu>
     <tu>
@@ -7543,6 +7599,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060010Z" creationid="Pedro Albuquerque" creationdate="20210422T060010Z">
+        <seg>Órfãs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072154Z" creationid="Pedro Albuquerque" creationdate="20210421T072154Z">
@@ -7555,6 +7619,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072605Z" creationid="Pedro Albuquerque" creationdate="20210421T072605Z">
         <seg>Outras contribuições são detalhadas no ficheiro readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055951Z" creationid="Pedro Albuquerque" creationdate="20210422T055951Z">
+        <seg>Fora de ordem</seg>
       </tuv>
     </tu>
     <tu>
@@ -9689,6 +9761,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055828Z" creationid="Pedro Albuquerque" creationdate="20210422T055828Z">
+        <seg>Tabulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055838Z" creationid="Pedro Albuquerque" creationdate="20210422T055838Z">
+        <seg>Etiqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093148Z" creationid="Pedro Albuquerque" creationdate="20210421T093148Z">
@@ -9839,6 +9927,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090747Z" creationid="Pedro Albuquerque" creationdate="20210421T090747Z">
         <seg>Segmentação de ficheiros de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055846Z" creationid="Pedro Albuquerque" creationdate="20210422T055846Z">
+        <seg>Texto a remover</seg>
       </tuv>
     </tu>
     <tu>
@@ -11140,6 +11236,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060016Z" creationid="Pedro Albuquerque" creationdate="20210422T060016Z">
+        <seg>Não especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062912Z" creationid="Pedro Albuquerque" creationdate="20210421T062912Z">
@@ -11534,6 +11638,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project"s &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055955Z" creationid="Pedro Albuquerque" creationdate="20210422T055955Z">
+        <seg>Espaço</seg>
       </tuv>
     </tu>
     <tu>
