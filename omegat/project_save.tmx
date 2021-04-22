@@ -6138,6 +6138,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111041Z" creationid="Pedro Albuquerque" creationdate="20210422T111041Z">
+        <seg>Por exemplo, &lt;e0&gt;a+&lt;/e0&gt; corresponderá a aaa em &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -11095,6 +11103,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111057Z" creationid="Pedro Albuquerque" creationdate="20210422T111057Z">
+        <seg>Regex - Quantificadores relutantes (não ávidos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125738Z" creationid="Pedro Albuquerque" creationdate="20210420T125738Z">
@@ -15792,6 +15808,22 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111059Z" creationid="Pedro Albuquerque" creationdate="20210422T111059Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111100Z" creationid="Pedro Albuquerque" creationdate="20210422T111100Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110844Z" creationid="Pedro Albuquerque" creationdate="20210422T110844Z">
@@ -15800,10 +15832,50 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110905Z" creationid="Pedro Albuquerque" creationdate="20210422T110905Z">
+        <seg>X, uma ou mais vezes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110852Z" creationid="Pedro Albuquerque" creationdate="20210422T110852Z">
+        <seg>X, zero ou mais vezes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110845Z" creationid="Pedro Albuquerque" creationdate="20210422T110845Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110857Z" creationid="Pedro Albuquerque" creationdate="20210422T110857Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110815Z" creationid="Pedro Albuquerque" creationdate="20210422T110815Z">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111058Z" creationid="Pedro Albuquerque" creationdate="20210422T111058Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -16487,6 +16559,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110954Z" creationid="Pedro Albuquerque" creationdate="20210422T110954Z">
+        <seg>quantificadores ávidos farão o máximo de correspondências possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090020Z" creationid="Pedro Albuquerque" creationdate="20210421T090020Z">
@@ -16613,6 +16693,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
         <seg>mALIGNa (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111144Z" creationid="Pedro Albuquerque" creationdate="20210422T111106Z">
+        <seg>quantificadores relutantes farão o mínimo de correspondências possível.</seg>
       </tuv>
     </tu>
     <tu>
