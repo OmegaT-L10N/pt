@@ -2010,6 +2010,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064959Z" creationid="Pedro Albuquerque" creationdate="20210422T064959Z">
+        <seg>Alinhar ficheiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053155Z" creationid="Pedro Albuquerque" creationdate="20210422T053155Z">
@@ -2790,6 +2798,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064905Z" creationid="Pedro Albuquerque" creationdate="20210422T064905Z">
+        <seg>Alterado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064909Z" creationid="Pedro Albuquerque" creationdate="20210422T064909Z">
+        <seg>Alterado a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061957Z" creationid="Pedro Albuquerque" creationdate="20210422T061943Z">
@@ -3346,10 +3370,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064913Z" creationid="Pedro Albuquerque" creationdate="20210422T064913Z">
+        <seg>Criado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063700Z" creationid="Pedro Albuquerque" creationdate="20210421T063700Z">
         <seg>Criado por: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064918Z" creationid="Pedro Albuquerque" creationdate="20210422T064918Z">
+        <seg>Criado a</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5658,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064936Z" creationid="Pedro Albuquerque" creationdate="20210422T064936Z">
+        <seg>Tem nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -5794,6 +5842,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173227Z" creationid="Pedro Albuquerque" creationdate="20210421T173227Z">
         <seg>IBM Watson indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064844Z" creationid="Pedro Albuquerque" creationdate="20210422T064844Z">
+        <seg>ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -6389,10 +6445,26 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064942Z" creationid="Pedro Albuquerque" creationdate="20210422T064942Z">
+        <seg>É alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062017Z" creationid="Pedro Albuquerque" creationdate="20210422T062017Z">
         <seg>É tradução predefinida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064931Z" creationid="Pedro Albuquerque" creationdate="20210422T064931Z">
+        <seg>É duplicado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,6 +6637,22 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171316Z" creationid="Pedro Albuquerque" creationdate="20210420T171316Z">
         <seg>A saltar para o último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064729Z" creationid="Pedro Albuquerque" creationdate="20210422T064729Z">
+        <seg>Manter a minha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064734Z" creationid="Pedro Albuquerque" creationdate="20210422T064734Z">
+        <seg>Manter a outra</seg>
       </tuv>
     </tu>
     <tu>
@@ -7207,6 +7295,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092226Z" creationid="Pedro Albuquerque" creationdate="20210421T092226Z">
         <seg>Comparar modelo de disposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064953Z" creationid="Pedro Albuquerque" creationdate="20210422T064953Z">
+        <seg>Tipo de correspondência</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8117,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064839Z" creationid="Pedro Albuquerque" creationdate="20210422T064839Z">
+        <seg>Notificar quando um segmento tem "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101139Z" creationid="Pedro Albuquerque" creationdate="20210421T101139Z">
@@ -8567,6 +8671,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064742Z" creationid="Pedro Albuquerque" creationdate="20210422T064722Z">
+        <seg>Outras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072154Z" creationid="Pedro Albuquerque" creationdate="20210421T072154Z">
@@ -8695,6 +8807,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114845Z" creationid="Pedro Albuquerque" creationdate="20210421T114845Z">
         <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064859Z" creationid="Pedro Albuquerque" creationdate="20210422T064859Z">
+        <seg>Caminho</seg>
       </tuv>
     </tu>
     <tu>
@@ -9743,6 +9863,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064926Z" creationid="Pedro Albuquerque" creationdate="20210422T064926Z">
+        <seg>Nome do recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101453Z" creationid="Pedro Albuquerque" creationdate="20210421T101453Z">
@@ -10185,6 +10313,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064800Z" creationid="Pedro Albuquerque" creationdate="20210422T064800Z">
+        <seg>Propriedades do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063133Z" creationid="Pedro Albuquerque" creationdate="20210422T063133Z">
@@ -10517,6 +10653,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052749Z" creationid="Pedro Albuquerque" creationdate="20210422T052749Z">
         <seg>Mostrar barra de procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064823Z" creationid="Pedro Albuquerque" creationdate="20210422T064823Z">
+        <seg>Mostrar nomes de chave simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -11069,6 +11213,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055828Z" creationid="Pedro Albuquerque" creationdate="20210422T055828Z">
         <seg>Tabulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064805Z" creationid="Pedro Albuquerque" creationdate="20210422T064805Z">
+        <seg>Tabela</seg>
       </tuv>
     </tu>
     <tu>
@@ -12232,6 +12384,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064854Z" creationid="Pedro Albuquerque" creationdate="20210422T064854Z">
+        <seg>Tradução aproximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
@@ -12888,6 +13048,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064843Z" creationid="Pedro Albuquerque" creationdate="20210422T064843Z">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064022Z" creationid="Pedro Albuquerque" creationdate="20210421T064022Z">
@@ -13086,6 +13254,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project"s &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064715Z" creationid="Pedro Albuquerque" creationdate="20210422T064715Z">
+        <seg>Que versão deseja manter?</seg>
       </tuv>
     </tu>
     <tu>
