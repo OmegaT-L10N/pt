@@ -3220,6 +3220,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060353Z" creationid="Pedro Albuquerque" creationdate="20210422T060353Z">
+        <seg>Mostrar &amp;termos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113848Z" creationid="Pedro Albuquerque" creationdate="20210421T113848Z">
@@ -5046,6 +5054,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060329Z" creationid="Pedro Albuquerque" creationdate="20210422T060329Z">
+        <seg>Previsões do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181344Z" creationid="Pedro Albuquerque" creationdate="20210421T181344Z">
@@ -5165,6 +5181,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn"t work in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060536Z" creationid="Pedro Albuquerque" creationdate="20210422T060536Z">
+        <seg>Se marcada, as entradas mais longas são colocadas primeiro na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9393,6 +9417,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060508Z" creationid="Pedro Albuquerque" creationdate="20210422T060508Z">
+        <seg>Mostrar termos-alvo mais &amp;longos primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055931Z" creationid="Pedro Albuquerque" creationdate="20210421T055931Z">
@@ -9521,10 +9553,26 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060619Z" creationid="Pedro Albuquerque" creationdate="20210422T060619Z">
+        <seg>Ordenar &amp;alfabeticamente por termo-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092246Z" creationid="Pedro Albuquerque" creationdate="20210421T092246Z">
         <seg>Ordenar correspondências aproximadas por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060652Z" creationid="Pedro Albuquerque" creationdate="20210422T060652Z">
+        <seg>Ordenar termos-al&amp;vo alfabeticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11678,6 +11726,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091842Z" creationid="Pedro Albuquerque" creationdate="20210421T091842Z">
         <seg>Quando um único ficheiro tem mais segmentos do que isto, os segmentos adicionais serão carregados a pedido à medida que avança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060445Z" creationid="Pedro Albuquerque" creationdate="20210422T060445Z">
+        <seg>Quando marcada, os itens do glossário de conclusão automática também conterão o texto-fonte.</seg>
       </tuv>
     </tu>
     <tu>
