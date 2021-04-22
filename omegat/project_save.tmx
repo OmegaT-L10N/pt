@@ -1898,6 +1898,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054841Z" creationid="Pedro Albuquerque" creationdate="20210422T054841Z">
+        <seg>Ocorreu um erro ao tentar detectar o ficheiro de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105852Z" creationid="Pedro Albuquerque" creationdate="20210421T105852Z">
@@ -2362,6 +2370,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052041Z" creationid="Pedro Albuquerque" creationdate="20210422T052041Z">
         <seg>O cancelamento só funciona em scripts que verificam explicitamente o cancelamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054718Z" creationid="Pedro Albuquerque" creationdate="20210422T054718Z">
+        <seg>Criação de projecto de equipa cancelada</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2850,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054753Z" creationid="Pedro Albuquerque" creationdate="20210422T054753Z">
+        <seg>Impossível gravar as credenciais num ficheiro de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093838Z" creationid="Pedro Albuquerque" creationdate="20210421T093838Z">
@@ -3040,6 +3064,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT"s developers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054800Z" creationid="Pedro Albuquerque" creationdate="20210422T054800Z">
+        <seg>A detectar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,6 +3452,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054602Z" creationid="Pedro Albuquerque" creationdate="20210422T054602Z">
+        <seg>Transferir projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180349Z" creationid="Pedro Albuquerque" creationdate="20210420T180349Z">
@@ -3728,6 +3768,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123157Z" creationid="Pedro Albuquerque" creationdate="20210420T123157Z">
         <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054649Z" creationid="Pedro Albuquerque" creationdate="20210422T054649Z">
+        <seg>Erro ao descarregar o projecto do repositório remoto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6657,6 +6705,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054619Z" creationid="Pedro Albuquerque" creationdate="20210422T054619Z">
+        <seg>Nova pasta local de projecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130311Z" creationid="Pedro Albuquerque" creationdate="20210420T130311Z">
@@ -9561,6 +9617,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054700Z" creationid="Pedro Albuquerque" creationdate="20210422T054700Z">
+        <seg>Sincronização da equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092129Z" creationid="Pedro Albuquerque" creationdate="20210421T092129Z">
@@ -10190,6 +10254,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This feature is intended for gathering source files, but you"re not restricted to source files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054856Z" creationid="Pedro Albuquerque" creationdate="20210422T054856Z">
+        <seg>Este é um repositório Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11034,6 +11106,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163240Z" creationid="Pedro Albuquerque" creationdate="20210420T163240Z">
         <seg>Ligações úteis
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054737Z" creationid="Pedro Albuquerque" creationdate="20210422T054737Z">
+        <seg>Credenciais do utilizador recusadas</seg>
       </tuv>
     </tu>
     <tu>
