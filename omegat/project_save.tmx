@@ -332,6 +332,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060910Z" creationid="Pedro Albuquerque" creationdate="20210422T060910Z">
+        <seg>Activar sug&amp;estões de glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165506Z" creationid="Pedro Albuquerque" creationdate="20210420T165302Z">
@@ -3324,6 +3332,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060849Z" creationid="Pedro Albuquerque" creationdate="20210422T060849Z">
+        <seg>Mostra as entradas como "&lt;fonte&gt; → &lt;alvo&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060810Z" creationid="Pedro Albuquerque" creationdate="20210422T060810Z">
+        <seg>Mostra as entradas como "&lt;alvo&gt; → &lt;fonte&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100252Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
@@ -4810,6 +4834,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060732Z" creationid="Pedro Albuquerque" creationdate="20210422T060732Z">
+        <seg>Opções do glossário de conclusão automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060240Z" creationid="Pedro Albuquerque" creationdate="20210422T060240Z">
@@ -5181,6 +5213,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn"t work in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060713Z" creationid="Pedro Albuquerque" creationdate="20210422T060713Z">
+        <seg>Se marcada, as entradas são ordenadas alfabeticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9425,6 +9465,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060828Z" creationid="Pedro Albuquerque" creationdate="20210422T060828Z">
+        <seg>Mo&amp;strar termo-fonte primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060750Z" creationid="Pedro Albuquerque" creationdate="20210422T060750Z">
+        <seg>Mostrar &amp;termo-alvo primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055931Z" creationid="Pedro Albuquerque" creationdate="20210421T055931Z">
@@ -9981,6 +10037,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092129Z" creationid="Pedro Albuquerque" creationdate="20210421T092129Z">
         <seg>Variáveis do modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060922Z" creationid="Pedro Albuquerque" creationdate="20210422T060922Z">
+        <seg>Termos com múltiplos alvos</seg>
       </tuv>
     </tu>
     <tu>
