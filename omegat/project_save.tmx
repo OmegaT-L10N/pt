@@ -316,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062319Z" creationid="Pedro Albuquerque" creationdate="20210422T062319Z">
+        <seg>&amp;Transferir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125345Z" creationid="Pedro Albuquerque" creationdate="20210420T125345Z">
@@ -988,6 +996,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062332Z" creationid="Pedro Albuquerque" creationdate="20210422T062332Z">
+        <seg>&amp;Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110934Z" creationid="Pedro Albuquerque" creationdate="20210421T110934Z">
@@ -1080,6 +1096,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180948Z" creationid="Pedro Albuquerque" creationdate="20210421T180948Z">
         <seg>Armazenar só para esta &amp;sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062232Z" creationid="Pedro Albuquerque" creationdate="20210422T062210Z">
+        <seg>Procura de terminologia &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1950,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181845Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
         <seg>Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062325Z" creationid="Pedro Albuquerque" creationdate="20210422T062325Z">
+        <seg>Todos os domínios</seg>
       </tuv>
     </tu>
     <tu>
@@ -3308,6 +3340,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062248Z" creationid="Pedro Albuquerque" creationdate="20210422T062248Z">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -3708,6 +3748,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062306Z" creationid="Pedro Albuquerque" creationdate="20210422T062306Z">
+        <seg>Domínios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -3768,6 +3816,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054602Z" creationid="Pedro Albuquerque" creationdate="20210422T054602Z">
         <seg>Transferir projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062418Z" creationid="Pedro Albuquerque" creationdate="20210422T062418Z">
+        <seg>Transferir colecção {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7201,6 +7257,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062241Z" creationid="Pedro Albuquerque" creationdate="20210422T062241Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173429Z" creationid="Pedro Albuquerque" creationdate="20210421T173429Z">
@@ -9175,6 +9239,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062426Z" creationid="Pedro Albuquerque" creationdate="20210422T062426Z">
+        <seg>Erro de pedido: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062125Z" creationid="Pedro Albuquerque" creationdate="20210422T062125Z">
@@ -9211,6 +9283,22 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123121Z" creationid="Pedro Albuquerque" creationdate="20210420T123121Z">
         <seg>Restaurar prede&amp;finições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062348Z" creationid="Pedro Albuquerque" creationdate="20210422T062348Z">
+        <seg>Obter lista de colecções...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062409Z" creationid="Pedro Albuquerque" creationdate="20210422T062409Z">
+        <seg>Obter lista de domínios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9745,6 +9833,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062208Z" creationid="Pedro Albuquerque" creationdate="20210422T062208Z">
+        <seg>Seleccionar domínio de procura de termino&amp;logia TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062400Z" creationid="Pedro Albuquerque" creationdate="20210422T062400Z">
+        <seg>Seleccionar domínio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052248Z" creationid="Pedro Albuquerque" creationdate="20210422T052248Z">
@@ -10113,6 +10217,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062256Z" creationid="Pedro Albuquerque" creationdate="20210422T062256Z">
+        <seg>Total de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173510Z" creationid="Pedro Albuquerque" creationdate="20210420T173510Z">
@@ -10369,6 +10481,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062238Z" creationid="Pedro Albuquerque" creationdate="20210422T062238Z">
+        <seg>Colecções TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055828Z" creationid="Pedro Albuquerque" creationdate="20210422T055828Z">
@@ -10413,6 +10533,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052948Z" creationid="Pedro Albuquerque" creationdate="20210422T052948Z">
         <seg>Etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062301Z" creationid="Pedro Albuquerque" creationdate="20210422T062301Z">
+        <seg>Total de alvos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11746,6 +11874,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062454Z" creationid="Pedro Albuquerque" creationdate="20210422T062454Z">
+        <seg>Pedido não autorizado ao serviço TaaS service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101500Z" creationid="Pedro Albuquerque" creationdate="20210421T101500Z">
@@ -11904,6 +12040,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063628Z" creationid="Pedro Albuquerque" creationdate="20210421T063628Z">
         <seg>Versão do ficheiro de projecto não suportada ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062314Z" creationid="Pedro Albuquerque" creationdate="20210422T062314Z">
+        <seg>Actualizado</seg>
       </tuv>
     </tu>
     <tu>
