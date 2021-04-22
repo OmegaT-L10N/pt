@@ -5370,6 +5370,30 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063842Z" creationid="Pedro Albuquerque" creationdate="20210422T063842Z">
+        <seg>Nota do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063828Z" creationid="Pedro Albuquerque" creationdate="20210422T063828Z">
+        <seg>Fonte do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063835Z" creationid="Pedro Albuquerque" creationdate="20210422T063835Z">
+        <seg>Tradução do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170303Z" creationid="Pedro Albuquerque" creationdate="20210420T170303Z">
@@ -5610,6 +5634,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>However, the command-line alternative allows the user to control and modify the program"s behavior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063847Z" creationid="Pedro Albuquerque" creationdate="20210422T063847Z">
+        <seg>Hiperligações</seg>
       </tuv>
     </tu>
     <tu>
@@ -7051,6 +7083,54 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063727Z" creationid="Pedro Albuquerque" creationdate="20210422T063727Z">
+        <seg>Correspondências alteradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063816Z" creationid="Pedro Albuquerque" creationdate="20210422T063816Z">
+        <seg>Correspondências eliminadas activas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063821Z" creationid="Pedro Albuquerque" creationdate="20210422T063821Z">
+        <seg>Correspondências eliminadas inactivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063753Z" creationid="Pedro Albuquerque" creationdate="20210422T063753Z">
+        <seg>Correspondências inseridas activas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063800Z" creationid="Pedro Albuquerque" creationdate="20210422T063800Z">
+        <seg>Correspondências inseridas inactivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063733Z" creationid="Pedro Albuquerque" creationdate="20210422T063733Z">
+        <seg>Correspondências não alteradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T095756Z" creationid="Pedro Albuquerque" creationdate="20210421T095756Z">
@@ -7793,6 +7873,22 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100741Z" creationid="Pedro Albuquerque" creationdate="20210421T100741Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064017Z" creationid="Pedro Albuquerque" creationdate="20210422T064017Z">
+        <seg>Notificação (piscar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064001Z" creationid="Pedro Albuquerque" creationdate="20210422T064001Z">
+        <seg>Notificação (estável)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,6 +9925,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165026Z" creationid="Pedro Albuquerque" creationdate="20210420T165026Z">
         <seg>Procurar nos dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063937Z" creationid="Pedro Albuquerque" creationdate="20210422T063937Z">
+        <seg>Marca de procura encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063949Z" creationid="Pedro Albuquerque" creationdate="20210422T063949Z">
+        <seg>Marca de procura substituída</seg>
       </tuv>
     </tu>
     <tu>
