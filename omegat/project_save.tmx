@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105328Z" creationid="Pedro Albuquerque" creationdate="20210422T105328Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -4980,6 +4988,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065232Z" creationid="Pedro Albuquerque" creationdate="20210421T065232Z">
         <seg>Activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105355Z" creationid="Pedro Albuquerque" creationdate="20210422T105355Z">
+        <seg>Permite a correspondência não sensível a maiúsculas e minúsculas (por defeito, o padrão é sensível a maiúsculas e minúsculas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10839,6 +10855,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105402Z" creationid="Pedro Albuquerque" creationdate="20210422T105402Z">
+        <seg>Regex - Carácter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105308Z" creationid="Pedro Albuquerque" creationdate="20210422T105308Z">
@@ -13278,16 +13302,16 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The alert (bell) character ("\u0007")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105603Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de som (bell) ("\u0007")</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The carriage-return character ("\u000D")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105530Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de retorno do carro ("\u000D")</seg>
       </tuv>
     </tu>
     <tu>
@@ -13296,6 +13320,22 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The certificate is signed by OmegaT"s lead developer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105437Z" creationid="Pedro Albuquerque" creationdate="20210422T105437Z">
+        <seg>O carácter com valor hexadecimal 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105420Z" creationid="Pedro Albuquerque" creationdate="20210422T105420Z">
+        <seg>O carácter x, excepto o seguinte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13329,6 +13369,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105315Z" creationid="Pedro Albuquerque" creationdate="20210422T105315Z">
         <seg>A construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The control character corresponding to x</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105628Z" creationid="Pedro Albuquerque" creationdate="20210422T105628Z">
+        <seg>O carácter  de controlo correspondente a x</seg>
       </tuv>
     </tu>
     <tu>
@@ -13376,8 +13424,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The escape character ("\u001B")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105612Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de escape ("\u001B")</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,8 +13472,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The form-feed character ("\u000C")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105548Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de nova folha ("\u000C")</seg>
       </tuv>
     </tu>
     <tu>
@@ -13522,8 +13570,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The newline (line feed) character ("\u000A")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105513Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de nova linha ("\u000A")</seg>
       </tuv>
     </tu>
     <tu>
@@ -13698,8 +13746,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The tab character ("\u0009")</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105453Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter de tabulação ("\u0009")</seg>
       </tuv>
     </tu>
     <tu>
@@ -15775,6 +15823,70 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105550Z" creationid="Pedro Albuquerque" creationdate="20210422T105550Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105612Z" creationid="Pedro Albuquerque" creationdate="20210422T105612Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105604Z" creationid="Pedro Albuquerque" creationdate="20210422T105604Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105531Z" creationid="Pedro Albuquerque" creationdate="20210422T105531Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105453Z" creationid="Pedro Albuquerque" creationdate="20210422T105453Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105513Z" creationid="Pedro Albuquerque" creationdate="20210422T105513Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105442Z" creationid="Pedro Albuquerque" creationdate="20210422T105442Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105420Z" creationid="Pedro Albuquerque" creationdate="20210422T105420Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060443Z" creationid="Pedro Albuquerque" creationdate="20210421T060443Z">
@@ -16061,6 +16173,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090135Z" creationid="Pedro Albuquerque" creationdate="20210421T090135Z">
         <seg>value (de botão, &amp;submissão e reposição da entrada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105405Z" creationid="Pedro Albuquerque" creationdate="20210422T105405Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
