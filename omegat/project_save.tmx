@@ -2674,6 +2674,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094144Z" creationid="Pedro Albuquerque" creationdate="20210422T094144Z">
+        <seg>Procurar actualizações automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061219Z" creationid="Pedro Albuquerque" creationdate="20210422T061219Z">
@@ -3186,6 +3194,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152922Z" creationid="Pedro Albuquerque" creationdate="20210420T152922Z">
         <seg>Procurar problemas no &amp;documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094202Z" creationid="Pedro Albuquerque" creationdate="20210422T094202Z">
+        <seg>Procurar agora</seg>
       </tuv>
     </tu>
     <tu>
