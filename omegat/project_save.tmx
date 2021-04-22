@@ -1200,6 +1200,16 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054357Z" creationid="Pedro Albuquerque" creationdate="20210422T054357Z">
+        <seg>(ainda poderá usar o OmegaT
+3.6 para editar este projecto como um projecto de equipa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063130Z" creationid="Pedro Albuquerque" creationdate="20210421T063130Z">
@@ -1556,6 +1566,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054215Z" creationid="Pedro Albuquerque" creationdate="20210421T054215Z">
         <seg>&lt;html&gt;Os comandos externos por projecto estão desactivados e não serão executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054548Z" creationid="Pedro Albuquerque" creationdate="20210422T054548Z">
+        <seg>&lt;html&gt;URL do repositório:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2076,6 +2094,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055948Z" creationid="Pedro Albuquerque" creationdate="20210421T055948Z">
         <seg>Aut&amp;or:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054458Z" creationid="Pedro Albuquerque" creationdate="20210422T054458Z">
+        <seg>Autenticação</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,6 +7627,16 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054452Z" creationid="Pedro Albuquerque" creationdate="20210422T054452Z">
+        <seg>Por favor contacte o administrador do seu projecto para saber se é
+necessário tomar medidas adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170100Z" creationid="Pedro Albuquerque" creationdate="20210420T170100Z">
@@ -7613,6 +7649,14 @@ uma descrição de como este erro foi produzido.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052842Z" creationid="Pedro Albuquerque" creationdate="20210422T052842Z">
         <seg>Por favor, insira o nome deste conjunto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054522Z" creationid="Pedro Albuquerque" creationdate="20210422T054522Z">
+        <seg>Por favor, insira o utilizador e a senha para {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,6 +9960,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054415Z" creationid="Pedro Albuquerque" creationdate="20210422T054415Z">
+        <seg>O projecto foi convertido com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054009Z" creationid="Pedro Albuquerque" creationdate="20210422T054009Z">
@@ -11352,6 +11404,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173346Z" creationid="Pedro Albuquerque" creationdate="20210421T173346Z">
         <seg>Resposta errada do motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054535Z" creationid="Pedro Albuquerque" creationdate="20210422T054535Z">
+        <seg>Utilizador/Senha errados para {0}</seg>
       </tuv>
     </tu>
     <tu>
