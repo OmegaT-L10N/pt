@@ -3696,6 +3696,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055032Z" creationid="Pedro Albuquerque" creationdate="20210422T055032Z">
+        <seg>Fim da reorganização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090642Z" creationid="Pedro Albuquerque" creationdate="20210421T090642Z">
@@ -7701,6 +7709,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054950Z" creationid="Pedro Albuquerque" creationdate="20210422T054950Z">
+        <seg>Por favor, verifique-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052842Z" creationid="Pedro Albuquerque" creationdate="20210422T052842Z">
@@ -7825,6 +7841,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071933Z" creationid="Pedro Albuquerque" creationdate="20210421T071933Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055103Z" creationid="Pedro Albuquerque" creationdate="20210422T055103Z">
+        <seg>As credenciais predefinidas não foram passadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9441,6 +9465,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055026Z" creationid="Pedro Albuquerque" creationdate="20210422T055026Z">
+        <seg>Início da reorganização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
@@ -10210,6 +10242,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054935Z" creationid="Pedro Albuquerque" creationdate="20210422T054935Z">
+        <seg>Este URL parece ser inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10262,6 +10302,22 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054856Z" creationid="Pedro Albuquerque" creationdate="20210422T054856Z">
         <seg>Este é um repositório Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054902Z" creationid="Pedro Albuquerque" creationdate="20210422T054902Z">
+        <seg>Este é um repositório Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054924Z" creationid="Pedro Albuquerque" creationdate="20210422T054924Z">
+        <seg>Este é um ficheiro de projecto válido.</seg>
       </tuv>
     </tu>
     <tu>
