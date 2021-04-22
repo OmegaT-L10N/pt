@@ -660,6 +660,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052006Z" creationid="Pedro Albuquerque" creationdate="20210422T052006Z">
+        <seg>&amp;Abrir script...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124701Z" creationid="Pedro Albuquerque" creationdate="20210420T124701Z">
@@ -824,6 +832,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125201Z" creationid="Pedro Albuquerque" creationdate="20210420T125201Z">
         <seg>&amp;Raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052022Z" creationid="Pedro Albuquerque" creationdate="20210422T052022Z">
+        <seg>Executa&amp;r</seg>
       </tuv>
     </tu>
     <tu>
@@ -1460,6 +1476,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>&lt;/e2&gt;The "*" character matches zero or more characters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051958Z" creationid="Pedro Albuquerque" creationdate="20210422T051958Z">
+        <seg>&lt;VAZIA&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2188,6 +2212,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052025Z" creationid="Pedro Albuquerque" creationdate="20210422T052025Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052041Z" creationid="Pedro Albuquerque" creationdate="20210422T052041Z">
+        <seg>O cancelamento só funciona em scripts que verificam explicitamente o cancelamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173744Z" creationid="Pedro Albuquerque" creationdate="20210420T173744Z">
@@ -2644,6 +2684,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125025Z" creationid="Pedro Albuquerque" creationdate="20210420T125025Z">
         <seg>Criar documentos &amp;traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051858Z" creationid="Pedro Albuquerque" creationdate="20210422T051858Z">
+        <seg>Criar tradução alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6603,6 +6651,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051945Z" creationid="Pedro Albuquerque" creationdate="20210422T051945Z">
+        <seg>Notificar quando um segmento tem múltiplas traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100958Z" creationid="Pedro Albuquerque" creationdate="20210421T100958Z">
@@ -7955,6 +8011,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051919Z" creationid="Pedro Albuquerque" creationdate="20210422T051919Z">
+        <seg>Substituir tradução com texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125553Z" creationid="Pedro Albuquerque" creationdate="20210420T125553Z">
@@ -8225,6 +8289,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153025Z" creationid="Pedro Albuquerque" creationdate="20210420T153025Z">
         <seg>Scriptin&amp;g...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052000Z" creationid="Pedro Albuquerque" creationdate="20210422T052000Z">
+        <seg>Scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -9348,6 +9420,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052058Z" creationid="Pedro Albuquerque" creationdate="20210422T052058Z">
+        <seg>O script "{0}" está em curso...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10286,8 +10366,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051759Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
-        <seg>Use as Default Translation</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051847Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
+        <seg>Usar como tradução predefinida</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,10 +11063,26 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052135Z" creationid="Pedro Albuquerque" creationdate="20210422T052135Z">
+        <seg>cancelado, ({0} ms decorridos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162502Z" creationid="Pedro Albuquerque" creationdate="20210420T162502Z">
         <seg>cd &lt;pasta onde se encontra o ficheiro OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052124Z" creationid="Pedro Albuquerque" creationdate="20210422T052124Z">
+        <seg>feito, ({0} ms decorridos)</seg>
       </tuv>
     </tu>
     <tu>
