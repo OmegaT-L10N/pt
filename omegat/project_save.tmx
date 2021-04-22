@@ -332,6 +332,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060958Z" creationid="Pedro Albuquerque" creationdate="20210422T060958Z">
+        <seg>Activar t&amp;exto automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061233Z" creationid="Pedro Albuquerque" creationdate="20210422T061233Z">
+        <seg>Activar tab&amp;ela de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060910Z" creationid="Pedro Albuquerque" creationdate="20210422T060910Z">
@@ -576,6 +592,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070059Z" creationid="Pedro Albuquerque" creationdate="20210421T070059Z">
         <seg>Quebras de &amp;linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061129Z" creationid="Pedro Albuquerque" creationdate="20210422T061129Z">
+        <seg>&amp;Carregar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,6 +920,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123155Z" creationid="Pedro Albuquerque" creationdate="20210420T123155Z">
         <seg>Gra&amp;var como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061137Z" creationid="Pedro Albuquerque" creationdate="20210422T061137Z">
+        <seg>&amp;Gravar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2202,30 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061113Z" creationid="Pedro Albuquerque" creationdate="20210422T061113Z">
+        <seg>Configuração do texto automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061149Z" creationid="Pedro Albuquerque" creationdate="20210422T061149Z">
+        <seg>Ficheiro de texto automático (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061219Z" creationid="Pedro Albuquerque" creationdate="20210422T061219Z">
+        <seg>Texto automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060303Z" creationid="Pedro Albuquerque" creationdate="20210422T060303Z">
@@ -2656,6 +2712,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071931Z" creationid="Pedro Albuquerque" creationdate="20210421T071931Z">
         <seg>Come&amp;ntários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061213Z" creationid="Pedro Albuquerque" creationdate="20210422T061213Z">
+        <seg>Comentário</seg>
       </tuv>
     </tu>
     <tu>
@@ -3232,6 +3296,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060353Z" creationid="Pedro Albuquerque" creationdate="20210422T060353Z">
         <seg>Mostrar &amp;termos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061118Z" creationid="Pedro Albuquerque" creationdate="20210422T061118Z">
+        <seg>Mostrar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3900,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
         <seg>Insira o número do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061122Z" creationid="Pedro Albuquerque" creationdate="20210422T061122Z">
+        <seg>Entradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4592,6 +4672,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060941Z" creationid="Pedro Albuquerque" creationdate="20210422T060941Z">
+        <seg>Seguir maiúsculas do texto inserido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4710,6 +4798,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093308Z" creationid="Pedro Albuquerque" creationdate="20210421T093308Z">
         <seg>A verificação completa pode levar a falsos positivos em textos normais e o filtro PO já os detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061208Z" creationid="Pedro Albuquerque" creationdate="20210422T061208Z">
+        <seg>Texto completo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9457,6 +9553,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061203Z" creationid="Pedro Albuquerque" creationdate="20210422T061203Z">
+        <seg>Atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060508Z" creationid="Pedro Albuquerque" creationdate="20210422T060508Z">
@@ -9605,6 +9709,30 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182305Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
         <seg>Desculpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061022Z" creationid="Pedro Albuquerque" creationdate="20210422T061022Z">
+        <seg>Ordenar &amp;alfabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061059Z" creationid="Pedro Albuquerque" creationdate="20210422T061059Z">
+        <seg>Ordenar por texto c&amp;ompleto, não por atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061011Z" creationid="Pedro Albuquerque" creationdate="20210422T061011Z">
+        <seg>Ordenar por taman&amp;ho</seg>
       </tuv>
     </tu>
     <tu>
@@ -11278,6 +11406,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054755Z" creationid="Pedro Albuquerque" creationdate="20210421T054755Z">
         <seg>Impossível ler o ficheiro de projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061159Z" creationid="Pedro Albuquerque" creationdate="20210422T061159Z">
+        <seg>Impossível gravar os dados.</seg>
       </tuv>
     </tu>
     <tu>
