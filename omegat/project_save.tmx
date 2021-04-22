@@ -1882,6 +1882,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101255Z" creationid="Pedro Albuquerque" creationdate="20210422T101255Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;predefinição do SO&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;predefinição do SO&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101102Z" creationid="Pedro Albuquerque" creationdate="20210422T101102Z">
+        <seg>&lt;t0&gt;Formato&lt;/t0&gt; &lt;t1&gt;Extensão&lt;/t1&gt; &lt;t2&gt;Codificação&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071221Z" creationid="Pedro Albuquerque" creationdate="20210421T071221Z">
@@ -5986,6 +6002,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101044Z" creationid="Pedro Albuquerque" creationdate="20210422T101044Z">
+        <seg>Formato, extensões e codificação esperada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065533Z" creationid="Pedro Albuquerque" creationdate="20210421T065533Z">
@@ -6182,6 +6206,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095308Z" creationid="Pedro Albuquerque" creationdate="20210420T181112Z">
         <seg>Glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101031Z" creationid="Pedro Albuquerque" creationdate="20210422T101031Z">
+        <seg>Os glossários são lidos numa codificação que depende da extensão do ficheiro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13396,6 +13428,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053218Z" creationid="Pedro Albuquerque" creationdate="20210422T053218Z">
         <seg>O projecto não pôde ser verificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101016Z" creationid="Pedro Albuquerque" creationdate="20210422T101016Z">
+        <seg>O glossário predefinido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
