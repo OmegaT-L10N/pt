@@ -1,239 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <appendix id="appendix.glossaries">
-  <title>Glossaries</title>
+  <title>Glossários</title>
 
-  <para>Glossaries are terminology files. They can be created and updated
-  manually or imported from other projects.</para>
+  <para>Glossários são ficheiros de terminologia. Podem ser criados e actualizados manualmente ou importados de outros projectos.</para>
 
-  <para>A given project can have any number of reference glossaries, but only
-  one glossary, the project default glossary, will be directly writable from
-  the OmegaT user interface.</para>
+  <para>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário predefinido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</para>
 
-  <para>Regardless of the number of glossaries in a project, any term in a
-  segment that has a match in a glossary will be displayed in the Glossary
-  pane.</para>
+  <para>Independentemente do número de glossários num projecto, qualquer termo num segmento que tenha uma correspondência num glossário será mostrado no painel do glossário.</para>
 
   <section>
-    <title>Default glossary</title>
+    <title>Glossário predefinido</title>
 
-    <para>The default writable glossary is located in the the
-    <filename>/glossary</filename> project folder and is called
-    <filename>glossary.txt</filename>.</para>
+    <para>O glossário predefinido está localizado na pasta <filename>/glossary</filename> do projecto e chama-se <filename>glossary.txt</filename>.</para>
 
-    <para>Its name and location can be modified in the project properties
-    dialog but its extension must be <filename>.txt</filename> or
-    <filename>.utf8</filename> and its location must be contained in the
-    <filename>/glossary</filename> project folder.</para>
+    <para>O seu nome e localização podem ser modificados no diálogo de propriedades do projecto, mas a sua extensão deve ser <filename>.txt</filename> ou <filename>.utf8</filename> e a sua localização deve estar contida na pasta <filename>/glossary</filename> do projecto.</para>
 
-    <para>The file does not need to exist when setting it, it will be created
-    when adding the first glossary entry. If the file already exists, no
-    attempt is done to verify the format or the character set of the file: the
-    new entries will always be in tab-separated format and the file will be
-    saved in UTF-8 encoding.</para>
+    <para>O ficheiro não precisa de existir ao defini-lo, ele será criado ao adicionar a primeira entrada do glossário. Se o ficheiro já existir, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do ficheiro: as novas entradas serão sempre em formato separado por tabulação e o ficheiro será gravado com codificação UTF-8.</para>
   </section>
 
   <section>
-    <title>Usage</title>
+    <title>Uso</title>
 
-    <para>To use an existing glossary, simply place it in the
-    <filename>/glossary</filename> folder after creating the project.
-    <application>OmegaT</application> automatically detects glossary files in
-    this folder when a project is opened.</para>
+    <para>Para utilizar um glossário existente, basta colocá-lo na pasta <filename>/glossary</filename> após a criação do projecto. <application>OmegaT</application> detecta automaticamente os ficheiros de glossário nesta pasta quando um projecto é aberto.</para>
 
-    <para>To add a new term to the writable glossary use
-    <guimenuitem>Edit</guimenuitem> &gt; <guimenuitem>Create Glossary
-    Entry</guimenuitem> (<keycap>Ctrl+Shift+G</keycap>). Newly added terms
-    will be immediately recognized. To add new terms to reference glossaries,
-    edit them in an external text editor. Newly added terms will be recognized
-    as soon as the changes have been saved.</para>
+    <para>Para adicionar um novo termo ao glossário editável, use <guimenuitem>Editar</guimenuitem> &gt; <guimenuitem>Criar entrada de glossário</guimenuitem> (<keycap>Ctrl+Shift+G</keycap>). Os novos termos adicionados serão imediatamente reconhecidos. Para adicionar novos termos aos glossários de referência, edite-os num editor de texto externo. Os novos termos adicionados serão reconhecidos assim que as alterações tenham sido gravadas.</para>
 
-    <para>The source term can be a multi-word term.</para>
+    <para>O termo-fonte pode ser um termo com várias palavras.</para>
 
-    <para>The glossary function uses stemming to find matches. Deactivate
-    <guimenuitem>Use stemming for glossary entries</guimenuitem> in the OmegaT
-    global preferences to only find exact matches for a term.</para>
+    <para>A função do glossário utiliza lematização para encontrar correspondências. Desactive <guimenuitem>Utilizar lematização para entradas de glossário</guimenuitem> nas preferências globais do OmegaT para encontrar só correspondências exactas para um termo.</para>
 
-    <para>The source term is displayed before the &quot; = &quot; sign and the target
-    terms after. Comments are displayed after a number and each on a separate
-    line. Terms from the project writable glossary are displayed in bold face.
-    Terms from the reference glossaries are displayed in normal face.</para>
+    <para>O termo-fonte é mostrado antes do sinal &quot; = &quot; e o termo-alvo depois. Os comentários são mostrados após um número e cada um numa linha separada. Os termos do glossário editável do projecto são mostrados em negrito. Os termos dos glossários de referência são mostrados em modo normal.</para>
 
-    <para>To display the <guimenuitem>Autocompletion</guimenuitem> contextual
-    menu for the glossary matches, hit the OS dependant key
-    (<keycap>Escape</keycap> for macOS, <keycap>Ctrl+Space</keycap> for the
-    other platforms).</para>
+    <para>Para mostrar o menu contextual <guimenuitem>Conclusão automática</guimenuitem> para as correspondências do glossário, prima a tecla dependente do SO (<keycap>Ecape</keycap> para macOS, <keycap>Ctrl+Espaço</keycap> para as outras plataformas).</para>
 
-    <para>To underline matching terms in the source part of the segment use
-    <guimenuitem>View</guimenuitem> &gt; <guimenuitem>Mark Glossary
-    Matches</guimenuitem>. Right-click on the underlined term and select a
-    target term to insert it at the cursor location in the target part of the
-    segment.</para>
+    <para>Para sublinhar termos correspondentes na parte da fonte do segmento utilizar <guimenuitem>Ver</guimenuitem> &gt; <guimenuitem>Marcar correspondências do glossário</guimenuitem>. Clique com o botão direito do rato sobre o termo sublinhado e seleccione um termo-alvo para o inserir na posição do cursor na parte alvo do segmento.</para>
   </section>
 
   <section>
-    <title>File format</title>
+    <title>Formato de ficheiro</title>
 
-    <para>OmegaT glossary files are simple plain text three-column lists with
-    the source term in the first column, an optional target term in the second
-    column and an optional comment in the third column.</para>
+    <para>Os ficheiros de glossário do OmegaT são simples listas de três colunas em texto simples com o termo-fonte na primeira coluna, um termo-alvo opcional na segunda coluna e um comentário opcional na terceira coluna.</para>
 
-    <para>Plain text glossaries can be &quot;tab separated values&quot; (TSV) files or
-    &quot;comma separated values&quot; (CSV) files. A third possible format is the &quot;TBX&quot;
-    (TermBase eXchange) ISO standard.</para>
+    <para>Os glossários de texto simples podem ser ficheiros de &quot;valores separados por tabulação&quot; (TSV) ou ficheiros de &quot;valores separados por vírgula&quot; (CSV). Um possível terceiro formato é o &quot;TBX&quot; (TermBase eXchange) ISO padrão.</para>
 
-    <para>The project default writable glossary is always a TSV file saved in
-    UTF-8 encoding.</para>
+    <para>O glossário predefinido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</para>
 
-    <para>Glossaries are read in an encoding that depends on the file
-    extension:</para>
+    <para>Os glossários são lidos numa codificação que depende da extensão do ficheiro:</para>
 
     <table xml:id="glossary.extensions">
-      <caption>Format, extensions and expected encoding</caption>
+      <caption>Formato, extensões e codificação esperada</caption>
 
       <thead>
         <tr>
-          <td>Format</td>
-
-          <td>Extension</td>
-
-          <td>Encoding</td>
+          <td>Formato</td> <td>Extensão</td> <td>Codificação</td>
         </tr>
       </thead>
 
       <tbody>
-        <tr>
-          <td>TSV</td>
-
-          <td>
-            <filename>.txt</filename>
-          </td>
-
-          <td>UTF-8</td>
-        </tr>
-
-        <tr>
-          <td>TSV</td>
-
-          <td>
-            <filename>.utf8</filename>
-          </td>
-
-          <td>UTF-8</td>
-        </tr>
-
-        <tr>
-          <td>TSV</td>
-
-          <td>
-            <filename>.tab</filename>
-          </td>
-
-          <td>OS default encoding</td>
-        </tr>
-
-        <tr>
-          <td>TSV</td>
-
-          <td>
-            <filename>.tsv</filename>
-          </td>
-
-          <td>OS default encoding</td>
-        </tr>
-
-        <tr>
-          <td>CSV</td>
-
-          <td>
-            <filename>.csv</filename>
-          </td>
-
-          <td>UTF-8</td>
-        </tr>
-
-        <tr>
-          <td>TBX</td>
-
-          <td>
-            <filename>.tbx</filename>
-          </td>
-
-          <td>UTF-8</td>
-        </tr>
+        <tr> <td>TSV</td> <td> <filename>.txt</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.utf8</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.tab</filename> </td> <td>predefinição do SO</td> </tr> <tr> <td>TSV</td> <td> <filename>.tsv</filename> </td> <td>predefinição do SO</td> </tr> <tr> <td>CSV</td> <td> <filename>.csv</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TBX</td> <td> <filename>.tbx</filename> </td> <td>UTF-8</td> </tr>
       </tbody>
     </table>
 
-    <para>Glossaries must be located in the <filename>/glossary</filename>
-    project folder. Glossaries located in nested folders are also
-    recognized.</para>
+    <para>Os glossários devem estar localizados na pasta <filename>/glossary</filename> do projecto. Os glossários localizados em pastas aninhadas também são reconhecidos.</para>
   </section>
 
   <section>
-    <title>Common glossary problems</title>
+    <title>Problemas comuns de glossários</title>
 
-    <para><emphasis role="bold">Problem: No glossary terms are displayed -
-    possible causes:</emphasis></para>
+    <para><emphasis role="bold">Problema: não são mostrados termos de glossário - causas possíveis:</emphasis></para>
 
     <itemizedlist>
       <listitem>
-        <para>No glossary file found in the &quot;glossary&quot; folder.</para>
+        <para>nenhum ficheiro de glossário encontrado na pasta &lt;f0&gt;/glossary&lt;/f0&gt;.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>The glossary file is empty.</para>
+        <para>o glossário está vazio.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>The items are not separated with a TAB character.</para>
+        <para>os itens não estão separados com um carácter TAB.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>The glossary file does not have the correct extension (.tab,
-        .utf8 or .txt).</para>
+        <para>o glossário não tem a extensão correcta (.tab, .utf8 ou .txt).</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>There is no EXACT match between the glossary entry and the
-        source text in your document - for instance plurals.</para>
+        <para>não existe uma correspondência EXACTA entre a entrada do glossário e o texto-fonte no seu documento - por exemplo, plurais.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>The glossary file does not have the correct encoding.</para>
+        <para>o glossário não tem a codificação correcta.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>There are no terms in the current segment which match any terms
-        in the glossary.</para>
+        <para>não existem termos no segmento actual que correspondam a quaisquer termos no glossário.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>One or more of the above problems may have been fixed, but the
-        project has not been reloaded.</para>
+        <para>um ou mais dos problemas acima referidos podem ter sido resolvidos, mas o projecto não foi recarregado.</para>
       </listitem>
     </itemizedlist>
 
-    <para><emphasis role="bold">Problem: In the glossary pane, some characters
-    are not displayed properly</emphasis></para>
+    <para><emphasis role="bold">Problema: no painel do glossário, alguns caracteres não são mostrados correctamente</emphasis></para>
 
     <itemizedlist>
       <listitem>
-        <para>...but the same characters are displayed properly in the Editing
-        pane: the extension and the file encoding do not match.</para>
+        <para>...mas os mesmos caracteres são mostrados correctamente no painel de edição: a extensão e a codificação do ficheiro não coincidem.</para>
       </listitem>
     </itemizedlist>
   </section>
