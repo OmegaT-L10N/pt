@@ -196,6 +196,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062138Z" creationid="Pedro Albuquerque" creationdate="20210422T062138Z">
+        <seg>&amp;Navegar pelas colecções TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105420Z" creationid="Pedro Albuquerque" creationdate="20210421T105420Z">
@@ -1890,6 +1898,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062116Z" creationid="Pedro Albuquerque" creationdate="20210422T062116Z">
+        <seg>Adicionados: {1}, Eliminados: {2}, Modificados: {3} (Conflitos: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114518Z" creationid="Pedro Albuquerque" creationdate="20210421T114518Z">
@@ -2566,6 +2582,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061953Z" creationid="Pedro Albuquerque" creationdate="20210422T061933Z">
+        <seg>Data de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change to "needs-review-translation" instead of "translated"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071722Z" creationid="Pedro Albuquerque" creationdate="20210421T071722Z">
@@ -2586,6 +2610,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055957Z" creationid="Pedro Albuquerque" creationdate="20210421T055957Z">
         <seg>Alterado após:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061957Z" creationid="Pedro Albuquerque" creationdate="20210422T061943Z">
+        <seg>Autor</seg>
       </tuv>
     </tu>
     <tu>
@@ -2876,6 +2908,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061846Z" creationid="Pedro Albuquerque" creationdate="20210422T061846Z">
+        <seg>Conflito {0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063027Z" creationid="Pedro Albuquerque" creationdate="20210421T063027Z">
@@ -3138,6 +3178,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062003Z" creationid="Pedro Albuquerque" creationdate="20210422T062003Z">
+        <seg>Data de criação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062008Z" creationid="Pedro Albuquerque" creationdate="20210422T062008Z">
+        <seg>Criador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123738Z" creationid="Pedro Albuquerque" creationdate="20210420T123738Z">
@@ -3244,10 +3300,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061853Z" creationid="Pedro Albuquerque" creationdate="20210422T061853Z">
+        <seg>Eliminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Descriptions of and links to Samuel Murray"s scripts/procedures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061917Z" creationid="Pedro Albuquerque" creationdate="20210422T061917Z">
+        <seg>Detalhes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5949,6 +6021,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062017Z" creationid="Pedro Albuquerque" creationdate="20210422T062017Z">
+        <seg>É tradução predefinida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181831Z" creationid="Pedro Albuquerque" creationdate="20210421T181831Z">
@@ -6455,6 +6535,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070912Z" creationid="Pedro Albuquerque" creationdate="20210421T070912Z">
         <seg>Ligações (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061912Z" creationid="Pedro Albuquerque" creationdate="20210422T061912Z">
+        <seg>Lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,6 +7233,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062032Z" creationid="Pedro Albuquerque" creationdate="20210422T062032Z">
+        <seg>Seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130311Z" creationid="Pedro Albuquerque" creationdate="20210420T130311Z">
@@ -7173,6 +7269,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152828Z" creationid="Pedro Albuquerque" creationdate="20210420T152828Z">
         <seg>Se&amp;gmento único seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061929Z" creationid="Pedro Albuquerque" creationdate="20210422T061929Z">
+        <seg>Avançar →</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +7417,22 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062931Z" creationid="Pedro Albuquerque" creationdate="20210421T062931Z">
         <seg>Ficheiro XML inválido!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061902Z" creationid="Pedro Albuquerque" creationdate="20210422T061902Z">
+        <seg>Não presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062019Z" creationid="Pedro Albuquerque" creationdate="20210422T062019Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -8401,6 +8521,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062036Z" creationid="Pedro Albuquerque" creationdate="20210422T062036Z">
+        <seg>Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130336Z" creationid="Pedro Albuquerque" creationdate="20210420T130336Z">
@@ -8455,6 +8583,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105644Z" creationid="Pedro Albuquerque" creationdate="20210421T105644Z">
         <seg>Continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061839Z" creationid="Pedro Albuquerque" creationdate="20210422T061839Z">
+        <seg>A processar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9035,6 +9171,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055151Z" creationid="Pedro Albuquerque" creationdate="20210421T055151Z">
         <seg>Repositório {0} desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062125Z" creationid="Pedro Albuquerque" creationdate="20210422T062125Z">
+        <seg>Pedir a TaaS: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9909,6 +10053,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060652Z" creationid="Pedro Albuquerque" creationdate="20210422T060652Z">
         <seg>Ordenar termos-al&amp;vo alfabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062022Z" creationid="Pedro Albuquerque" creationdate="20210422T062022Z">
+        <seg>Fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11316,6 +11468,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053023Z" creationid="Pedro Albuquerque" creationdate="20210422T053023Z">
         <seg>A traduzir o projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062027Z" creationid="Pedro Albuquerque" creationdate="20210422T062027Z">
+        <seg>Tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,6 +13097,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061918Z" creationid="Pedro Albuquerque" creationdate="20210422T061918Z">
+        <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0}_{1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115408Z" creationid="Pedro Albuquerque" creationdate="20210420T115408Z">
@@ -12957,6 +13125,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102403Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>{1}, executado de "{2}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061924Z" creationid="Pedro Albuquerque" creationdate="20210422T061924Z">
+        <seg>← Recuar</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
