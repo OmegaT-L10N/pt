@@ -1722,6 +1722,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085929Z" creationid="Pedro Albuquerque" creationdate="20210422T085929Z">
+        <seg>&lt;html&gt;Colocar o cursor no local onde se pretende dividir o texto.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054548Z" creationid="Pedro Albuquerque" creationdate="20210422T054548Z">
@@ -2166,6 +2174,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065059Z" creationid="Pedro Albuquerque" creationdate="20210422T065059Z">
         <seg>Ocorreu um erro ao carregar os ficheiros-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085806Z" creationid="Pedro Albuquerque" creationdate="20210422T085806Z">
+        <seg>Ocorreu um erro ao gravar o TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,6 +3320,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090024Z" creationid="Pedro Albuquerque" creationdate="20210422T090024Z">
+        <seg>Continuar mesmo assim?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085828Z" creationid="Pedro Albuquerque" creationdate="20210422T085828Z">
+        <seg>Continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163040Z" creationid="Pedro Albuquerque" creationdate="20210420T163040Z">
@@ -4044,6 +4076,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085750Z" creationid="Pedro Albuquerque" creationdate="20210422T085750Z">
+        <seg>Deseja sobrescrevê-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064612Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4324,6 +4364,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085842Z" creationid="Pedro Albuquerque" creationdate="20210422T085842Z">
+        <seg>Editar padrão de realce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074034Z" creationid="Pedro Albuquerque" creationdate="20210421T074034Z">
@@ -4336,6 +4384,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174905Z" creationid="Pedro Albuquerque" creationdate="20210420T174905Z">
         <seg>Editar projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085834Z" creationid="Pedro Albuquerque" creationdate="20210422T085834Z">
+        <seg>Editar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10383,6 +10439,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090001Z" creationid="Pedro Albuquerque" creationdate="20210422T090001Z">
+        <seg>Gravar alterações às definições de filtros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085946Z" creationid="Pedro Albuquerque" creationdate="20210422T085946Z">
+        <seg>Gravar as alterações às regras de segmentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055624Z" creationid="Pedro Albuquerque" creationdate="20210422T055624Z">
@@ -11073,6 +11145,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090017Z" creationid="Pedro Albuquerque" creationdate="20210422T090017Z">
+        <seg>Alguns alinhamentos ainda precisam de revisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180731Z" creationid="Pedro Albuquerque" creationdate="20210420T180731Z">
@@ -11357,6 +11437,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065156Z" creationid="Pedro Albuquerque" creationdate="20210422T065156Z">
         <seg>Dividir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085851Z" creationid="Pedro Albuquerque" creationdate="20210422T085851Z">
+        <seg>Dividir texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,6 +12558,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114722Z" creationid="Pedro Albuquerque" creationdate="20210421T114722Z">
         <seg>Este projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085826Z" creationid="Pedro Albuquerque" creationdate="20210422T085826Z">
+        <seg>Isto vai descartar todas as alterações que tenha feito até agora.</seg>
       </tuv>
     </tu>
     <tu>
