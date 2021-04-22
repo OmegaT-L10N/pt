@@ -3492,6 +3492,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100244Z" creationid="Pedro Albuquerque" creationdate="20210422T100244Z">
+        <seg>Os comentários são mostrados após um número e cada um numa linha separada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124954Z" creationid="Pedro Albuquerque" creationdate="20210420T124941Z">
@@ -4040,6 +4048,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072135Z" creationid="Pedro Albuquerque" creationdate="20210421T072135Z">
         <seg>D&amp;iagramas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100148Z" creationid="Pedro Albuquerque" creationdate="20210422T100148Z">
+        <seg>Desactive &lt;g0&gt;Utilizar lematização para entradas de glossário&lt;/g0&gt; nas preferências globais do OmegaT para encontrar só correspondências exactas para um termo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12849,6 +12865,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100313Z" creationid="Pedro Albuquerque" creationdate="20210422T100313Z">
+        <seg>Os termos do glossário editável do projecto são mostrados em negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100343Z" creationid="Pedro Albuquerque" creationdate="20210422T100343Z">
+        <seg>Os termos dos glossários de referência são mostrados em modo normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060922Z" creationid="Pedro Albuquerque" creationdate="20210422T060922Z">
@@ -13388,6 +13420,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100029Z" creationid="Pedro Albuquerque" creationdate="20210422T100029Z">
         <seg>O termo-fonte pode ser um termo com várias palavras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100218Z" creationid="Pedro Albuquerque" creationdate="20210422T100218Z">
+        <seg>O termo-fonte é mostrado antes do sinal " = " e o termo-alvo depois.</seg>
       </tuv>
     </tu>
     <tu>
