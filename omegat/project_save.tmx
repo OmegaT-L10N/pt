@@ -2274,10 +2274,66 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115203Z" creationid="Pedro Albuquerque" creationdate="20210422T115203Z">
+        <seg>Aceder ao conteúdo do projecto/Documento-fonte actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115216Z" creationid="Pedro Albuquerque" creationdate="20210422T115216Z">
+        <seg>Aceder ao conteúdo do projecto/Documento-alvo actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115122Z" creationid="Pedro Albuquerque" creationdate="20210422T115105Z">
+        <seg>Aceder ao conteúdo do projecto/Dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115130Z" creationid="Pedro Albuquerque" creationdate="20210422T115130Z">
+        <seg>Aceder ao conteúdo do projecto/Glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Root</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115101Z" creationid="Pedro Albuquerque" creationdate="20210422T115101Z">
         <seg>Aceder ao conteúdo do projecto/Raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115140Z" creationid="Pedro Albuquerque" creationdate="20210422T115140Z">
+        <seg>Aceder ao conteúdo do projecto/Ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115151Z" creationid="Pedro Albuquerque" creationdate="20210422T115151Z">
+        <seg>Aceder ao conteúdo do projecto/Ficheiros-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115227Z" creationid="Pedro Albuquerque" creationdate="20210422T115227Z">
+        <seg>Aceder ao conteúdo do projecto/Glossário editável</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4354,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115233Z" creationid="Pedro Albuquerque" creationdate="20210422T115233Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+S</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114908Z" creationid="Pedro Albuquerque" creationdate="20210422T114908Z">
@@ -4326,6 +4390,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114903Z" creationid="Pedro Albuquerque" creationdate="20210422T114903Z">
         <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115255Z" creationid="Pedro Albuquerque" creationdate="20210422T115255Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -5208,6 +5280,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085842Z" creationid="Pedro Albuquerque" creationdate="20210422T085842Z">
         <seg>Editar padrão de realce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115243Z" creationid="Pedro Albuquerque" creationdate="20210422T115243Z">
+        <seg>Menu Editar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11307,6 +11387,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115233Z" creationid="Pedro Albuquerque" creationdate="20210422T115233Z">
+        <seg>Sair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123019Z" creationid="Pedro Albuquerque" creationdate="20210420T123019Z">
@@ -11387,6 +11475,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
         <seg>Procura recursi&amp;va</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115308Z" creationid="Pedro Albuquerque" creationdate="20210422T115308Z">
+        <seg>Refazer a última acção</seg>
       </tuv>
     </tu>
     <tu>
@@ -15522,6 +15618,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115254Z" creationid="Pedro Albuquerque" creationdate="20210422T115254Z">
+        <seg>Desfazer a última acção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101500Z" creationid="Pedro Albuquerque" creationdate="20210421T101500Z">
@@ -17199,6 +17303,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115255Z" creationid="Pedro Albuquerque" creationdate="20210422T115255Z">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181616Z" creationid="Pedro Albuquerque" creationdate="20210421T181616Z">
@@ -17449,6 +17561,70 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115204Z" creationid="Pedro Albuquerque" creationdate="20210422T115204Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115216Z" creationid="Pedro Albuquerque" creationdate="20210422T115216Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115122Z" creationid="Pedro Albuquerque" creationdate="20210422T115122Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115131Z" creationid="Pedro Albuquerque" creationdate="20210422T115131Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115102Z" creationid="Pedro Albuquerque" creationdate="20210422T115102Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115141Z" creationid="Pedro Albuquerque" creationdate="20210422T115141Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115151Z" creationid="Pedro Albuquerque" creationdate="20210422T115151Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115228Z" creationid="Pedro Albuquerque" creationdate="20210422T115228Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114904Z" creationid="Pedro Albuquerque" creationdate="20210422T114904Z">
@@ -17469,6 +17645,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114945Z" creationid="Pedro Albuquerque" creationdate="20210422T114945Z">
         <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115234Z" creationid="Pedro Albuquerque" creationdate="20210422T115234Z">
+        <seg>projectExitMenuItem</seg>
       </tuv>
     </tu>
     <tu>
