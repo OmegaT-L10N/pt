@@ -580,6 +580,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090134Z" creationid="Pedro Albuquerque" creationdate="20210422T090134Z">
+        <seg>&amp;Ir para segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055850Z" creationid="Pedro Albuquerque" creationdate="20210421T055850Z">
@@ -852,6 +860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090148Z" creationid="Pedro Albuquerque" creationdate="20210422T090148Z">
+        <seg>Actualiza&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055911Z" creationid="Pedro Albuquerque" creationdate="20210421T055911Z">
@@ -1040,6 +1056,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070928Z" creationid="Pedro Albuquerque" creationdate="20210421T070928Z">
         <seg>Nomes de folha&amp;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090142Z" creationid="Pedro Albuquerque" creationdate="20210422T090142Z">
+        <seg>Mo&amp;strar tudo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2922,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061957Z" creationid="Pedro Albuquerque" creationdate="20210422T061943Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090120Z" creationid="Pedro Albuquerque" creationdate="20210422T090120Z">
+        <seg>Carácter</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,6 +5514,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090057Z" creationid="Pedro Albuquerque" creationdate="20210422T090057Z">
+        <seg>Avançar-Recuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114716Z" creationid="Pedro Albuquerque" creationdate="20210421T114716Z">
@@ -5886,6 +5926,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071836Z" creationid="Pedro Albuquerque" creationdate="20210421T071836Z">
         <seg>C&amp;abeçalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090035Z" creationid="Pedro Albuquerque" creationdate="20210422T090035Z">
+        <seg>Global</seg>
       </tuv>
     </tu>
     <tu>
@@ -6689,6 +6737,22 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064931Z" creationid="Pedro Albuquerque" creationdate="20210422T064931Z">
         <seg>É duplicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090156Z" creationid="Pedro Albuquerque" creationdate="20210422T090156Z">
+        <seg>Problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090203Z" creationid="Pedro Albuquerque" creationdate="20210422T090203Z">
+        <seg>Problemas ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,6 +8341,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090058Z" creationid="Pedro Albuquerque" creationdate="20210422T090058Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062931Z" creationid="Pedro Albuquerque" creationdate="20210421T062931Z">
@@ -9067,6 +9139,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090043Z" creationid="Pedro Albuquerque" creationdate="20210422T090043Z">
+        <seg>Por segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065745Z" creationid="Pedro Albuquerque" creationdate="20210421T065745Z">
@@ -9345,6 +9425,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065028Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Extensão carregada com sucesso da classe "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090101Z" creationid="Pedro Albuquerque" creationdate="20210422T090101Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,6 +13676,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070423Z" creationid="Pedro Albuquerque" creationdate="20210421T070423Z">
         <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090045Z" creationid="Pedro Albuquerque" creationdate="20210422T090045Z">
+        <seg>Viterbi</seg>
       </tuv>
     </tu>
     <tu>
