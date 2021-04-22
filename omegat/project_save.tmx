@@ -1500,6 +1500,22 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061744Z" creationid="Pedro Albuquerque" creationdate="20210422T061744Z">
+        <seg>1 conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061652Z" creationid="Pedro Albuquerque" creationdate="20210422T061652Z">
+        <seg>1 segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123350Z" creationid="Pedro Albuquerque" creationdate="20210420T123312Z">
@@ -2852,6 +2868,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061834Z" creationid="Pedro Albuquerque" creationdate="20210422T061834Z">
+        <seg>Resolução do conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063027Z" creationid="Pedro Albuquerque" creationdate="20210421T063027Z">
@@ -3236,6 +3260,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061754Z" creationid="Pedro Albuquerque" creationdate="20210422T061754Z">
+        <seg>Detalhes indisponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054800Z" creationid="Pedro Albuquerque" creationdate="20210422T054800Z">
@@ -3616,6 +3648,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Don"t ask before checking issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061824Z" creationid="Pedro Albuquerque" creationdate="20210422T061824Z">
+        <seg>Feito</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,6 +6779,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061636Z" creationid="Pedro Albuquerque" creationdate="20210422T061636Z">
+        <seg>Unir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164355Z" creationid="Pedro Albuquerque" creationdate="20210420T164355Z">
@@ -6775,6 +6823,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173410Z" creationid="Pedro Albuquerque" creationdate="20210421T173410Z">
         <seg>Chave de subscrição do Microsoft Translator indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061611Z" creationid="Pedro Albuquerque" creationdate="20210422T061611Z">
+        <seg>Minhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8145,6 +8201,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060110Z" creationid="Pedro Albuquerque" creationdate="20210422T060110Z">
         <seg>Por favor, repita a validação das etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061647Z" creationid="Pedro Albuquerque" creationdate="20210422T061647Z">
+        <seg>Por favor, resolva os conflitos escolhendo uma tradução para cada segmento abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9565,6 +9629,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072805Z" creationid="Pedro Albuquerque" creationdate="20210421T072805Z">
         <seg>Sequence Library (Licença Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061629Z" creationid="Pedro Albuquerque" creationdate="20210422T061603Z">
+        <seg>Servidor (originais)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061624Z" creationid="Pedro Albuquerque" creationdate="20210422T061624Z">
+        <seg>Servidor (actualizadas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11740,6 +11820,30 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061803Z" creationid="Pedro Albuquerque" creationdate="20210422T061803Z">
+        <seg>Usar todas as minhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061811Z" creationid="Pedro Albuquerque" creationdate="20210422T061811Z">
+        <seg>Usar todas as originais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061820Z" creationid="Pedro Albuquerque" creationdate="20210422T061820Z">
+        <seg>Usar todas as actualizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051847Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
@@ -12773,6 +12877,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062807Z" creationid="Pedro Albuquerque" creationdate="20210421T062807Z">
         <seg>{0} +{1} mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061739Z" creationid="Pedro Albuquerque" creationdate="20210422T061739Z">
+        <seg>{0} conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061650Z" creationid="Pedro Albuquerque" creationdate="20210422T061650Z">
+        <seg>{0} segmentos</seg>
       </tuv>
     </tu>
     <tu>
