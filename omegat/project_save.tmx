@@ -2734,6 +2734,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113106Z" creationid="Pedro Albuquerque" creationdate="20210422T113106Z">
+        <seg>Qualquer coisa depois de "//" será ignorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072903Z" creationid="Pedro Albuquerque" creationdate="20210421T072903Z">
@@ -5132,6 +5140,14 @@ Your help page not found</seg>
         <seg>Vazio de alma
 Para sempre a dolorosa escuridão
 A sua página de ajuda não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113053Z" creationid="Pedro Albuquerque" creationdate="20210422T113053Z">
+        <seg>As linhas vazias são aceites e as linhas de comentário devem começar com "//".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9919,6 +9935,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113151Z" creationid="Pedro Albuquerque" creationdate="20210422T113151Z">
+        <seg>Assim que o ficheiro &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; for modificado, o &lt;a1&gt;OmegaT&lt;/a1&gt; deve ser reiniciado para ter em conta os novos atalhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101852Z" creationid="Pedro Albuquerque" creationdate="20210422T101852Z">
@@ -14116,6 +14140,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T160906Z" creationid="Pedro Albuquerque" creationdate="20210421T160906Z">
         <seg>O servidor não é um servidor Apertium válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113036Z" creationid="Pedro Albuquerque" creationdate="20210422T113036Z">
+        <seg>O ficheiro de definição de atalho deve ser nomeado &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; e deve conter, no máximo, uma definição de atalho por linha.</seg>
       </tuv>
     </tu>
     <tu>
