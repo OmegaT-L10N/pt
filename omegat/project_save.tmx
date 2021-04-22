@@ -516,6 +516,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094038Z" creationid="Pedro Albuquerque" creationdate="20210422T094038Z">
+        <seg>&amp;Ir para as transferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091618Z" creationid="Pedro Albuquerque" creationdate="20210421T091618Z">
@@ -1802,6 +1810,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094108Z" creationid="Pedro Albuquerque" creationdate="20210422T094108Z">
+        <seg>&lt;html&gt;Versão actual: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054215Z" creationid="Pedro Albuquerque" creationdate="20210421T054215Z">
@@ -1830,6 +1846,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090828Z" creationid="Pedro Albuquerque" creationdate="20210422T090828Z">
         <seg>&lt;html&gt;Termo: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossários:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094123Z" creationid="Pedro Albuquerque" creationdate="20210422T094123Z">
+        <seg>&lt;html&gt;Canal de actualizações: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3162,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093421Z" creationid="Pedro Albuquerque" creationdate="20210421T093421Z">
         <seg>Procurar todas as variáveis printf (e.g., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094025Z" creationid="Pedro Albuquerque" creationdate="20210422T094025Z">
+        <seg>Procurar &amp;automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5544,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094056Z" creationid="Pedro Albuquerque" creationdate="20210422T094056Z">
+        <seg>Falha ao obter informação da última versão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165937Z" creationid="Pedro Albuquerque" creationdate="20210420T165937Z">
@@ -7713,6 +7753,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094133Z" creationid="Pedro Albuquerque" creationdate="20210422T094133Z">
+        <seg>Última</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161019Z" creationid="Pedro Albuquerque" creationdate="20210420T161019Z">
@@ -9371,6 +9419,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064356Z" creationid="Pedro Albuquerque" creationdate="20210421T064356Z">
         <seg>O OmegaT vai tentar corrigir a segmentação do ficheiro TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094006Z" creationid="Pedro Albuquerque" creationdate="20210422T094006Z">
+        <seg>Já está disponível o OmegaT {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11123,6 +11179,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072754Z" creationid="Pedro Albuquerque" creationdate="20210421T072754Z">
         <seg>SVNKit (Licença TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093939Z" creationid="Pedro Albuquerque" creationdate="20210422T093939Z">
+        <seg>Amostra da saída</seg>
       </tuv>
     </tu>
     <tu>
@@ -12940,6 +13004,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093925Z" creationid="Pedro Albuquerque" creationdate="20210422T093925Z">
+        <seg>O comando tem de incluir "{target}", que será substituído pelo texto a procurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162433Z" creationid="Pedro Albuquerque" creationdate="20210420T162433Z">
@@ -14308,6 +14380,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094101Z" creationid="Pedro Albuquerque" creationdate="20210422T094101Z">
+        <seg>Actualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064241Z" creationid="Pedro Albuquerque" creationdate="20210421T064241Z">
@@ -14969,6 +15049,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093949Z" creationid="Pedro Albuquerque" creationdate="20210422T093949Z">
+        <seg>Já tem a última versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060739Z" creationid="Pedro Albuquerque" creationdate="20210421T060739Z">
@@ -15079,6 +15167,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project"s content in bilingual form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094014Z" creationid="Pedro Albuquerque" creationdate="20210422T094014Z">
+        <seg>Tem actualmente o {1}.</seg>
       </tuv>
     </tu>
     <tu>
