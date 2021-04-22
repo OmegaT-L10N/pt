@@ -1962,6 +1962,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110112Z" creationid="Pedro Albuquerque" creationdate="20210422T110112Z">
+        <seg>Um carácter no bloco grego (&lt;u0&gt; bloco&lt;/u0&gt; simples)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110152Z" creationid="Pedro Albuquerque" creationdate="20210422T110152Z">
+        <seg>Um símbolo de moeda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095434Z" creationid="Pedro Albuquerque" creationdate="20210422T095434Z">
@@ -2550,6 +2566,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110136Z" creationid="Pedro Albuquerque" creationdate="20210422T110136Z">
+        <seg>Uma letra maiúscula (&lt;u0&gt; categoria&lt;/u0&gt; simples)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -2562,6 +2586,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070626Z" creationid="Pedro Albuquerque" creationdate="20210421T070626Z">
         <seg>Recursos Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110213Z" creationid="Pedro Albuquerque" creationdate="20210422T110213Z">
+        <seg>Qualquer carácter, excepto um do bloco grego (negação)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110227Z" creationid="Pedro Albuquerque" creationdate="20210422T110227Z">
+        <seg>Qualquer letra, excepto uma letra maiúscula (subtracção)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9277,6 +9317,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105947Z" creationid="Pedro Albuquerque" creationdate="20210422T105947Z">
+        <seg>Nada, mas termina a citação iniciada por \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105935Z" creationid="Pedro Albuquerque" creationdate="20210422T105935Z">
@@ -10891,6 +10939,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105402Z" creationid="Pedro Albuquerque" creationdate="20210422T105402Z">
         <seg>Regex - Carácter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110029Z" creationid="Pedro Albuquerque" creationdate="20210422T110029Z">
+        <seg>Regex - Classes para blocos e categorias Unicode</seg>
       </tuv>
     </tu>
     <tu>
@@ -15879,6 +15935,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110215Z" creationid="Pedro Albuquerque" creationdate="20210422T110215Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091441Z" creationid="Pedro Albuquerque" creationdate="20210421T091441Z">
@@ -15935,6 +15999,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105936Z" creationid="Pedro Albuquerque" creationdate="20210422T105936Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110152Z" creationid="Pedro Albuquerque" creationdate="20210422T110152Z">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\Q</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105923Z" creationid="Pedro Albuquerque" creationdate="20210422T105923Z">
@@ -15987,6 +16067,30 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105453Z" creationid="Pedro Albuquerque" creationdate="20210422T105453Z">
         <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110037Z" creationid="Pedro Albuquerque" creationdate="20210422T110037Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110112Z" creationid="Pedro Albuquerque" creationdate="20210422T110112Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110137Z" creationid="Pedro Albuquerque" creationdate="20210422T110137Z">
+        <seg>\p{Sc}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16123,6 +16227,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
         <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110038Z" creationid="Pedro Albuquerque" creationdate="20210422T110038Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
