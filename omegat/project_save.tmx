@@ -1400,6 +1400,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111248Z" creationid="Pedro Albuquerque" creationdate="20210422T111248Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -2046,6 +2054,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100923Z" creationid="Pedro Albuquerque" creationdate="20210421T100923Z">
         <seg>Uma nota é simplesmente um comentário relacionado com este conjunto texto-fonte/tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111328Z" creationid="Pedro Albuquerque" creationdate="20210422T111328Z">
+        <seg>Estão disponíveis várias ferramentas interactivas para desenvolver e testar expressões regulares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5076,6 +5092,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111247Z" creationid="Pedro Albuquerque" creationdate="20210422T111247Z">
+        <seg>X ou Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114948Z" creationid="Pedro Albuquerque" creationdate="20210421T114948Z">
@@ -6142,6 +6166,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111041Z" creationid="Pedro Albuquerque" creationdate="20210422T111041Z">
         <seg>Por exemplo, &lt;e0&gt;a+&lt;/e0&gt; corresponderá a aaa em &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111215Z" creationid="Pedro Albuquerque" creationdate="20210422T111215Z">
+        <seg>Por exemplo, &lt;e0&gt;a+?&lt;/e0&gt; corresponderá ao primeiro &lt;e1&gt;a&lt;/e1&gt; em &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11087,6 +11119,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111226Z" creationid="Pedro Albuquerque" creationdate="20210422T111226Z">
+        <seg>Regex - Operadores lógicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110346Z" creationid="Pedro Albuquerque" creationdate="20210422T110346Z">
@@ -11107,6 +11147,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111057Z" creationid="Pedro Albuquerque" creationdate="20210422T111057Z">
         <seg>Regex - Quantificadores relutantes (não ávidos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111315Z" creationid="Pedro Albuquerque" creationdate="20210422T111315Z">
+        <seg>Ferramentas Regex e exemplos de utilização</seg>
       </tuv>
     </tu>
     <tu>
@@ -14158,6 +14206,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111455Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
+        <seg>Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio) , produzindo os resultados na caixa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -15808,6 +15864,14 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111234Z" creationid="Pedro Albuquerque" creationdate="20210422T111234Z">
+        <seg>X seguido de Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X*?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111059Z" creationid="Pedro Albuquerque" creationdate="20210422T111059Z">
@@ -15916,6 +15980,30 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070426Z" creationid="Pedro Albuquerque" creationdate="20210421T070426Z">
         <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111227Z" creationid="Pedro Albuquerque" creationdate="20210422T111227Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111306Z" creationid="Pedro Albuquerque" creationdate="20210422T111306Z">
+        <seg>XY como um só grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111235Z" creationid="Pedro Albuquerque" creationdate="20210422T111235Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
