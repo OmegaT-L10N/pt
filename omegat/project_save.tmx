@@ -1636,6 +1636,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105327Z" creationid="Pedro Albuquerque" creationdate="20210422T105327Z">
+        <seg>... corresponde ao seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101943Z" creationid="Pedro Albuquerque" creationdate="20210422T101943Z">
@@ -10831,6 +10839,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105308Z" creationid="Pedro Albuquerque" creationdate="20210422T105308Z">
+        <seg>Regex - Marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125738Z" creationid="Pedro Albuquerque" creationdate="20210420T125738Z">
@@ -11761,6 +11777,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105223Z" creationid="Pedro Albuquerque" creationdate="20210422T105223Z">
+        <seg>Ver referências e exemplos adicionais abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121231Z" creationid="Pedro Albuquerque" creationdate="20210420T121231Z">
@@ -12149,6 +12173,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092900Z" creationid="Pedro Albuquerque" creationdate="20210422T092900Z">
         <seg>Atalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105214Z" creationid="Pedro Albuquerque" creationdate="20210422T105214Z">
+        <seg>Se precisar de informações mais específicas, consulte a documentação &lt;u0&gt;Java Regex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13293,6 +13325,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105315Z" creationid="Pedro Albuquerque" creationdate="20210422T105315Z">
+        <seg>A construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -13560,6 +13600,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105157Z" creationid="Pedro Albuquerque" creationdate="20210422T105157Z">
+        <seg>As expressões regulares (ou regex para abreviar) utilizadas nas pesquisas e regras de segmentação são as suportadas pelo Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052058Z" creationid="Pedro Albuquerque" creationdate="20210422T052058Z">
@@ -13822,6 +13870,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104909Z" creationid="Pedro Albuquerque" creationdate="20210421T104909Z">
         <seg>Esta chama TEM de estar na linha swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105249Z" creationid="Pedro Albuquerque" creationdate="20210422T105249Z">
+        <seg>Este capítulo destina-se a utilizadores avançados, que precisam de definir as suas próprias variantes de regras de segmentação ou conceber itens de pesquisa-chave mais complexos e poderosos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15819,6 +15875,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
         <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105134Z" creationid="Pedro Albuquerque" creationdate="20210422T105134Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
