@@ -7,7 +7,7 @@
 
   <variablelist>
     <varlistentry>
-      <term><guimenuitem>Undo Last Action</guimenuitem></term>
+      <term><guimenuitem>Desfazer a última acção</guimenuitem></term>
 
       <listitem>
         <para>Restores the status before the last editing action was taken.
@@ -17,7 +17,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Redo Last Action</term>
+      <term>Refazer a última acção</term>
 
       <listitem>
         <para>Restores the status before the last editing action was
@@ -27,7 +27,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Replace With Match or Selection</term>
+      <term>Substituir por correspondência ou selecção</term>
 
       <listitem>
         <para>Replaces the whole target segment with the currently selected
@@ -39,7 +39,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Match or Selection</term>
+      <term>Inserir correspondência ou selecção</term>
 
       <listitem>
         <para>Inserts the currently selected fuzzy match at the cursor

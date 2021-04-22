@@ -30,7 +30,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Open Recent Project</term>
+      <term>Abrir projecto recente</term>
 
       <listitem>
         <para>Give access to the ten last edited projects. Clicking on one
@@ -49,7 +49,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Download MediaWiki Page...</term>
+      <term>Transferir página MediaWiki...</term>
 
       <listitem>
         <para>To translate the contents of a Wikipedia page (for example):</para>
@@ -98,7 +98,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Save</term>
+      <term>Gravar</term>
 
       <listitem>
         <para>Saves the internal translation memory to the hard disk. OmegaT
@@ -138,7 +138,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Create Translated Documents</term>
+      <term>Criar documentos traduzidos</term>
 
       <listitem>
         <para>Creates the target documents based on your translation. The
@@ -173,7 +173,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Properties...</term>
+      <term>Propriedades...</term>
 
       <listitem>
         <para>Displays <link linkend="dialogs.projectproperties">Project
@@ -183,7 +183,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Project Files...</term>
+      <term>Ficheiros do projecto...</term>
 
       <listitem>
         <para>Opens the <link linkend="windows.projectfiles">Project
@@ -205,7 +205,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Quit</term>
+      <term>Sair</term>
 
       <listitem>
         <para>Saves the project and quits <application>OmegaT</application>. If you haven&quot;t yet saved the project, this manually confirms whether you really wish to quit.</para>
