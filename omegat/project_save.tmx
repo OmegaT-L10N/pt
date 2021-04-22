@@ -3868,6 +3868,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055428Z" creationid="Pedro Albuquerque" creationdate="20210422T055428Z">
+        <seg>Erro ao obter {0} como ficheiro de projecto remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173145Z" creationid="Pedro Albuquerque" creationdate="20210420T173145Z">
