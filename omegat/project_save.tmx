@@ -1660,6 +1660,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105747Z" creationid="Pedro Albuquerque" creationdate="20210422T105747Z">
+        <seg>...corresponde ao seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061744Z" creationid="Pedro Albuquerque" creationdate="20210422T061744Z">
@@ -6018,6 +6026,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105923Z" creationid="Pedro Albuquerque" creationdate="20210422T105923Z">
+        <seg>Por exemplo, este é o carácter de barra esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9261,6 +9277,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105935Z" creationid="Pedro Albuquerque" creationdate="20210422T105935Z">
+        <seg>Nada, mas cita todos os caracteres até \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105807Z" creationid="Pedro Albuquerque" creationdate="20210422T105807Z">
+        <seg>Nada, mas cita o carácter seguinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064017Z" creationid="Pedro Albuquerque" creationdate="20210422T064017Z">
@@ -10867,6 +10899,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105308Z" creationid="Pedro Albuquerque" creationdate="20210422T105308Z">
         <seg>Regex - Marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105732Z" creationid="Pedro Albuquerque" creationdate="20210422T105732Z">
+        <seg>Regex - Citação</seg>
       </tuv>
     </tu>
     <tu>
@@ -13324,10 +13364,42 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105722Z" creationid="Pedro Albuquerque" creationdate="20210422T105722Z">
+        <seg>O carácter com valor hexadecimal 0xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105437Z" creationid="Pedro Albuquerque" creationdate="20210422T105437Z">
         <seg>O carácter com valor hexadecimal 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105709Z" creationid="Pedro Albuquerque" creationdate="20210422T105709Z">
+        <seg>O carácter com valor octal 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105643Z" creationid="Pedro Albuquerque" creationdate="20210422T105643Z">
+        <seg>O carácter com valor octal 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105704Z" creationid="Pedro Albuquerque" creationdate="20210422T105650Z">
+        <seg>O carácter com valor octal 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13990,6 +14062,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This is necessary even if there"s only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105905Z" creationid="Pedro Albuquerque" creationdate="20210422T105905Z">
+        <seg>Isto é necessário se desejar introduzir qualquer um dos meta-caracteres !$()*+.&lt;&gt;?[\]^{|} para corresponder como eles próprios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15823,6 +15903,54 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105747Z" creationid="Pedro Albuquerque" creationdate="20210422T105747Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105704Z" creationid="Pedro Albuquerque" creationdate="20210422T105704Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105628Z" creationid="Pedro Albuquerque" creationdate="20210422T105628Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105644Z" creationid="Pedro Albuquerque" creationdate="20210422T105644Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105923Z" creationid="Pedro Albuquerque" creationdate="20210422T105923Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105906Z" creationid="Pedro Albuquerque" creationdate="20210422T105906Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\a</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105550Z" creationid="Pedro Albuquerque" creationdate="20210422T105550Z">
@@ -15883,6 +16011,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105420Z" creationid="Pedro Albuquerque" creationdate="20210422T105420Z">
         <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105709Z" creationid="Pedro Albuquerque" creationdate="20210422T105709Z">
+        <seg>\xhh</seg>
       </tuv>
     </tu>
     <tu>
