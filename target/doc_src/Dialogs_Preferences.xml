@@ -12,7 +12,7 @@
   <para>It allows parameters to be set for all translation projects.</para>
 
   <section>
-    <title>General</title>
+    <title>Geral</title>
 
     <variablelist id="dialogs.preferences.general.usetabtoadvance">
       <varlistentry>
@@ -170,7 +170,7 @@
   </section>
 
   <section>
-    <title>Appearance</title>
+    <title>Aparência</title>
 
     <variablelist>
       <varlistentry>
@@ -191,7 +191,7 @@
     </section>
 
     <section>
-      <title>Colours</title>
+      <title>Cores</title>
 
       <para>This page allows you to choose different colours for each part of the user interface.</para>
 
@@ -878,11 +878,11 @@
   </section>
 
   <section id="dialogs.preferences.externalsearch">
-    <title>External Search</title>
+    <title>Procura externa</title>
 
     <variablelist>
       <varlistentry>
-        <term>Enable project-specific commands</term>
+        <term>Activar comandos específicos do projecto</term>
 
         <listitem>
           <para>By default, OmegaT does not execute the commands specified in the project-specific settings (the <filename>finder.xml</filename> file in the <filename>omegat</filename> folder), because they may have a critical impact on the machine&quot;s security.</para>
@@ -892,7 +892,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Context Menu Priority:</term>
+        <term>Prioridade do menu contextual:</term>
 
         <listitem>
           <para>Enables you to change the order of the commands in the context menu (the right-click menu). Values around 100 display commands at the top, and values around 900 display them at the bottom.</para>
@@ -1315,14 +1315,14 @@
   </section>
 
   <section>
-    <title>Plugins</title>
+    <title>Extensões</title>
 
     <para>Gives access to the list of plugins available. Plugins are installed in the <filename>/plugins</filename>
       folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</para>
   </section>
 
   <section>
-    <title>Updates</title>
+    <title>Actualizações</title>
 
     <para>Enables automatic notification of <application>OmegaT</application> updates.</para>
   </section>

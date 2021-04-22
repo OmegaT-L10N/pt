@@ -196,7 +196,7 @@
           </row>
 
           <row>
-            <entry>Reload</entry>
+            <entry>Recarregar</entry>
 
             <entry><keycap>F5</keycap></entry>
 
@@ -204,7 +204,7 @@
           </row>
 
           <row>
-            <entry>Close</entry>
+            <entry>Fechar</entry>
 
             <entry><keycap>Ctrl+Shift+W</keycap></entry>
 
@@ -1036,7 +1036,7 @@
           </row>
 
           <row>
-            <entry>File Filters...</entry>
+            <entry>Filtros de ficheiros...</entry>
 
             <entry/>
 

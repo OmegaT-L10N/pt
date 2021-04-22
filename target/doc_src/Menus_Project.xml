@@ -79,7 +79,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Reload</term>
+      <term>Recarregar</term>
 
       <listitem>
         <para>Reloads the project to take external changes in source files and
@@ -90,7 +90,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Close</term>
+      <term>Fechar</term>
 
       <listitem>
         <para>Saves the translation and closes the project.</para>

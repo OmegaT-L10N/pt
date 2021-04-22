@@ -72,7 +72,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Remove Tags</term>
+        <term>Remover etiquetas</term>
 
         <listitem>
           <para>When enabled, all the formatting tags are removed from source segments. This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed. Non-visible formatting (i.e., which doesn&quot;t appear as tags in the OmegaT editor) is retained in target documents.</para>
@@ -114,7 +114,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term><guibutton>File Filters...</guibutton></term>
+        <term><guibutton>Filtros de ficheiros...</guibutton></term>
 
         <listitem>
           <para>In a similar fashion as above the user can create
