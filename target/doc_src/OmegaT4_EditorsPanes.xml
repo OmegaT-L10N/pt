@@ -272,7 +272,7 @@
   </section>
 
   <section>
-    <title>Multiple Translations</title>
+    <title>Traduções múltiplas</title>
 
     <para>A given source segment may require several different translations,
     depending on the context. If the current translation of the segment does

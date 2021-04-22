@@ -107,11 +107,11 @@
     </variablelist>
 
     <section>
-      <title>TaaS Terminology</title>
+      <title>Terminologia TaaS</title>
 
       <variablelist>
         <varlistentry>
-          <term>Get API Key</term>
+          <term>Obter a chave da API</term>
 
           <listitem>
             <para>Click this button to access the <ulink url="https://term.tilde.com/taas">TaaS</ulink> project site and create a user account.</para>
@@ -771,7 +771,7 @@
 
               <entry align="center">After</entry>
 
-              <entry>Note</entry>
+              <entry>Nota</entry>
             </row>
           </thead>
 
@@ -1130,7 +1130,7 @@
     translated by you.</para>
 
     <section>
-      <title>Repository Credentials</title>
+      <title>Credenciais do repositório</title>
 
       <para>List of projects for which login details are stored in OmegaT. Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</para>
     </section>
@@ -1262,7 +1262,7 @@
   </section>
 
   <section id="dialogs.preferences.savingandoutput">
-    <title>Saving and Output</title>
+    <title>Gravação e saída</title>
 
     <para>Allows the user select the interval - in minutes and seconds -
     between consecutive automatic saves of the project.</para>
@@ -1281,7 +1281,7 @@
 
     <variablelist>
       <varlistentry>
-        <term>External Post-processing Command</term>
+        <term>Comando externo de pós-processamento</term>
 
         <listitem>
           <para>Specify commands that are executed after the <guimenuitem>Create Translated Documents</guimenuitem> command.</para>

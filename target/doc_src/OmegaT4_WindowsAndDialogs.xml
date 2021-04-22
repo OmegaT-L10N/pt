@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="windows.and.dialogs">
-  <title>Windows and dialogs</title>
+  <title>Janelas e diálogos</title>
 
-  <para>The difference is thin: we call &quot;Window&quot; a window that can stay open
-  next to the editor and interact with it, and &quot;dialog&quot; a window where you
-  must select parameters before closing it and pursuing your translation
-  activity.</para>
+  <para>A diferença é mínima: chamamos &quot;janela&quot; a uma janela que permanece aberta junto ao editor e interage com ele, e &quot;diálogo&quot; a uma janela onde tem de seleccionar parâmetros antes de a fechar e continuar a sua tradução.</para>
 
   <xi:include href="Dialogs_ProjectProperties.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 

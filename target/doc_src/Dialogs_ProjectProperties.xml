@@ -80,7 +80,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>External Post-processing Command</term>
+        <term>Comando externo de pós-processamento</term>
 
         <listitem>
           <para>This area allows entering an external post-processing command

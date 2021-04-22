@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
-<book lang="en">
+<book lang="pt">
   <bookinfo>
-    <title>OmegaT 4.2 - User&quot;s Guide</title>
+    <title>OmegaT 4.2 - Guia do utilizador</title>
 
     <author>
-      <firstname>OmegaT team</firstname>
+      <firstname>Equipa do OmegaT</firstname>
     </author>
 
     <pubdate/>
 
     <abstract>
-      <para>This document is the official user&quot;s guide to OmegaT, the free Computer Aided Translation tool. It also contains installation instructions.</para>
+      <para>Este documento é o guia oficial do utilizador do OmegaT, a ferramenta gratuita de tradução assistida por computador. Também contém instruções de instalação.</para>
     </abstract>
   </bookinfo>
 
