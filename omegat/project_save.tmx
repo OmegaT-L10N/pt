@@ -6124,8 +6124,16 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181112Z" creationid="Pedro Albuquerque" creationdate="20210420T181112Z">
-        <seg>Glossaries</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095308Z" creationid="Pedro Albuquerque" creationdate="20210420T181112Z">
+        <seg>Glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094507Z" creationid="Pedro Albuquerque" creationdate="20210422T094507Z">
+        <seg>Glossaries are terminology files.</seg>
       </tuv>
     </tu>
     <tu>
