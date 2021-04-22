@@ -140,6 +140,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064623Z" creationid="Pedro Albuquerque" creationdate="20210422T064623Z">
+        <seg>&amp;Aplicar a todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054057Z" creationid="Pedro Albuquerque" creationdate="20210421T054057Z">
@@ -2146,6 +2154,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064638Z" creationid="Pedro Albuquerque" creationdate="20210422T064638Z">
+        <seg>Ocorreu um erro ao abrir o item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
@@ -2222,10 +2238,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064701Z" creationid="Pedro Albuquerque" creationdate="20210422T064701Z">
+        <seg>Uma tradução existente foi mudada para algo diferente do que escolheu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>An important aspect of this freedom is that users may also modify the program"s code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064550Z" creationid="Pedro Albuquerque" creationdate="20210422T064550Z">
+        <seg>Já existe aqui um item chamado "{0}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,8 +3878,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Do you want to replace it with the one you"re moving?</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064612Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Quer substituí-lo por aquele que está a mover?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3992,6 +4024,38 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072147Z" creationid="Pedro Albuquerque" creationdate="20210421T072147Z">
         <seg>D&amp;esenhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064512Z" creationid="Pedro Albuquerque" creationdate="20210422T064512Z">
+        <seg>Largue ficheiros TMX aqui para os adicionar ao projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064525Z" creationid="Pedro Albuquerque" creationdate="20210422T064525Z">
+        <seg>Largue um projecto aqui para o abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064442Z" creationid="Pedro Albuquerque" creationdate="20210422T064442Z">
+        <seg>Largue ficheiros aqui para os adicionar ao projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064502Z" creationid="Pedro Albuquerque" creationdate="20210422T064444Z">
+        <seg>Largue ficheiros de glossário aqui para os adicionar ao projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,6 +9731,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070345Z" creationid="Pedro Albuquerque" creationdate="20210421T070345Z">
         <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064648Z" creationid="Pedro Albuquerque" creationdate="20210422T064648Z">
+        <seg>Resolver conflitos</seg>
       </tuv>
     </tu>
     <tu>
