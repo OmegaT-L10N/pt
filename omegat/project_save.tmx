@@ -92,6 +92,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061427Z" creationid="Pedro Albuquerque" creationdate="20210422T061427Z">
+        <seg>Permitir só c&amp;aracteres únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091506Z" creationid="Pedro Albuquerque" creationdate="20210421T091506Z">
@@ -1842,6 +1850,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061355Z" creationid="Pedro Albuquerque" creationdate="20210422T061355Z">
+        <seg>Acrescentar caracteres à tabela personalizada com um duplo clique, ou realçando-os e premindo a tecla Insert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074438Z" creationid="Pedro Albuquerque" creationdate="20210421T074438Z">
@@ -2430,6 +2446,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061433Z" creationid="Pedro Albuquerque" creationdate="20210422T061433Z">
+        <seg>&amp;Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174611Z" creationid="Pedro Albuquerque" creationdate="20210420T174611Z">
@@ -2550,10 +2574,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061439Z" creationid="Pedro Albuquerque" creationdate="20210422T061439Z">
+        <seg>Tabela de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Character table</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060309Z" creationid="Pedro Albuquerque" creationdate="20210422T060309Z">
         <seg>Tabela de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061304Z" creationid="Pedro Albuquerque" creationdate="20210422T061304Z">
+        <seg>Opções da tabela de caracteres de conclusão automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3152,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115040Z" creationid="Pedro Albuquerque" creationdate="20210421T115040Z">
         <seg>URL do servidor personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061411Z" creationid="Pedro Albuquerque" creationdate="20210422T061411Z">
+        <seg>Tabela personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061321Z" creationid="Pedro Albuquerque" creationdate="20210422T061321Z">
+        <seg>Personalizar a &amp;tabela de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -4722,6 +4778,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061556Z" creationid="Pedro Albuquerque" creationdate="20210422T061556Z">
+        <seg>Para melhores resultados, por favor instale os dicionários apropriados através de Preferências &gt; Verificação ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4798,6 +4862,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093308Z" creationid="Pedro Albuquerque" creationdate="20210421T093308Z">
         <seg>A verificação completa pode levar a falsos positivos em textos normais e o filtro PO já os detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061401Z" creationid="Pedro Albuquerque" creationdate="20210422T061401Z">
+        <seg>Tabela completa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,6 +11928,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061447Z" creationid="Pedro Albuquerque" creationdate="20210422T061447Z">
+        <seg>Aviso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093726Z" creationid="Pedro Albuquerque" creationdate="20210421T093726Z">
@@ -12181,6 +12261,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060739Z" creationid="Pedro Albuquerque" creationdate="20210421T060739Z">
         <seg>Vai modificar {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061521Z" creationid="Pedro Albuquerque" creationdate="20210422T061521Z">
+        <seg>Está a tentar usar o HunspellTokenizer com o idioma {0}, mas não estão instalados dicionários ortográficos para este idioma.</seg>
       </tuv>
     </tu>
     <tu>
