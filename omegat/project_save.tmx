@@ -1636,6 +1636,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101943Z" creationid="Pedro Albuquerque" creationdate="20210422T101943Z">
+        <seg>...mas os mesmos caracteres são mostrados correctamente no painel de edição: a extensão e a codificação do ficheiro não coincidem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061744Z" creationid="Pedro Albuquerque" creationdate="20210422T061744Z">
@@ -10451,6 +10459,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101919Z" creationid="Pedro Albuquerque" creationdate="20210422T101919Z">
+        <seg>Problema: no painel do glossário, alguns caracteres não são mostrados correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101412Z" creationid="Pedro Albuquerque" creationdate="20210422T101412Z">
@@ -10843,6 +10859,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061648Z" creationid="Pedro Albuquerque" creationdate="20210421T061617Z">
         <seg>a procura por expressões regulares corresponde a expressões regulares Java, como documentado no manual do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101947Z" creationid="Pedro Albuquerque" creationdate="20210422T101947Z">
+        <seg>Regular expressions</seg>
       </tuv>
     </tu>
     <tu>
