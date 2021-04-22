@@ -3564,6 +3564,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common glossary problems</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101352Z" creationid="Pedro Albuquerque" creationdate="20210422T101352Z">
+        <seg>Problemas comuns de glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085508Z" creationid="Pedro Albuquerque" creationdate="20210422T085508Z">
@@ -6226,6 +6234,22 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101335Z" creationid="Pedro Albuquerque" creationdate="20210422T101335Z">
+        <seg>Os glossários localizados em pastas aninhadas também são reconhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101324Z" creationid="Pedro Albuquerque" creationdate="20210422T101324Z">
+        <seg>Os glossários devem estar localizados na pasta &lt;f0&gt;/glossary&lt;/f0&gt; do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T164401Z" creationid="Pedro Albuquerque" creationdate="20210420T164401Z">
@@ -7475,8 +7499,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095649Z" creationid="Pedro Albuquerque" creationdate="20210422T095649Z">
-        <seg>O seu nome e localização podem ser modificados no diálogo de propriedades do projecto mas a sua extensão deve ser &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; e a sua localização deve estar contida na pasta &lt;f2&gt;/glossary&lt;/f2&gt; do projecto.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101556Z" creationid="Pedro Albuquerque" creationdate="20210422T095649Z">
+        <seg>O seu nome e localização podem ser modificados no diálogo de propriedades do projecto, mas a sua extensão deve ser &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; e a sua localização deve estar contida na pasta &lt;f2&gt;/glossary&lt;/f2&gt; do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8933,6 +8957,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173550Z" creationid="Pedro Albuquerque" creationdate="20210421T173550Z">
         <seg>Nenhuma ID de pasta especificada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101503Z" creationid="Pedro Albuquerque" creationdate="20210422T101503Z">
+        <seg>Nenhum ficheiro de glossário encontrado na pasta &lt;f0&gt;/glossary&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10407,6 +10439,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060703Z" creationid="Pedro Albuquerque" creationdate="20210421T060703Z">
         <seg>Pro&amp;jecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problem: No glossary terms are displayed - possible causes:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101412Z" creationid="Pedro Albuquerque" creationdate="20210422T101412Z">
+        <seg>Problema: não são mostrados termos de glossário - causas possíveis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13314,6 +13354,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The form-feed character ("\u000C")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101527Z" creationid="Pedro Albuquerque" creationdate="20210422T101527Z">
+        <seg>The glossary file is empty.</seg>
       </tuv>
     </tu>
     <tu>
