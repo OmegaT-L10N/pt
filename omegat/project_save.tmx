@@ -3324,6 +3324,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092017Z" creationid="Pedro Albuquerque" creationdate="20210422T092017Z">
+        <seg>Confirmar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061834Z" creationid="Pedro Albuquerque" creationdate="20210422T061834Z">
@@ -4254,8 +4262,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Don"t ask before checking issues</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091902Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Não perguntar antes de verificar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4668,6 +4676,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170256Z" creationid="Pedro Albuquerque" creationdate="20210420T170256Z">
         <seg>Insira o número do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092001Z" creationid="Pedro Albuquerque" creationdate="20210422T092001Z">
+        <seg>Insira a senha mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6291,6 +6307,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091850Z" creationid="Pedro Albuquerque" creationdate="20210422T091850Z">
+        <seg>Se a verificação de problemas for lenta, tente desactivar algumas das verificações opcionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181106Z" creationid="Pedro Albuquerque" creationdate="20210420T181106Z">
@@ -7703,6 +7727,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062835Z" creationid="Pedro Albuquerque" creationdate="20210422T062835Z">
         <seg>Máscara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091907Z" creationid="Pedro Albuquerque" creationdate="20210422T091907Z">
+        <seg>Senha mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -11193,6 +11225,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091930Z" creationid="Pedro Albuquerque" creationdate="20210422T091930Z">
+        <seg>Definir uma senha mestra para proteger os seus dados privados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125727Z" creationid="Pedro Albuquerque" creationdate="20210420T125727Z">
@@ -12436,6 +12476,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The newline (line feed) character ("\u000A")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092013Z" creationid="Pedro Albuquerque" creationdate="20210422T092013Z">
+        <seg>A senha inserida não coincide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14385,6 +14433,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054527Z" creationid="Pedro Albuquerque" creationdate="20210421T054527Z">
         <seg>Deve especificar a nova localização ou recriá-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091953Z" creationid="Pedro Albuquerque" creationdate="20210422T091953Z">
+        <seg>Ser-lhe-á pedido que introduza esta senha cada vez que iniciar o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
