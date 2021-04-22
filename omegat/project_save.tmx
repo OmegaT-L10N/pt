@@ -3916,6 +3916,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055548Z" creationid="Pedro Albuquerque" creationdate="20210422T055548Z">
+        <seg>Erro ao actualizar o repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114947Z" creationid="Pedro Albuquerque" creationdate="20210421T114947Z">
@@ -3936,6 +3944,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114959Z" creationid="Pedro Albuquerque" creationdate="20210421T114959Z">
         <seg>Erro {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055556Z" creationid="Pedro Albuquerque" creationdate="20210422T055556Z">
+        <seg>Erro: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4124,6 +4140,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072119Z" creationid="Pedro Albuquerque" creationdate="20210421T072119Z">
         <seg>Ligações e&amp;xternas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055713Z" creationid="Pedro Albuquerque" creationdate="20210422T055713Z">
+        <seg>Comando externo de pós-processamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,6 +6483,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055654Z" creationid="Pedro Albuquerque" creationdate="20210422T055654Z">
+        <seg>Minutos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173216Z" creationid="Pedro Albuquerque" creationdate="20210421T173216Z">
@@ -7455,6 +7487,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055507Z" creationid="Pedro Albuquerque" creationdate="20210422T055507Z">
+        <seg>A abrir projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174932Z" creationid="Pedro Albuquerque" creationdate="20210420T174932Z">
@@ -7769,6 +7809,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110730Z" creationid="Pedro Albuquerque" creationdate="20210421T110730Z">
         <seg>Por favor, seleccione os dicionários que deseja instalar e clique em Instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055651Z" creationid="Pedro Albuquerque" creationdate="20210422T055651Z">
+        <seg>Por favor seleccione o intervalo no qual o projecto deve ser gravado automaticamente, em minutos e segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8359,6 +8407,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055533Z" creationid="Pedro Albuquerque" creationdate="20210422T055533Z">
+        <seg>Erro de comunicação na rede do repositório remoto: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054850Z" creationid="Pedro Albuquerque" creationdate="20210421T054850Z">
@@ -8507,6 +8563,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054946Z" creationid="Pedro Albuquerque" creationdate="20210421T054946Z">
         <seg>Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055444Z" creationid="Pedro Albuquerque" creationdate="20210422T055444Z">
+        <seg>Credenciais do repositório</seg>
       </tuv>
     </tu>
     <tu>
@@ -8743,6 +8807,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055624Z" creationid="Pedro Albuquerque" creationdate="20210422T055624Z">
+        <seg>Gravação e saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055617Z" creationid="Pedro Albuquerque" creationdate="20210422T055617Z">
+        <seg>Opções de gravação e saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170407Z" creationid="Pedro Albuquerque" creationdate="20210420T170407Z">
@@ -8877,6 +8957,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062705Z" creationid="Pedro Albuquerque" creationdate="20210421T062705Z">
         <seg>Fio de procura quebrado inesperadamente!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055659Z" creationid="Pedro Albuquerque" creationdate="20210422T055659Z">
+        <seg>Segundos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9225,6 +9313,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055553Z" creationid="Pedro Albuquerque" creationdate="20210422T055553Z">
+        <seg>A ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072045Z" creationid="Pedro Albuquerque" creationdate="20210421T071953Z">
@@ -9549,6 +9645,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110024Z" creationid="Pedro Albuquerque" creationdate="20210421T110024Z">
         <seg>A mudar para a versão interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055454Z" creationid="Pedro Albuquerque" creationdate="20210422T055454Z">
+        <seg>Sincronização dos repositórios</seg>
       </tuv>
     </tu>
     <tu>
@@ -10278,6 +10382,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104909Z" creationid="Pedro Albuquerque" creationdate="20210421T104909Z">
         <seg>Esta chama TEM de estar na linha swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055736Z" creationid="Pedro Albuquerque" creationdate="20210422T055736Z">
+        <seg>Este comando será executado após criar documentos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
