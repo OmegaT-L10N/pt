@@ -1946,6 +1946,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113832Z" creationid="Pedro Albuquerque" creationdate="20210422T113832Z">
+        <seg>&lt;atalho&gt; deve ser da seguinte forma: 0 ou mais &lt;c0&gt;&lt;modificador&gt;&lt;/c0&gt; seguido de 0 ou 1 &lt;c1&gt;&lt;evento&gt;&lt;/c1&gt; seguido de 1 &lt;c2&gt;&lt;tecla&gt;&lt;/c2&gt;, onde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101255Z" creationid="Pedro Albuquerque" creationdate="20210422T101255Z">
@@ -13942,6 +13950,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113650Z" creationid="Pedro Albuquerque" creationdate="20210422T113650Z">
+        <seg>A sintaxe completa das teclas (atalhos) é definida na seguinte documentação Java 1.6 da Oracle (parte inferior da página): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101819Z" creationid="Pedro Albuquerque" creationdate="20210422T101803Z">
@@ -14148,6 +14164,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113036Z" creationid="Pedro Albuquerque" creationdate="20210422T113036Z">
         <seg>O ficheiro de definição de atalho deve ser nomeado &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; e deve conter, no máximo, uma definição de atalho por linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113627Z" creationid="Pedro Albuquerque" creationdate="20210422T113627Z">
+        <seg>A sintaxe de definição do atalho é a seguinte: &lt;c0&gt;&lt;código do item do menu&gt;==&lt;atalho&gt;&lt;/c0&gt;, onde &lt;e1&gt;&lt;código do item do menu&gt;&lt;/e1&gt; é um código retirado das tabelas abaixo e &lt;e2&gt;&lt;atalho&gt;&lt;/e2&gt; é uma combinação de teclas premidas especificadas pelo utilizador</seg>
       </tuv>
     </tu>
     <tu>
@@ -16907,6 +16931,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
         <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113630Z" creationid="Pedro Albuquerque" creationdate="20210422T113630Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
