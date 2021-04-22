@@ -2414,6 +2414,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090620Z" creationid="Pedro Albuquerque" creationdate="20210422T090620Z">
+        <seg>Aplicar &amp;correcção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091205Z" creationid="Pedro Albuquerque" creationdate="20210421T091205Z">
@@ -3928,6 +3936,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072851Z" creationid="Pedro Albuquerque" creationdate="20210421T072851Z">
         <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090638Z" creationid="Pedro Albuquerque" creationdate="20210422T090638Z">
+        <seg>Desactivar regra “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7165,6 +7181,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110004Z" creationid="Pedro Albuquerque" creationdate="20210421T110004Z">
         <seg>Versão da API do LanguageTool trocada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090628Z" creationid="Pedro Albuquerque" creationdate="20210422T090628Z">
+        <seg>Problemas no LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,6 +12017,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090713Z" creationid="Pedro Albuquerque" creationdate="20210422T090713Z">
+        <seg>Problemas de terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060922Z" creationid="Pedro Albuquerque" creationdate="20210422T060922Z">
@@ -14383,6 +14415,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090810Z" creationid="Pedro Albuquerque" creationdate="20210422T090810Z">
+        <seg>[{0}] “{1}” na fonte; esperava-se um de {2} no alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090752Z" creationid="Pedro Albuquerque" creationdate="20210422T090752Z">
+        <seg>[{0}] “{1}” na fonte; esperava-se “{2}” no alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060443Z" creationid="Pedro Albuquerque" creationdate="20210421T060443Z">
@@ -14737,6 +14785,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090601Z" creationid="Pedro Albuquerque" creationdate="20210422T090601Z">
+        <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115409Z" creationid="Pedro Albuquerque" creationdate="20210420T115409Z">
@@ -14789,6 +14845,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102403Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>{1}, executado de "{2}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090812Z" creationid="Pedro Albuquerque" creationdate="20210422T090812Z">
+        <seg>“{0}”</seg>
       </tuv>
     </tu>
     <tu>
