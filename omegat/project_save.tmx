@@ -4338,6 +4338,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115349Z" creationid="Pedro Albuquerque" creationdate="20210422T115349Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115001Z" creationid="Pedro Albuquerque" creationdate="20210422T115001Z">
@@ -4358,6 +4366,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115233Z" creationid="Pedro Albuquerque" creationdate="20210422T115233Z">
         <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115333Z" creationid="Pedro Albuquerque" creationdate="20210422T115333Z">
+        <seg>Ctrl+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,6 +4406,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114903Z" creationid="Pedro Albuquerque" creationdate="20210422T114903Z">
         <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115309Z" creationid="Pedro Albuquerque" creationdate="20210422T115309Z">
+        <seg>Ctrl+Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,6 +7713,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091808Z" creationid="Pedro Albuquerque" creationdate="20210421T091808Z">
         <seg>Carregar inicialmente estes segmentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115348Z" creationid="Pedro Albuquerque" creationdate="20210422T115337Z">
+        <seg>Inserir correspondência ou selecção</seg>
       </tuv>
     </tu>
     <tu>
@@ -11903,10 +11935,26 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115333Z" creationid="Pedro Albuquerque" creationdate="20210422T115333Z">
+        <seg>Substituir por correspondência ou selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125553Z" creationid="Pedro Albuquerque" creationdate="20210420T125553Z">
         <seg>Substituir co&amp;m tradução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115352Z" creationid="Pedro Albuquerque" creationdate="20210422T115352Z">
+        <seg>Replace with Machine Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -17299,6 +17347,30 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114412Z" creationid="Pedro Albuquerque" creationdate="20210422T114412Z">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115350Z" creationid="Pedro Albuquerque" creationdate="20210422T115350Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115334Z" creationid="Pedro Albuquerque" creationdate="20210422T115334Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115309Z" creationid="Pedro Albuquerque" creationdate="20210422T115309Z">
+        <seg>editRedoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
