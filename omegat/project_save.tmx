@@ -2146,6 +2146,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065059Z" creationid="Pedro Albuquerque" creationdate="20210422T065059Z">
+        <seg>Ocorreu um erro ao carregar os ficheiros-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054841Z" creationid="Pedro Albuquerque" creationdate="20210422T054841Z">
@@ -2598,6 +2606,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065011Z" creationid="Pedro Albuquerque" creationdate="20210422T065011Z">
+        <seg>Navegar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163412Z" creationid="Pedro Albuquerque" creationdate="20210420T163412Z">
@@ -2934,10 +2950,34 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065114Z" creationid="Pedro Albuquerque" creationdate="20210422T065114Z">
+        <seg>Escolher o ficheiro-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065118Z" creationid="Pedro Albuquerque" creationdate="20210422T065118Z">
+        <seg>Escolher o ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Cleaning entry "{0}"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065218Z" creationid="Pedro Albuquerque" creationdate="20210422T065218Z">
+        <seg>Limpar marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2994,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172003Z" creationid="Pedro Albuquerque" creationdate="20210420T172003Z">
         <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065139Z" creationid="Pedro Albuquerque" creationdate="20210422T065139Z">
+        <seg>Fechar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6641,10 +6689,26 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065229Z" creationid="Pedro Albuquerque" creationdate="20210422T065229Z">
+        <seg>Manter tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064729Z" creationid="Pedro Albuquerque" creationdate="20210422T064729Z">
         <seg>Manter a minha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065234Z" creationid="Pedro Albuquerque" creationdate="20210422T065234Z">
+        <seg>Não manter nada</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,10 +7291,26 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065204Z" creationid="Pedro Albuquerque" creationdate="20210422T065204Z">
+        <seg>Marcar Aceite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114533Z" creationid="Pedro Albuquerque" creationdate="20210421T114533Z">
         <seg>Marcar correspondências de glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065209Z" creationid="Pedro Albuquerque" creationdate="20210422T065209Z">
+        <seg>Marcar A rever</seg>
       </tuv>
     </tu>
     <tu>
@@ -7647,10 +7727,26 @@ Perdida para o paraíso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065152Z" creationid="Pedro Albuquerque" creationdate="20210422T065152Z">
+        <seg>Mover abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091107Z" creationid="Pedro Albuquerque" creationdate="20210421T091107Z">
         <seg>Mover a&amp;cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065147Z" creationid="Pedro Albuquerque" creationdate="20210422T065147Z">
+        <seg>Mover acima</seg>
       </tuv>
     </tu>
     <tu>
@@ -9495,6 +9591,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065224Z" creationid="Pedro Albuquerque" creationdate="20210422T065224Z">
+        <seg>Realinhar pendentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
@@ -9547,6 +9651,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061648Z" creationid="Pedro Albuquerque" creationdate="20210421T061617Z">
         <seg>a procura por expressões regulares corresponde a expressões regulares Java, como documentado no manual do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065136Z" creationid="Pedro Albuquerque" creationdate="20210422T065136Z">
+        <seg>Recarregar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9855,6 +9967,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065131Z" creationid="Pedro Albuquerque" creationdate="20210422T065131Z">
+        <seg>Repor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064648Z" creationid="Pedro Albuquerque" creationdate="20210422T064648Z">
@@ -10067,6 +10187,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052405Z" creationid="Pedro Albuquerque" creationdate="20210422T052405Z">
         <seg>Gravar script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065128Z" creationid="Pedro Albuquerque" creationdate="20210422T065128Z">
+        <seg>Gravar TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11033,10 +11161,26 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065156Z" creationid="Pedro Albuquerque" creationdate="20210422T065156Z">
+        <seg>Dividir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065543Z" creationid="Pedro Albuquerque" creationdate="20210421T065543Z">
         <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065301Z" creationid="Pedro Albuquerque" creationdate="20210422T065301Z">
+        <seg>Iniciar alinhamento pontual</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,6 +11253,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065124Z" creationid="Pedro Albuquerque" creationdate="20210422T065124Z">
+        <seg>Ficheiros suportados</seg>
       </tuv>
     </tu>
     <tu>
@@ -11269,6 +11421,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063413Z" creationid="Pedro Albuquerque" creationdate="20210422T063413Z">
         <seg>Etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065003Z" creationid="Pedro Albuquerque" creationdate="20210422T065003Z">
+        <seg>Alvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11638,6 +11798,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065028Z" creationid="Pedro Albuquerque" creationdate="20210422T065028Z">
+        <seg>O ficheiro "{0}" não é suportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180756Z" creationid="Pedro Albuquerque" creationdate="20210420T180756Z">
@@ -11820,6 +11988,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105807Z" creationid="Pedro Albuquerque" creationdate="20210421T105807Z">
         <seg>A pasta de dicionário especificada não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065042Z" creationid="Pedro Albuquerque" creationdate="20210422T065042Z">
+        <seg>Os ficheiros especificados não são suportados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12338,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Para utilizar este script, abra um terminal
 (consola), mude para a pasta que contém o OmegaT.jar e o
 linux-install.sh, e execute com ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065242Z" creationid="Pedro Albuquerque" creationdate="20210422T065242Z">
+        <seg>Alternar selecção</seg>
       </tuv>
     </tu>
     <tu>
