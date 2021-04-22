@@ -2010,6 +2010,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085451Z" creationid="Pedro Albuquerque" creationdate="20210422T085451Z">
+        <seg>Algoritmo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085446Z" creationid="Pedro Albuquerque" creationdate="20210422T085446Z">
+        <seg>Alinhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064959Z" creationid="Pedro Albuquerque" creationdate="20210422T064959Z">
@@ -2278,6 +2294,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085741Z" creationid="Pedro Albuquerque" creationdate="20210422T085741Z">
+        <seg>Já existe aqui um item com o nome "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -2470,6 +2494,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052214Z" creationid="Pedro Albuquerque" creationdate="20210422T052214Z">
         <seg>Motores de script disponíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085512Z" creationid="Pedro Albuquerque" creationdate="20210422T085512Z">
+        <seg>Média: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2730,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125323Z" creationid="Pedro Albuquerque" creationdate="20210420T125323Z">
         <seg>Documento-alvo a&amp;ctual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085457Z" creationid="Pedro Albuquerque" creationdate="20210422T085457Z">
+        <seg>Calculadora:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,6 +3172,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085508Z" creationid="Pedro Albuquerque" creationdate="20210422T085508Z">
+        <seg>Modo de comparação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090154Z" creationid="Pedro Albuquerque" creationdate="20210421T090154Z">
@@ -3248,6 +3296,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085534Z" creationid="Pedro Albuquerque" creationdate="20210422T085534Z">
+        <seg>Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163040Z" creationid="Pedro Albuquerque" creationdate="20210420T163040Z">
@@ -3342,6 +3398,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093838Z" creationid="Pedro Albuquerque" creationdate="20210421T093838Z">
         <seg>Contar o texto &amp;protegido e as etiquetas personalizadas nas estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085501Z" creationid="Pedro Albuquerque" creationdate="20210422T085501Z">
+        <seg>Contador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,6 +3976,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100719Z" creationid="Pedro Albuquerque" creationdate="20210421T100719Z">
         <seg>Mostra a tradução do segmento-fonte efectuada pelos serviços de tradução automática que tiver seleccionado em Opções &gt; Tradução automática, caso esses serviços estejam disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085650Z" creationid="Pedro Albuquerque" creationdate="20210422T085650Z">
+        <seg>Distância</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,6 +5136,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085442Z" creationid="Pedro Albuquerque" creationdate="20210422T085442Z">
+        <seg>Filtros de ficheiros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Format</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065228Z" creationid="Pedro Albuquerque" creationdate="20210421T065228Z">
@@ -5156,6 +5236,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171947Z" creationid="Pedro Albuquerque" creationdate="20210420T171947Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085525Z" creationid="Pedro Albuquerque" creationdate="20210422T085525Z">
+        <seg>Filtros...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6717,6 +6805,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171316Z" creationid="Pedro Albuquerque" creationdate="20210420T171316Z">
         <seg>A saltar para o último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085653Z" creationid="Pedro Albuquerque" creationdate="20210422T085653Z">
+        <seg>Manter</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9067,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085529Z" creationid="Pedro Albuquerque" creationdate="20210422T085529Z">
+        <seg>Padrão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092117Z" creationid="Pedro Albuquerque" creationdate="20210421T092117Z">
@@ -8983,6 +9087,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053445Z" creationid="Pedro Albuquerque" creationdate="20210422T053445Z">
         <seg>Talvez já esteja aberto noutra instância do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085642Z" creationid="Pedro Albuquerque" creationdate="20210422T085642Z">
+        <seg>Alinhamento pontual: seleccionar a célula correspondente</seg>
       </tuv>
     </tu>
     <tu>
@@ -10079,6 +10191,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085645Z" creationid="Pedro Albuquerque" creationdate="20210422T085645Z">
+        <seg>Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110509Z" creationid="Pedro Albuquerque" creationdate="20210421T110509Z">
@@ -10091,6 +10211,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110442Z" creationid="Pedro Albuquerque" creationdate="20210421T110442Z">
         <seg>Regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085521Z" creationid="Pedro Albuquerque" creationdate="20210422T085521Z">
+        <seg>Regras...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10211,6 +10339,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Samuel Murray"s scripts and procedures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085705Z" creationid="Pedro Albuquerque" creationdate="20210422T085705Z">
+        <seg>Gravar resultados do alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -11277,6 +11413,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092306Z" creationid="Pedro Albuquerque" creationdate="20210421T092306Z">
         <seg>Lematização, sem etiquetas nem números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085557Z" creationid="Pedro Albuquerque" creationdate="20210422T085557Z">
+        <seg>Passo 1: ajustar parâmetros de alinahmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085623Z" creationid="Pedro Albuquerque" creationdate="20210422T085623Z">
+        <seg>Passo 2: fazer correcções manuais</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14493,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061924Z" creationid="Pedro Albuquerque" creationdate="20210422T061924Z">
         <seg>← Recuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085513Z" creationid="Pedro Albuquerque" creationdate="20210422T085513Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085515Z" creationid="Pedro Albuquerque" creationdate="20210422T085515Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
