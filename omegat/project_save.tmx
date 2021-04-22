@@ -12569,6 +12569,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112242Z" creationid="Pedro Albuquerque" creationdate="20210422T112242Z">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105214Z" creationid="Pedro Albuquerque" creationdate="20210422T105214Z">
