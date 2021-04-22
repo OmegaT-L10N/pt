@@ -356,6 +356,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062819Z" creationid="Pedro Albuquerque" creationdate="20210422T062819Z">
+        <seg>Activar procura de t&amp;erminologia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060958Z" creationid="Pedro Albuquerque" creationdate="20210422T060958Z">
@@ -3186,6 +3194,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062739Z" creationid="Pedro Albuquerque" creationdate="20210422T062739Z">
+        <seg>Crie a sua chave e insira-a abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063700Z" creationid="Pedro Albuquerque" creationdate="20210421T063700Z">
@@ -4308,6 +4324,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062701Z" creationid="Pedro Albuquerque" creationdate="20210422T062701Z">
+        <seg>Erro ao actualizar o glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055548Z" creationid="Pedro Albuquerque" creationdate="20210422T055548Z">
@@ -5078,6 +5102,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090634Z" creationid="Pedro Albuquerque" creationdate="20210421T090634Z">
         <seg>Alemão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062749Z" creationid="Pedro Albuquerque" creationdate="20210422T062749Z">
+        <seg>Obter a chave da API</seg>
       </tuv>
     </tu>
     <tu>
@@ -10105,6 +10137,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062630Z" creationid="Pedro Albuquerque" creationdate="20210422T062630Z">
+        <seg>Algo correu mal, por favor visite Tilde Terminology para mais detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182305Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
@@ -10481,10 +10521,34 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062750Z" creationid="Pedro Albuquerque" creationdate="20210422T062750Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062723Z" creationid="Pedro Albuquerque" creationdate="20210422T062723Z">
+        <seg>Chave da API do TaaS não definida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS Collections</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062238Z" creationid="Pedro Albuquerque" creationdate="20210422T062238Z">
         <seg>Colecções TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062758Z" creationid="Pedro Albuquerque" creationdate="20210422T062758Z">
+        <seg>Terminologia TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -12588,6 +12652,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055601Z" creationid="Pedro Albuquerque" creationdate="20210421T055601Z">
         <seg>A pasta de glossários editáveis não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062650Z" creationid="Pedro Albuquerque" creationdate="20210422T062650Z">
+        <seg>Formato de resposta errado do serviço TaaS</seg>
       </tuv>
     </tu>
     <tu>
