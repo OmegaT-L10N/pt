@@ -2744,6 +2744,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054036Z" creationid="Pedro Albuquerque" creationdate="20210422T054036Z">
+        <seg>Converter projecto de euipa antigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124747Z" creationid="Pedro Albuquerque" creationdate="20210420T124747Z">
@@ -5491,6 +5499,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053959Z" creationid="Pedro Albuquerque" creationdate="20210422T053959Z">
+        <seg>Precisa de ser convertido para um novo projecto de equipa, mas isto não pode ser feito em modo de consola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -7051,6 +7067,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054059Z" creationid="Pedro Albuquerque" creationdate="20210422T054059Z">
+        <seg>O OmegaT detectou um projecto de equipa estilo 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -7742,17 +7766,17 @@ uma descrição de como este erro foi produzido.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Press "Cancel" to leave the project unmodified and load it as a local
-project without team functionality.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054323Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Clique em "Cancelar" para deixar o projecto inalterado e carregá-lo como um projecto
+local sem funcionalidade de equipa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Press "OK" to convert the project into a 4.x-style team project.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054137Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Clique em "Aceitar" para converter o projecto num projecto de equipa estilo 4.x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9892,6 +9916,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054009Z" creationid="Pedro Albuquerque" creationdate="20210422T054009Z">
+        <seg>O projecto será carregado como um projecto local sem funcionalidade de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052058Z" creationid="Pedro Albuquerque" creationdate="20210422T052058Z">
@@ -10042,6 +10074,18 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054238Z" creationid="Pedro Albuquerque" creationdate="20210422T054238Z">
+        <seg>Isto
+vai eliminar os dados locais e voltar a trasnferir o conteúdo do projecto
+do servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This ID is already being used.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110521Z" creationid="Pedro Albuquerque" creationdate="20210421T110521Z">
@@ -10174,6 +10218,14 @@ Você foi vítima de um deles</seg>
 - usar Projecto &gt; Copiar ficheiros para a pasta-fonte...
 - clicar em Copiar ficheiros para a pasta-fonte... na janela Ficheiros do projecto
 - copiar ficheiros para a pasta "source" com o seu gestor de ficheiros e recarregar o projecto clicando em Projecto &gt; Recarregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054023Z" creationid="Pedro Albuquerque" creationdate="20210422T054023Z">
+        <seg>Para o converter num novo projecto de equipa, abra-o no GUI do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
