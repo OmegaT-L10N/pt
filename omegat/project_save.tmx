@@ -1682,6 +1682,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062933Z" creationid="Pedro Albuquerque" creationdate="20210422T062933Z">
+        <seg>&lt;html&gt;Adicionar padrões usando caracteres universais (estilo Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054215Z" creationid="Pedro Albuquerque" creationdate="20210421T054215Z">
@@ -1862,6 +1870,38 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101517Z" creationid="Pedro Albuquerque" creationdate="20210421T101517Z">
         <seg>Acções &amp; Definições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063026Z" creationid="Pedro Albuquerque" creationdate="20210422T063026Z">
+        <seg>Fonte do segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063048Z" creationid="Pedro Albuquerque" creationdate="20210422T063030Z">
+        <seg>Texto da fonte do segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063058Z" creationid="Pedro Albuquerque" creationdate="20210422T063058Z">
+        <seg>Alvo do segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063110Z" creationid="Pedro Albuquerque" creationdate="20210422T063110Z">
+        <seg>Texto do alvo do segmento activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +2398,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063534Z" creationid="Pedro Albuquerque" creationdate="20210421T063534Z">
         <seg>Preferências salvaguardadas em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062957Z" creationid="Pedro Albuquerque" creationdate="20210422T062957Z">
+        <seg>Fundo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3272,6 +3320,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170424Z" creationid="Pedro Albuquerque" creationdate="20210420T170424Z">
         <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062953Z" creationid="Pedro Albuquerque" creationdate="20210422T062953Z">
+        <seg>Cores personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062946Z" creationid="Pedro Albuquerque" creationdate="20210422T062946Z">
+        <seg>Selecção de cores personalisadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4516,6 +4580,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062436Z" creationid="Pedro Albuquerque" creationdate="20210421T062436Z">
         <seg>Excluir segmentos orfãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062829Z" creationid="Pedro Albuquerque" creationdate="20210422T062829Z">
+        <seg>Padrões de exclusão</seg>
       </tuv>
     </tu>
     <tu>
@@ -6871,6 +6943,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T160940Z" creationid="Pedro Albuquerque" creationdate="20210421T160940Z">
         <seg>Marcar palavras desconhecidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062835Z" creationid="Pedro Albuquerque" creationdate="20210422T062835Z">
+        <seg>Máscara</seg>
       </tuv>
     </tu>
     <tu>
