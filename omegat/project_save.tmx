@@ -1906,6 +1906,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095434Z" creationid="Pedro Albuquerque" creationdate="20210422T095434Z">
+        <seg>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário predefinido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100923Z" creationid="Pedro Albuquerque" creationdate="20210421T100923Z">
@@ -6132,8 +6140,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094507Z" creationid="Pedro Albuquerque" creationdate="20210422T094507Z">
-        <seg>Glossaries are terminology files.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095337Z" creationid="Pedro Albuquerque" creationdate="20210422T094507Z">
+        <seg>Glossários são ficheiros de terminologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10623,6 +10631,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095456Z" creationid="Pedro Albuquerque" creationdate="20210422T095456Z">
+        <seg>Independentemente do número de glossários num projecto, qualquer termo num segmento que tenha uma correspondência num glossário será mostrado no painel do glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125738Z" creationid="Pedro Albuquerque" creationdate="20210420T125738Z">
@@ -13426,6 +13442,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064111Z" creationid="Pedro Albuquerque" creationdate="20210421T064111Z">
         <seg>Estas unidades foram ignoradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095348Z" creationid="Pedro Albuquerque" creationdate="20210422T095348Z">
+        <seg>Podem ser criados e actualizados manualmente ou importados de outros projectos.</seg>
       </tuv>
     </tu>
     <tu>
