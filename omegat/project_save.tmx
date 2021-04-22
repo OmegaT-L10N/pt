@@ -1378,6 +1378,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090456Z" creationid="Pedro Albuquerque" creationdate="20210422T090456Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Anthony Baldwin (localisation manager)
 - Didier Briel (project manager)
 - Alex Buloichik (lead developer)
@@ -1722,6 +1730,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090353Z" creationid="Pedro Albuquerque" creationdate="20210422T090353Z">
+        <seg>&lt;html&gt;&gt;center&gt;A carregar...&lt;br&gt;&gt;br&gt;Dica: activar/desactivar verificações em qualquer altura a partir do menu Opções.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064345Z" creationid="Pedro Albuquerque" creationdate="20210422T064345Z">
@@ -2002,6 +2018,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090505Z" creationid="Pedro Albuquerque" creationdate="20210422T090505Z">
+        <seg>Adicionar ao dicionário: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061355Z" creationid="Pedro Albuquerque" creationdate="20210422T061355Z">
@@ -2110,6 +2134,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064254Z" creationid="Pedro Albuquerque" creationdate="20210422T064254Z">
         <seg>Realce da linha de tabela de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090412Z" creationid="Pedro Albuquerque" creationdate="20210422T090412Z">
+        <seg>Tudo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3058,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180911Z" creationid="Pedro Albuquerque" creationdate="20210420T180911Z">
         <seg>Assegure-se de que os seus ficheiros de dicionário se encontram na pasta correcta (ou numa sub-pasta dela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090426Z" creationid="Pedro Albuquerque" creationdate="20210422T090426Z">
+        <seg>Verificar {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,8 +4214,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Don"t Ask What to Check First</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090441Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Não perguntar o que verificar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6421,6 +6461,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090508Z" creationid="Pedro Albuquerque" creationdate="20210422T090508Z">
+        <seg>Ignorar: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
@@ -6749,10 +6797,34 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090244Z" creationid="Pedro Albuquerque" creationdate="20210422T090244Z">
+        <seg>Problemas ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Issues ({0})</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090203Z" creationid="Pedro Albuquerque" creationdate="20210422T090203Z">
         <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090255Z" creationid="Pedro Albuquerque" creationdate="20210422T090255Z">
+        <seg>Problemas em {0} ({1} de {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090233Z" creationid="Pedro Albuquerque" creationdate="20210422T090233Z">
+        <seg>Problemas em {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -8181,6 +8253,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061929Z" creationid="Pedro Albuquerque" creationdate="20210422T061929Z">
         <seg>Avançar →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090403Z" creationid="Pedro Albuquerque" creationdate="20210422T090403Z">
+        <seg>Nenhum problema encontrado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11521,6 +11601,22 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090455Z" creationid="Pedro Albuquerque" creationdate="20210422T090455Z">
+        <seg>Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090450Z" creationid="Pedro Albuquerque" creationdate="20210422T090450Z">
+        <seg>Problemas de ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Split</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065156Z" creationid="Pedro Albuquerque" creationdate="20210422T065156Z">
@@ -11765,6 +11861,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055838Z" creationid="Pedro Albuquerque" creationdate="20210422T055838Z">
         <seg>Etiqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090515Z" creationid="Pedro Albuquerque" creationdate="20210422T090515Z">
+        <seg>Problemas de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14573,6 +14677,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171020Z" creationid="Pedro Albuquerque" creationdate="20210420T171020Z">
         <seg>{0} ({1} restantes) / {2} ({3} restantes), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090412Z" creationid="Pedro Albuquerque" creationdate="20210422T090412Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
