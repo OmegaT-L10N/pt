@@ -1816,6 +1816,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053830Z" creationid="Pedro Albuquerque" creationdate="20210422T053830Z">
+        <seg>Permitir gravação da senha em texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093657Z" creationid="Pedro Albuquerque" creationdate="20210421T093657Z">
@@ -2662,6 +2670,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115026Z" creationid="Pedro Albuquerque" creationdate="20210421T115026Z">
         <seg>Ligar a servidor personalizado em vez do apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053917Z" creationid="Pedro Albuquerque" creationdate="20210422T053917Z">
+        <seg>Ligação disponível, o projecto está em modo de equipa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,32 +4538,32 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Git "{0}" did nothing because there were no changes</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053750Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Git "{0}" não fez nada porque não houve alterações</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Git "{0}" error: {1}</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053758Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Erro de Git "{0}": {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Git "{0}" execution finished successfully</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053733Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A execução de Git "{0}" concluiu com sucesso</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Git "{0}" execution start</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053713Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Início da execução de Git "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6647,6 +6663,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053856Z" creationid="Pedro Albuquerque" creationdate="20210422T053856Z">
+        <seg>Nenhuma ligação disponível, o projecto está em modo offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No folder ID specified</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173550Z" creationid="Pedro Albuquerque" creationdate="20210421T173550Z">
@@ -7971,6 +7995,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093037Z" creationid="Pedro Albuquerque" creationdate="20210421T093037Z">
         <seg>Sessão com proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053808Z" creationid="Pedro Albuquerque" creationdate="20210422T053808Z">
+        <seg>Falha ao enviar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,6 +9944,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105807Z" creationid="Pedro Albuquerque" creationdate="20210421T105807Z">
         <seg>A pasta de dicionário especificada não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053948Z" creationid="Pedro Albuquerque" creationdate="20210422T053948Z">
+        <seg>O projecto especificado é um projecto de equipa do OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
