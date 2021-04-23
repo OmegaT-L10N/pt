@@ -2282,10 +2282,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081417Z" creationid="Pedro Albuquerque" creationdate="20210423T081417Z">
+        <seg>Acerca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165621Z" creationid="Pedro Albuquerque" creationdate="20210420T165621Z">
         <seg>Aceder à pasta de conf&amp;iguração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081400Z" creationid="Pedro Albuquerque" creationdate="20210423T081400Z">
+        <seg>Aceder à pasta de configuração</seg>
       </tuv>
     </tu>
     <tu>
@@ -6400,6 +6416,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081413Z" creationid="Pedro Albuquerque" creationdate="20210423T081413Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F5</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114902Z" creationid="Pedro Albuquerque" creationdate="20210422T114902Z">
@@ -7398,6 +7422,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070357Z" creationid="Pedro Albuquerque" creationdate="20210421T070357Z">
         <seg>Ajuda &amp; Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081404Z" creationid="Pedro Albuquerque" creationdate="20210423T081404Z">
+        <seg>Menu Ajuda</seg>
       </tuv>
     </tu>
     <tu>
@@ -8825,6 +8857,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081426Z" creationid="Pedro Albuquerque" creationdate="20210423T081426Z">
+        <seg>Últimas alterações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last changes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073010Z" creationid="Pedro Albuquerque" creationdate="20210421T073010Z">
@@ -9039,6 +9079,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060638Z" creationid="Pedro Albuquerque" creationdate="20210421T060638Z">
         <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081430Z" creationid="Pedro Albuquerque" creationdate="20210423T081430Z">
+        <seg>Diário...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12623,6 +12671,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081347Z" creationid="Pedro Albuquerque" creationdate="20210423T081347Z">
+        <seg>Restaurar a janela principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062348Z" creationid="Pedro Albuquerque" creationdate="20210422T062348Z">
@@ -14085,6 +14141,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071012Z" creationid="Pedro Albuquerque" creationdate="20210421T071012Z">
         <seg>Especificar a gestão de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081448Z" creationid="Pedro Albuquerque" creationdate="20210423T081448Z">
+        <seg>Spell checker</seg>
       </tuv>
     </tu>
     <tu>
@@ -16758,6 +16822,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081412Z" creationid="Pedro Albuquerque" creationdate="20210423T081412Z">
+        <seg>Manual do utilizador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054737Z" creationid="Pedro Albuquerque" creationdate="20210422T054737Z">
@@ -18471,6 +18543,38 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081418Z" creationid="Pedro Albuquerque" creationdate="20210423T081418Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081414Z" creationid="Pedro Albuquerque" creationdate="20210423T081414Z">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081427Z" creationid="Pedro Albuquerque" creationdate="20210423T081427Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081431Z" creationid="Pedro Albuquerque" creationdate="20210423T081431Z">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
@@ -18673,6 +18777,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081400Z" creationid="Pedro Albuquerque" creationdate="20210423T081400Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080740Z" creationid="Pedro Albuquerque" creationdate="20210423T080740Z">
@@ -18761,6 +18873,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081347Z" creationid="Pedro Albuquerque" creationdate="20210423T081347Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081254Z" creationid="Pedro Albuquerque" creationdate="20210423T081254Z">
@@ -18829,6 +18949,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081245Z" creationid="Pedro Albuquerque" creationdate="20210423T081245Z">
         <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081337Z" creationid="Pedro Albuquerque" creationdate="20210423T081337Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
       </tuv>
     </tu>
     <tu>
