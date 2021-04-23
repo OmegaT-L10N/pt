@@ -3034,6 +3034,38 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081107Z" creationid="Pedro Albuquerque" creationdate="20210423T081107Z">
+        <seg>Conclusão automática/Texto automático...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081117Z" creationid="Pedro Albuquerque" creationdate="20210423T081117Z">
+        <seg>Conclusão automática/Tabela de caracteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081058Z" creationid="Pedro Albuquerque" creationdate="20210423T081058Z">
+        <seg>Conclusão automática/Glossário...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081035Z" creationid="Pedro Albuquerque" creationdate="20210423T081035Z">
+        <seg>Conclusão automática/Mostrar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062412Z" creationid="Pedro Albuquerque" creationdate="20210421T062412Z">
@@ -4708,6 +4740,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081152Z" creationid="Pedro Albuquerque" creationdate="20210423T081152Z">
+        <seg>Cores personalizadas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T115040Z" creationid="Pedro Albuquerque" creationdate="20210421T115040Z">
@@ -5584,6 +5624,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174922Z" creationid="Pedro Albuquerque" creationdate="20210420T174922Z">
         <seg>Editar as propriedades do projecto aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081218Z" creationid="Pedro Albuquerque" creationdate="20210423T081218Z">
+        <seg>Comportamento da edição...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,6 +6740,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171422Z" creationid="Pedro Albuquerque" creationdate="20210420T171422Z">
         <seg>Letra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081128Z" creationid="Pedro Albuquerque" creationdate="20210423T081128Z">
+        <seg>Letra...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13193,6 +13249,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081200Z" creationid="Pedro Albuquerque" creationdate="20210423T081200Z">
+        <seg>Segmentação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171749Z" creationid="Pedro Albuquerque" creationdate="20210420T171749Z">
@@ -14001,6 +14065,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081206Z" creationid="Pedro Albuquerque" creationdate="20210423T081206Z">
+        <seg>Ortografia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063703Z" creationid="Pedro Albuquerque" creationdate="20210422T063703Z">
@@ -14349,6 +14421,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093148Z" creationid="Pedro Albuquerque" creationdate="20210421T093148Z">
         <seg>Processamento de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081230Z" creationid="Pedro Albuquerque" creationdate="20210423T081230Z">
+        <seg>Processamento de etiquetas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15794,6 +15874,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060415Z" creationid="Pedro Albuquerque" creationdate="20210421T060415Z">
         <seg>Tradu&amp;zidos ou não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080956Z" creationid="Pedro Albuquerque" creationdate="20210423T080956Z">
+        <seg>Dicas de tradução/Activar dicas de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -18553,10 +18641,66 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081108Z" creationid="Pedro Albuquerque" creationdate="20210423T081108Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081118Z" creationid="Pedro Albuquerque" creationdate="20210423T081118Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081058Z" creationid="Pedro Albuquerque" creationdate="20210423T081058Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081039Z" creationid="Pedro Albuquerque" creationdate="20210423T081039Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081153Z" creationid="Pedro Albuquerque" creationdate="20210423T081153Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081129Z" creationid="Pedro Albuquerque" creationdate="20210423T081129Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080848Z" creationid="Pedro Albuquerque" creationdate="20210423T080848Z">
         <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080933Z" creationid="Pedro Albuquerque" creationdate="20210423T080933Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18569,10 +18713,50 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081201Z" creationid="Pedro Albuquerque" creationdate="20210423T081201Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081154Z" creationid="Pedro Albuquerque" creationdate="20210423T081154Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081206Z" creationid="Pedro Albuquerque" creationdate="20210423T081206Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080725Z" creationid="Pedro Albuquerque" creationdate="20210423T080725Z">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080956Z" creationid="Pedro Albuquerque" creationdate="20210423T080956Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081218Z" creationid="Pedro Albuquerque" creationdate="20210423T081218Z">
+        <seg>optionsWorkflowMenuItem</seg>
       </tuv>
     </tu>
     <tu>
