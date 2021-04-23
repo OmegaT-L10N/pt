@@ -847,10 +847,7 @@
   <section>
     <title>Verificador ortográfico</title>
 
-    <para>OmegaT has a built-in spell checker based on the <link linkend="appendix.spellchecker">spelling checker</link> used in Apache
-    OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able
-    to use the huge range of free spelling dictionaries available for these
-    applications.</para>
+    <para>OmegaT has a built-in spell checker based on the <link linkend="appendix.spellchecker">spelling checker</link> used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird. Consequentemente, é capaz de utilizar a enorme variedade de dicionários ortográficos gratuitos disponíveis para estas aplicações.</para>
   </section>
 
   <section>
