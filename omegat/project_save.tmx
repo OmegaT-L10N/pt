@@ -1796,8 +1796,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>&lt;/e2&gt;The "*" character matches zero or more characters.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175215Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>&lt;/e2&gt;. O carácter "*" corresponde a zero ou mais caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2718,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062325Z" creationid="Pedro Albuquerque" creationdate="20210422T062325Z">
         <seg>Todos os domínios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175303Z" creationid="Pedro Albuquerque" creationdate="20210423T175303Z">
+        <seg>Todos os outros caracteres representam-se a si próprios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,6 +7138,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175049Z" creationid="Pedro Albuquerque" creationdate="20210423T175049Z">
+        <seg>Por exemplo, por defeito, o filtro XHTML é utilizado para processar ficheiros com a extensão .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7150,6 +7166,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114153Z">
         <seg>Por exemplo, nos atalhos OmegaT pré-definidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175025Z" creationid="Pedro Albuquerque" creationdate="20210423T175025Z">
+        <seg>Por exemplo, o padrão &lt;l0&gt;*.xhtml &lt;/l0&gt;corresponde a qualquer ficheiro com a extensão &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8123,6 +8147,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172425Z" creationid="Pedro Albuquerque" creationdate="20210423T172425Z">
         <seg>Se marcada, quando um segmento num ficheiro PO (que pode ser um parágrafo inteiro) não for traduzido, a tradução estará vazia no ficheiro-alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
+        <seg>Se for encontrado o filtro apropriado, o ficheiro é-lhe atribuído para processamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14857,6 +14889,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175152Z" creationid="Pedro Albuquerque" creationdate="20210423T175152Z">
+        <seg>Os padrões de nomes de ficheiro-fonte utilizam caracteres universais semelhantes aos utilizados em &lt;e2&gt;Procuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170201Z" creationid="Pedro Albuquerque" creationdate="20210420T170201Z">
@@ -15646,8 +15686,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The "?" character matches exactly one character.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175226Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O carácter "?" corresponde exactamente a um carácter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18777,6 +18817,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
         <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175104Z" creationid="Pedro Albuquerque" creationdate="20210423T175104Z">
+        <seg>Pode alterar ou adicionar padrões de nomes de ficheiro para ficheiros a serem tratados por cada filtro de ficheiro.</seg>
       </tuv>
     </tu>
     <tu>
