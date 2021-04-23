@@ -15634,8 +15634,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084419Z" creationid="Pedro Albuquerque" creationdate="20210423T084419Z">
-        <seg>O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a subpasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados &lt;e0&gt;pt.aff&lt;/e0&gt; e &lt;e1&gt;pt.dic&lt;/e1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T085018Z" creationid="Pedro Albuquerque" creationdate="20210423T084419Z">
+        <seg>O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a sub-pasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados &lt;e0&gt;pt.aff&lt;/e0&gt; e &lt;e1&gt;pt.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
