@@ -3814,6 +3814,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171205Z" creationid="Pedro Albuquerque" creationdate="20210423T171205Z">
+        <seg>Clique em &lt;e0&gt;Pré-definições&lt;/e0&gt; para repor os filtros de ficheiro nas pré-definições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102427Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -17918,6 +17926,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project"s &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171117Z" creationid="Pedro Albuquerque" creationdate="20210423T171117Z">
+        <seg>Quando desejar utilizar o filtro de novo, basta marcar a respectiva caixa.</seg>
       </tuv>
     </tu>
     <tu>
