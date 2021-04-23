@@ -10269,8 +10269,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>More precisely, OmegaT attempts to match each filter"s source filename patterns against the filename.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174956Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Mais precisamente, o OmegaT tenta fazer corresponder os padrões de nome de ficheiro de cada filtro com o nome do ficheiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14849,6 +14849,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174855Z" creationid="Pedro Albuquerque" creationdate="20210423T174855Z">
+        <seg>Tipo de ficheiro-fonte, padrão de nome de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170201Z" creationid="Pedro Albuquerque" creationdate="20210420T170201Z">
@@ -15950,6 +15958,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174836Z" creationid="Pedro Albuquerque" creationdate="20210423T174746Z">
+        <seg>O diálogo inclui um editor especial de nomes de ficheiros-alvo, que pode utilizar para personalizar os nomes dos ficheiros de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181604Z" creationid="Pedro Albuquerque" creationdate="20210421T181604Z">
@@ -16276,6 +16292,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105157Z" creationid="Pedro Albuquerque" creationdate="20210422T105157Z">
         <seg>As expressões regulares (ou regex para abreviar) utilizadas nas pesquisas e regras de segmentação são as suportadas pelo Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174801Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
+        <seg>O mesmo diálogo é utilizado para adicionar um padrão ou para editar um determinado padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,6 +16842,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174745Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
+        <seg>Para adicionar um novo padrão de filtro de ficheiros, clique em &lt;e1&gt;Adicionar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095921Z" creationid="Pedro Albuquerque" creationdate="20210422T095921Z">
@@ -16902,6 +16934,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
         <seg>Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174728Z" creationid="Pedro Albuquerque" creationdate="20210423T174728Z">
+        <seg>Para modificar um padrão de filtro de ficheiros, modifique os campos directamente ou clique em &lt;e0&gt;Editar&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18268,8 +18308,8 @@ de o seleccionar, obter e instalar.</seg>
       <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file"s extension.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174916Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Quando o OmegaT encontra um ficheiro na sua pasta de origem, tenta seleccionar o filtro com base na extensão do ficheiro.</seg>
       </tuv>
     </tu>
     <tu>
