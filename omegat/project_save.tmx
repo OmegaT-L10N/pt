@@ -8261,6 +8261,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171717Z" creationid="Pedro Albuquerque" creationdate="20210423T171717Z">
+        <seg>Em projectos não segmentados, é possível mantê-los, desmarcando esta opção;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055915Z" creationid="Pedro Albuquerque" creationdate="20210421T055915Z">
@@ -11999,6 +12007,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171756Z" creationid="Pedro Albuquerque" creationdate="20210423T171756Z">
+        <seg>Preservar espaços para todas as etiquetas: marque esta opção se os documentos-fonte contêm espaços significativos utilizados para controlar a disposição e que não devem ser ignorados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -12841,8 +12857,16 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171522Z" creationid="Pedro Albuquerque" creationdate="20210423T171522Z">
-        <seg>remover as etiquetas iniciais e finais: desmarque esta opção para mostrar todas as etiquetas, incluindo as iniciais e finais do segmento.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171650Z" creationid="Pedro Albuquerque" creationdate="20210423T171522Z">
+        <seg>remover as etiquetas iniciais e finais: desmarque esta opção para mostrar todas as etiquetas, incluindo as iniciais e finais do segmento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171639Z" creationid="Pedro Albuquerque" creationdate="20210423T171639Z">
+        <seg>remover espaços iniciais e finais em projectos não segmentados; por defeito, o OmegaT remove-os;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17836,6 +17860,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Warning: if a file does not exist, the project won"t load.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171548Z" creationid="Pedro Albuquerque" creationdate="20210423T171548Z">
+        <seg>Aviso: nos formatos Microsoft Open XML (docx, xlsx, etc.), se todas as etiquetas forem mostradas, NÃO coloque qualquer texto antes da primeira etiqueta - é uma etiqueta técnica que deve sempre iniciar o segmento.</seg>
       </tuv>
     </tu>
     <tu>
