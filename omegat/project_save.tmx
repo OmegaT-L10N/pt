@@ -7785,6 +7785,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114122Z" creationid="Pedro Albuquerque" creationdate="20210423T114122Z">
+        <seg>Se tanto esta opção como a opção &lt;l0&gt;&lt;g1&gt;Inserir o texto-fonte&lt;/g1&gt;&lt;/l0&gt; estiverem marcadas, todas as palavras com uma entrada de glossário correspondente serão traduzidas automaticamente quando o texto-fonte for inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060713Z" creationid="Pedro Albuquerque" creationdate="20210422T060713Z">
@@ -12759,6 +12767,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114039Z" creationid="Pedro Albuquerque" creationdate="20210423T114039Z">
+        <seg>Substituir correspondências do glossário ao inserir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125553Z" creationid="Pedro Albuquerque" creationdate="20210420T125553Z">
@@ -13813,6 +13829,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110302Z" creationid="Pedro Albuquerque" creationdate="20210421T110302Z">
         <seg>Seleccionar languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114012Z" creationid="Pedro Albuquerque" creationdate="20210423T114012Z">
+        <seg>Seleccione esta opção se quiser que o glossário exiba palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16810,6 +16834,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113936Z" creationid="Pedro Albuquerque" creationdate="20210423T113936Z">
+        <seg>Desmarque esta opção se o glossário apresentar demasiados falsos positivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115254Z" creationid="Pedro Albuquerque" creationdate="20210422T115254Z">
@@ -17180,6 +17212,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113957Z" creationid="Pedro Albuquerque" creationdate="20210423T113957Z">
+        <seg>Utilizar lematização para entradas do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163547Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
@@ -17518,6 +17558,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060445Z" creationid="Pedro Albuquerque" creationdate="20210422T060445Z">
         <seg>Quando marcada, os itens do glossário de conclusão automática também conterão o texto-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113927Z" creationid="Pedro Albuquerque" creationdate="20210423T113927Z">
+        <seg>Quando esta opção está marcada, o glossário mostra pares ou grupos de palavras (expressões) mesmo que as palavras dentro delas apareçam separadamente no texto fonte.</seg>
       </tuv>
     </tu>
     <tu>
