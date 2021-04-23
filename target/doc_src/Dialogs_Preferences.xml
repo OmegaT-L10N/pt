@@ -128,15 +128,15 @@
           <term>Procurar colecções do TaaS...</term>
 
           <listitem>
-            <para>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto. As colecções privadas são mostradas a negrito. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</para>
+            <para>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto. As colecções privadas são mostradas a negrito. As colecções são transferidas como glossários TBX e armazenadas na pasta do glossário actual.</para>
           </listitem>
         </varlistentry>
 
         <varlistentry>
-          <term>Select TaaS Terminology Lookup Domain...</term>
+          <term>Seleccionar domínio de pesquisa terminológica TaaS...</term>
 
           <listitem>
-            <para>If necessary, you can select a specific domain to limit the volume of data sent and received.</para>
+            <para>Se necessário, pode seleccionar um domínio específico para limitar o volume de dados enviados e recebidos.</para>
           </listitem>
         </varlistentry>
       </variablelist>
@@ -148,18 +148,18 @@
 
     <variablelist>
       <varlistentry>
-        <term>Automatically search segment text in dictionary</term>
+        <term>Pesquisa automática de texto de segmento no dicionário</term>
 
         <listitem>
-          <para>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</para>
+          <para>Desmarque esta opção para desactivar a pesquisa automática - se os dicionários forem demasiado longos, por exemplo.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Use fuzzy matching for dictionary entries</term>
+        <term>Utilizar a correspondência aproximada para entradas de dicionário</term>
 
         <listitem>
-          <para>Select this option if you want dictionaries to display words that have the same root.</para>
+          <para>Seleccione esta opção se quiser que os dicionários mostrem palavras que tenham a mesma raiz.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -173,7 +173,7 @@
         <term>Restaurar a janela principal</term>
 
         <listitem>
-          <para>Restores the components of the main OmegaT window to their default state. Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement. It can also be used when panes do not appear as expected following an OmegaT upgrade.</para>
+          <para>Restaura os componentes da janela principal do OmegaT para o seu estado padrão. Utilize esta funcionalidade quando tiver desbloqueado, movido ou ocultado um ou mais componentes e não conseguir restaurar a disposição desejada. Também pode ser utilizado quando os painéis não aparecem como esperado após uma actualização do OmegaT.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -181,9 +181,7 @@
     <section>
       <title>Letra</title>
 
-      <para>Shows the dialog to modify the text display font. Users of old
-      computers who feel window resizing is very slow can try changing the
-      font. See font settings in Miscellanea</para>
+      <para>Mostra o diálogo para modificar a letra do texto. Os utilizadores de computadores antigos que sentem que o redimensionamento da janela é muito lento, podem tentar mudar a fonte. Ver definições de letras em Várias</para>
     </section>
 
     <section>
