@@ -9969,6 +9969,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082620Z" creationid="Pedro Albuquerque" creationdate="20210423T082620Z">
+        <seg>Navegue até e seleccione a pasta que criou para dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173429Z" creationid="Pedro Albuquerque" creationdate="20210421T173429Z">
@@ -11331,6 +11339,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161201Z" creationid="Pedro Albuquerque" creationdate="20210420T161201Z">
         <seg>Colocar o arquivo em qualquer pasta adequada e desempacotá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082637Z" creationid="Pedro Albuquerque" creationdate="20210423T082637Z">
+        <seg>Coloque os ficheiros de dicionário que deseja utilizar nesta pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15544,6 +15560,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082647Z" creationid="Pedro Albuquerque" creationdate="20210423T082647Z">
+        <seg>Há essencialmente duas maneiras de o fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092512Z" creationid="Pedro Albuquerque" creationdate="20210422T092512Z">
@@ -17607,8 +17631,8 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT"s &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082715Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Pode copiar ficheiros manualmente, ou seja, de qualquer outra parte do seu sistema, usando o seu gestor de ficheiros; ou pode usar a função &lt;e0&gt;"Instalar novo dicionário"&lt;/e0&gt; do OmegaT para fornecer uma lista de dicionários disponíveis para seleccionar.</seg>
       </tuv>
     </tu>
     <tu>
