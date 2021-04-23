@@ -6352,6 +6352,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081240Z" creationid="Pedro Albuquerque" creationdate="20210423T081240Z">
+        <seg>TMXs externas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173846Z" creationid="Pedro Albuquerque" creationdate="20210420T173846Z">
@@ -11907,6 +11915,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081307Z" creationid="Pedro Albuquerque" creationdate="20210423T081307Z">
+        <seg>Sessão com Proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053808Z" creationid="Pedro Albuquerque" creationdate="20210422T053808Z">
@@ -12891,6 +12907,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055617Z" creationid="Pedro Albuquerque" creationdate="20210422T055617Z">
         <seg>Opções de gravação e saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081254Z" creationid="Pedro Albuquerque" creationdate="20210423T081254Z">
+        <seg>Gravação e saída...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14533,6 +14557,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054700Z" creationid="Pedro Albuquerque" creationdate="20210422T054700Z">
         <seg>Sincronização da equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081234Z" creationid="Pedro Albuquerque" creationdate="20210423T081234Z">
+        <seg>Equipa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16872,6 +16904,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081244Z" creationid="Pedro Albuquerque" creationdate="20210423T081244Z">
+        <seg>Ver...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070423Z" creationid="Pedro Albuquerque" creationdate="20210421T070423Z">
@@ -18681,6 +18721,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081241Z" creationid="Pedro Albuquerque" creationdate="20210423T081241Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsFontSelectionMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081129Z" creationid="Pedro Albuquerque" creationdate="20210423T081129Z">
@@ -18709,6 +18757,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080821Z" creationid="Pedro Albuquerque" creationdate="20210423T080821Z">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081254Z" creationid="Pedro Albuquerque" creationdate="20210423T081254Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18745,10 +18801,34 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081231Z" creationid="Pedro Albuquerque" creationdate="20210423T081231Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081235Z" creationid="Pedro Albuquerque" creationdate="20210423T081235Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsTransTipsEnableMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080956Z" creationid="Pedro Albuquerque" creationdate="20210423T080956Z">
         <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081245Z" creationid="Pedro Albuquerque" creationdate="20210423T081245Z">
+        <seg>optionsViewOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
