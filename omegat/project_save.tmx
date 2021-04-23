@@ -7879,6 +7879,14 @@ predefinições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112217Z" creationid="Pedro Albuquerque" creationdate="20210423T112217Z">
+        <seg>Se forem utilizados por alguma outra aplicação no seu sistema, também desaparecerão dessa aplicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114748Z" creationid="Pedro Albuquerque" creationdate="20210422T114748Z">
@@ -7941,8 +7949,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker"s language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112130Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se já tiver traduzido um grande corpo de texto, e depois perceber que o código do idioma-alvo do projecto não corresponde ao código de idioma do corrector ortográfico (especificou pt como idioma, mas não existem vocabulários pt, por exemplo) pode simplesmente copiar os dois ficheiros correspondentes, renomeá-los (e. g. de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt.aff&lt;/e2&gt; e &lt;e3&gt;pt.dic&lt;/e3&gt;) e reiniciar o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8009,6 +8017,14 @@ double-click on that shortcut.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161806Z" creationid="Pedro Albuquerque" creationdate="20210420T161806Z">
         <seg>Se, durante a instalação, tiver criado um atalho no ambiente de trabalho,
 faça duplo clique nesse atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112235Z" creationid="Pedro Albuquerque" creationdate="20210423T112235Z">
+        <seg>Se, por qualquer razão, precisar de o fazer de tempos a tempos, pode fazer sentido copiar os ficheiros envolvidos para uma pasta diferente, reservada apenas para utilização pelo OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,6 +10445,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112201Z" creationid="Pedro Albuquerque" creationdate="20210423T112201Z">
+        <seg>Note-se que &lt;f0&gt;Remover&lt;/f0&gt; remove fisicamente os vocabulários seleccionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180645Z" creationid="Pedro Albuquerque" creationdate="20210420T180645Z">
@@ -10681,6 +10705,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170820Z" creationid="Pedro Albuquerque" creationdate="20210420T170820Z">
         <seg>SOB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112147Z" creationid="Pedro Albuquerque" creationdate="20210423T112147Z">
+        <seg>Claro que é muito mais sensato, fazer uma pequena pausa e descarregar as versões correctas do corrector ortográfico.</seg>
       </tuv>
     </tu>
     <tu>
