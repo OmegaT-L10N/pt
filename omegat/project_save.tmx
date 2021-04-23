@@ -7991,8 +7991,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082603Z" creationid="Pedro Albuquerque" creationdate="20210423T082603Z">
-        <seg>No OmegaT, seleccione &lt;g0&gt;Opções &gt; Verificação ortográfica&lt;/g0&gt; e clique em &lt;g1&gt;Escolher&lt;/g1&gt; ao lado do campo da pasta de dicionários.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082754Z" creationid="Pedro Albuquerque" creationdate="20210423T082603Z">
+        <seg>No OmegaT, seleccione &lt;g0&gt;Opções &gt; Preferências &gt; Verificação ortográfica&lt;/g0&gt; e clique em &lt;g1&gt;Escolher&lt;/g1&gt; ao lado do campo da pasta de dicionários.</seg>
       </tuv>
     </tu>
     <tu>
