@@ -3656,8 +3656,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083524Z" creationid="Pedro Albuquerque" creationdate="20210423T083524Z">
-        <seg>Verifique no entanto se os códigos linguísticos são exactamente os mesmos: um dicionário FR-FR não funcionará com uma definição de objectivos FR, por exemplo.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083805Z" creationid="Pedro Albuquerque" creationdate="20210423T083524Z">
+        <seg>Assegure-se, no entanto, que os códigos linguísticos são exactamente os mesmos: um dicionário FR-FR não funcionará com uma definição de objectivos FR, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7785,8 +7785,8 @@ predefinições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If necessary, edit the file names of the dictionary or change your project"s language settings.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083820Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se necessário, edite os nomes dos ficheiros de dicionário ou altere as definições linguísticas do seu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12831,6 +12831,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084036Z" creationid="Pedro Albuquerque" creationdate="20210423T084036Z">
+        <seg>Clicando com o botão direito numa palavra sublinhada (Artund na figura acima) abre uma lista pendente com sugestões para a correcção (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130147Z" creationid="Pedro Albuquerque" creationdate="20210420T130147Z">
@@ -16010,6 +16018,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083930Z" creationid="Pedro Albuquerque" creationdate="20210423T083712Z">
+        <seg>Para activar o corrector ortográfico, seleccione &lt;g0&gt;Opções &gt; Preferências &gt; Correcção ortográfica&lt;/g0&gt; e marque a caixa &lt;g1&gt;Verificar automaticamente a ortografia do texto&lt;/g1&gt; (ver acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082129Z" creationid="Pedro Albuquerque" creationdate="20210423T082129Z">
@@ -17052,6 +17068,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083948Z" creationid="Pedro Albuquerque" creationdate="20210423T083715Z">
+        <seg>Usar o corrector ortográfico</seg>
       </tuv>
     </tu>
     <tu>
