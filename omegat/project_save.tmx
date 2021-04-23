@@ -7975,6 +7975,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172118Z" creationid="Pedro Albuquerque" creationdate="20210423T172118Z">
+        <seg>Se a opção estiver marcada, o nome do ficheiro-fonte não será utilizado e traduções alternativas terão efeito em qualquer ficheiro desde que o outro contexto (segmentos anteriores/seguintes ou algum tipo de identificador de segmento, dependendo do formato do ficheiro) corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084152Z" creationid="Pedro Albuquerque" creationdate="20210423T084152Z">
@@ -8193,6 +8201,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105225Z" creationid="Pedro Albuquerque" creationdate="20210421T105225Z">
         <seg>Ignorar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172036Z" creationid="Pedro Albuquerque" creationdate="20210423T172036Z">
+        <seg>Ignorar o contexto do ficheiro ao identificar segmentos com traduções alternativas: por defeito, OmegaT utiliza o nome do ficheiro-fonte como parte da identificação de uma tradução alternativa.</seg>
       </tuv>
     </tu>
     <tu>
