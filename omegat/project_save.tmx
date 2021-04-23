@@ -1874,6 +1874,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174048Z" creationid="Pedro Albuquerque" creationdate="20210423T174048Z">
+        <seg>&lt;e0&gt;Etiquetas agregadas&lt;/e0&gt;: se marcada, as etiquetas sem texto traduzível entre elas serão agregadas numa única etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172349Z" creationid="Pedro Albuquerque" creationdate="20210423T172349Z">
@@ -1894,6 +1902,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173557Z" creationid="Pedro Albuquerque" creationdate="20210423T173557Z">
         <seg>&lt;e0&gt;Não traduzir o conteúdo das etiquetas com os seguintes pares chave-valor (separar com vírgulas)&lt;/e0&gt;: se uma etiqueta corresponder à lista de pares chave-valor, o seu conteúdo será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173918Z" creationid="Pedro Albuquerque" creationdate="20210423T173918Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comentários, nomes das folhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174003Z" creationid="Pedro Albuquerque" creationdate="20210423T174003Z">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; gráficos, diagramas, desenhos, WordArt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1946,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173945Z" creationid="Pedro Albuquerque" creationdate="20210423T173945Z">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: comentários de diapositivos, diapositivos-mestre, esquemas de diapositivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172918Z" creationid="Pedro Albuquerque" creationdate="20210423T172918Z">
@@ -1942,6 +1974,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172807Z" creationid="Pedro Albuquerque" creationdate="20210423T172807Z">
         <seg>&lt;e0&gt;Traduzir os seguintes atributos&lt;/e0&gt;: os atributos seleccionados aparecerão como segmentos na janela do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173908Z" creationid="Pedro Albuquerque" creationdate="20210423T173908Z">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; texto de instrução não visível, comentários, notas de rodapé, notas finais, rodapés</seg>
       </tuv>
     </tu>
     <tu>
@@ -16442,6 +16482,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111455Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
         <seg>Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio) , produzindo os resultados na caixa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173830Z" creationid="Pedro Albuquerque" creationdate="20210423T173830Z">
+        <seg>Eles aparecerão como segmentos separados na tradução.</seg>
       </tuv>
     </tu>
     <tu>
