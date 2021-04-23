@@ -3654,6 +3654,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083524Z" creationid="Pedro Albuquerque" creationdate="20210423T083524Z">
+        <seg>Verifique no entanto se os códigos linguísticos são exactamente os mesmos: um dicionário FR-FR não funcionará com uma definição de objectivos FR, por exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180959Z" creationid="Pedro Albuquerque" creationdate="20210420T180959Z">
@@ -7931,6 +7939,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083158Z" creationid="Pedro Albuquerque" creationdate="20210423T083158Z">
+        <seg>Se tiver apenas um dicionário padrão de espanhol disponível, com nomes de ficheiro es_es.dic e es_es.aff, por exemplo, pode copiar estes ficheiros e renomeá-los para es_MX.dic e es_MX.aff, e o dicionário ortográfico funcionará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162139Z" creationid="Pedro Albuquerque" creationdate="20210420T162139Z">
@@ -10409,6 +10425,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn"t contain the mappings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083223Z" creationid="Pedro Albuquerque" creationdate="20210423T083223Z">
+        <seg>Note-se que isto irá, naturalmente, verificar o padrão (castelhano) e não o espanhol mexicano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +15680,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083300Z" creationid="Pedro Albuquerque" creationdate="20210423T083300Z">
+        <seg>Não há necessidade de instruir o OmegaT para utilizar um dicionário ortográfico específico; o OmegaT utilizará o dicionário correcto com base nos códigos linguísticos do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180524Z" creationid="Pedro Albuquerque" creationdate="20210420T180524Z">
@@ -17020,6 +17052,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083233Z" creationid="Pedro Albuquerque" creationdate="20210423T083233Z">
+        <seg>Utilização de dicionários ortográficos</seg>
       </tuv>
     </tu>
     <tu>
