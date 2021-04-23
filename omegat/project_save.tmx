@@ -1882,6 +1882,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173514Z" creationid="Pedro Albuquerque" creationdate="20210423T173514Z">
+        <seg>&lt;e0&gt;Não traduzir o atributo de conteúdo das meta-etiquetas ...:&lt;/e0&gt; As meta-etiquetas na caixa não serão traduzidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
