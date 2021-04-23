@@ -3122,6 +3122,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113424Z" creationid="Pedro Albuquerque" creationdate="20210423T113424Z">
+        <seg>Obter automaticamente traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061219Z" creationid="Pedro Albuquerque" creationdate="20210422T061219Z">
@@ -6858,6 +6866,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113446Z" creationid="Pedro Albuquerque" creationdate="20210423T113446Z">
+        <seg>Por razões de confidencialidade, pode querer não enviar todos os segmentos para o motor de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111041Z" creationid="Pedro Albuquerque" creationdate="20210422T111041Z">
@@ -7987,6 +8003,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113531Z" creationid="Pedro Albuquerque" creationdate="20210423T113531Z">
+        <seg>Se desmarcar esta opção, as traduções automáticas só serão procuradas quando premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; em OS X) no segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162139Z" creationid="Pedro Albuquerque" creationdate="20210420T162139Z">
@@ -8481,6 +8505,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090233Z" creationid="Pedro Albuquerque" creationdate="20210422T090233Z">
         <seg>Problemas em {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113301Z" creationid="Pedro Albuquerque" creationdate="20210423T113301Z">
+        <seg>Permite a definição de parâmetros para todos os projectos de tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13881,6 +13913,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113348Z" creationid="Pedro Albuquerque" creationdate="20210423T113348Z">
+        <seg>Define a chave de validação do segmento para Tab em vez da tecla Enter predefinida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075931Z" creationid="Pedro Albuquerque" creationdate="20210423T075931Z">
@@ -15520,6 +15560,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113414Z" creationid="Pedro Albuquerque" creationdate="20210423T113414Z">
+        <seg>O programa procurará confirmação antes de encerrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053218Z" creationid="Pedro Albuquerque" creationdate="20210422T053218Z">
@@ -15990,6 +16038,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT"s license gives its users considerable freedom in its use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113401Z" creationid="Pedro Albuquerque" creationdate="20210423T113401Z">
+        <seg>Esta opção é útil para alguns sistemas de introdução de caracteres chineses, japoneses ou coreanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17007,6 +17063,14 @@ e a aplicação OmegaT.</seg>
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080724Z" creationid="Pedro Albuquerque" creationdate="20210423T080724Z">
+        <seg>Usar TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113316Z" creationid="Pedro Albuquerque" creationdate="20210423T113316Z">
         <seg>Usar TAB para avançar</seg>
       </tuv>
     </tu>
