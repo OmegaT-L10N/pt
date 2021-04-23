@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="dialogs.preferences">
-  <title>General Preferences</title>
+  <title>Preferências gerais</title>
 
-  <para>This dialog is accessible by selecting <menuchoice>
-      <guimenuitem>Options</guimenuitem>
+  <para>Este diálogo está acessível seleccionando <menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências...</guimenuitem> </menuchoice></para>
 
-      <guimenuitem>Preferences...</guimenuitem>
-    </menuchoice></para>
-
-  <para>It allows parameters to be set for all translation projects.</para>
+  <para>Permite a definição de parâmetros para todos os projectos de tradução.</para>
 
   <section>
     <title>Geral</title>
 
     <variablelist id="dialogs.preferences.general.usetabtoadvance">
       <varlistentry>
-        <term>Use TAB to Advance</term>
+        <term>Usar TAB para avançar</term>
 
         <listitem>
-          <para>Sets the segment validation key to Tab instead of the default Enter. This option is useful for some Chinese, Japanese or Korean character input systems.</para>
+          <para>Define a chave de validação do segmento para Tab em vez da tecla Enter predefinida. Esta opção é útil para alguns sistemas de introdução de caracteres chineses, japoneses ou coreanos.</para>
         </listitem>
       </varlistentry>
 
@@ -27,7 +23,7 @@
         <term>Confirmar sempre a saída</term>
 
         <listitem>
-          <para>The program will seek confirmation before closing down.</para>
+          <para>O programa procurará confirmação antes de encerrar.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -38,25 +34,25 @@
 
     <variablelist>
       <varlistentry>
-        <term>Automatically fetch translations</term>
+        <term>Obter automaticamente traduções</term>
 
         <listitem>
-          <para>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine. If you uncheck this option, machine translations will be fetched only when you press <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> (<keycombo> <keycap>Cmd</keycap> <keycap>M</keycap> </keycombo> on OS X) in the current segment. You must then press <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> again to insert the suggestion.</para>
+          <para>Por razões de confidencialidade, pode querer não enviar todos os segmentos para o motor de tradução automática. Se desmarcar esta opção, as traduções automáticas só serão procuradas quando premir <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> (<keycombo> <keycap>Cmd</keycap> <keycap>M</keycap> </keycombo> em OS X) no segmento actual. Deve então premir <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> novamente para inserir a sugestão.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Untranslated segments only</term>
+        <term>Só segmentos não traduzidos</term>
 
         <listitem>
-          <para>Check this box to send only untranslated segments to the machine translation services.</para>
+          <para>Marque esta caixa para enviar apenas segmentos não traduzidos para os serviços de tradução automática.</para>
         </listitem>
       </varlistentry>
     </variablelist>
 
-    <para>Select a supplier from the list and, if necessary, click <guibutton>Configure</guibutton> to enter the identification details provided by the supplier.</para>
+    <para>Seleccione um fornecedor da lista e, se necessário, clique em <guibutton>Configurar</guibutton> para inserir os dados de identificação fornecidos pelo fornecedor.</para>
 
-    <para>The procedures for configuring access to the Microsoft Translator and Google Translate services are described <ulink url="https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services">here</ulink>.</para>
+    <para>Os procedimentos para configurar o acesso aos serviços do Microsoft Translator e do Google Translate são descritos <ulink url="https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services">aqui</ulink>.</para>
   </section>
 
   <section>
@@ -64,44 +60,44 @@
 
     <variablelist>
       <varlistentry>
-        <term>Display context description for TBX glossaries</term>
+        <term>Mostrar descrição contextual para glossários TBX</term>
 
         <listitem>
-          <para>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</para>
+          <para>Desmarcar esta opção se a descrição contextual mostrada para cada entrada do glossário for desnecessária ou demasiado longa.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Use terms appearing separately in the source text</term>
+        <term>Usar termos que aparecem separadamente no texto-fonte</term>
 
         <listitem>
-          <para>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</para>
+          <para>Quando esta opção está marcada, o glossário mostra pares ou grupos de palavras (expressões) mesmo que as palavras dentro delas apareçam separadamente no texto fonte.</para>
 
-          <para>Uncheck this option if the glossary displays too many false positives.</para>
+          <para>Desmarque esta opção se o glossário apresentar demasiados falsos positivos.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Use stemming for glossary entries</term>
+        <term>Utilizar lematização para entradas do glossário</term>
 
         <listitem>
-          <para>Select this option if you want the glossary to display words that have the same root.</para>
+          <para>Seleccione esta opção se quiser que o glossário exiba palavras que tenham a mesma raiz.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Replace glossary hits when inserting source text</term>
+        <term>Substituir correspondências do glossário ao inserir o texto-fonte</term>
 
         <listitem>
-          <para>If both this option and the <link linkend="dialogs.preferences.editor.insertthesourcetext"><guilabel>Insert the source text</guilabel></link> option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</para>
+          <para>Se tanto esta opção como a opção <link linkend="dialogs.preferences.editor.insertthesourcetext"><guilabel>Inserir o texto-fonte</guilabel></link> estiverem marcadas, todas as palavras com uma entrada de glossário correspondente serão traduzidas automaticamente quando o texto-fonte for inserido.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Ignore hits with very different case (e.g. FOO vs foo)</term>
+        <term>Ignorar êxitos com casos muito diferentes (e.g., FOO vs foo)</term>
 
         <listitem>
-          <para>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</para>
+          <para>Se esta opção estiver marcada, o glossário mostrará apenas uma entrada, mesmo que a mesma palavra exista em várias formas (por exemplo, com e sem maiúsculas) no glossário.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -114,25 +110,25 @@
           <term>Obter a chave da API</term>
 
           <listitem>
-            <para>Click this button to access the <ulink url="https://term.tilde.com/taas">TaaS</ulink> project site and create a user account.</para>
+            <para>Clique neste botão para aceder ao sítio do projecto <ulink url="https://term.tilde.com/taas">TaaS</ulink> e criar uma conta de utilizador.</para>
 
-            <para>You can then create an access key on the page <ulink url="https://term.tilde.com/account/keys/create?system=omegaT">https://term.tilde.com/account/keys/create?system=omegaT</ulink>.</para>
+            <para>Pode então criar uma chave de acesso na página <ulink url="https://term.tilde.com/account/keys/create?system=omegaT">https://term.tilde.com/account/keys/create?system=omegaT</ulink>.</para>
           </listitem>
         </varlistentry>
 
         <varlistentry>
-          <term>Store for this session only</term>
+          <term>Armazenar só para esta sessão</term>
 
           <listitem>
-            <para>If this option is selected, OmegaT will not remember the access key between sessions.</para>
+            <para>Se esta opção estiver marcada, o OmegaT não se lembrará da chave de acesso entre sessões.</para>
           </listitem>
         </varlistentry>
 
         <varlistentry>
-          <term>Browse TaaS Collections...</term>
+          <term>Procurar colecções do TaaS...</term>
 
           <listitem>
-            <para>This button enables you to browse and download the collections that exist for the project&quot;s source and target languages. Private collections are displayed in bold. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</para>
+            <para>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto. As colecções privadas são mostradas a negrito. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</para>
           </listitem>
         </varlistentry>
 

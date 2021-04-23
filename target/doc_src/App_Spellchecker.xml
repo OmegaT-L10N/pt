@@ -80,13 +80,8 @@
 
     <para>Verifique também o código do idioma-alvo do seu projecto em relação aos vocabulários disponíveis na janela de configuração. O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a sub-pasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados <emphasis>pt.aff</emphasis> e <emphasis>pt.dic</emphasis>.</para>
 
-    <para>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker&quot;s language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from <emphasis>pt_PT.aff</emphasis> and <emphasis>pt_PT.dic</emphasis> to <emphasis>pt_BR.aff</emphasis> and <emphasis>pt_BR.dic</emphasis>). Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</para>
+    <para>Se já tiver traduzido um grande corpo de texto, e depois perceber que o código do idioma-alvo do projecto não corresponde ao código de idioma do corrector ortográfico (especificou pt como idioma, mas não existem vocabulários pt, por exemplo) pode simplesmente copiar os dois ficheiros correspondentes, renomeá-los (e. g. de <emphasis>pt_PT.aff</emphasis> e <emphasis>pt_PT.dic</emphasis> a <emphasis>pt.aff</emphasis> e <emphasis>pt.dic</emphasis>) e reiniciar o OmegaT. Claro que é muito mais sensato, fazer uma pequena pausa e descarregar as versões correctas do corrector ortográfico.</para>
 
-    <para>Note that <filename>Remove</filename> physically removes the
-    selected vocabularies. If they are used by some other application on your
-    system, they will disappear from that application, too. If, for whatever
-    reason, you need to do this from time to time, it may make sense to copy
-    the files involved to a different folder, reserved just for use by
-    OmegaT.</para>
+    <para>Note-se que <filename>Remover</filename> remove fisicamente os vocabulários seleccionados. Se forem utilizados por alguma outra aplicação no seu sistema, também desaparecerão dessa aplicação. Se, por qualquer razão, precisar de o fazer de tempos a tempos, pode fazer sentido copiar os ficheiros envolvidos para uma pasta diferente, reservada apenas para utilização pelo OmegaT.</para>
   </section>
 </appendix>
