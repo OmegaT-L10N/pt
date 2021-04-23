@@ -1890,6 +1890,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173557Z" creationid="Pedro Albuquerque" creationdate="20210423T173557Z">
+        <seg>&lt;e0&gt;Não traduzir o conteúdo das etiquetas com os seguintes pares chave-valor (separar com vírgulas)&lt;/e0&gt;: se uma etiqueta corresponder à lista de pares chave-valor, o seu conteúdo será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -8801,6 +8809,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082933Z" creationid="Pedro Albuquerque" creationdate="20210423T082933Z">
         <seg>É mais simples, contudo, procurar dicionários online, usando o campo &lt;e0&gt;URL dos dicionários online&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173610Z" creationid="Pedro Albuquerque" creationdate="20210423T173610Z">
+        <seg>É por vezes útil poder tornar certas etiquetas intraduzíveis com base nos valores dos seus atributos.</seg>
       </tuv>
     </tu>
     <tu>
