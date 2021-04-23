@@ -3238,6 +3238,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082108Z" creationid="Pedro Albuquerque" creationdate="20210423T082108Z">
+        <seg>Antes da função de verificação ortográfica poder ser utilizada, deve ser instalado um dicionário ou dicionários adequados (isto é, para o seu idioma-alvo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
@@ -8253,6 +8261,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082038Z" creationid="Pedro Albuquerque" creationdate="20210423T082038Z">
+        <seg>Instalação de dicionários ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101705Z" creationid="Pedro Albuquerque" creationdate="20210421T101705Z">
@@ -8369,6 +8385,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181831Z" creationid="Pedro Albuquerque" creationdate="20210421T181831Z">
         <seg>Também contém instruções de instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
+        <seg>Consequentemente, é capaz de utilizar a enorme variedade de dicionários ortográficos gratuitos disponíveis para estas aplicações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10625,6 +10649,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100844Z" creationid="Pedro Albuquerque" creationdate="20210422T100844Z">
         <seg>Os ficheiros de glossário do OmegaT são simples listas de três colunas em texto simples com o termo-fonte na primeira coluna, um termo-alvo opcional na segunda coluna e um comentário opcional na terceira coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082010Z" creationid="Pedro Albuquerque" creationdate="20210423T082010Z">
+        <seg>A OmegaT tem um corrector ortográfico incorporado baseado no corrector ortográfico utilizado no Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
