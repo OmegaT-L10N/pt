@@ -1874,6 +1874,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172349Z" creationid="Pedro Albuquerque" creationdate="20210423T172349Z">
+        <seg>&lt;e0&gt;Permitir traduções em branco no ficheiro-alvo&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -6792,6 +6800,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172146Z" creationid="Pedro Albuquerque" creationdate="20210423T172123Z">
+        <seg>Opções de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171947Z" creationid="Pedro Albuquerque" creationdate="20210420T171947Z">
@@ -7943,6 +7959,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172425Z" creationid="Pedro Albuquerque" creationdate="20210423T172425Z">
+        <seg>Se marcada, quando um segmento num ficheiro PO (que pode ser um parágrafo inteiro) não for traduzido, a tradução estará vazia no ficheiro-alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095739Z" creationid="Pedro Albuquerque" creationdate="20210422T095739Z">
@@ -8207,8 +8231,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172036Z" creationid="Pedro Albuquerque" creationdate="20210423T172036Z">
-        <seg>Ignorar o contexto do ficheiro ao identificar segmentos com traduções alternativas: por defeito, OmegaT utiliza o nome do ficheiro-fonte como parte da identificação de uma tradução alternativa.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172134Z" creationid="Pedro Albuquerque" creationdate="20210423T172036Z">
+        <seg>ignorar o contexto do ficheiro ao identificar segmentos com traduções alternativas: por defeito, OmegaT utiliza o nome do ficheiro-fonte como parte da identificação de uma tradução alternativa;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11543,6 +11567,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172324Z" creationid="Pedro Albuquerque" creationdate="20210423T172324Z">
+        <seg>Ficheiros PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -11575,6 +11607,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091856Z" creationid="Pedro Albuquerque" creationdate="20210421T091856Z">
         <seg>Formato de delimitação do parágrafo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172303Z" creationid="Pedro Albuquerque" creationdate="20210423T172303Z">
+        <seg>Segmentação de parágrafos em quebras de linha, linhas vazias ou nunca:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14241,6 +14281,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172214Z" creationid="Pedro Albuquerque" creationdate="20210423T172214Z">
+        <seg>Vários filtros (ficheiros de texto, ficheiros XHTML, ficheiros HTML e XHTML, ficheiros OpenDocument e ficheiros Microsoft Open XML) têm uma ou mais opções específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075931Z" creationid="Pedro Albuquerque" creationdate="20210423T075931Z">
@@ -15323,6 +15371,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172248Z" creationid="Pedro Albuquerque" creationdate="20210423T172248Z">
+        <seg>Ficheiros de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090747Z" creationid="Pedro Albuquerque" creationdate="20210421T090747Z">
@@ -15480,6 +15536,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105603Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>O carácter de som (bell) ("\u0007")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172240Z" creationid="Pedro Albuquerque" creationdate="20210423T172240Z">
+        <seg>As opções disponíveis são as seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16582,6 +16646,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
         <seg>Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172229Z" creationid="Pedro Albuquerque" creationdate="20210423T172229Z">
+        <seg>Para modificar as opções, seleccione o filtro na lista e clique em &lt;e0&gt;Opções&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19587,6 +19659,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114300Z" creationid="Pedro Albuquerque" creationdate="20210423T114300Z">
         <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172318Z" creationid="Pedro Albuquerque" creationdate="20210423T172318Z">
+        <seg>se as regras de segmentação de frases estiverem activas, o texto será ainda mais segmentado de acordo com a opção aqui seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
