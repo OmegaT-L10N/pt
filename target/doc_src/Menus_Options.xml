@@ -73,7 +73,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Segmentation...</term>
+      <term>Segmentação...</term>
 
       <listitem>
         <para>Opens the <link linkend="dialogs.preferences.segmentationsetup">Segmentation
@@ -97,7 +97,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Access Configuration Folder</term>
+      <term>Aceder à pasta de configuração</term>
 
       <listitem>
         <para>Opens the local directory where OmegaT configuration files are

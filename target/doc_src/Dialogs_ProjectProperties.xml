@@ -92,7 +92,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term><guibutton>Segmentation...</guibutton></term>
+        <term><guibutton>Segmentação...</guibutton></term>
 
         <listitem>
           <para>The segmentation rules are generally valid across all the

@@ -5,7 +5,7 @@
 
   <variablelist>
     <varlistentry>
-      <term>Mark Translated Segments</term>
+      <term>Marcar segmentos traduzidos</term>
 
       <listitem>
         <para>If checked, the translated segments will be marked in
@@ -14,7 +14,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Untranslated Segments</term>
+      <term>Marcar segmentos não traduzidos</term>
 
       <listitem>
         <para>If checked, the untranslated segments will be marked in
@@ -31,7 +31,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Display Source Segments</term>
+      <term>Mostrar segmentos-fonte</term>
 
       <listitem>
         <para>If checked, source segments will be shown and marked in green.
@@ -40,7 +40,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Non-Unique Segments</term>
+      <term>Marcar segmentos não-únicos</term>
 
       <listitem>
         <para>If checked, non-unique segments will be marked in pale
@@ -49,7 +49,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Segments with Notes</term>
+      <term>Marcar segmentos com notas</term>
 
       <listitem>
         <para>If checked, segments with notes will be marked in cyan. This
@@ -60,7 +60,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Non-breakable Spaces</term>
+      <term>Marcar espaços inseparáveis</term>
 
       <listitem>
         <para>If checked, non-breakable spaces will be displayed with a grey
@@ -69,7 +69,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Whitespace</term>
+      <term>Marcar espaços</term>
 
       <listitem>
         <para>If checked, white spaces will be displayed with a small
@@ -78,7 +78,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Bidirectional Algorithm Control Characters</term>
+      <term>Marcar caracteres de controlo do algoritmo bidireccional</term>
 
       <listitem>
         <para>This option displays <ulink url="http://www.w3.org/International/questions/qa-bidi-controls">bidirectional
@@ -87,7 +87,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Auto-Populated Segments</term>
+      <term>Marcar segmentos povoados automaticamente</term>
 
       <listitem>
         <para>If checked, the background of all segments where the target

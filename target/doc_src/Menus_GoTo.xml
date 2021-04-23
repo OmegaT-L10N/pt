@@ -7,7 +7,7 @@
 
   <variablelist>
     <varlistentry>
-      <term>Next Untranslated Segment</term>
+      <term>Segmento não traduzido seguinte</term>
 
       <listitem>
         <para>Moves to the next segment that has no equivalent in the
@@ -16,7 +16,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Next Translated Segment</term>
+      <term>Segmento traduzido seguinte</term>
 
       <listitem>
         <para>Moves to the next already translated segment, ignoring
@@ -25,7 +25,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Next Segment</term>
+      <term>Segmento seguinte</term>
 
       <listitem>
         <para>Moves to the next segment. If the current segment is the last
@@ -38,7 +38,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Previous Segment</term>
+      <term>Segmento anterior</term>
 
       <listitem>
         <para>Moves to the previous segment. If the current segment is the
@@ -55,7 +55,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Segment number...</term>
+      <term>Segmento número...</term>
 
       <listitem>
         <para>The segment is opened when either its segment call-out or
@@ -64,7 +64,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Next Note</term>
+      <term>Nota seguinte</term>
 
       <listitem>
         <para>The next segment with a note attached to it, will open.</para>
@@ -72,7 +72,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Previous Note</term>
+      <term>Nota anterior</term>
 
       <listitem>
         <para>The previous segment with a note will open.</para>
@@ -80,7 +80,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Source of Selected Match</term>
+      <term>Fonte da correspondência seleccionada</term>
 
       <listitem>
         <para>Moves to the segment that does correspond to the current
@@ -89,7 +89,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Forward in history...</term>
+      <term>Avançar no histórico...</term>
 
       <listitem>
         <para><application>OmegaT</application> remembers the segments
@@ -100,7 +100,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Back in history...</term>
+      <term>Recuar no histórico...</term>
 
       <listitem>
         <para>With this command you can move backward one segment at a time,

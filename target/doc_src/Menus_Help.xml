@@ -13,7 +13,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>About...</term>
+      <term>Acerca...</term>
 
       <listitem>
         <para>Displays copyright, credits and license information.</para>
@@ -21,7 +21,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Last Changes...</term>
+      <term>Últimas alterações...</term>
 
       <listitem>
         <para>Displays the list of new functionalities, enhancements and bug
@@ -30,7 +30,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Log...</term>
+      <term>Diário...</term>
 
       <listitem>
         <para>Displays the current log file. The title of the dialog reflects

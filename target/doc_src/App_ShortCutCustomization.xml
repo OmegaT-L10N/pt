@@ -327,7 +327,7 @@
           </row>
 
           <row>
-            <entry>Replace with Machine Translation</entry>
+            <entry>Substituir com tradução automática</entry>
 
             <entry><keycap>Ctrl+M</keycap></entry>
 
@@ -335,7 +335,7 @@
           </row>
 
           <row>
-            <entry>Replace With Source</entry>
+            <entry>Substituir pela fonte</entry>
 
             <entry><keycap>Ctrl+Shift+R</keycap></entry>
 
@@ -343,7 +343,7 @@
           </row>
 
           <row>
-            <entry>Insert Source</entry>
+            <entry>Inserir fonte</entry>
 
             <entry><keycap>Ctrl+Shift+I</keycap></entry>
 
@@ -351,7 +351,7 @@
           </row>
 
           <row>
-            <entry>Insert Missing Source Tags</entry>
+            <entry>Inserir etiquetas-fonte em falta</entry>
 
             <entry><keycap>Ctrl+Shift+T</keycap></entry>
 
@@ -367,7 +367,7 @@
           </row>
 
           <row>
-            <entry>Export Selection</entry>
+            <entry>Exportar selecção</entry>
 
             <entry><keycap>Ctrl+Shift+C</keycap></entry>
 
@@ -383,7 +383,7 @@
           </row>
 
           <row>
-            <entry>Search Project...</entry>
+            <entry>Procurar no projecto...</entry>
 
             <entry><keycap>Ctrl+F</keycap></entry>
 
@@ -407,7 +407,7 @@
           </row>
 
           <row>
-            <entry>Switch Case To/Lower Case</entry>
+            <entry>Mudar letra para/Minúsculas</entry>
 
             <entry/>
 
@@ -415,7 +415,7 @@
           </row>
 
           <row>
-            <entry>Switch Case To/Upper Case</entry>
+            <entry>Mudar letra para/Maiúsculas</entry>
 
             <entry/>
 
@@ -423,7 +423,7 @@
           </row>
 
           <row>
-            <entry>Switch Case To/Title Case</entry>
+            <entry>Mudar letra para/Título</entry>
 
             <entry/>
 
@@ -431,7 +431,7 @@
           </row>
 
           <row>
-            <entry>Switch Case To/Sentence Case</entry>
+            <entry>Mudar letra para/Frase</entry>
 
             <entry/>
 
@@ -439,7 +439,7 @@
           </row>
 
           <row>
-            <entry>Switch Case To/Cycle</entry>
+            <entry>Mudar letra para/Ciclo</entry>
 
             <entry><keycap>Shift+F3</keycap></entry>
 
@@ -447,7 +447,7 @@
           </row>
 
           <row>
-            <entry>Select Previous Match</entry>
+            <entry>Seleccionar correspondência anterior</entry>
 
             <entry><keycap>Ctrl+↑</keycap></entry>
 
@@ -455,7 +455,7 @@
           </row>
 
           <row>
-            <entry>Select Next Match</entry>
+            <entry>Seleccionar correspondência seguinte</entry>
 
             <entry><keycap>Ctrl+↓</keycap></entry>
 
@@ -463,7 +463,7 @@
           </row>
 
           <row>
-            <entry>Select Match #1</entry>
+            <entry>Seleccionar correspondência 1</entry>
 
             <entry><keycap>Ctrl+1</keycap></entry>
 
@@ -471,7 +471,7 @@
           </row>
 
           <row>
-            <entry>Select Match #2</entry>
+            <entry>Seleccionar correspondência 2</entry>
 
             <entry><keycap>Ctrl+2</keycap></entry>
 
@@ -479,7 +479,7 @@
           </row>
 
           <row>
-            <entry>Select Match #3</entry>
+            <entry>Seleccionar correspondência 3</entry>
 
             <entry><keycap>Ctrl+3</keycap></entry>
 
@@ -487,7 +487,7 @@
           </row>
 
           <row>
-            <entry>Select Match #4</entry>
+            <entry>Seleccionar correspondência 4</entry>
 
             <entry><keycap>Ctrl+4</keycap></entry>
 
@@ -495,7 +495,7 @@
           </row>
 
           <row>
-            <entry>Select Match #5</entry>
+            <entry>Seleccionar correspondência 5</entry>
 
             <entry><keycap>Ctrl+5</keycap></entry>
 
@@ -547,10 +547,10 @@
   </section>
 
   <section id="ch04.shortcuts.GoToMenu">
-    <title>GoTo Menu</title>
+    <title>Menu Ir para</title>
 
     <table>
-      <title>GoTo Menu</title>
+      <title>Menu Ir para</title>
 
       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
@@ -571,7 +571,7 @@
 
         <tbody>
           <row>
-            <entry>Next Untranslated Segment</entry>
+            <entry>Segmento não traduzido seguinte</entry>
 
             <entry><keycap>Ctrl+U</keycap></entry>
 
@@ -579,7 +579,7 @@
           </row>
 
           <row>
-            <entry>Next Translated Segment</entry>
+            <entry>Segmento traduzido seguinte</entry>
 
             <entry><keycap>Ctrl+Shift+U</keycap></entry>
 
@@ -587,7 +587,7 @@
           </row>
 
           <row>
-            <entry>Next Segment</entry>
+            <entry>Segmento seguinte</entry>
 
             <entry><keycap>Ctrl+N</keycap> or <keycap>Enter</keycap> or
             <keycap>Tab</keycap></entry>
@@ -596,7 +596,7 @@
           </row>
 
           <row>
-            <entry>Previous Segment</entry>
+            <entry>Segmento anterior</entry>
 
             <entry><keycap>Ctrl+P</keycap> or <keycap>Ctrl+Enter</keycap> or
             <keycap>Ctrl+Tab</keycap></entry>
@@ -605,7 +605,7 @@
           </row>
 
           <row>
-            <entry>Segment number...</entry>
+            <entry>Segmento número...</entry>
 
             <entry><keycap>Ctrl+J</keycap></entry>
 
@@ -613,7 +613,7 @@
           </row>
 
           <row>
-            <entry>Next Note</entry>
+            <entry>Nota seguinte</entry>
 
             <entry/>
 
@@ -621,7 +621,7 @@
           </row>
 
           <row>
-            <entry>Previous Note</entry>
+            <entry>Nota anterior</entry>
 
             <entry/>
 
@@ -629,7 +629,7 @@
           </row>
 
           <row>
-            <entry>Next Unique Segment</entry>
+            <entry>Segmento único seguinte</entry>
 
             <entry><keycap>Ctrl+Shift+Q</keycap></entry>
 
@@ -637,7 +637,7 @@
           </row>
 
           <row>
-            <entry>Source of Selected Match</entry>
+            <entry>Fonte da correspondência seleccionada</entry>
 
             <entry><keycap>Ctrl+Shift+M</keycap></entry>
 
@@ -645,7 +645,7 @@
           </row>
 
           <row>
-            <entry>Forward in history...</entry>
+            <entry>Avançar no histórico...</entry>
 
             <entry><keycap>Ctrl+Shift+N</keycap></entry>
 
@@ -653,7 +653,7 @@
           </row>
 
           <row>
-            <entry>Back in history...</entry>
+            <entry>Recuar no histórico...</entry>
 
             <entry><keycap>Ctrl+Shift+P</keycap></entry>
 
@@ -665,10 +665,10 @@
   </section>
 
   <section id="ch04.shortcuts.ViewMenu">
-    <title>View Menu</title>
+    <title>Menu Ver</title>
 
     <table>
-      <title>View Menu</title>
+      <title>Menu Ver</title>
 
        <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
@@ -689,7 +689,7 @@
 
         <tbody>
           <row>
-            <entry>Mark Translated Segments</entry>
+            <entry>Marcar segmentos traduzidos</entry>
 
             <entry/>
 
@@ -697,7 +697,7 @@
           </row>
 
           <row>
-            <entry>Mark Untranslated Segments</entry>
+            <entry>Marcar segmentos não traduzidos</entry>
 
             <entry/>
 
@@ -705,7 +705,7 @@
           </row>
 
           <row>
-            <entry>Display Source Segments</entry>
+            <entry>Mostrar segmentos-fonte</entry>
 
             <entry/>
 
@@ -713,7 +713,7 @@
           </row>
 
           <row>
-            <entry>Mark Non-Unique Segments</entry>
+            <entry>Marcar segmentos não-únicos</entry>
 
             <entry/>
 
@@ -721,7 +721,7 @@
           </row>
 
           <row>
-            <entry>Mark Segments with Notes</entry>
+            <entry>Marcar segmentos com notas</entry>
 
             <entry/>
 
@@ -729,7 +729,7 @@
           </row>
 
           <row>
-            <entry>Mark Non-breakable Spaces</entry>
+            <entry>Marcar espaços inseparáveis</entry>
 
             <entry/>
 
@@ -737,7 +737,7 @@
           </row>
 
           <row>
-            <entry>Mark Whitespace</entry>
+            <entry>Marcar espaços</entry>
 
             <entry/>
 
@@ -745,7 +745,7 @@
           </row>
 
           <row>
-            <entry>Mark Bidirectional Algorithm Control Characters</entry>
+            <entry>Marcar caracteres de controlo do algoritmo bidireccional</entry>
 
             <entry/>
 
@@ -753,7 +753,7 @@
           </row>
 
           <row>
-            <entry>Mark Auto-Populated Segments</entry>
+            <entry>Marcar segmentos povoados automaticamente</entry>
 
             <entry/>
 
@@ -761,7 +761,7 @@
           </row>
 
           <row>
-            <entry>Modification Info/Display None</entry>
+            <entry>Informação de modificação/Não mostrar nada</entry>
 
             <entry/>
 
@@ -769,7 +769,7 @@
           </row>
 
           <row>
-            <entry>Modification Info/Display Selected</entry>
+            <entry>Informação de modificação/Mostrar seleccionados</entry>
 
             <entry/>
 
@@ -777,7 +777,7 @@
           </row>
 
           <row>
-            <entry>Modification Info/Display All</entry>
+            <entry>Informação de modificação/Mostrar tudo</entry>
 
             <entry/>
 
@@ -789,10 +789,10 @@
   </section>
 
   <section id="ch04.shortcuts.ToolsMenu">
-    <title>Tools Menu</title>
+    <title>Menu Ferramentas</title>
 
     <table>
-      <title>Tools Menu</title>
+      <title>Menu Ferramentas</title>
 
       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
@@ -813,7 +813,7 @@
 
         <tbody>
           <row>
-            <entry>Validate Tags</entry>
+            <entry>Validar etiquetas</entry>
 
             <entry><keycap>Ctrl+Shift+V</keycap></entry>
 
@@ -821,7 +821,7 @@
           </row>
 
           <row>
-            <entry>Validate Tags for Current Document</entry>
+            <entry>Validar etiquetas no documento actual</entry>
 
             <entry/>
 
@@ -857,10 +857,10 @@
   </section>
 
   <section id="ch04.shortcuts.OptionsMenu">
-    <title>Options Menu</title>
+    <title>Menu Opções</title>
 
     <table>
-      <title>Options Menu</title>
+      <title>Menu Opções</title>
 
       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
@@ -881,7 +881,7 @@
 
         <tbody>
           <row>
-            <entry>Use TAB To Advance</entry>
+            <entry>Usar TAB para avançar</entry>
 
             <entry/>
 
@@ -889,7 +889,7 @@
           </row>
 
           <row>
-            <entry>Always Confirm Quit</entry>
+            <entry>Confirmar sempre a saída</entry>
 
             <entry/>
 
@@ -897,8 +897,7 @@
           </row>
 
           <row>
-            <entry>Glossary/Display Context Description for TBX
-            Glossaries</entry>
+            <entry>Glossário/Mostrar descrição contextual para glossários TBX</entry>
 
             <entry/>
 
@@ -906,7 +905,7 @@
           </row>
 
           <row>
-            <entry>Use Terms Appearing Separately in the Source Text</entry>
+            <entry>Usar termos que aparecem separadamente no texto-fonte</entry>
 
             <entry/>
 
@@ -914,7 +913,7 @@
           </row>
 
           <row>
-            <entry>Glossary/Use Stemming for Glossary Entries</entry>
+            <entry>Glossário/Usar lematização para entradas do glossário</entry>
 
             <entry/>
 
@@ -922,7 +921,7 @@
           </row>
 
           <row>
-            <entry>TransTips/Enable Transtips</entry>
+            <entry>Dicas de tradução/Activar dicas de tradução</entry>
 
             <entry/>
 
@@ -930,8 +929,7 @@
           </row>
 
           <row>
-            <entry>Auto-completion/Show Relevant Suggestions
-            Automatically</entry>
+            <entry>Conclusão automática/Mostrar sugestões relevantes automaticamente</entry>
 
             <entry/>
 
@@ -939,7 +937,7 @@
           </row>
 
           <row>
-            <entry>Auto-completion/Glossary...</entry>
+            <entry>Conclusão automática/Glossário...</entry>
 
             <entry/>
 
@@ -947,7 +945,7 @@
           </row>
 
           <row>
-            <entry>Auto-completion/Auto-text...</entry>
+            <entry>Conclusão automática/Texto automático...</entry>
 
             <entry/>
 
@@ -955,7 +953,7 @@
           </row>
 
           <row>
-            <entry>Auto-completion/Character Table...</entry>
+            <entry>Conclusão automática/Tabela de caracteres...</entry>
 
             <entry/>
 
@@ -963,7 +961,7 @@
           </row>
 
           <row>
-            <entry>Font...</entry>
+            <entry>Letra...</entry>
 
             <entry/>
 
@@ -971,7 +969,7 @@
           </row>
 
           <row>
-            <entry>Custom Colours...</entry>
+            <entry>Cores personalizadas...</entry>
 
             <entry/>
 
@@ -987,7 +985,7 @@
           </row>
 
           <row>
-            <entry>Segmentation...</entry>
+            <entry>Segmentação...</entry>
 
             <entry/>
 
@@ -995,7 +993,7 @@
           </row>
 
           <row>
-            <entry>Spell checking...</entry>
+            <entry>Ortografia...</entry>
 
             <entry/>
 
@@ -1003,7 +1001,7 @@
           </row>
 
           <row>
-            <entry>Editing Behavior...</entry>
+            <entry>Comportamento da edição...</entry>
 
             <entry/>
 
@@ -1011,7 +1009,7 @@
           </row>
 
           <row>
-            <entry>Tag Processing...</entry>
+            <entry>Processamento de etiquetas...</entry>
 
             <entry/>
 
@@ -1019,7 +1017,7 @@
           </row>
 
           <row>
-            <entry>Team...</entry>
+            <entry>Equipa...</entry>
 
             <entry/>
 
@@ -1027,7 +1025,7 @@
           </row>
 
           <row>
-            <entry>External TMXs...</entry>
+            <entry>TMXs externas...</entry>
 
             <entry/>
 
@@ -1035,7 +1033,7 @@
           </row>
 
           <row>
-            <entry>View...</entry>
+            <entry>Ver...</entry>
 
             <entry/>
 
@@ -1043,7 +1041,7 @@
           </row>
 
           <row>
-            <entry>Saving and Output...</entry>
+            <entry>Gravação e saída...</entry>
 
             <entry/>
 
@@ -1051,7 +1049,7 @@
           </row>
 
           <row>
-            <entry>Proxy Login...</entry>
+            <entry>Sessão com proxy...</entry>
 
             <entry/>
 
@@ -1059,7 +1057,7 @@
           </row>
 
           <row>
-            <entry>Restore Main Window</entry>
+            <entry>Restaurar a janela principal</entry>
 
             <entry/>
 
@@ -1067,7 +1065,7 @@
           </row>
 
           <row>
-            <entry>Access Configuration Folder</entry>
+            <entry>Aceder à pasta de configuração</entry>
 
             <entry/>
 
@@ -1079,10 +1077,10 @@
   </section>
 
   <section id="ch04.shortcuts.HelpMenu">
-    <title>Help Menu</title>
+    <title>Menu Ajuda</title>
 
     <table>
-      <title>Help Menu</title>
+      <title>Menu Ajuda</title>
 
       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
@@ -1103,7 +1101,7 @@
 
         <tbody>
           <row>
-            <entry>User Manual...</entry>
+            <entry>Manual do utilizador...</entry>
 
             <entry><keycap>F1</keycap></entry>
 
@@ -1111,7 +1109,7 @@
           </row>
 
           <row>
-            <entry>About...</entry>
+            <entry>Acerca...</entry>
 
             <entry/>
 
@@ -1119,7 +1117,7 @@
           </row>
 
           <row>
-            <entry>Last Changes...</entry>
+            <entry>Últimas alterações...</entry>
 
             <entry/>
 
@@ -1127,7 +1125,7 @@
           </row>
 
           <row>
-            <entry>Log...</entry>
+            <entry>Diário...</entry>
 
             <entry/>
 

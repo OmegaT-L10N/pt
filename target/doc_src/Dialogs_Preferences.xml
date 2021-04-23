@@ -24,7 +24,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Always Confirm Quit</term>
+        <term>Confirmar sempre a saída</term>
 
         <listitem>
           <para>The program will seek confirmation before closing down.</para>
@@ -174,7 +174,7 @@
 
     <variablelist>
       <varlistentry>
-        <term>Restore Main Window</term>
+        <term>Restaurar a janela principal</term>
 
         <listitem>
           <para>Restores the components of the main OmegaT window to their default state. Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement. It can also be used when panes do not appear as expected following an OmegaT upgrade.</para>

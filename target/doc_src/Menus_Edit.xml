@@ -52,7 +52,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Replace with Machine Translation</term>
+      <term>Substituir com tradução automática</term>
 
       <listitem>
         <para>Replaces the target segment with the translation, provided by
@@ -74,7 +74,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Source</term>
+      <term>Inserir fonte</term>
 
       <listitem>
         <para>Inserts the source at the cursor position.</para>
@@ -82,7 +82,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Missing Source Tags</term>
+      <term>Inserir etiquetas-fonte em falta</term>
 
       <listitem>
         <para>Inserts the source tags (if they where missing) at the cursor
@@ -100,7 +100,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Export Selection</term>
+      <term>Exportar selecção</term>
 
       <listitem>
         <para>Exports the current selection to a text file for processing. If no text has been selected, the current source segment is written to this file. When the user exits <application>OmegaT</application>, this file is not emptied, in order to be consistent with usual clipboard behavior. The exported contents are copied to the file <filename>selection.txt</filename> located in the User&quot;s preference files folder.</para>
@@ -137,7 +137,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Search Project...</term>
+      <term>Procurar no projecto...</term>
 
       <listitem>
         <para>Opens a new <link linkend="windows.textsearch">Search
