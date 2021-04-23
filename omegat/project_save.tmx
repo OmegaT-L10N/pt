@@ -16250,6 +16250,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165706Z" creationid="Pedro Albuquerque" creationdate="20210423T165706Z">
+        <seg>Esta página permite-lhe escolher cores diferentes para cada parte do ambiente do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073150Z" creationid="Pedro Albuquerque" creationdate="20210421T073150Z">
