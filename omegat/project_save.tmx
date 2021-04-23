@@ -1898,6 +1898,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174419Z" creationid="Pedro Albuquerque" creationdate="20210423T174419Z">
+        <seg>&lt;e0&gt;Comprimir espaço em branco no documento traduzido&lt;/e0&gt;: múltiplos espaços contínuos em branco serão convertidos num único espaço em branco no documento traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173514Z" creationid="Pedro Albuquerque" creationdate="20210423T173514Z">
@@ -1966,6 +1974,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174117Z" creationid="Pedro Albuquerque" creationdate="20210423T174117Z">
         <seg>&lt;e0&gt;Preservar espaços para todas as etiquetas&lt;/e0&gt;: se verificado, "espaço branco" (isto é, espaços e novas linhas) será preservado, mesmo que esta opção não esteja definida no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174506Z" creationid="Pedro Albuquerque" creationdate="20210423T174506Z">
+        <seg>&lt;e0&gt;Remover comentários HTML no documento traduzido&lt;/e0&gt;: as partes comentadas (entre &lt;!-- e --&gt;) não serão copiadas para o documento traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,6 +5888,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085834Z" creationid="Pedro Albuquerque" creationdate="20210422T085834Z">
         <seg>Editar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174611Z" creationid="Pedro Albuquerque" creationdate="20210423T174611Z">
+        <seg>Diálogo Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -11471,6 +11495,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174514Z" creationid="Pedro Albuquerque" creationdate="20210423T174514Z">
+        <seg>Ficheiros Open Document Format (ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125045Z" creationid="Pedro Albuquerque" creationdate="20210420T125045Z">
@@ -16594,6 +16626,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174658Z" creationid="Pedro Albuquerque" creationdate="20210423T174658Z">
+        <seg>Este diálogo permite especificar os padrões de nome de ficheiro-fonte para ficheiros a processar pelo filtro, personalizar os nomes dos ficheiros traduzidos e seleccionar que codificações devem ser utilizadas para carregar o ficheiro-fonte e gravar a tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113252Z" creationid="Pedro Albuquerque" creationdate="20210423T113252Z">
@@ -18795,6 +18835,14 @@ script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174524Z" creationid="Pedro Albuquerque" creationdate="20210423T174524Z">
+        <seg>Pode seleccionar qual dos seguintes itens deve ser traduzido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114336Z" creationid="Pedro Albuquerque" creationdate="20210423T114336Z">
@@ -19915,6 +19963,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172318Z" creationid="Pedro Albuquerque" creationdate="20210423T172318Z">
         <seg>se as regras de segmentação de frases estiverem activas, o texto será ainda mais segmentado de acordo com a opção aqui seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174548Z" creationid="Pedro Albuquerque" creationdate="20210423T174548Z">
+        <seg>entradas de índice, marcadores, referências de marcadores, notas, comentários, notas de apresentação, ligações (URL), nomes de folhas</seg>
       </tuv>
     </tu>
     <tu>
