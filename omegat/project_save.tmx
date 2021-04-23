@@ -3758,6 +3758,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083016Z" creationid="Pedro Albuquerque" creationdate="20210423T083016Z">
+        <seg>Clicar em &lt;g0&gt;Instalar novo dicionário&lt;/g0&gt; abrirá a janela do instalador de dicionários, onde poderá seleccionar os dicionários que deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172003Z" creationid="Pedro Albuquerque" creationdate="20210420T172003Z">
@@ -4198,6 +4206,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124752Z" creationid="Pedro Albuquerque" creationdate="20210420T124752Z">
         <seg>Copiar ficheiros para a pasta-fonte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082912Z" creationid="Pedro Albuquerque" creationdate="20210423T082912Z">
+        <seg>A cópia manual dos ficheiros faz sentido se já tiver ficheiros de dicionário adequados no seu sistema, por exemplo como parte da sua instalação Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +6874,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083116Z" creationid="Pedro Albuquerque" creationdate="20210423T083116Z">
+        <seg>Por exemplo, se seleccionou ES-MX (espanhol mexicano) como idioma-alvo, os ficheiros de dicionário devem ser nomeados es_MX.dic e es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114153Z" creationid="Pedro Albuquerque" creationdate="20210422T114153Z">
@@ -8409,6 +8433,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
         <seg>Consequentemente, é capaz de utilizar a enorme variedade de dicionários ortográficos gratuitos disponíveis para estas aplicações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082933Z" creationid="Pedro Albuquerque" creationdate="20210423T082933Z">
+        <seg>É mais simples, contudo, procurar dicionários online, usando o campo &lt;e0&gt;URL dos dicionários online&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10361,6 +10393,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180645Z" creationid="Pedro Albuquerque" creationdate="20210420T180645Z">
         <seg>Note que, para além dos dicionários "fonte-alvo", pode, utilizando a funcionalidade Dicionário, obter acesso a informações tais como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
+        <seg>Note-se que a função "Instalar" requer uma ligação à Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14249,6 +14289,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082944Z" creationid="Pedro Albuquerque" creationdate="20210423T082944Z">
+        <seg>Configuração do corrector ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spelling</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090455Z" creationid="Pedro Albuquerque" creationdate="20210422T090455Z">
@@ -15312,6 +15360,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083043Z" creationid="Pedro Albuquerque" creationdate="20210423T083043Z">
+        <seg>Os nomes dos ficheiros devem corresponder ao código de idioma do seu idioma alvo, tal como definido no diálogo de propriedades do projecto (&lt;g0&gt;Projecto &gt; Propriedades&lt;/g0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105513Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -15420,6 +15476,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The search term &lt;l0&gt;"run*"&lt;/l0&gt; for example would match words &lt;l1&gt;"run"&lt;/l1&gt;, &lt;l2&gt;"runs"&lt;/l2&gt; and &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082845Z" creationid="Pedro Albuquerque" creationdate="20210423T082845Z">
+        <seg>Os idiomas seleccionados serão então instalados e eventualmente aparecerão na janela de configuração do seu corrector ortográfico (isto pode demorar algum tempo).</seg>
       </tuv>
     </tu>
     <tu>
