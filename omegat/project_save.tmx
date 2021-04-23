@@ -7034,6 +7034,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173629Z" creationid="Pedro Albuquerque" creationdate="20210423T173629Z">
+        <seg>Por exemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7086,6 +7094,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>For instance, &lt;l0&gt;"run?"&lt;/l0&gt; would match the word &lt;l1&gt;"runs"&lt;/l1&gt; and &lt;l2&gt;"runn"&lt;/l2&gt; in the word &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173702Z" creationid="Pedro Albuquerque" creationdate="20210423T173702Z">
+        <seg>Para o exemplo acima, o campo conteria: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9975,6 +9991,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180821Z" creationid="Pedro Albuquerque" creationdate="20210420T180821Z">
         <seg>Dicionário Merriam Webster - uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173708Z" creationid="Pedro Albuquerque" creationdate="20210423T173708Z">
+        <seg>Ficheiros Microsoft Office Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -18605,6 +18629,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173651Z" creationid="Pedro Albuquerque" creationdate="20210423T173651Z">
+        <seg>É possível definir pares chave-valor para as etiquetas a deixar sem tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082715Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -18663,6 +18695,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project"s content in bilingual form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173720Z" creationid="Pedro Albuquerque" creationdate="20210423T173720Z">
+        <seg>Pode seleccionar que elementos devem ser traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
