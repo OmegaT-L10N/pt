@@ -1874,6 +1874,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174237Z" creationid="Pedro Albuquerque" creationdate="20210423T174237Z">
+        <seg>&lt;e0&gt;Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML&lt;/e0&gt;: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174048Z" creationid="Pedro Albuquerque" creationdate="20210423T174048Z">
@@ -1950,6 +1958,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173945Z" creationid="Pedro Albuquerque" creationdate="20210423T173945Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: comentários de diapositivos, diapositivos-mestre, esquemas de diapositivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174117Z" creationid="Pedro Albuquerque" creationdate="20210423T174117Z">
+        <seg>&lt;e0&gt;Preservar espaços para todas as etiquetas&lt;/e0&gt;: se verificado, "espaço branco" (isto é, espaços e novas linhas) será preservado, mesmo que esta opção não esteja definida no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7154,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174324Z" creationid="Pedro Albuquerque" creationdate="20210423T174324Z">
+        <seg>Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173702Z" creationid="Pedro Albuquerque" creationdate="20210423T173702Z">
@@ -7638,6 +7662,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074240Z" creationid="Pedro Albuquerque" creationdate="20210421T074240Z">
         <seg>HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174126Z" creationid="Pedro Albuquerque" creationdate="20210423T174126Z">
+        <seg>Ficheiros HTML e XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -17964,6 +17996,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083233Z" creationid="Pedro Albuquerque" creationdate="20210423T083233Z">
         <seg>Utilização de dicionários ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174301Z" creationid="Pedro Albuquerque" creationdate="20210423T174301Z">
+        <seg>Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída.</seg>
       </tuv>
     </tu>
     <tu>
