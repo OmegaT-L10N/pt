@@ -11971,6 +11971,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114557Z" creationid="Pedro Albuquerque" creationdate="20210423T114557Z">
+        <seg>As colecções privadas são mostradas a negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060703Z" creationid="Pedro Albuquerque" creationdate="20210421T060703Z">
@@ -16012,8 +16020,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This button enables you to browse and download the collections that exist for the project"s source and target languages.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114530Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto.</seg>
       </tuv>
     </tu>
     <tu>
