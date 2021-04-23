@@ -3326,6 +3326,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114441Z" creationid="Pedro Albuquerque" creationdate="20210423T114441Z">
+        <seg>Procurar colecções do TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065011Z" creationid="Pedro Albuquerque" creationdate="20210422T065011Z">
@@ -3786,6 +3794,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102427Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Clique no item de menu "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114316Z" creationid="Pedro Albuquerque" creationdate="20210423T114316Z">
+        <seg>Clique neste botão para aceder ao sítio do projecto &lt;u0&gt;TaaS&lt;/u0&gt; e criar uma conta de utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7943,6 +7959,22 @@ predefinições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114256Z" creationid="Pedro Albuquerque" creationdate="20210423T114256Z">
+        <seg>Se esta opção estiver marcada, o glossário mostrará apenas uma entrada, mesmo que a mesma palavra exista em várias formas (por exemplo, com e sem maiúsculas) no glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114421Z" creationid="Pedro Albuquerque" creationdate="20210423T114421Z">
+        <seg>Se esta opção estiver marcada, o OmegaT não se lembrará da chave de acesso entre sessões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114653Z" creationid="Pedro Albuquerque" creationdate="20210422T114653Z">
@@ -8089,6 +8121,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105225Z" creationid="Pedro Albuquerque" creationdate="20210421T105225Z">
         <seg>Ignorar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114221Z" creationid="Pedro Albuquerque" creationdate="20210423T114221Z">
+        <seg>Ignorar êxitos com casos muito diferentes (e.g., FOO vs foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14585,6 +14625,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114358Z" creationid="Pedro Albuquerque" creationdate="20210423T114358Z">
+        <seg>Armazenar só para esta sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubRip Subtitles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070612Z" creationid="Pedro Albuquerque" creationdate="20210421T070607Z">
@@ -18075,6 +18123,14 @@ script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114336Z" creationid="Pedro Albuquerque" creationdate="20210423T114336Z">
+        <seg>Pode então criar uma chave de acesso na página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094014Z" creationid="Pedro Albuquerque" creationdate="20210422T094014Z">
@@ -19163,6 +19219,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175942Z" creationid="Pedro Albuquerque" creationdate="20210420T175942Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114319Z" creationid="Pedro Albuquerque" creationdate="20210423T114319Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114300Z" creationid="Pedro Albuquerque" creationdate="20210423T114300Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
