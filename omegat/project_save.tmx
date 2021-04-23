@@ -3702,6 +3702,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113615Z" creationid="Pedro Albuquerque" creationdate="20210423T113615Z">
+        <seg>Marque esta caixa para enviar apenas segmentos não traduzidos para os serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090426Z" creationid="Pedro Albuquerque" creationdate="20210422T090426Z">
@@ -5160,6 +5168,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153241Z" creationid="Pedro Albuquerque" creationdate="20210420T153241Z">
         <seg>Mostrar &amp;descrição contextual para &amp;glossários TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113745Z" creationid="Pedro Albuquerque" creationdate="20210423T113745Z">
+        <seg>Mostrar descrição contextual para glossários TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -13777,6 +13793,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113638Z" creationid="Pedro Albuquerque" creationdate="20210423T113638Z">
+        <seg>Seleccione um fornecedor da lista e, se necessário, clique em &lt;g0&gt;Configurar&lt;/g0&gt; para inserir os dados de identificação fornecidos pelo fornecedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091839Z" creationid="Pedro Albuquerque" creationdate="20210422T091839Z">
@@ -15560,6 +15584,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113711Z" creationid="Pedro Albuquerque" creationdate="20210423T113711Z">
+        <seg>Os procedimentos para configurar o acesso aos serviços do Microsoft Translator e do Google Translate são descritos &lt;u0&gt;aqui&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113414Z" creationid="Pedro Albuquerque" creationdate="20210423T113414Z">
@@ -16770,6 +16802,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113819Z" creationid="Pedro Albuquerque" creationdate="20210423T113819Z">
+        <seg>Desmarcar esta opção se a descrição contextual mostrada para cada entrada do glossário for desnecessária ou demasiado longa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115254Z" creationid="Pedro Albuquerque" creationdate="20210422T115254Z">
@@ -16956,6 +16996,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113604Z" creationid="Pedro Albuquerque" creationdate="20210423T113604Z">
+        <seg>Só segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063247Z" creationid="Pedro Albuquerque" creationdate="20210422T063247Z">
@@ -17136,6 +17184,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163547Z" creationid="Pedro Albuquerque" creationdate="20210420T153242Z">
         <seg>Usar termos que &amp;aparecem separadamente no texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113839Z" creationid="Pedro Albuquerque" creationdate="20210423T113839Z">
+        <seg>Usar termos que aparecem separadamente no texto-fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -18001,6 +18057,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170347Z" creationid="Pedro Albuquerque" creationdate="20210420T170347Z">
         <seg>Tem de inserir um número entre 1 e {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113546Z" creationid="Pedro Albuquerque" creationdate="20210423T113546Z">
+        <seg>Deve então premir &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; novamente para inserir a sugestão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19035,6 +19099,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114154Z" creationid="Pedro Albuquerque" creationdate="20210422T114154Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113639Z" creationid="Pedro Albuquerque" creationdate="20210423T113639Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
