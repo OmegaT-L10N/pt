@@ -7989,6 +7989,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082603Z" creationid="Pedro Albuquerque" creationdate="20210423T082603Z">
+        <seg>No OmegaT, seleccione &lt;g0&gt;Opções &gt; Verificação ortográfica&lt;/g0&gt; e clique em &lt;g1&gt;Escolher&lt;/g1&gt; ao lado do campo da pasta de dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -8025,6 +8033,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060334Z" creationid="Pedro Albuquerque" creationdate="20210421T060334Z">
         <seg>Na font&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082159Z" creationid="Pedro Albuquerque" creationdate="20210423T082159Z">
+        <seg>No seu gestor de ficheiros, crie uma nova pasta num local adequado para armazenar dicionários ortográficos (D:\Translations\spellcheckers no exemplo abaixo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15870,6 +15886,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073746Z" creationid="Pedro Albuquerque" creationdate="20210421T073620Z">
         <seg>Para editar que ficheiros em que codificações o filtro vai processar, seleccione o filtro da lista e clique em Editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082129Z" creationid="Pedro Albuquerque" creationdate="20210423T082129Z">
+        <seg>Para instalar dicionários ortográficos, siga este procedimento:</seg>
       </tuv>
     </tu>
     <tu>
