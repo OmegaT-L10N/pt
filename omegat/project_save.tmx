@@ -1970,6 +1970,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080152Z" creationid="Pedro Albuquerque" creationdate="20210423T080152Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080158Z" creationid="Pedro Albuquerque" creationdate="20210423T080158Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -4322,6 +4338,46 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080013Z" creationid="Pedro Albuquerque" creationdate="20210423T080013Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080027Z" creationid="Pedro Albuquerque" creationdate="20210423T080027Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080039Z" creationid="Pedro Albuquerque" creationdate="20210423T080039Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080044Z" creationid="Pedro Albuquerque" creationdate="20210423T080044Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080050Z" creationid="Pedro Albuquerque" creationdate="20210423T080050Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114922Z" creationid="Pedro Albuquerque" creationdate="20210422T114922Z">
@@ -4466,10 +4522,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080058Z" creationid="Pedro Albuquerque" creationdate="20210423T080058Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075215Z" creationid="Pedro Albuquerque" creationdate="20210423T075215Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080146Z" creationid="Pedro Albuquerque" creationdate="20210423T080146Z">
+        <seg>Ctrl+Shift+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4562,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080132Z" creationid="Pedro Albuquerque" creationdate="20210423T080132Z">
+        <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Y</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115309Z" creationid="Pedro Albuquerque" creationdate="20210422T115309Z">
@@ -4502,6 +4582,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115255Z" creationid="Pedro Albuquerque" creationdate="20210422T115255Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075954Z" creationid="Pedro Albuquerque" creationdate="20210423T075954Z">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080001Z" creationid="Pedro Albuquerque" creationdate="20210423T080001Z">
+        <seg>Ctrl+↓</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7110,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093111Z" creationid="Pedro Albuquerque" creationdate="20210422T093111Z">
         <seg>Vá às Preferências &gt; Procura externa para os activar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080106Z" creationid="Pedro Albuquerque" creationdate="20210423T080106Z">
+        <seg>Menu Ir para</seg>
       </tuv>
     </tu>
     <tu>
@@ -9625,10 +9729,34 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080151Z" creationid="Pedro Albuquerque" creationdate="20210423T080151Z">
+        <seg>Segmento seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080145Z" creationid="Pedro Albuquerque" creationdate="20210423T080145Z">
+        <seg>Segmento traduzido seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152828Z" creationid="Pedro Albuquerque" creationdate="20210420T152828Z">
         <seg>Se&amp;gmento único seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080131Z" creationid="Pedro Albuquerque" creationdate="20210423T080131Z">
+        <seg>Segmento não traduzido seguinte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11197,6 +11325,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130336Z" creationid="Pedro Albuquerque" creationdate="20210420T130336Z">
         <seg>No&amp;ta anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080157Z" creationid="Pedro Albuquerque" creationdate="20210423T080157Z">
+        <seg>Segmento anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -12793,6 +12929,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080205Z" creationid="Pedro Albuquerque" creationdate="20210423T080205Z">
+        <seg>Segmento número...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070048Z" creationid="Pedro Albuquerque" creationdate="20210421T070048Z">
@@ -12949,6 +13093,62 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125915Z" creationid="Pedro Albuquerque" creationdate="20210420T125910Z">
         <seg>Seleccionar correspondência &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080024Z" creationid="Pedro Albuquerque" creationdate="20210423T080012Z">
+        <seg>Seleccionar correspondência 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080020Z" creationid="Pedro Albuquerque" creationdate="20210423T080020Z">
+        <seg>Seleccionar correspondência 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080038Z" creationid="Pedro Albuquerque" creationdate="20210423T080038Z">
+        <seg>Seleccionar correspondência 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080043Z" creationid="Pedro Albuquerque" creationdate="20210423T080043Z">
+        <seg>Seleccionar correspondência 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080050Z" creationid="Pedro Albuquerque" creationdate="20210423T080050Z">
+        <seg>Seleccionar correspondência 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080001Z" creationid="Pedro Albuquerque" creationdate="20210423T080001Z">
+        <seg>Seleccionar correspondência seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075954Z" creationid="Pedro Albuquerque" creationdate="20210423T075954Z">
+        <seg>Seleccionar correspondência anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -13125,6 +13325,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091136Z" creationid="Pedro Albuquerque" creationdate="20210421T091136Z">
         <seg>Conjuntos de regras de segmentação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075931Z" creationid="Pedro Albuquerque" creationdate="20210423T075931Z">
+        <seg>Shift+F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -13761,10 +13969,34 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075931Z" creationid="Pedro Albuquerque" creationdate="20210423T075931Z">
+        <seg>Mudar letra para/Ciclo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075852Z" creationid="Pedro Albuquerque" creationdate="20210423T075852Z">
         <seg>Mudar letra para/Minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075921Z" creationid="Pedro Albuquerque" creationdate="20210423T075921Z">
+        <seg>Mudar letra para/Frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075914Z" creationid="Pedro Albuquerque" creationdate="20210423T075914Z">
+        <seg>Mudar letra para/Título</seg>
       </tuv>
     </tu>
     <tu>
@@ -17463,6 +17695,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075932Z" creationid="Pedro Albuquerque" creationdate="20210423T075932Z">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052124Z" creationid="Pedro Albuquerque" creationdate="20210422T052124Z">
@@ -17527,6 +17767,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080053Z" creationid="Pedro Albuquerque" creationdate="20210423T080053Z">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080052Z" creationid="Pedro Albuquerque" creationdate="20210423T080052Z">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editOverwriteMachineTranslationMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075129Z" creationid="Pedro Albuquerque" creationdate="20210423T075129Z">
@@ -17559,10 +17815,90 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080056Z" creationid="Pedro Albuquerque" creationdate="20210423T080056Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080058Z" creationid="Pedro Albuquerque" creationdate="20210423T080058Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080055Z" creationid="Pedro Albuquerque" creationdate="20210423T080055Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075820Z" creationid="Pedro Albuquerque" creationdate="20210423T075820Z">
         <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080013Z" creationid="Pedro Albuquerque" creationdate="20210423T080013Z">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080028Z" creationid="Pedro Albuquerque" creationdate="20210423T080028Z">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080039Z" creationid="Pedro Albuquerque" creationdate="20210423T080039Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080044Z" creationid="Pedro Albuquerque" creationdate="20210423T080044Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080051Z" creationid="Pedro Albuquerque" creationdate="20210423T080051Z">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080002Z" creationid="Pedro Albuquerque" creationdate="20210423T080002Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075955Z" creationid="Pedro Albuquerque" creationdate="20210423T075955Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -17635,6 +17971,38 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075810Z" creationid="Pedro Albuquerque" creationdate="20210423T075810Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080152Z" creationid="Pedro Albuquerque" creationdate="20210423T080152Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080147Z" creationid="Pedro Albuquerque" creationdate="20210423T080147Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080134Z" creationid="Pedro Albuquerque" creationdate="20210423T080134Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080159Z" creationid="Pedro Albuquerque" creationdate="20210423T080159Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18049,6 +18417,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075922Z" creationid="Pedro Albuquerque" creationdate="20210423T075922Z">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072922Z" creationid="Pedro Albuquerque" creationdate="20210421T072922Z">
@@ -18061,6 +18437,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085955Z" creationid="Pedro Albuquerque" creationdate="20210421T085955Z">
         <seg>src (URL de &amp;imagens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075915Z" creationid="Pedro Albuquerque" creationdate="20210423T075915Z">
+        <seg>titleCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,6 +18477,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171418Z" creationid="Pedro Albuquerque" creationdate="20210420T171418Z">
         <seg>desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075906Z" creationid="Pedro Albuquerque" creationdate="20210423T075906Z">
+        <seg>upperCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
