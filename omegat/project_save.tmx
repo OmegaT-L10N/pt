@@ -8613,6 +8613,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115307Z" creationid="Pedro Albuquerque" creationdate="20210423T115307Z">
+        <seg>Também pode ser utilizado quando os painéis não aparecem como esperado após uma actualização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
@@ -13585,6 +13593,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115445Z" creationid="Pedro Albuquerque" creationdate="20210423T115445Z">
+        <seg>Ver definições de letras em Várias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065356Z" creationid="Pedro Albuquerque" creationdate="20210422T065356Z">
@@ -14157,6 +14173,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052800Z" creationid="Pedro Albuquerque" creationdate="20210422T052800Z">
         <seg>Mostrar barra de substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115344Z" creationid="Pedro Albuquerque" creationdate="20210423T115344Z">
+        <seg>Mostra o diálogo para modificar a letra do texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17356,6 +17380,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115245Z" creationid="Pedro Albuquerque" creationdate="20210423T115245Z">
+        <seg>Utilize esta funcionalidade quando tiver desbloqueado, movido ou ocultado um ou mais componentes e não conseguir restaurar a disposição desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180501Z" creationid="Pedro Albuquerque" creationdate="20210420T180501Z">
@@ -17418,6 +17450,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173151Z" creationid="Pedro Albuquerque" creationdate="20210421T173151Z">
         <seg>Utilizador ou chave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115408Z" creationid="Pedro Albuquerque" creationdate="20210423T115408Z">
+        <seg>Os utilizadores de computadores antigos que sentem que o redimensionamento da janela é muito lento, podem tentar mudar a fonte.</seg>
       </tuv>
     </tu>
     <tu>
