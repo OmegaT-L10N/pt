@@ -15898,6 +15898,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113252Z" creationid="Pedro Albuquerque" creationdate="20210423T113252Z">
+        <seg>Este diálogo está acessível seleccionando &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Preferências...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181735Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
