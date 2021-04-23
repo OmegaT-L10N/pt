@@ -2642,6 +2642,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080738Z" creationid="Pedro Albuquerque" creationdate="20210423T080738Z">
+        <seg>Confirmar sempre a saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052145Z" creationid="Pedro Albuquerque" creationdate="20210422T052145Z">
@@ -4582,6 +4590,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080146Z" creationid="Pedro Albuquerque" creationdate="20210423T080146Z">
         <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080641Z" creationid="Pedro Albuquerque" creationdate="20210423T080641Z">
+        <seg>Ctrl+Shift+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,6 +7158,22 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063835Z" creationid="Pedro Albuquerque" creationdate="20210422T063835Z">
         <seg>Tradução do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080821Z" creationid="Pedro Albuquerque" creationdate="20210423T080821Z">
+        <seg>Glossário/Mostrar descrição contextual para glossários TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080932Z" creationid="Pedro Albuquerque" creationdate="20210423T080932Z">
+        <seg>Glossário/Usar lematização para entradas do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,6 +10875,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174932Z" creationid="Pedro Albuquerque" creationdate="20210420T174932Z">
         <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080708Z" creationid="Pedro Albuquerque" creationdate="20210423T080708Z">
+        <seg>Menu Opções</seg>
       </tuv>
     </tu>
     <tu>
@@ -16508,6 +16548,22 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080724Z" creationid="Pedro Albuquerque" creationdate="20210423T080724Z">
+        <seg>Usar TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080847Z" creationid="Pedro Albuquerque" creationdate="20210423T080847Z">
+        <seg>Usar termos que aparecem separadamente no texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061803Z" creationid="Pedro Albuquerque" creationdate="20210422T061803Z">
@@ -16636,6 +16692,22 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072734Z" creationid="Pedro Albuquerque" creationdate="20210421T072701Z">
         <seg>VLDocking Framework (Licença LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080640Z" creationid="Pedro Albuquerque" creationdate="20210423T080640Z">
+        <seg>Validar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080700Z" creationid="Pedro Albuquerque" creationdate="20210423T080700Z">
+        <seg>Validar etiquetas no documento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -18473,6 +18545,38 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080740Z" creationid="Pedro Albuquerque" creationdate="20210423T080740Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080848Z" creationid="Pedro Albuquerque" creationdate="20210423T080848Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080821Z" creationid="Pedro Albuquerque" creationdate="20210423T080821Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080725Z" creationid="Pedro Albuquerque" creationdate="20210423T080725Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115204Z" creationid="Pedro Albuquerque" creationdate="20210422T115204Z">
@@ -18697,10 +18801,50 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080702Z" creationid="Pedro Albuquerque" creationdate="20210423T080702Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080704Z" creationid="Pedro Albuquerque" creationdate="20210423T080704Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080701Z" creationid="Pedro Albuquerque" creationdate="20210423T080701Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114654Z" creationid="Pedro Albuquerque" creationdate="20210422T114654Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080700Z" creationid="Pedro Albuquerque" creationdate="20210423T080700Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080642Z" creationid="Pedro Albuquerque" creationdate="20210423T080642Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
