@@ -5020,6 +5020,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080400Z" creationid="Pedro Albuquerque" creationdate="20210423T080400Z">
+        <seg>Mostrar segmentos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092505Z" creationid="Pedro Albuquerque" creationdate="20210421T092505Z">
@@ -9075,6 +9083,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080538Z" creationid="Pedro Albuquerque" creationdate="20210423T080538Z">
+        <seg>Marcar segmentos povoados automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080521Z" creationid="Pedro Albuquerque" creationdate="20210423T080521Z">
+        <seg>Marcar caracteres de controlo do algoritmo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114533Z" creationid="Pedro Albuquerque" creationdate="20210421T114533Z">
@@ -9099,6 +9123,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080416Z" creationid="Pedro Albuquerque" creationdate="20210423T080416Z">
+        <seg>Marcar segmentos não-únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080446Z" creationid="Pedro Albuquerque" creationdate="20210423T080446Z">
+        <seg>Marcar espaços inseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T113808Z" creationid="Pedro Albuquerque" creationdate="20210421T113808Z">
@@ -9107,10 +9147,34 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080432Z" creationid="Pedro Albuquerque" creationdate="20210423T080432Z">
+        <seg>Marcar segmentos com notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080318Z" creationid="Pedro Albuquerque" creationdate="20210423T080318Z">
-        <seg>Mark Translated Segments</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080343Z" creationid="Pedro Albuquerque" creationdate="20210423T080318Z">
+        <seg>Marcar segmentos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080351Z" creationid="Pedro Albuquerque" creationdate="20210423T080351Z">
+        <seg>Marcar segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080451Z" creationid="Pedro Albuquerque" creationdate="20210423T080451Z">
+        <seg>Marcar espaços</seg>
       </tuv>
     </tu>
     <tu>
@@ -9399,6 +9463,30 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173216Z" creationid="Pedro Albuquerque" creationdate="20210421T173216Z">
         <seg>Id do modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080623Z" creationid="Pedro Albuquerque" creationdate="20210423T080623Z">
+        <seg>Informação de modificação/Mostrar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080604Z" creationid="Pedro Albuquerque" creationdate="20210423T080604Z">
+        <seg>Informação de modificação/Não mostrar nada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080614Z" creationid="Pedro Albuquerque" creationdate="20210423T080614Z">
+        <seg>Informação de modificação/Mostrar seleccionados</seg>
       </tuv>
     </tu>
     <tu>
@@ -15606,6 +15694,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080631Z" creationid="Pedro Albuquerque" creationdate="20210423T080631Z">
+        <seg>Menu Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174337Z" creationid="Pedro Albuquerque" creationdate="20210420T174337Z">
@@ -18649,10 +18745,106 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080624Z" creationid="Pedro Albuquerque" creationdate="20210423T080624Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080604Z" creationid="Pedro Albuquerque" creationdate="20210423T080604Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080614Z" creationid="Pedro Albuquerque" creationdate="20210423T080614Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080401Z" creationid="Pedro Albuquerque" creationdate="20210423T080401Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>viewFileListMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115002Z" creationid="Pedro Albuquerque" creationdate="20210422T115002Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080539Z" creationid="Pedro Albuquerque" creationdate="20210423T080539Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080522Z" creationid="Pedro Albuquerque" creationdate="20210423T080522Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080446Z" creationid="Pedro Albuquerque" creationdate="20210423T080446Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080417Z" creationid="Pedro Albuquerque" creationdate="20210423T080417Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080433Z" creationid="Pedro Albuquerque" creationdate="20210423T080433Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080344Z" creationid="Pedro Albuquerque" creationdate="20210423T080344Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080351Z" creationid="Pedro Albuquerque" creationdate="20210423T080351Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080452Z" creationid="Pedro Albuquerque" creationdate="20210423T080452Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
