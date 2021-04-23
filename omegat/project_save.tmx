@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.5.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4354,6 +4354,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075128Z" creationid="Pedro Albuquerque" creationdate="20210423T075128Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+O</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114836Z" creationid="Pedro Albuquerque" creationdate="20210422T114836Z">
@@ -4394,6 +4402,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075155Z" creationid="Pedro Albuquerque" creationdate="20210423T075155Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114829Z" creationid="Pedro Albuquerque" creationdate="20210422T114829Z">
@@ -4402,10 +4418,34 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075147Z" creationid="Pedro Albuquerque" creationdate="20210423T075147Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075215Z" creationid="Pedro Albuquerque" creationdate="20210423T075215Z">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+W</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114903Z" creationid="Pedro Albuquerque" creationdate="20210422T114903Z">
         <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075219Z" creationid="Pedro Albuquerque" creationdate="20210423T075219Z">
+        <seg>Ctrl+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -7741,6 +7781,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075214Z" creationid="Pedro Albuquerque" creationdate="20210423T075214Z">
+        <seg>Inserir etiquetas-fonte em falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170722Z" creationid="Pedro Albuquerque" creationdate="20210420T170440Z">
@@ -7761,6 +7809,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100418Z" creationid="Pedro Albuquerque" creationdate="20210421T100418Z">
         <seg>Inserir selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075155Z" creationid="Pedro Albuquerque" creationdate="20210423T075155Z">
+        <seg>Inserir fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11943,6 +11999,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075146Z" creationid="Pedro Albuquerque" creationdate="20210423T075146Z">
+        <seg>Substituir pela fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125553Z" creationid="Pedro Albuquerque" creationdate="20210420T125553Z">
@@ -11953,8 +12017,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Replace with Machine Translation</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T061732Z" creationid="Pedro Albuquerque" creationdate="20210422T115352Z">
-        <seg>Substituir por tradução automática</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075127Z" creationid="Pedro Albuquerque" creationdate="20210422T115352Z">
+        <seg>Substituir com tradução automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -17351,10 +17415,34 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075156Z" creationid="Pedro Albuquerque" creationdate="20210423T075156Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editInsertTranslationMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115350Z" creationid="Pedro Albuquerque" creationdate="20210422T115350Z">
         <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075129Z" creationid="Pedro Albuquerque" creationdate="20210423T075129Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075148Z" creationid="Pedro Albuquerque" creationdate="20210423T075148Z">
+        <seg>editOverwriteSourceMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -17371,6 +17459,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115309Z" creationid="Pedro Albuquerque" creationdate="20210422T115309Z">
         <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075737Z" creationid="Pedro Albuquerque" creationdate="20210423T075737Z">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075215Z" creationid="Pedro Albuquerque" creationdate="20210423T075215Z">
+        <seg>editTagPainterMenuItem</seg>
       </tuv>
     </tu>
     <tu>
