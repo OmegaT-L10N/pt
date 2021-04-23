@@ -1571,9 +1571,9 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121303Z" creationid="Pedro Albuquerque" creationdate="20210420T121303Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210420T121303Z">
         <seg>--config-file=&lt;path&gt;
-		Um ficheiro Java .properties de onde carregar as predefinições.</seg>
+		Um ficheiro Java .properties de onde carregar as pré-definições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,9 +1601,9 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121216Z" creationid="Pedro Albuquerque" creationdate="20210420T121216Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210420T121216Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Especificar um modo diferente da predefinição (GUI).</seg>
+		Especificar um modo diferente da pré-definição (GUI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2012,8 +2012,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101255Z" creationid="Pedro Albuquerque" creationdate="20210422T101255Z">
-        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;predefinição do SO&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;predefinição do SO&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T101255Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;pré-definição do SO&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;pré-definição do SO&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2084,8 +2084,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095434Z" creationid="Pedro Albuquerque" creationdate="20210422T095434Z">
-        <seg>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário predefinido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T095434Z">
+        <seg>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário pré-definido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,9 +2970,9 @@ A definição actual é {0}MB;</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104658Z" creationid="Pedro Albuquerque" creationdate="20210421T102102Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T102102Z">
         <seg>Por este motivo,
-tudo estará com as predefinições, pelo que poderá
+tudo estará com as pré-definições, pelo que poderá
 experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
     </tu>
@@ -3520,8 +3520,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073309Z" creationid="Pedro Albuquerque" creationdate="20210421T073309Z">
-        <seg>Impossível repor as predefinições do filtro.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T073309Z">
+        <seg>Impossível repor as pré-definições do filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4934,16 +4934,16 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Default glossary</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095508Z" creationid="Pedro Albuquerque" creationdate="20210422T095508Z">
-        <seg>Glossário predefinido</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T095508Z">
+        <seg>Glossário pré-definido</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114814Z" creationid="Pedro Albuquerque" creationdate="20210422T114814Z">
-        <seg>Atalho predefinido</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114814Z">
+        <seg>Atalho pré-definido</seg>
       </tuv>
     </tu>
     <tu>
@@ -6964,8 +6964,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114153Z" creationid="Pedro Albuquerque" creationdate="20210422T114153Z">
-        <seg>Por exemplo, nos atalhos OmegaT predefinidos</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114153Z">
+        <seg>Por exemplo, nos atalhos OmegaT pré-definidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7871,10 +7871,10 @@ o caminho completo.)</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102239Z" creationid="Pedro Albuquerque" creationdate="20210421T102239Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T102239Z">
         <seg>Caso posteriormente seja concedido acesso à localização
 pretendida, essa localização será utilizada e tudo voltará às
-predefinições como resultado da mudança de localização.</seg>
+pré-definições como resultado da mudança de localização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8543,8 +8543,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>Is default translation</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062017Z" creationid="Pedro Albuquerque" creationdate="20210422T062017Z">
-        <seg>É tradução predefinida</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T062017Z">
+        <seg>É tradução pré-definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -11845,10 +11845,18 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165837Z" creationid="Pedro Albuquerque" creationdate="20210423T165837Z">
+        <seg>Os temas pré-definidos podem ser definidos utilizando scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055103Z" creationid="Pedro Albuquerque" creationdate="20210422T055103Z">
-        <seg>As credenciais predefinidas não foram passadas.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T055103Z">
+        <seg>As credenciais pré-definidas não foram passadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12261,8 +12269,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061340Z" creationid="Pedro Albuquerque" creationdate="20210421T061340Z">
-        <seg>As procuras em projectos são feitas, por predefinição, em fontes, alvos, memórias de tradução, glossários, notas e comentários do projecto.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T061340Z">
+        <seg>As procuras em projectos são feitas, por pré-definição, em fontes, alvos, memórias de tradução, glossários, notas e comentários do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12505,8 +12513,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110346Z" creationid="Pedro Albuquerque" creationdate="20210422T110346Z">
-        <seg>Regex - Classes de caracteres predefinidas</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T110346Z">
+        <seg>Regex - Classes de caracteres pré-definidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -13346,9 +13354,9 @@ Estas palavras: "Página não encontrada"</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061214Z" creationid="Pedro Albuquerque" creationdate="20210421T061214Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T061214Z">
         <seg>Âmbito:
-por predefinição, o âmbito da procura é o projecto e pode ser definido para quaisquer ficheiros numa dada hierarquia de pastas.</seg>
+por pré-definição, o âmbito da procura é o projecto e pode ser definido para quaisquer ficheiros numa dada hierarquia de pastas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14075,8 +14083,8 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       <tuv lang="en">
         <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113348Z" creationid="Pedro Albuquerque" creationdate="20210423T113348Z">
-        <seg>Define a chave de validação do segmento para Tab em vez da tecla Enter predefinida.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210423T113348Z">
+        <seg>Define a chave de validação do segmento para Tab em vez da tecla Enter pré-definida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15464,24 +15472,24 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114221Z" creationid="Pedro Albuquerque" creationdate="20210422T114221Z">
-        <seg>Os atalhos predefinidos do OmegaT estão disponíveis em Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114221Z">
+        <seg>Os atalhos pré-definidos do OmegaT estão disponíveis em Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114407Z" creationid="Pedro Albuquerque" creationdate="20210422T114340Z">
-        <seg>Os atalhos OmegaT predefinidos para o Mac também estão disponíveis na Sourceforge, todos eles usam "meta" em vez de "ctrl": &lt;u0&gt;Nos atalhos OmegaT predefinidos para o Mac&lt;/u0&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114340Z">
+        <seg>Os atalhos OmegaT pré-definidos para o Mac também estão disponíveis na Sourceforge, todos eles usam "meta" em vez de "ctrl": &lt;u0&gt;Nos atalhos OmegaT pré-definidos para o Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095600Z" creationid="Pedro Albuquerque" creationdate="20210422T095600Z">
-        <seg>O glossário predefinido está localizado na pasta &lt;f0&gt;/glossary&lt;/f0&gt; do projecto e chama-se &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T095600Z">
+        <seg>O glossário pré-definido está localizado na pasta &lt;f0&gt;/glossary&lt;/f0&gt; do projecto e chama-se &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15770,8 +15778,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101016Z" creationid="Pedro Albuquerque" creationdate="20210422T101016Z">
-        <seg>O glossário predefinido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T101016Z">
+        <seg>O glossário pré-definido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16292,8 +16300,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091017Z" creationid="Pedro Albuquerque" creationdate="20210421T091017Z">
-        <seg>Assim, por exemplo, regras para fracês do Canadá (FR-CA) devem estar acima das regras para francês (FR.*) e acima das predefinidas (.*).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T091017Z">
+        <seg>Assim, por exemplo, regras para fracês do Canadá (FR-CA) devem estar acima das regras para francês (FR.*) e acima das pré-definidas (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,8 +17342,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051847Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
-        <seg>Usar como tradução predefinida</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T051759Z">
+        <seg>Usar como tradução pré-definida</seg>
       </tuv>
     </tu>
     <tu>
