@@ -35,10 +35,10 @@
         </listitem>
       </itemizedlist></para>
 
-    <para>Por exemplo, nos atalhos OmegaT predefinidos<footnote>
-        <para>Os atalhos predefinidos do OmegaT estão disponíveis em Sourceforge: <ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties">Default OmegaT Shortcuts</ulink></para>
+    <para>Por exemplo, nos atalhos OmegaT pré-definidos<footnote>
+        <para>Os atalhos pré-definidos do OmegaT estão disponíveis em Sourceforge: <ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties">Default OmegaT Shortcuts</ulink></para>
 
-        <para>Os atalhos OmegaT predefinidos para o Mac também estão disponíveis na Sourceforge, todos eles usam &quot;meta&quot; em vez de &quot;ctrl&quot;: <ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties">Nos atalhos OmegaT predefinidos para o Mac</ulink></para>
+        <para>Os atalhos OmegaT pré-definidos para o Mac também estão disponíveis na Sourceforge, todos eles usam &quot;meta&quot; em vez de &quot;ctrl&quot;: <ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties">Nos atalhos OmegaT pré-definidos para o Mac</ulink></para>
       </footnote>, pode-se encontrar:</para>
 
     <itemizedlist>
@@ -83,7 +83,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -287,7 +287,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -503,7 +503,7 @@
           </row>
 
           <row>
-            <entry>Usar como tradução predefinida</entry>
+            <entry>Usar como tradução pré-definida</entry>
 
             <entry/>
 
@@ -563,7 +563,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -681,7 +681,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -805,7 +805,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -873,7 +873,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>
@@ -1093,7 +1093,7 @@
           <row>
             <entry>Item de menu</entry>
 
-            <entry>Atalho predefinido</entry>
+            <entry>Atalho pré-definido</entry>
 
             <entry>Código do item de menu</entry>
           </row>

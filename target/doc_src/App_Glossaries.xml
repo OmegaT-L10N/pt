@@ -5,14 +5,14 @@
 
   <para>Glossários são ficheiros de terminologia. Podem ser criados e actualizados manualmente ou importados de outros projectos.</para>
 
-  <para>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário predefinido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</para>
+  <para>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário pré-definido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</para>
 
   <para>Independentemente do número de glossários num projecto, qualquer termo num segmento que tenha uma correspondência num glossário será mostrado no painel do glossário.</para>
 
   <section>
-    <title>Glossário predefinido</title>
+    <title>Glossário pré-definido</title>
 
-    <para>O glossário predefinido está localizado na pasta <filename>/glossary</filename> do projecto e chama-se <filename>glossary.txt</filename>.</para>
+    <para>O glossário pré-definido está localizado na pasta <filename>/glossary</filename> do projecto e chama-se <filename>glossary.txt</filename>.</para>
 
     <para>O seu nome e localização podem ser modificados no diálogo de propriedades do projecto, mas a sua extensão deve ser <filename>.txt</filename> ou <filename>.utf8</filename> e a sua localização deve estar contida na pasta <filename>/glossary</filename> do projecto.</para>
 
@@ -44,7 +44,7 @@
 
     <para>Os glossários de texto simples podem ser ficheiros de &quot;valores separados por tabulação&quot; (TSV) ou ficheiros de &quot;valores separados por vírgula&quot; (CSV). Um possível terceiro formato é o &quot;TBX&quot; (TermBase eXchange) ISO padrão.</para>
 
-    <para>O glossário predefinido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</para>
+    <para>O glossário pré-definido do projecto é sempre um ficheiro TSV gravado com codificação UTF-8.</para>
 
     <para>Os glossários são lidos numa codificação que depende da extensão do ficheiro:</para>
 
@@ -58,7 +58,7 @@
       </thead>
 
       <tbody>
-        <tr> <td>TSV</td> <td> <filename>.txt</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.utf8</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.tab</filename> </td> <td>predefinição do SO</td> </tr> <tr> <td>TSV</td> <td> <filename>.tsv</filename> </td> <td>predefinição do SO</td> </tr> <tr> <td>CSV</td> <td> <filename>.csv</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TBX</td> <td> <filename>.tbx</filename> </td> <td>UTF-8</td> </tr>
+        <tr> <td>TSV</td> <td> <filename>.txt</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.utf8</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TSV</td> <td> <filename>.tab</filename> </td> <td>pré-definição do SO</td> </tr> <tr> <td>TSV</td> <td> <filename>.tsv</filename> </td> <td>pré-definição do SO</td> </tr> <tr> <td>CSV</td> <td> <filename>.csv</filename> </td> <td>UTF-8</td> </tr> <tr> <td>TBX</td> <td> <filename>.tbx</filename> </td> <td>UTF-8</td> </tr>
       </tbody>
     </table>
 

@@ -213,7 +213,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Usar como tradução predefinida</term>
+      <term>Usar como tradução pré-definida</term>
 
       <listitem>
         <para>If there&quot;s several alternative translations available for the active segment, you can label the alternative selected as the default translation. The entry will be greyed, if there&quot;s just one translation available.</para>
