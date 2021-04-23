@@ -2642,6 +2642,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084228Z" creationid="Pedro Albuquerque" creationdate="20210423T084228Z">
+        <seg>Verifique também o código do idioma-alvo do seu projecto em relação aos vocabulários disponíveis na janela de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
@@ -7542,6 +7550,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084056Z" creationid="Pedro Albuquerque" creationdate="20210423T084056Z">
+        <seg>Dicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165534Z" creationid="Pedro Albuquerque" creationdate="20210420T165534Z">
@@ -7827,6 +7843,14 @@ predefinições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If the language of the user"s system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084152Z" creationid="Pedro Albuquerque" creationdate="20210423T084152Z">
+        <seg>Se o corrector ortográfico não estiver a funcionar, certifique-se primeiro de que a caixa &lt;g0&gt;"Verificar automaticamente a ortografia do texto"&lt;/g0&gt; no painel do corrector ortográfico (&lt;g1&gt;Opções &gt; Preferências &gt; Verificação ortográfica...)&lt;/g1&gt; está marcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,6 +15632,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084419Z" creationid="Pedro Albuquerque" creationdate="20210423T084419Z">
+        <seg>O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a subpasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados &lt;e0&gt;pt.aff&lt;/e0&gt; e &lt;e1&gt;pt.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105453Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -17717,6 +17749,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105639Z" creationid="Pedro Albuquerque" creationdate="20210421T105639Z">
         <seg>Está a desinstalar o dicionário de verificação ortográfica que o seu projecto utiliza actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084052Z" creationid="Pedro Albuquerque" creationdate="20210423T084052Z">
+        <seg>Pode também instruir o corrector ortográfico para ignorar todas as ocorrências da palavra mal soletrada, ou acrescentá-la ao dicionário.</seg>
       </tuv>
     </tu>
     <tu>
