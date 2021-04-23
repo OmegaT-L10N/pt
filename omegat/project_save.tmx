@@ -3130,6 +3130,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115048Z" creationid="Pedro Albuquerque" creationdate="20210423T115048Z">
+        <seg>Pesquisa automática de texto de segmento no dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061219Z" creationid="Pedro Albuquerque" creationdate="20210422T061219Z">
@@ -3786,6 +3794,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065218Z" creationid="Pedro Albuquerque" creationdate="20210422T065218Z">
         <seg>Limpar marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115113Z" creationid="Pedro Albuquerque" creationdate="20210423T115113Z">
+        <seg>Desmarque esta opção para desactivar a pesquisa automática - se os dicionários forem demasiado longos, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7867,6 +7883,14 @@ predefinições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083820Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Se necessário, edite os nomes dos ficheiros de dicionário ou altere as definições linguísticas do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115035Z" creationid="Pedro Albuquerque" creationdate="20210423T115035Z">
+        <seg>Se necessário, pode seleccionar um domínio específico para limitar o volume de dados enviados e recebidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12983,6 +13007,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115223Z" creationid="Pedro Albuquerque" creationdate="20210423T115223Z">
+        <seg>Restaura os componentes da janela principal do OmegaT para o seu estado padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062348Z" creationid="Pedro Albuquerque" creationdate="20210422T062348Z">
@@ -13833,6 +13865,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115024Z" creationid="Pedro Albuquerque" creationdate="20210423T115024Z">
+        <seg>Seleccionar domínio de pesquisa terminológica TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062400Z" creationid="Pedro Albuquerque" creationdate="20210422T062400Z">
@@ -13877,6 +13917,14 @@ por predefinição, o âmbito da procura é o projecto e pode ser definido para 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110302Z" creationid="Pedro Albuquerque" creationdate="20210421T110302Z">
         <seg>Seleccionar languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115153Z" creationid="Pedro Albuquerque" creationdate="20210423T115153Z">
+        <seg>Seleccione esta opção se quiser que os dicionários mostrem palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15320,6 +15368,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105420Z" creationid="Pedro Albuquerque" creationdate="20210422T105420Z">
         <seg>O carácter x, excepto o seguinte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114956Z" creationid="Pedro Albuquerque" creationdate="20210423T114956Z">
+        <seg>As colecções são transferidas como glossários TBX e armazenadas na pasta do glossário actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17312,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092751Z" creationid="Pedro Albuquerque" creationdate="20210421T092751Z">
         <seg>Usar modelos personalizados para &amp;informação de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115137Z" creationid="Pedro Albuquerque" creationdate="20210423T115137Z">
+        <seg>Utilizar a correspondência aproximada para entradas de dicionário</seg>
       </tuv>
     </tu>
     <tu>
