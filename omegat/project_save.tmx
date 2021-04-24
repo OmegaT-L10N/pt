@@ -6640,6 +6640,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095502Z" creationid="Pedro Albuquerque" creationdate="20210424T095502Z">
+        <seg>Permite a notificação automática de actualizações do &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105355Z" creationid="Pedro Albuquerque" creationdate="20210422T105355Z">
@@ -13341,6 +13349,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095423Z" creationid="Pedro Albuquerque" creationdate="20210424T095423Z">
+        <seg>As extensões são instalados na pasta &lt;f0&gt;/plugins&lt;/f0&gt; sob a pasta de instalação do OmegaT ou na pasta de preferências do utilizador OmegaT específica da plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090101Z" creationid="Pedro Albuquerque" creationdate="20210422T090101Z">
@@ -13639,6 +13655,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114758Z" creationid="Pedro Albuquerque" creationdate="20210422T114758Z">
         <seg>Menu Projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095512Z" creationid="Pedro Albuquerque" creationdate="20210424T095512Z">
+        <seg>Project Properties</seg>
       </tuv>
     </tu>
     <tu>
