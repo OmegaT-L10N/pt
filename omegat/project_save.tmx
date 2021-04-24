@@ -3106,6 +3106,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103441Z" creationid="Pedro Albuquerque" creationdate="20210424T103441Z">
+        <seg>Todos os DOCX no projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062325Z" creationid="Pedro Albuquerque" creationdate="20210422T062325Z">
@@ -3842,6 +3850,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103419Z" creationid="Pedro Albuquerque" creationdate="20210424T103419Z">
+        <seg>Salvaguarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062632Z" creationid="Pedro Albuquerque" creationdate="20210421T062632Z">
@@ -3890,6 +3906,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095736Z" creationid="Pedro Albuquerque" creationdate="20210424T095736Z">
         <seg>Tenha em mente que a mudança de idiomas pode tornar inúteis as memórias de tradução actualmente utilizadas, uma vez que o seu par de idiomas pode já não corresponder aos novos idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103412Z" creationid="Pedro Albuquerque" creationdate="20210424T103412Z">
+        <seg>Embelezar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103431Z" creationid="Pedro Albuquerque" creationdate="20210424T103431Z">
+        <seg>Embelezar o DOCX resultante</seg>
       </tuv>
     </tu>
     <tu>
@@ -4680,8 +4712,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Cleaning entry "{0}"...</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103336Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A limpar entrada "{0}"...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5218,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103414Z" creationid="Pedro Albuquerque" creationdate="20210424T103414Z">
+        <seg>Converter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054036Z" creationid="Pedro Albuquerque" creationdate="20210422T054036Z">
@@ -5374,6 +5414,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054709Z" creationid="Pedro Albuquerque" creationdate="20210421T054709Z">
         <seg>Criar um novo projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103506Z" creationid="Pedro Albuquerque" creationdate="20210424T103506Z">
+        <seg>Criar salvaguardas do DOCX original</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,6 +5806,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080001Z" creationid="Pedro Albuquerque" creationdate="20210423T080001Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103450Z" creationid="Pedro Albuquerque" creationdate="20210424T103450Z">
+        <seg>DOCX actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -10937,6 +10993,94 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103406Z" creationid="Pedro Albuquerque" creationdate="20210424T103406Z">
+        <seg>Nível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103514Z" creationid="Pedro Albuquerque" creationdate="20210424T103514Z">
+        <seg>Nível 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103516Z" creationid="Pedro Albuquerque" creationdate="20210424T103516Z">
+        <seg>Nível 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103521Z" creationid="Pedro Albuquerque" creationdate="20210424T103521Z">
+        <seg>Nível 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103522Z" creationid="Pedro Albuquerque" creationdate="20210424T103522Z">
+        <seg>Nível 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103524Z" creationid="Pedro Albuquerque" creationdate="20210424T103524Z">
+        <seg>Nível 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103526Z" creationid="Pedro Albuquerque" creationdate="20210424T103526Z">
+        <seg>Nível 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103528Z" creationid="Pedro Albuquerque" creationdate="20210424T103528Z">
+        <seg>Nível 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103531Z" creationid="Pedro Albuquerque" creationdate="20210424T103531Z">
+        <seg>Nível 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103533Z" creationid="Pedro Albuquerque" creationdate="20210424T103533Z">
+        <seg>Nível 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103535Z" creationid="Pedro Albuquerque" creationdate="20210424T103535Z">
+        <seg>Nível 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -11851,16 +11995,16 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Moving cleaned "{0}" to "{1}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103402Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A mover limpos "{0}" para "{1}"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moving original '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Moving original "{0}" to "{1}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103352Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A mover original "{0}" para "{1}"</seg>
       </tuv>
     </tu>
     <tu>
