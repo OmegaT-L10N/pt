@@ -2634,6 +2634,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101221Z" creationid="Pedro Albuquerque" creationdate="20210424T101221Z">
+        <seg>Um conjunto simples de verificações de GQ para o actual projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100945Z" creationid="Pedro Albuquerque" creationdate="20210422T100945Z">
@@ -4390,6 +4398,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101240Z" creationid="Pedro Albuquerque" creationdate="20210424T101240Z">
+        <seg>Regras de verificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083805Z" creationid="Pedro Albuquerque" creationdate="20210423T083524Z">
@@ -5948,6 +5964,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101427Z" creationid="Pedro Albuquerque" creationdate="20210424T101427Z">
+        <seg>Pontuação diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101437Z" creationid="Pedro Albuquerque" creationdate="20210424T101437Z">
+        <seg>Maiúscula inicial diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090638Z" creationid="Pedro Albuquerque" creationdate="20210422T090638Z">
@@ -6312,6 +6344,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
         <seg>Faça duplo clique na aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101401Z" creationid="Pedro Albuquerque" creationdate="20210424T101401Z">
+        <seg>Espaços duplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101409Z" creationid="Pedro Albuquerque" creationdate="20210424T101409Z">
+        <seg>Palavra duplicadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6908,6 +6956,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101444Z" creationid="Pedro Albuquerque" creationdate="20210424T101444Z">
+        <seg>Fonte e alvo iguais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123157Z" creationid="Pedro Albuquerque" creationdate="20210420T123157Z">
@@ -7104,6 +7160,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055556Z" creationid="Pedro Albuquerque" creationdate="20210422T055556Z">
         <seg>Erro: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101253Z" creationid="Pedro Albuquerque" creationdate="20210424T101253Z">
+        <seg>Erros encontrados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10505,6 +10569,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101305Z" creationid="Pedro Albuquerque" creationdate="20210424T101305Z">
+        <seg>Regras LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174926Z" creationid="Pedro Albuquerque" creationdate="20210420T174926Z">
@@ -13461,6 +13533,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101246Z" creationid="Pedro Albuquerque" creationdate="20210424T101246Z">
+        <seg>Por favor, tente novamente depois de abrir um projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105900Z" creationid="Pedro Albuquerque" creationdate="20210421T105900Z">
@@ -14021,8 +14101,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101139Z" creationid="Pedro Albuquerque" creationdate="20210424T101139Z">
-        <seg>QA - Check Rules</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101205Z" creationid="Pedro Albuquerque" creationdate="20210424T101139Z">
+        <seg>QA - Regras de verificação</seg>
       </tuv>
     </tu>
     <tu>
@@ -14835,6 +14915,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085645Z" creationid="Pedro Albuquerque" creationdate="20210422T085645Z">
         <seg>Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101256Z" creationid="Pedro Albuquerque" creationdate="20210424T101256Z">
+        <seg>Regra</seg>
       </tuv>
     </tu>
     <tu>
@@ -16973,6 +17061,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053315Z" creationid="Pedro Albuquerque" creationdate="20210422T053315Z">
         <seg>A pasta-alvo {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101420Z" creationid="Pedro Albuquerque" creationdate="20210424T101420Z">
+        <seg>Alvo mais longo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101415Z" creationid="Pedro Albuquerque" creationdate="20210424T101415Z">
+        <seg>Alvo mais curto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19668,6 +19772,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101452Z" creationid="Pedro Albuquerque" creationdate="20210424T101452Z">
+        <seg>Segmento não traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063226Z" creationid="Pedro Albuquerque" creationdate="20210422T063226Z">
@@ -20382,6 +20494,22 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055955Z" creationid="Pedro Albuquerque" creationdate="20210422T055955Z">
         <seg>Espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101326Z" creationid="Pedro Albuquerque" creationdate="20210424T101326Z">
+        <seg>Espaço - inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101345Z" creationid="Pedro Albuquerque" creationdate="20210424T101345Z">
+        <seg>Espaço - final</seg>
       </tuv>
     </tu>
     <tu>
