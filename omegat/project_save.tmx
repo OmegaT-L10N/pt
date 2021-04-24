@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100830Z" creationid="Pedro Albuquerque" creationdate="20210424T100830Z">
+        <seg>"O nome da classe principal é obrigatório";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100719Z" creationid="Pedro Albuquerque" creationdate="20210424T100719Z">
+        <seg>"Esta aplicação requer que Java %d ou posterior esteja instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100804Z" creationid="Pedro Albuquerque" creationdate="20210424T100804Z">
+        <seg>"Esta aplicação requer que um Java %d JDK ou posterior esteja instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163416Z" creationid="Pedro Albuquerque" creationdate="20210420T163416Z">
-        <seg>"Unable to load Java Runtime Environment.";</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100635Z" creationid="Pedro Albuquerque" creationdate="20210420T163416Z">
+        <seg>"Impossível carregar o Java Runtime Environment";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100653Z" creationid="Pedro Albuquerque" creationdate="20210424T100653Z">
+        <seg>"Impossível carregar um ambiente Java %d Runtime.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -13261,6 +13293,22 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100820Z" creationid="Pedro Albuquerque" creationdate="20210424T100820Z">
+        <seg>Por favor, transfira e instale o último Java JDK a partir de Oracle.com e tente novamente";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100744Z" creationid="Pedro Albuquerque" creationdate="20210424T100744Z">
+        <seg>Por favor, transfira e instale a última versão do Java a partir de www.java.com e tente novamente";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052842Z" creationid="Pedro Albuquerque" creationdate="20210422T052842Z">
@@ -17366,8 +17414,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162433Z" creationid="Pedro Albuquerque" creationdate="20210420T162433Z">
-        <seg>O comando para inciar o OmegaT é:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100532Z" creationid="Pedro Albuquerque" creationdate="20210420T162433Z">
+        <seg>O comando para iniciar o OmegaT é:</seg>
       </tuv>
     </tu>
     <tu>
