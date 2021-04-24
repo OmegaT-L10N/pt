@@ -5828,6 +5828,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080251Z" creationid="Pedro Albuquerque" creationdate="20210424T080226Z">
+        <seg>Não segmentar após S. Sr. e Srª.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080032Z" creationid="Pedro Albuquerque" creationdate="20210424T080023Z">
+        <seg>Não segmentar após Sr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085840Z" creationid="Pedro Albuquerque" creationdate="20210421T085802Z">
@@ -6840,6 +6856,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074921Z" creationid="Pedro Albuquerque" creationdate="20210424T074921Z">
         <seg>Regra de excepção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule - see the use of ?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080301Z" creationid="Pedro Albuquerque" creationdate="20210424T080301Z">
+        <seg>Regra de excepção - ver a utilização de ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11025,6 +11049,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080239Z" creationid="Pedro Albuquerque" creationdate="20210424T080239Z">
+        <seg>Sr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080027Z" creationid="Pedro Albuquerque" creationdate="20210424T080027Z">
+        <seg>Sr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181105Z" creationid="Pedro Albuquerque" creationdate="20210421T181050Z">
@@ -11473,6 +11513,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112201Z" creationid="Pedro Albuquerque" creationdate="20210423T112201Z">
         <seg>Note-se que &lt;f0&gt;Remover&lt;/f0&gt; remove fisicamente os vocabulários seleccionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080143Z" creationid="Pedro Albuquerque" creationdate="20210424T080143Z">
+        <seg>Note que &lt;l0&gt;Antes de&lt;/l0&gt; está vazio</seg>
       </tuv>
     </tu>
     <tu>
@@ -15105,6 +15153,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080126Z" creationid="Pedro Albuquerque" creationdate="20210424T080126Z">
+        <seg>Definir um segmento após "。" (ponto final japonês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125727Z" creationid="Pedro Albuquerque" creationdate="20210420T125727Z">
@@ -17374,6 +17430,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054935Z" creationid="Pedro Albuquerque" creationdate="20210422T054935Z">
         <seg>Este URL parece ser inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080101Z" creationid="Pedro Albuquerque" creationdate="20210424T080101Z">
+        <seg>Esta é uma regra de excepção, pelo que a caixa de verificação da regra não deve estar marcada</seg>
       </tuv>
     </tu>
     <tu>
@@ -21773,6 +21837,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085515Z" creationid="Pedro Albuquerque" creationdate="20210422T085515Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080127Z" creationid="Pedro Albuquerque" creationdate="20210424T080127Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
