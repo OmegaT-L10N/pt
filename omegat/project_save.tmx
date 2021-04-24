@@ -3832,8 +3832,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine"s security.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091136Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por pré-definição, o OmegaT não executa os comandos especificados nas definições específicas do projecto (o ficheiro &lt;f0&gt;finder.xml&lt;/f0&gt; na pasta &lt;f1&gt;omegat&lt;/f1&gt;), porque podem ter um impacto crítico na segurança da máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4170,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180959Z" creationid="Pedro Albuquerque" creationdate="20210420T180959Z">
         <seg>Verificar em &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Propriedades&lt;/g5&gt; &lt;g6&gt;do projecto&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091059Z" creationid="Pedro Albuquerque" creationdate="20210424T091059Z">
+        <seg>Marque ou desmarque as regras, dependendo se são relevantes para o tipo de texto que está a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6428,6 +6436,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105355Z" creationid="Pedro Albuquerque" creationdate="20210422T105355Z">
         <seg>Permite a correspondência não sensível a maiúsculas e minúsculas (por defeito, o padrão é sensível a maiúsculas e minúsculas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091221Z" creationid="Pedro Albuquerque" creationdate="20210424T091221Z">
+        <seg>Permite-lhe alterar a ordem dos comandos no menu contextual (o menu do botão direito do rato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9309,6 +9325,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091323Z" creationid="Pedro Albuquerque" creationdate="20210424T091323Z">
+        <seg>Inserir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110752Z" creationid="Pedro Albuquerque" creationdate="20210421T110752Z">
@@ -12171,6 +12195,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071315Z" creationid="Pedro Albuquerque" creationdate="20210424T071315Z">
         <seg>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091201Z" creationid="Pedro Albuquerque" creationdate="20210424T091201Z">
+        <seg>Active esta opção só se souber o que está a fazer e apenas para projectos de fontes fidedignas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +19128,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091303Z" creationid="Pedro Albuquerque" creationdate="20210424T091303Z">
+        <seg>Valores em torno de 100 mostram os comandos no topo, e valores em torno de 900 mostram os comandos no fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064022Z" creationid="Pedro Albuquerque" creationdate="20210421T064022Z">
@@ -19825,6 +19865,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091334Z" creationid="Pedro Albuquerque" creationdate="20210424T091334Z">
+        <seg>Pode mandar inserir automaticamente o texto-fonte no campo de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
@@ -19937,6 +19985,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091953Z" creationid="Pedro Albuquerque" creationdate="20210422T091953Z">
         <seg>Ser-lhe-á pedido que introduza esta senha cada vez que iniciar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091311Z" creationid="Pedro Albuquerque" creationdate="20210424T091311Z">
+        <seg>Terá de reiniciar o OmegaT para que esta alteração tenha efeito.</seg>
       </tuv>
     </tu>
     <tu>
