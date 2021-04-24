@@ -3490,6 +3490,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090749Z" creationid="Pedro Albuquerque" creationdate="20210424T090749Z">
+        <seg>O auto-completar é lançado dentro do segmento-alvo através do atalho &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081107Z" creationid="Pedro Albuquerque" creationdate="20210423T081107Z">
@@ -8513,6 +8521,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090913Z" creationid="Pedro Albuquerque" creationdate="20210424T090913Z">
+        <seg>Se a opção &lt;e0&gt;Mostrar sugestões relevantes automaticamente&lt;/e0&gt; estiver marcada, a conclusão automática é lançada automaticamente, digitando a primeira letra de uma entrada do glossário traduzida, ou digitando "&lt;" no caso de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074355Z" creationid="Pedro Albuquerque" creationdate="20210421T074355Z">
@@ -9933,6 +9949,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110541Z" creationid="Pedro Albuquerque" creationdate="20210421T110541Z">
         <seg>O LanguageTool não está disponível para o idioma-alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090950Z" creationid="Pedro Albuquerque" creationdate="20210424T090950Z">
+        <seg>Extensão LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -11889,6 +11913,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100844Z" creationid="Pedro Albuquerque" creationdate="20210422T100844Z">
         <seg>Os ficheiros de glossário do OmegaT são simples listas de três colunas em texto simples com o termo-fonte na primeira coluna, um termo-alvo opcional na segunda coluna e um comentário opcional na terceira coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090943Z" creationid="Pedro Albuquerque" creationdate="20210424T090943Z">
+        <seg>O OmegaT tem um corrector ortográfico incorporado baseado no &lt;l0&gt;corrector ortográfico&lt;/l0&gt; usado no Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15045,6 +15077,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110302Z" creationid="Pedro Albuquerque" creationdate="20210421T110302Z">
         <seg>Seleccionar languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
+        <seg>Seleccionar a localização do verificador de idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18980,6 +19020,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091040Z" creationid="Pedro Albuquerque" creationdate="20210424T091040Z">
+        <seg>A utilização de um verificador de idioma na sua máquina local, diferente do fornecido com o OmegaT, dá-lhe a opção de personalizar as regras de verificação.</seg>
       </tuv>
     </tu>
     <tu>
