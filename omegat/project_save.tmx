@@ -4430,6 +4430,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101924Z" creationid="Pedro Albuquerque" creationdate="20210424T101924Z">
+        <seg>Verificar igualdade de fonte e alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102012Z" creationid="Pedro Albuquerque" creationdate="20210424T102012Z">
+        <seg>Verificar números inconsistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101624Z" creationid="Pedro Albuquerque" creationdate="20210424T101624Z">
@@ -4442,6 +4458,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101720Z" creationid="Pedro Albuquerque" creationdate="20210424T101720Z">
         <seg>Verificar alvos mais longos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102027Z" creationid="Pedro Albuquerque" creationdate="20210424T102027Z">
+        <seg>Verificar segmentos com erros ortográficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4486,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101935Z" creationid="Pedro Albuquerque" creationdate="20210424T101935Z">
+        <seg>Verificar segmentos por traduzir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083805Z" creationid="Pedro Albuquerque" creationdate="20210423T083524Z">
@@ -4474,6 +4506,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180959Z" creationid="Pedro Albuquerque" creationdate="20210420T180959Z">
         <seg>Verificar em &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Propriedades&lt;/g5&gt; &lt;g6&gt;do projecto&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101943Z" creationid="Pedro Albuquerque" creationdate="20210424T101943Z">
+        <seg>Verificar número de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4494,10 +4534,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102003Z" creationid="Pedro Albuquerque" creationdate="20210424T102003Z">
+        <seg>Verificar sequência de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093440Z" creationid="Pedro Albuquerque" creationdate="20210421T093440Z">
         <seg>Procurar padrões simples &amp;java MessageFormat (e.g. {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101954Z" creationid="Pedro Albuquerque" creationdate="20210424T101954Z">
+        <seg>Verificar espaços à volta de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -12117,6 +12173,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102044Z" creationid="Pedro Albuquerque" creationdate="20210424T102044Z">
+        <seg>Espaço inseparável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063343Z" creationid="Pedro Albuquerque" creationdate="20210422T063312Z">
@@ -14311,6 +14375,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102034Z" creationid="Pedro Albuquerque" creationdate="20210424T102034Z">
+        <seg>Actualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052356Z" creationid="Pedro Albuquerque" creationdate="20210422T052356Z">
@@ -14779,6 +14851,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114039Z" creationid="Pedro Albuquerque" creationdate="20210423T114039Z">
         <seg>Substituir correspondências do glossário ao inserir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102057Z" creationid="Pedro Albuquerque" creationdate="20210424T102057Z">
+        <seg>Substituir espaços por espaços não quebráveis quando apropriado em francês</seg>
       </tuv>
     </tu>
     <tu>
