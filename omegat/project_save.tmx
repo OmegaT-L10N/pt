@@ -3862,6 +3862,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093348Z" creationid="Pedro Albuquerque" creationdate="20210424T093348Z">
+        <seg>Por pré-definição, o editor mostra 2.000 segmentos iniciais e carrega progressivamente mais à medida que se desloca para cima ou para baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091136Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -8947,8 +8955,8 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
       <tuv lang="en">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you have a powerful machine, and/or if you don"t like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093410Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se tiver uma máquina potente, e/ou se não gostar de como a barra de rolamento se comporta durante o carregamento progressivo, pode aumentar este número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9313,6 +9321,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053002Z" creationid="Pedro Albuquerque" creationdate="20210422T053002Z">
         <seg>A inicializar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093302Z" creationid="Pedro Albuquerque" creationdate="20210424T093302Z">
+        <seg>Carregar inicialmente este número de segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -19724,8 +19740,8 @@ de o seleccionar, obter e instalar.</seg>
       <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn"t do it out of the box already.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093507Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Ao traduzir ficheiros relacionados com programas, pode configurar as opções de validação de etiquetas para verificar também as variáveis de programação (%...) ou os marcadores de posição ({0}), se o filtro de ficheiros não o fizer imediatamente.</seg>
       </tuv>
     </tu>
     <tu>
