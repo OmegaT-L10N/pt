@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100930Z" creationid="Pedro Albuquerque" creationdate="20210424T100930Z">
+        <seg>"Não pode ser iniciado a partir de uma pasta que contenha uma {\i1}"/\i} no seu nome";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Main class name is required.";</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100830Z" creationid="Pedro Albuquerque" creationdate="20210424T100830Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100804Z" creationid="Pedro Albuquerque" creationdate="20210424T100804Z">
         <seg>"Esta aplicação requer que um Java %d JDK ou posterior esteja instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100902Z" creationid="Pedro Albuquerque" creationdate="20210424T100902Z">
+        <seg>"Impossível enumerar o conteúdo da pasta Java";</seg>
       </tuv>
     </tu>
     <tu>
@@ -9315,6 +9331,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101055Z" creationid="Pedro Albuquerque" creationdate="20210424T101055Z">
+        <seg>Se quiser utilizar o mesmo idioma no OmegaT que o utilizado durante a instalação, marque a caixa abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12357,6 +12381,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100957Z" creationid="Pedro Albuquerque" creationdate="20210424T100957Z">
+        <seg>Idioma do ambiente do utilizador OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093232Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12955,6 +12987,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072605Z" creationid="Pedro Albuquerque" creationdate="20210421T072605Z">
         <seg>Outras contribuições são detalhadas no ficheiro readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101111Z" creationid="Pedro Albuquerque" creationdate="20210424T101111Z">
+        <seg>Caso contrário, o OmegaT utilizará o idioma do sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19852,6 +19892,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101131Z" creationid="Pedro Albuquerque" creationdate="20210424T101131Z">
+        <seg>Utilizar o idioma de instalação no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170014Z" creationid="Pedro Albuquerque" creationdate="20210423T170014Z">
@@ -19898,6 +19946,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054737Z" creationid="Pedro Albuquerque" creationdate="20210422T054737Z">
         <seg>Credenciais do utilizador recusadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101031Z" creationid="Pedro Albuquerque" creationdate="20210424T101031Z">
+        <seg>Idioma do ambiente do utilizador para OmegaT</seg>
       </tuv>
     </tu>
     <tu>
