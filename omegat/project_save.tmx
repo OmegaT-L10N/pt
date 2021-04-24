@@ -7396,6 +7396,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102217Z" creationid="Pedro Albuquerque" creationdate="20210424T102217Z">
+        <seg>Exemplo - Procurar e substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071925Z" creationid="Pedro Albuquerque" creationdate="20210421T071925Z">
@@ -8482,6 +8490,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102322Z" creationid="Pedro Albuquerque" creationdate="20210424T102322Z">
+        <seg>Verificação ortográfica global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095308Z" creationid="Pedro Albuquerque" creationdate="20210420T181112Z">
@@ -9042,6 +9058,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064844Z" creationid="Pedro Albuquerque" creationdate="20210422T064844Z">
         <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102332Z" creationid="Pedro Albuquerque" creationdate="20210424T102332Z">
+        <seg>IGNORADOS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10537,6 +10561,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102338Z" creationid="Pedro Albuquerque" creationdate="20210424T102338Z">
+        <seg>APRENDIDOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065356Z" creationid="Pedro Albuquerque" creationdate="20210421T065356Z">
@@ -11575,6 +11607,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063406Z" creationid="Pedro Albuquerque" creationdate="20210422T063406Z">
         <seg>Texto da informação de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102309Z" creationid="Pedro Albuquerque" creationdate="20210424T102309Z">
+        <seg>Segmentos modificados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13687,8 +13727,8 @@ necessário tomar medidas adicionais.</seg>
       <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101246Z" creationid="Pedro Albuquerque" creationdate="20210424T101246Z">
-        <seg>Por favor, tente novamente depois de abrir um projecto.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102154Z" creationid="Pedro Albuquerque" creationdate="20210424T101246Z">
+        <seg>Por favor, tente novamente após abrir um projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14735,6 +14775,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102113Z" creationid="Pedro Albuquerque" creationdate="20210424T102113Z">
+        <seg>Remover etiquetas no alvo actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063500Z" creationid="Pedro Albuquerque" creationdate="20210422T063500Z">
@@ -15465,6 +15513,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102246Z" creationid="Pedro Albuquerque" creationdate="20210424T102246Z">
+        <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092250Z" creationid="Pedro Albuquerque" creationdate="20210422T092250Z">
@@ -15501,6 +15557,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063949Z" creationid="Pedro Albuquerque" creationdate="20210422T063949Z">
         <seg>Marca de procura substituída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102259Z" creationid="Pedro Albuquerque" creationdate="20210424T102259Z">
+        <seg>Procurar e substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -16321,6 +16385,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102242Z" creationid="Pedro Albuquerque" creationdate="20210424T102242Z">
+        <seg>Script simples de procura e substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092639Z" creationid="Pedro Albuquerque" creationdate="20210421T092639Z">
@@ -16769,6 +16841,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102358Z" creationid="Pedro Albuquerque" creationdate="20210424T102358Z">
+        <seg>Ortografia - erros encontrados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105258Z" creationid="Pedro Albuquerque" creationdate="20210421T105258Z">
@@ -16917,6 +16997,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094438Z" creationid="Pedro Albuquerque" creationdate="20210424T094438Z">
         <seg>Cadeia mostrando as diferenças entre a fonte e a correspondência. &lt;e0&gt;Dica&lt;/e0&gt;: use isto se o texto que está a traduzir tiver sido actualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102106Z" creationid="Pedro Albuquerque" creationdate="20210424T102106Z">
+        <seg>Remover etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102128Z" creationid="Pedro Albuquerque" creationdate="20210424T102128Z">
+        <seg>Remover etiquetas no segmento actual</seg>
       </tuv>
     </tu>
     <tu>
