@@ -3650,6 +3650,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100214Z" creationid="Pedro Albuquerque" creationdate="20210424T100214Z">
+        <seg>Auto-propagação de traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062412Z" creationid="Pedro Albuquerque" creationdate="20210421T062412Z">
