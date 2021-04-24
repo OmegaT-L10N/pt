@@ -2130,6 +2130,46 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072631Z" creationid="Pedro Albuquerque" creationdate="20210424T072631Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– o país-alvo - só "YY"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072615Z" creationid="Pedro Albuquerque" creationdate="20210424T072615Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – o idioma-alvo - só "XX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072544Z" creationid="Pedro Albuquerque" creationdate="20210424T072544Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– o idioma-alvo e o código do país juntos (em forma de "XX-YYY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072453Z" creationid="Pedro Albuquerque" creationdate="20210424T072453Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– código do idioma-alvo (em forma de "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072705Z" creationid="Pedro Albuquerque" creationdate="20210424T072705Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – data e hora do sistema na geração, em vários padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -14057,6 +14097,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072741Z" creationid="Pedro Albuquerque" creationdate="20210424T072741Z">
+        <seg>Veja &lt;u0&gt;a documentação da Oracle&lt;/u0&gt; para exemplos de padrões "SimpleDateFormat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111657Z" creationid="Pedro Albuquerque" creationdate="20210422T111657Z">
@@ -20083,6 +20131,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085946Z" creationid="Pedro Albuquerque" creationdate="20210421T085946Z">
         <seg>href (URL de &amp;ligações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072706Z" creationid="Pedro Albuquerque" creationdate="20210424T072706Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
