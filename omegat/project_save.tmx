@@ -3026,6 +3026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103644Z" creationid="Pedro Albuquerque" creationdate="20210424T103644Z">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Algorithm:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085451Z" creationid="Pedro Albuquerque" creationdate="20210422T085451Z">
@@ -3986,6 +3994,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090611Z" creationid="Pedro Albuquerque" creationdate="20210421T090611Z">
         <seg>Quebra/Excepção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103700Z" creationid="Pedro Albuquerque" creationdate="20210424T103700Z">
+        <seg>Briac Pilpré</seg>
       </tuv>
     </tu>
     <tu>
@@ -6084,6 +6100,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103721Z" creationid="Pedro Albuquerque" creationdate="20210424T103721Z">
+        <seg>Programadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072935Z" creationid="Pedro Albuquerque" creationdate="20210421T072935Z">
@@ -6504,6 +6528,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101445Z" creationid="Pedro Albuquerque" creationdate="20210421T101445Z">
         <seg>Ancorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103707Z" creationid="Pedro Albuquerque" creationdate="20210424T103707Z">
+        <seg>Gestor da documentação</seg>
       </tuv>
     </tu>
     <tu>
@@ -7076,6 +7108,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090642Z" creationid="Pedro Albuquerque" creationdate="20210421T090642Z">
         <seg>Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103738Z" creationid="Pedro Albuquerque" creationdate="20210424T103738Z">
+        <seg>Tradutores da versão inglesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10197,6 +10237,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103651Z" creationid="Pedro Albuquerque" creationdate="20210424T103651Z">
+        <seg>Gestor de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075835Z" creationid="Pedro Albuquerque" creationdate="20210424T075835Z">
@@ -10645,6 +10693,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061646Z" creationid="Pedro Albuquerque" creationdate="20210421T061529Z">
         <seg>as procuras por palavra-chave correspondem a qualquer palavra-chave separada por espaços, independentemente da sua ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103715Z" creationid="Pedro Albuquerque" creationdate="20210424T103715Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -11199,6 +11255,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102953Z" creationid="Pedro Albuquerque" creationdate="20210424T102953Z">
         <seg>Cópias de trabalho locais limpas: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103715Z" creationid="Pedro Albuquerque" creationdate="20210424T103715Z">
+        <seg>Gestor de localização, proprietário do grupo de utilizadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -16715,8 +16779,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Since the project"s inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103836Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Desde o seu início que o projecto recebeu o apoio de dezenas de outros colaboradores, demasiado numerosos para mencionar aqui, mas por cuja ajuda estamos muito gratos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18620,6 +18684,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The perfect companion for those of us who don"t need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103752Z" creationid="Pedro Albuquerque" creationdate="20210424T103752Z">
+        <seg>A filosofia do projecto é descrita &lt;a0&gt;aqui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20750,6 +20822,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103843Z" creationid="Pedro Albuquerque" creationdate="20210424T103843Z">
+        <seg>User group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101031Z" creationid="Pedro Albuquerque" creationdate="20210424T101031Z">
@@ -20960,6 +21040,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103707Z" creationid="Pedro Albuquerque" creationdate="20210424T103707Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070423Z" creationid="Pedro Albuquerque" creationdate="20210421T070423Z">
@@ -21054,6 +21142,22 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070621Z" creationid="Pedro Albuquerque" creationdate="20210421T070621Z">
         <seg>Legendas WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103730Z" creationid="Pedro Albuquerque" creationdate="20210424T103730Z">
+        <seg>Autores do conteúdo do sítio web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103659Z" creationid="Pedro Albuquerque" creationdate="20210424T103659Z">
+        <seg>Gestor do sítio web</seg>
       </tuv>
     </tu>
     <tu>
