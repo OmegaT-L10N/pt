@@ -3894,6 +3894,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094038Z" creationid="Pedro Albuquerque" creationdate="20210424T094038Z">
+        <seg>Por pré-definição, as correspondências mais próximas mostradas no painel &lt;g0&gt;Correspondências aproximadas&lt;/g0&gt; são determinadas utilizando lematização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071543Z" creationid="Pedro Albuquerque" creationdate="20210424T071543Z">
@@ -10363,6 +10371,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093822Z" creationid="Pedro Albuquerque" creationdate="20210424T093822Z">
+        <seg>Lista de projectos para os quais os dados de início de sessão são guardados no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -14043,6 +14059,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170012Z" creationid="Pedro Albuquerque" creationdate="20210423T170012Z">
         <seg>Remove Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093854Z" creationid="Pedro Albuquerque" creationdate="20210424T093854Z">
+        <seg>Remova um projecto desta lista se quiser que o OmegaT lhe peça um início de sessão e uma senha de cada vez que acede ao projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18334,6 +18358,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172229Z" creationid="Pedro Albuquerque" creationdate="20210423T172229Z">
         <seg>Para modificar as opções, seleccione o filtro na lista e clique em &lt;e0&gt;Opções&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094118Z" creationid="Pedro Albuquerque" creationdate="20210424T094118Z">
+        <seg>Para obter correspondências literais mais próximas dos 100%, marque a opção &lt;g0&gt;Texto completo, incluindo etiquetas e números&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
