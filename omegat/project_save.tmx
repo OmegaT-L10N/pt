@@ -2946,6 +2946,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075230Z" creationid="Pedro Albuquerque" creationdate="20210424T075230Z">
+        <seg>Todos os conjuntos de regras de segmentação para um padrão linguístico correspondente estão activos e são aplicados na ordem de prioridade dada, pelo que as regras para um idioma específico devem ser superiores às regras por defeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
@@ -4846,6 +4854,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064918Z" creationid="Pedro Albuquerque" creationdate="20210422T064918Z">
         <seg>Criado a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075407Z" creationid="Pedro Albuquerque" creationdate="20210424T075407Z">
+        <seg>Criar uma nova regra</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7498,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075306Z" creationid="Pedro Albuquerque" creationdate="20210424T075306Z">
+        <seg>Por exemplo, as regras para o francês canadiano (FR-CA) devem ser estabelecidas mais altas do que as regras para o francês (FR.*), e mais altas do que as regras pré-definidas (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074159Z" creationid="Pedro Albuquerque" creationdate="20210424T074159Z">
@@ -8937,6 +8961,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
         <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075142Z" creationid="Pedro Albuquerque" creationdate="20210424T075142Z">
+        <seg>Tendo em conta a flexibilidade, pode considerar definir mais regras de excepção para o seu idioma-fonte, a fim de fornecer segmentos mais significativos e coerentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13951,6 +13983,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075203Z" creationid="Pedro Albuquerque" creationdate="20210424T075203Z">
+        <seg>Prioridade da regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110442Z" creationid="Pedro Albuquerque" creationdate="20210421T110442Z">
@@ -17438,6 +17478,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T091017Z">
         <seg>Assim, por exemplo, regras para fracês do Canadá (FR-CA) devem estar acima das regras para francês (FR.*) e acima das pré-definidas (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075353Z" creationid="Pedro Albuquerque" creationdate="20210424T075353Z">
+        <seg>Assim, ao traduzir do francês canadiano, as regras para o francês canadiano - se existirem - serão aplicadas primeiro, seguidas pelas regras para o francês e, por último, pelas regras pré-definidas.</seg>
       </tuv>
     </tu>
     <tu>
