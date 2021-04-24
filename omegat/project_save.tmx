@@ -3146,6 +3146,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095019Z" creationid="Pedro Albuquerque" creationdate="20210424T095019Z">
+        <seg>Permitir também comandos externos por projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084228Z" creationid="Pedro Albuquerque" creationdate="20210423T084228Z">
@@ -3312,8 +3320,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>An example of the use of this feature would be to send translated documents automatically to the client"s FTP server.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095011Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Um exemplo da utilização desta funcionalidade seria o envio automático de documentos traduzidos para o servidor FTP do cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,8 +3968,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine"s security.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095040Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por defeito, o OmegaT não executa os comandos especificados nas definições específicas do projecto (o ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt;), porque podem ter um impacto crítico na segurança da máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,6 +8170,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095304Z" creationid="Pedro Albuquerque" creationdate="20210424T095304Z">
+        <seg>Dá acesso à lista de extensões disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072059Z" creationid="Pedro Albuquerque" creationdate="20210421T072059Z">
@@ -8534,6 +8550,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095202Z" creationid="Pedro Albuquerque" creationdate="20210424T095202Z">
+        <seg>Aqui pode redefinir a senha principal utilizada para proteger os detalhes de início de sessão e as chaves de acesso a serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054658Z" creationid="Pedro Albuquerque" creationdate="20210421T054658Z">
@@ -8781,6 +8805,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074355Z" creationid="Pedro Albuquerque" creationdate="20210421T074355Z">
         <seg>Se o ficheiro HTML tiver a declaração de codificação, esta será utilizada sem ter em conta qualquer valor definido neste diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095108Z" creationid="Pedro Albuquerque" creationdate="20210424T095108Z">
+        <seg>Se o OmegaT precisar de utilizar um servidor proxy autenticado para aceder à Internet, insira aqui os detalhes fornecidos pelo administrador do proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15097,6 +15129,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095127Z" creationid="Pedro Albuquerque" creationdate="20210424T095127Z">
+        <seg>Armazenamento seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123534Z" creationid="Pedro Albuquerque" creationdate="20210420T123534Z">
@@ -16709,6 +16749,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063413Z" creationid="Pedro Albuquerque" creationdate="20210422T063413Z">
         <seg>Etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095238Z" creationid="Pedro Albuquerque" creationdate="20210424T095238Z">
+        <seg>Tenha o cuidado de tomar nota de todos estes detalhes antes de criar uma nova senha, pois todos eles serão eliminados e terão de ser reinseridos.</seg>
       </tuv>
     </tu>
     <tu>
