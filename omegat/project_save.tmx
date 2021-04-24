@@ -4286,6 +4286,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080357Z" creationid="Pedro Albuquerque" creationdate="20210424T080357Z">
+        <seg>Clique em &lt;g0&gt;Glossário...&lt;/g0&gt; para configurar a vista do Glossário de conclusão automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114316Z" creationid="Pedro Albuquerque" creationdate="20210423T114316Z">
@@ -20923,6 +20931,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172318Z" creationid="Pedro Albuquerque" creationdate="20210423T172318Z">
         <seg>se as regras de segmentação de frases estiverem activas, o texto será ainda mais segmentado de acordo com a opção aqui seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in regular expressions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080308Z" creationid="Pedro Albuquerque" creationdate="20210424T080308Z">
+        <seg>em expressões regulares</seg>
       </tuv>
     </tu>
     <tu>
