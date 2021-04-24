@@ -11339,6 +11339,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105514Z" creationid="Pedro Albuquerque" creationdate="20210424T105514Z">
+        <seg>Listas de correio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075424Z" creationid="Pedro Albuquerque" creationdate="20210424T075424Z">
@@ -12893,6 +12901,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105627Z" creationid="Pedro Albuquerque" creationdate="20210424T105627Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105555Z" creationid="Pedro Albuquerque" creationdate="20210424T105555Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T115406Z" creationid="Pedro Albuquerque" creationdate="20210420T115406Z">
@@ -12937,6 +12961,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100957Z" creationid="Pedro Albuquerque" creationdate="20210424T100957Z">
         <seg>Idioma do ambiente do utilizador OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105553Z" creationid="Pedro Albuquerque" creationdate="20210424T105553Z">
+        <seg>A OmegaT tem também as seguintes listas de correio e rastreadores, que estão alojados na SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,6 +13025,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082010Z" creationid="Pedro Albuquerque" creationdate="20210423T082010Z">
         <seg>A OmegaT tem um corrector ortográfico incorporado baseado no corrector ortográfico utilizado no Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105419Z" creationid="Pedro Albuquerque" creationdate="20210424T105419Z">
+        <seg>A OmegaT tem um grupo de utilizadores muito activo, solidário e multilingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18086,8 +18126,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The OmegaT developers" list.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105611Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A lista dos programadores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19394,6 +19434,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105503Z" creationid="Pedro Albuquerque" creationdate="20210424T105503Z">
+        <seg>Este é o &lt;a0&gt;canal de suporte recomendado&lt;/a0&gt;, ao qual os utilizadores são fortemente encorajados a aderir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092326Z" creationid="Pedro Albuquerque" creationdate="20210424T092326Z">
@@ -19414,6 +19462,22 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091345Z" creationid="Pedro Albuquerque" creationdate="20210424T091345Z">
         <seg>Isto é útil para textos contendo muitas marcas registadas ou outros substantivos próprios que devem ser deixados inalterados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105624Z" creationid="Pedro Albuquerque" creationdate="20210424T105624Z">
+        <seg>Esta lista é para uma discussão mais técnica de características e desenvolvimento, e destina-se a programadores OmegaT e outras partes interessadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105648Z" creationid="Pedro Albuquerque" creationdate="20210424T105648Z">
+        <seg>Esta lista é para tradutores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19818,6 +19882,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173959Z" creationid="Pedro Albuquerque" creationdate="20210420T173959Z">
         <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105657Z" creationid="Pedro Albuquerque" creationdate="20210424T105657Z">
+        <seg>Sistema de rastreio</seg>
       </tuv>
     </tu>
     <tu>
