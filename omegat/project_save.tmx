@@ -6864,6 +6864,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071342Z" creationid="Pedro Albuquerque" creationdate="20210424T071342Z">
+        <seg>Os formatos de ficheiro que não especifiquem a sua codificação, utilizarão a codificação que tiver configurado para a extensão que corresponda ao seu nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174940Z" creationid="Pedro Albuquerque" creationdate="20210420T174940Z">
@@ -7138,6 +7146,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071443Z" creationid="Pedro Albuquerque" creationdate="20210424T071443Z">
+        <seg>Por exemplo, por pré-definição, os ficheiros  &lt;l0&gt;.txt&lt;/l0&gt; serão carregados utilizando a codificação pré-definida do seu sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175049Z" creationid="Pedro Albuquerque" creationdate="20210423T175049Z">
@@ -7164,8 +7180,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175305Z" creationid="Pedro Albuquerque" creationdate="20210423T175305Z">
-        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071249Z" creationid="Pedro Albuquerque" creationdate="20210423T175305Z">
+        <seg>Por exemplo, se desejar que o filtro de texto trate ficheiros readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, e &lt;l4&gt;readme.txt&lt;/l4&gt;) deverá utilizar o padrão &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11503,6 +11519,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071315Z" creationid="Pedro Albuquerque" creationdate="20210424T071315Z">
+        <seg>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074510Z" creationid="Pedro Albuquerque" creationdate="20210421T074510Z">
@@ -14873,6 +14897,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071305Z" creationid="Pedro Albuquerque" creationdate="20210424T071305Z">
+        <seg>Codificação de ficheiros fonte e alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062256Z" creationid="Pedro Albuquerque" creationdate="20210422T062256Z">
@@ -15461,6 +15493,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062301Z" creationid="Pedro Albuquerque" creationdate="20210422T062301Z">
         <seg>Total de alvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071510Z" creationid="Pedro Albuquerque" creationdate="20210424T071510Z">
+        <seg>Os ficheiros-alvo também podem ser escritos em qualquer codificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18841,6 +18881,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112833Z" creationid="Pedro Albuquerque" creationdate="20210422T112833Z">
         <seg>Pode alterar os atalhos já atribuídos e adicionar novos atalhos colocando um ficheiro de definição de atalhos na sua pasta de preferências do &lt;a0&gt;OmegaT&lt;/a0&gt; (acessível em &lt;m1&gt; &lt;g2&gt;Opções&lt;/g2&gt; &lt;g3&gt;Aceder à pasta de configurações&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071500Z" creationid="Pedro Albuquerque" creationdate="20210424T071500Z">
+        <seg>É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente.</seg>
       </tuv>
     </tu>
     <tu>
