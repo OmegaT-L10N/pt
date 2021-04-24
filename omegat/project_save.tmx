@@ -4286,6 +4286,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090704Z" creationid="Pedro Albuquerque" creationdate="20210424T090704Z">
+        <seg>Clique em &lt;g0&gt;Texto automático...&lt;/g0&gt; para configurar opções de texto automático e para adicionar ou remover entradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080357Z" creationid="Pedro Albuquerque" creationdate="20210424T080357Z">
