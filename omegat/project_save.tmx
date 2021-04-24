@@ -2114,6 +2114,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072414Z" creationid="Pedro Albuquerque" creationdate="20210424T072414Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- a extensão do ficheiro original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072406Z" creationid="Pedro Albuquerque" creationdate="20210424T072406Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– permite a inserção apenas do nome do ficheiro-fonte sem a extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -5104,6 +5120,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T095508Z">
         <seg>Glossário pré-definido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072349Z" creationid="Pedro Albuquerque" creationdate="20210424T072349Z">
+        <seg>A pré-definição é &lt;l0&gt;${filename}&lt;/l0&gt;– nome completo do ficheiro-fonte com extensão: neste caso o nome do ficheiro-alvo é o mesmo que o do ficheiro-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15800,6 +15824,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180649Z" creationid="Pedro Albuquerque" creationdate="20210420T180649Z">
         <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072306Z" creationid="Pedro Albuquerque" creationdate="20210424T072306Z">
+        <seg>O diálogo Editar padrão oferece, entre outras, as seguintes opções:</seg>
       </tuv>
     </tu>
     <tu>
