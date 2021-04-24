@@ -9597,6 +9597,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102401Z" creationid="Pedro Albuquerque" creationdate="20210424T102401Z">
+        <seg>Ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105225Z" creationid="Pedro Albuquerque" creationdate="20210421T105225Z">
@@ -9609,6 +9617,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172134Z" creationid="Pedro Albuquerque" creationdate="20210423T172036Z">
         <seg>ignorar o contexto do ficheiro ao identificar segmentos com traduções alternativas: por defeito, OmegaT utiliza o nome do ficheiro-fonte como parte da identificação de uma tradução alternativa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102429Z" creationid="Pedro Albuquerque" creationdate="20210424T102429Z">
+        <seg>Ignorar maiúsculas do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +10869,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182732Z" creationid="Pedro Albuquerque" creationdate="20210421T182732Z">
         <seg>Programador principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102405Z" creationid="Pedro Albuquerque" creationdate="20210424T102405Z">
+        <seg>Aprender</seg>
       </tuv>
     </tu>
     <tu>
@@ -14703,6 +14727,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102533Z" creationid="Pedro Albuquerque" creationdate="20210424T102533Z">
+        <seg>Remover as etiquetas OmegaT que têm &lt;br&gt;letra minúscula antes e depois it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052543Z" creationid="Pedro Albuquerque" creationdate="20210422T052543Z">
@@ -14743,6 +14775,22 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102658Z" creationid="Pedro Albuquerque" creationdate="20210424T102658Z">
+        <seg>Remover caracteres de controlo bidireccional no alvo actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102554Z" creationid="Pedro Albuquerque" creationdate="20210424T102554Z">
+        <seg>Remover fragmentos definidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073918Z" creationid="Pedro Albuquerque" creationdate="20210421T073918Z">
@@ -14763,6 +14811,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171639Z" creationid="Pedro Albuquerque" creationdate="20210423T171639Z">
         <seg>remover espaços iniciais e finais em projectos não segmentados; por defeito, o OmegaT remove-os;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102542Z" creationid="Pedro Albuquerque" creationdate="20210424T102542Z">
+        <seg>Remover mnemónicas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14891,6 +14947,22 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075146Z" creationid="Pedro Albuquerque" creationdate="20210423T075146Z">
         <seg>Substituir pela fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102451Z" creationid="Pedro Albuquerque" creationdate="20210424T102451Z">
+        <seg>Substituir as etiquetas personalizadas por espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102442Z" creationid="Pedro Albuquerque" creationdate="20210424T102442Z">
+        <seg>Substituir as sequências de escape por espaço</seg>
       </tuv>
     </tu>
     <tu>
@@ -16433,6 +16505,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102614Z" creationid="Pedro Albuquerque" creationdate="20210424T102614Z">
+        <seg>Ignorar segmentos onde fonte=alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085706Z" creationid="Pedro Albuquerque" creationdate="20210421T074519Z">
@@ -16997,6 +17077,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094438Z" creationid="Pedro Albuquerque" creationdate="20210424T094438Z">
         <seg>Cadeia mostrando as diferenças entre a fonte e a correspondência. &lt;e0&gt;Dica&lt;/e0&gt;: use isto se o texto que está a traduzir tiver sido actualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102629Z" creationid="Pedro Albuquerque" creationdate="20210424T102629Z">
+        <seg>Remover marcas BiDi</seg>
       </tuv>
     </tu>
     <tu>
@@ -20272,6 +20360,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115137Z" creationid="Pedro Albuquerque" creationdate="20210423T115137Z">
         <seg>Utilizar a correspondência aproximada para entradas de dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102416Z" creationid="Pedro Albuquerque" creationdate="20210424T102416Z">
+        <seg>Usar o glossário</seg>
       </tuv>
     </tu>
     <tu>
