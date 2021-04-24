@@ -4390,6 +4390,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101630Z" creationid="Pedro Albuquerque" creationdate="20210424T101630Z">
+        <seg>Verificar regras LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094202Z" creationid="Pedro Albuquerque" creationdate="20210422T094202Z">
@@ -4402,6 +4410,54 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101240Z" creationid="Pedro Albuquerque" creationdate="20210424T101240Z">
         <seg>Regras de verificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101655Z" creationid="Pedro Albuquerque" creationdate="20210424T101655Z">
+        <seg>Verificar espaços duplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101703Z" creationid="Pedro Albuquerque" creationdate="20210424T101703Z">
+        <seg>Verificar palavras duplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101624Z" creationid="Pedro Albuquerque" creationdate="20210424T101624Z">
+        <seg>Verificar espaços iniciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101720Z" creationid="Pedro Albuquerque" creationdate="20210424T101720Z">
+        <seg>Verificar alvos mais longos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101712Z" creationid="Pedro Albuquerque" creationdate="20210424T101712Z">
+        <seg>Verificar alvos mais curtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101644Z" creationid="Pedro Albuquerque" creationdate="20210424T101644Z">
+        <seg>Verificar espaços finais</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,10 +4486,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101740Z" creationid="Pedro Albuquerque" creationdate="20210424T101740Z">
+        <seg>Verificar pontuação no fim do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093440Z" creationid="Pedro Albuquerque" creationdate="20210421T093440Z">
         <seg>Procurar padrões simples &amp;java MessageFormat (e.g. {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101909Z" creationid="Pedro Albuquerque" creationdate="20210424T101909Z">
+        <seg>Verificar maiúscula inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4546,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093242Z" creationid="Pedro Albuquerque" creationdate="20210424T093242Z">
         <seg>Marque esta opção para registar no ficheiro &lt;f0&gt;project_save.tmx&lt;/f0&gt; a informação de que um segmento foi auto-povoado, para que possa ser mostrado com uma cor específica no editor (se a opção "Marcar segmentos auto-povoados", no menu Ver, estiver marcada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101602Z" creationid="Pedro Albuquerque" creationdate="20210424T101602Z">
+        <seg>Verificar todo o projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9657,6 +9737,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094709Z" creationid="Pedro Albuquerque" creationdate="20210424T094709Z">
         <seg>Incluir o primeiro segmento não-único ao marcar segmentos não-únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101525Z" creationid="Pedro Albuquerque" creationdate="20210424T101525Z">
+        <seg>Números inconsistentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -16641,6 +16729,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101543Z" creationid="Pedro Albuquerque" creationdate="20210424T101543Z">
+        <seg>Erros ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Split</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065156Z" creationid="Pedro Albuquerque" creationdate="20210422T065156Z">
@@ -17013,6 +17109,30 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063413Z" creationid="Pedro Albuquerque" creationdate="20210422T063413Z">
         <seg>Etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101504Z" creationid="Pedro Albuquerque" creationdate="20210424T101504Z">
+        <seg>Etiquetas - número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101515Z" creationid="Pedro Albuquerque" creationdate="20210424T101515Z">
+        <seg>Etiquetas - ordem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101510Z" creationid="Pedro Albuquerque" creationdate="20210424T101510Z">
+        <seg>Etiquetas - espaços</seg>
       </tuv>
     </tu>
     <tu>
