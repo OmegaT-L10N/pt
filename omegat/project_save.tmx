@@ -3018,6 +3018,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092906Z" creationid="Pedro Albuquerque" creationdate="20210424T092906Z">
+        <seg>Permitir a edição de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053830Z" creationid="Pedro Albuquerque" creationdate="20210422T053830Z">
@@ -4226,6 +4234,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113615Z" creationid="Pedro Albuquerque" creationdate="20210423T113615Z">
         <seg>Marque esta caixa para enviar apenas segmentos não traduzidos para os serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093050Z" creationid="Pedro Albuquerque" creationdate="20210424T093050Z">
+        <seg>Marque esta opção para ser avisado das diferenças entre as etiquetas dos segmentos fonte e alvo cada vez que deixar um segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093242Z" creationid="Pedro Albuquerque" creationdate="20210424T093242Z">
+        <seg>Marque esta opção para registar no ficheiro &lt;f0&gt;project_save.tmx&lt;/f0&gt; a informação de que um segmento foi auto-povoado, para que possa ser mostrado com uma cor específica no editor (se a opção "Marcar segmentos auto-povoados", no menu Ver, estiver marcada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14031,6 +14055,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093011Z" creationid="Pedro Albuquerque" creationdate="20210424T093011Z">
+        <seg>A remoção de uma etiqueta inteira permanece possível nesse caso, usando Ctrl+Backspace/Delete ou seleccionando-a completamente (Ctrl+Shift+Esquerda/Direita) e depois eliminando-a (Delete ou Ctrl+X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165804Z" creationid="Pedro Albuquerque" creationdate="20210420T165804Z">
@@ -14555,6 +14587,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091746Z" creationid="Pedro Albuquerque" creationdate="20210421T091746Z">
         <seg>Gravar estado de p&amp;ovoamento automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093136Z" creationid="Pedro Albuquerque" creationdate="20210424T093136Z">
+        <seg>Gravar estado de auto-povoamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -18874,6 +18914,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092941Z" creationid="Pedro Albuquerque" creationdate="20210424T092941Z">
+        <seg>Desmarcar esta opção para evitar qualquer dano nas etiquetas (ou seja, eliminação parcial) durante a edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115254Z" creationid="Pedro Albuquerque" creationdate="20210422T115254Z">
@@ -19428,6 +19476,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080700Z" creationid="Pedro Albuquerque" creationdate="20210423T080700Z">
         <seg>Validar etiquetas no documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093020Z" creationid="Pedro Albuquerque" creationdate="20210424T093020Z">
+        <seg>Validar as etiquetas ao deixar um segmento</seg>
       </tuv>
     </tu>
     <tu>
