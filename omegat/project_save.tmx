@@ -13971,6 +13971,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110110Z" creationid="Pedro Albuquerque" creationdate="20210424T110110Z">
+        <seg>Por favor contacte o &lt;a3&gt;gestor do sítio web&lt;/a3&gt; para qualquer ponto relativo especificamente ao sítio web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -21010,6 +21018,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101031Z" creationid="Pedro Albuquerque" creationdate="20210424T101031Z">
         <seg>Idioma do ambiente do utilizador para OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110222Z" creationid="Pedro Albuquerque" creationdate="20210424T110222Z">
+        <seg>User manuals</seg>
       </tuv>
     </tu>
     <tu>
