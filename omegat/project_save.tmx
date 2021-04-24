@@ -3442,6 +3442,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091916Z" creationid="Pedro Albuquerque" creationdate="20210424T091916Z">
+        <seg>Tentativa de converter números ao inserir um correspondência aproximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052952Z" creationid="Pedro Albuquerque" creationdate="20210422T052952Z">
@@ -8807,10 +8815,26 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092016Z" creationid="Pedro Albuquerque" creationdate="20210424T092016Z">
+        <seg>Se esta opção for marcada, quando um correspondência aproximada é inserida, manual ou automaticamente, o OmegaT tenta converter os números nas correspondências aproximadas de acordo com o conteúdo da fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114421Z" creationid="Pedro Albuquerque" creationdate="20210423T114421Z">
         <seg>Se esta opção estiver marcada, o OmegaT não se lembrará da chave de acesso entre sessões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091837Z" creationid="Pedro Albuquerque" creationdate="20210424T091837Z">
+        <seg>Se acrescentar um prefixo (por exemplo [fuzzy]), pode rastrear essas traduções mais tarde para ver se estão correctas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12001,6 +12025,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071803Z" creationid="Pedro Albuquerque" creationdate="20210424T071803Z">
         <seg>O OmegaT identifica a codificação do ficheiro-fonte utilizando a sua declaração de codificação, se presente (ficheiros HTML, ficheiros baseados em XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091712Z" creationid="Pedro Albuquerque" creationdate="20210424T091712Z">
+        <seg>O OmegaT insere a tradução da cadeia mais semelhante à fonte actual, se estiver acima do limiar de similaridade que seleccionou neste diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16756,6 +16788,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091848Z" creationid="Pedro Albuquerque" creationdate="20210424T091848Z">
+        <seg>As caixas de verificação na metade inferior da janela de diálogo servem o seguinte propósito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114956Z" creationid="Pedro Albuquerque" creationdate="20210423T114956Z">
@@ -17140,6 +17180,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075115Z" creationid="Pedro Albuquerque" creationdate="20210424T075115Z">
         <seg>As regras de interrupção predefinidas devem ser suficientes para a maioria dos idiomas europeus e para o japonês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091822Z" creationid="Pedro Albuquerque" creationdate="20210424T091822Z">
+        <seg>O prefixo (vazio por defeito) pode ser usado para etiquetar traduções, feitas através de correspondências aproximadas.</seg>
       </tuv>
     </tu>
     <tu>
