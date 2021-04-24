@@ -4294,6 +4294,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090730Z" creationid="Pedro Albuquerque" creationdate="20210424T090730Z">
+        <seg>Clique em &lt;g0&gt; Tabela de caracteres...&lt;/g0&gt; para definir as opções de conclusão automática da tabela de caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080357Z" creationid="Pedro Albuquerque" creationdate="20210424T080357Z">
