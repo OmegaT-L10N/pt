@@ -68,10 +68,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094555Z" creationid="Pedro Albuquerque" creationdate="20210424T094555Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094439Z" creationid="Pedro Albuquerque" creationdate="20210424T094439Z">
+        <seg>${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094353Z" creationid="Pedro Albuquerque" creationdate="20210424T094353Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094618Z" creationid="Pedro Albuquerque" creationdate="20210424T094618Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${id}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094301Z" creationid="Pedro Albuquerque" creationdate="20210424T094301Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094533Z" creationid="Pedro Albuquerque" creationdate="20210424T094533Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094455Z" creationid="Pedro Albuquerque" creationdate="20210424T094455Z">
+        <seg>${score}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9357,6 +9405,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094649Z" creationid="Pedro Albuquerque" creationdate="20210424T094649Z">
+        <seg>Indicar que esta correspondência é aproximada (actualmente apenas para traduções de ficheiros PO com a marca #fuzzy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174106Z" creationid="Pedro Albuquerque" creationdate="20210420T174106Z">
@@ -12931,6 +12987,30 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094618Z" creationid="Pedro Albuquerque" creationdate="20210424T094618Z">
+        <seg>Percentagem calculada com a opção &lt;g0&gt;Texto completo, incluindo etiquetas e números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094554Z" creationid="Pedro Albuquerque" creationdate="20210424T094554Z">
+        <seg>Percentagem calculada com a opção &lt;g0&gt;Sem etiquetas e sem números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094532Z" creationid="Pedro Albuquerque" creationdate="20210424T094532Z">
+        <seg>Percentagem calculada com a opção &lt;g0&gt;Lematizar, sem etiquetas e sem números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053445Z" creationid="Pedro Albuquerque" creationdate="20210422T053445Z">
@@ -14647,6 +14727,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094454Z" creationid="Pedro Albuquerque" creationdate="20210424T094454Z">
+        <seg>O mesmo que ${diff}, mas com as diferenças (o que deve ser inserido e eliminado) invertidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093939Z" creationid="Pedro Albuquerque" creationdate="20210422T093939Z">
@@ -16293,6 +16381,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114358Z" creationid="Pedro Albuquerque" creationdate="20210423T114358Z">
         <seg>Armazenar só para esta sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094438Z" creationid="Pedro Albuquerque" creationdate="20210424T094438Z">
+        <seg>Cadeia mostrando as diferenças entre a fonte e a correspondência. &lt;e0&gt;Dica&lt;/e0&gt;: use isto se o texto que está a traduzir tiver sido actualizado.</seg>
       </tuv>
     </tu>
     <tu>
