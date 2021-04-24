@@ -5194,6 +5194,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103220Z" creationid="Pedro Albuquerque" creationdate="20210424T103220Z">
+        <seg>A converter todos os .DOCX no projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103229Z" creationid="Pedro Albuquerque" creationdate="20210424T103229Z">
+        <seg>A converter o.DOCX actual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124747Z" creationid="Pedro Albuquerque" creationdate="20210420T124747Z">
@@ -5412,8 +5428,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Creating output file "{0}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103330Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A criar ficheiro de saída "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,6 +12129,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103244Z" creationid="Pedro Albuquerque" creationdate="20210424T103244Z">
+        <seg>Nenhum .DOCX para limpar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090403Z" creationid="Pedro Albuquerque" creationdate="20210422T090403Z">
@@ -12189,6 +12213,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110748Z" creationid="Pedro Albuquerque" creationdate="20210421T110748Z">
         <seg>Não há novos dicionários disponíveis no servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103122Z" creationid="Pedro Albuquerque" creationdate="20210424T103122Z">
+        <seg>Nenhum projecto carregado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13201,8 +13233,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Opening input file "{0}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103319Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A abrir ficheiro de entrada "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14211,6 +14243,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103128Z" creationid="Pedro Albuquerque" creationdate="20210424T103128Z">
+        <seg>O projecto não contém ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105202Z" creationid="Pedro Albuquerque" creationdate="20210421T105202Z">
@@ -14863,6 +14903,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103112Z" creationid="Pedro Albuquerque" creationdate="20210424T103112Z">
+        <seg>Remover etiquetas dos documentos DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102113Z" creationid="Pedro Albuquerque" creationdate="20210424T102113Z">
@@ -15289,8 +15337,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Running Tagwipe for file "{0}"</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103152Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A executar o Tagwipe no ficheiro "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16229,6 +16277,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052329Z" creationid="Pedro Albuquerque" creationdate="20210422T052329Z">
         <seg>Motor seleccionado: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103158Z" creationid="Pedro Albuquerque" creationdate="20210424T103158Z">
+        <seg>Opções seleccionadas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17445,6 +17501,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101510Z" creationid="Pedro Albuquerque" creationdate="20210424T101510Z">
         <seg>Etiquetas - espaços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103058Z" creationid="Pedro Albuquerque" creationdate="20210424T103058Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103302Z" creationid="Pedro Albuquerque" creationdate="20210424T103302Z">
+        <seg>O Tagwipe terminou, a recarregar o projecto...</seg>
       </tuv>
     </tu>
     <tu>
