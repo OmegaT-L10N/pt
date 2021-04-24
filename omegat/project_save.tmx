@@ -6632,6 +6632,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093752Z" creationid="Pedro Albuquerque" creationdate="20210424T093752Z">
+        <seg>Insira aqui o seu nome e este será anexado a todos os segmentos traduzidos por si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061122Z" creationid="Pedro Albuquerque" creationdate="20210422T061122Z">
@@ -7678,6 +7686,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175049Z" creationid="Pedro Albuquerque" creationdate="20210423T175049Z">
         <seg>Por exemplo, por defeito, o filtro XHTML é utilizado para processar ficheiros com a extensão .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093636Z" creationid="Pedro Albuquerque" creationdate="20210424T093636Z">
+        <seg>Por exemplo, se inserir &lt;u0&gt;\d+&lt;/u0&gt; no campo &lt;g1&gt;Expressão regular para etiquetas personalizadas&lt;/g1&gt;, todos os números serão considerados como etiquetas, permitindo-lhe verificar que os números não foram alterados por engano durante a tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11805,6 +11821,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093733Z" creationid="Pedro Albuquerque" creationdate="20210424T093733Z">
+        <seg>Nota: estas duas instruções podem ser combinadas escrevendo &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100741Z" creationid="Pedro Albuquerque" creationdate="20210421T100741Z">
@@ -15601,6 +15625,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093708Z" creationid="Pedro Albuquerque" creationdate="20210424T093708Z">
+        <seg>Do mesmo modo, inserir &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; para garantir que as etiquetas HTML (por exemplo) inseridas no texto original sejam preservadas sem modificação na tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092639Z" creationid="Pedro Albuquerque" creationdate="20210421T092639Z">
@@ -16784,6 +16816,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182551Z" creationid="Pedro Albuquerque" creationdate="20210421T182551Z">
         <seg>O projecto OmegaT é mantido por um grupo informal e internacional de voluntários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093523Z" creationid="Pedro Albuquerque" creationdate="20210424T093523Z">
+        <seg>O filtro PO já gere %..</seg>
       </tuv>
     </tu>
     <tu>
@@ -20161,6 +20201,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093602Z" creationid="Pedro Albuquerque" creationdate="20210424T093602Z">
+        <seg>Também pode definir várias opções relacionadas com a validação de etiquetas e definir etiquetas personalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084052Z" creationid="Pedro Albuquerque" creationdate="20210423T084052Z">
@@ -20843,6 +20891,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114055Z" creationid="Pedro Albuquerque" creationdate="20210422T114055Z">
         <seg>e &lt;c0&gt;&lt; tecla&gt;&lt;/c0&gt; pode ser qualquer tecla disponível no seu teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093549Z" creationid="Pedro Albuquerque" creationdate="20210424T093549Z">
+        <seg>e o Java™ Resource Bundle filter já gere as etiquetas {#}, por isso só precisa disto para outros tipos de ficheiros.</seg>
       </tuv>
     </tu>
     <tu>
