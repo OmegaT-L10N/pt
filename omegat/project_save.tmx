@@ -3026,6 +3026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075527Z" creationid="Pedro Albuquerque" creationdate="20210424T075527Z">
+        <seg>Uma linha em branco aparecerá na parte inferior da tabela superior (poderá ter de rolar para baixo para a ver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052145Z" creationid="Pedro Albuquerque" creationdate="20210422T052145Z">
@@ -3930,6 +3938,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061953Z" creationid="Pedro Albuquerque" creationdate="20210422T061933Z">
         <seg>Data de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075601Z" creationid="Pedro Albuquerque" creationdate="20210424T075601Z">
+        <seg>Alterar o nome do conjunto de regras e o padrão linguístico para o idioma em questão e o seu código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +8811,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075702Z" creationid="Pedro Albuquerque" creationdate="20210424T075702Z">
+        <seg>Se o seu conjunto de regras lidar com um par idioma-país, aconselhamo-lo a movê-lo para o topo usando o botão &lt;e1&gt;Mover acima&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, during installation, you have created a shortcut on the desktop,
 double-click on that shortcut.</seg>
       </tuv>
@@ -8921,6 +8945,22 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165752Z" creationid="Pedro Albuquerque" creationdate="20210420T165752Z">
         <seg>Para que as alterações tenham efeito, o OmegaT tem de fechar e reabrir o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075511Z" creationid="Pedro Albuquerque" creationdate="20210424T075511Z">
+        <seg>A fim de criar um conjunto vazio de regras para um novo padrão linguístico, clique em &lt;e0&gt;Adicionar &lt;/e0&gt; na metade superior do diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075433Z" creationid="Pedro Albuquerque" creationdate="20210424T075433Z">
+        <seg>A fim de editar ou expandir um conjunto de regras existentes, basta clicar sobre ele na tabela superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10159,6 +10199,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070727Z" creationid="Pedro Albuquerque" creationdate="20210421T070727Z">
         <seg>CSV de idioma Magento CE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075424Z" creationid="Pedro Albuquerque" creationdate="20210424T075424Z">
+        <seg>As grandes alterações às regras de segmentação devem ser geralmente evitadas, especialmente após a conclusão do primeiro projecto, mas pequenas alterações, tais como a adição de uma abreviatura reconhecida, podem ser vantajosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16904,6 +16952,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075443Z" creationid="Pedro Albuquerque" creationdate="20210424T075443Z">
+        <seg>As regras para esse conjunto aparecerão na metade inferior da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174801Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
@@ -17036,6 +17092,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T085018Z" creationid="Pedro Albuquerque" creationdate="20210423T084419Z">
         <seg>O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a sub-pasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados &lt;e0&gt;pt.aff&lt;/e0&gt; e &lt;e1&gt;pt.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075621Z" creationid="Pedro Albuquerque" creationdate="20210424T075621Z">
+        <seg>A sintaxe do padrão linguístico está em conformidade com a sintaxe da expressão regular.</seg>
       </tuv>
     </tu>
     <tu>
