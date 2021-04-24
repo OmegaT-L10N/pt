@@ -8154,6 +8154,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092755Z" creationid="Pedro Albuquerque" creationdate="20210424T092755Z">
+        <seg>Ir para o próximo segmento não traduzido onde exista pelo menos uma tradução alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170303Z" creationid="Pedro Albuquerque" creationdate="20210420T170303Z">
@@ -8851,6 +8859,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114421Z" creationid="Pedro Albuquerque" creationdate="20210423T114421Z">
         <seg>Se esta opção estiver marcada, o OmegaT não se lembrará da chave de acesso entre sessões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092856Z" creationid="Pedro Albuquerque" creationdate="20210424T092856Z">
+        <seg>Se quisermos evitar quaisquer erros de tradução no caso de segmentos com vários possíveis conteúdos alvo, marcar esta caixa fará com que &lt;e0&gt;Ir para o segmento não traduzido seguinte&lt;/e0&gt; pare no segmento seguinte, independentemente de já ter sido traduzido ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14825,6 +14841,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092731Z" creationid="Pedro Albuquerque" creationdate="20210424T092731Z">
+        <seg>Ver &lt;u0&gt;Usar a função de exportação de texto do OmegaT&lt;/u0&gt; para obter informações específicas, exemplos e sugestões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122318Z" creationid="Pedro Albuquerque" creationdate="20210420T122318Z">
@@ -16893,6 +16917,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092635Z" creationid="Pedro Albuquerque" creationdate="20210424T092635Z">
+        <seg>O conteúdo dos ficheiros é substituído ou quando um novo segmento é aberto (source.txt e target.txt) ou quando uma nova selecção é exportada (selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092516Z" creationid="Pedro Albuquerque" creationdate="20210424T092516Z">
@@ -17050,6 +17082,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092502Z" creationid="Pedro Albuquerque" creationdate="20210424T092502Z">
         <seg>Os ficheiros aparecem na sub-pasta /script na pasta de ficheiros de utilizador OmegaT e incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092644Z" creationid="Pedro Albuquerque" creationdate="20210424T092644Z">
+        <seg>Os ficheiros são ficheiros de texto simples sem formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17572,6 +17612,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074700Z" creationid="Pedro Albuquerque" creationdate="20210424T074700Z">
         <seg>Os dois tipos de regras comportam-se da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092659Z" creationid="Pedro Albuquerque" creationdate="20210424T092659Z">
+        <seg>Todo o processo pode ser dirigido e controlado através de Tck/Tcl-based scripting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,6 +21283,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111506Z" creationid="Pedro Albuquerque" creationdate="20210422T111506Z">
         <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092617Z" creationid="Pedro Albuquerque" creationdate="20210424T092617Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
