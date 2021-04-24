@@ -3042,6 +3042,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092153Z" creationid="Pedro Albuquerque" creationdate="20210424T092153Z">
+        <seg>Permitir que a tradução seja igual à fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100833Z" creationid="Pedro Albuquerque" creationdate="20210421T100833Z">
@@ -5984,6 +5992,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101445Z" creationid="Pedro Albuquerque" creationdate="20210421T101445Z">
         <seg>Ancorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092203Z" creationid="Pedro Albuquerque" creationdate="20210424T092203Z">
+        <seg>Os documentos para tradução podem conter marcas registadas, nomes ou outros nomes próprios que serão os mesmos nos documentos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12295,6 +12311,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092145Z" creationid="Pedro Albuquerque" creationdate="20210424T092145Z">
+        <seg>Só são considerados números inteiros e flutuantes simples (usando o ponto como carácter decimal, por exemplo 5.4, mas não 5,4 ou 54E-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114836Z" creationid="Pedro Albuquerque" creationdate="20210422T114836Z">
@@ -17128,6 +17152,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092108Z" creationid="Pedro Albuquerque" creationdate="20210424T092108Z">
+        <seg>Os números devem ser exactamente os mesmos entre a fonte e o alvo correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170011Z" creationid="Pedro Albuquerque" creationdate="20210423T170011Z">
@@ -17344,6 +17376,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092055Z" creationid="Pedro Albuquerque" creationdate="20210424T092055Z">
+        <seg>O segmento- e as correspondências aproximadas devem conter a mesma lista de números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -17480,6 +17520,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092025Z" creationid="Pedro Albuquerque" creationdate="20210424T092025Z">
+        <seg>Há uma série de restrições:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are essentially two ways in which you can do this.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082647Z" creationid="Pedro Albuquerque" creationdate="20210423T082647Z">
@@ -17500,6 +17548,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101833Z" creationid="Pedro Albuquerque" creationdate="20210422T101833Z">
         <seg>não existem termos no segmento actual que correspondam a quaisquer termos no glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092237Z" creationid="Pedro Albuquerque" creationdate="20210424T092237Z">
+        <seg>Há duas estratégias para segmentos que contêm só este texto invariável.</seg>
       </tuv>
     </tu>
     <tu>
