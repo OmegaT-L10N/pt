@@ -8421,8 +8421,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you want to revert to the filter"s default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072242Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se quiser voltar à pré-definição do filtro, clique em &lt;e1&gt;Repor pré-definições&lt;/e1&gt;. Também pode modificar o nome directamente no campo padrão do nome do ficheiro-alvo do diálogo dos filtros de ficheiros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11473,6 +11473,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160805Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
         <seg>OmegaT usa uma série de bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071905Z" creationid="Pedro Albuquerque" creationdate="20210424T071905Z">
+        <seg>O OmegaT utiliza a codificação predefinida do sistema operativo para ficheiros de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14817,6 +14825,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071953Z" creationid="Pedro Albuquerque" creationdate="20210424T071953Z">
+        <seg>Por vezes, pode desejar renomear os ficheiros que traduz automaticamente, por exemplo, acrescentando um código linguístico após o nome do ficheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182305Z" creationid="Pedro Albuquerque" creationdate="20210421T181845Z">
@@ -16560,6 +16576,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072036Z" creationid="Pedro Albuquerque" creationdate="20210424T072036Z">
+        <seg>O padrão do nome do ficheiro-alvo usa uma sintaxe especial, por isso, se quiser editar este campo, deve clicar em &lt;e0&gt;Editar...&lt;/e0&gt; e usar o diálogo Editar padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055454Z" creationid="Pedro Albuquerque" creationdate="20210421T055454Z">
@@ -17300,6 +17324,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065222Z" creationid="Pedro Albuquerque" creationdate="20210421T065222Z">
         <seg>O caminho do ficheiro traduzido não pode ser idêntico ao caminho do ficheiro de origem:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071928Z" creationid="Pedro Albuquerque" creationdate="20210424T071928Z">
+        <seg>Nomes dos ficheiros traduzidos</seg>
       </tuv>
     </tu>
     <tu>
