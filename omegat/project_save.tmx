@@ -3002,6 +3002,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105907Z" creationid="Pedro Albuquerque" creationdate="20210424T105907Z">
+        <seg>Administração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075847Z" creationid="Pedro Albuquerque" creationdate="20210424T075847Z">
@@ -4050,6 +4058,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163412Z" creationid="Pedro Albuquerque" creationdate="20210420T163412Z">
         <seg>Relatórios de erros (em inglês), na página SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105728Z" creationid="Pedro Albuquerque" creationdate="20210424T105728Z">
+        <seg>Problemas, pedidos de funcionalidades e questões de documentação são tratados na SourceForge pelos seguintes sistemas de rastreio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6540,6 +6556,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105832Z" creationid="Pedro Albuquerque" creationdate="20210424T105832Z">
+        <seg>Sistema de rastreio de documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092203Z" creationid="Pedro Albuquerque" creationdate="20210424T092203Z">
@@ -7792,6 +7816,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105901Z" creationid="Pedro Albuquerque" creationdate="20210424T105901Z">
+        <seg>Grupo do Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063608Z" creationid="Pedro Albuquerque" creationdate="20210421T063608Z">
@@ -7876,6 +7908,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063810Z" creationid="Pedro Albuquerque" creationdate="20210421T063810Z">
         <seg>Erro fatal na linha {0}, coluna {1} ao analisar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105818Z" creationid="Pedro Albuquerque" creationdate="20210424T105818Z">
+        <seg>Sistema de rastreio de pedidos de funcionalidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -8358,6 +8398,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174324Z" creationid="Pedro Albuquerque" creationdate="20210423T174324Z">
         <seg>Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110038Z" creationid="Pedro Albuquerque" creationdate="20210424T110038Z">
+        <seg>Para pedidos de apoio, utilize o &lt;a1&gt;canal de suporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10345,6 +10393,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090233Z" creationid="Pedro Albuquerque" creationdate="20210422T090233Z">
         <seg>Problemas em {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105801Z" creationid="Pedro Albuquerque" creationdate="20210424T105801Z">
+        <seg>Sistema de rastreio de problemas/erros</seg>
       </tuv>
     </tu>
     <tu>
@@ -13029,6 +13085,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105855Z" creationid="Pedro Albuquerque" creationdate="20210424T105855Z">
+        <seg>O OmegaT tem presença em várias redes sociais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105419Z" creationid="Pedro Albuquerque" creationdate="20210424T105419Z">
@@ -13899,6 +13963,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105953Z" creationid="Pedro Albuquerque" creationdate="20210424T105953Z">
+        <seg>Por favor, contacte o &lt;a0&gt;gestor do projecto OmegaT&lt;/a0&gt; relativamente a qualquer ponto não coberto acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -13913,6 +13985,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170100Z" creationid="Pedro Albuquerque" creationdate="20210420T170100Z">
         <seg>Por favor, corrija os problemas de etiquetas antes de utilizar novamente Criar documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105738Z" creationid="Pedro Albuquerque" creationdate="20210424T105738Z">
+        <seg>Por favor, não utilize estes sistemas de rastreio antes de primeiro levantar a questão no grupo de utilizadores e/ou listas de correio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16913,6 +16993,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105841Z" creationid="Pedro Albuquerque" creationdate="20210424T105841Z">
+        <seg>Redes sociais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090017Z" creationid="Pedro Albuquerque" creationdate="20210422T090017Z">
@@ -17893,6 +17981,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172506Z" creationid="Pedro Albuquerque" creationdate="20210423T172506Z">
         <seg>Tecnicamente falando, o segmento &lt;c0&gt;msgstr&lt;/c0&gt; no ficheiro-alvo do PO, se criado, será deixado vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105902Z" creationid="Pedro Albuquerque" creationdate="20210424T105902Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -20148,6 +20244,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181408Z" creationid="Pedro Albuquerque" creationdate="20210421T181408Z">
         <seg>Resolução de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105901Z" creationid="Pedro Albuquerque" creationdate="20210424T105901Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
