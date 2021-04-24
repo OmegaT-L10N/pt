@@ -15343,6 +15343,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102717Z" creationid="Pedro Albuquerque" creationdate="20210424T102717Z">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072754Z" creationid="Pedro Albuquerque" creationdate="20210421T072754Z">
@@ -17085,6 +17093,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102629Z" creationid="Pedro Albuquerque" creationdate="20210424T102629Z">
         <seg>Remover marcas BiDi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102710Z" creationid="Pedro Albuquerque" creationdate="20210424T102710Z">
+        <seg>Remover marcas BiDi no segmento actual</seg>
       </tuv>
     </tu>
     <tu>
