@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075948Z" creationid="Pedro Albuquerque" creationdate="20210424T075948Z">
+        <seg>"\." representa o carácter do ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080012Z" creationid="Pedro Albuquerque" creationdate="20210424T080012Z">
+        <seg>"\s" significa qualquer carácter de espaço branco (espaço, tabulação, nova página, etc.).)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -2394,10 +2410,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075829Z" creationid="Pedro Albuquerque" creationdate="20210424T075829Z">
+        <seg>Alguns exemplos simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T095434Z">
         <seg>Um determinado projecto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário pré-definido do projecto, será directamente editável a partir do ambiente do utilizador OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075821Z" creationid="Pedro Albuquerque" creationdate="20210424T075821Z">
+        <seg>Um bom ponto de partida serão sempre as regras existentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2834,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075741Z" creationid="Pedro Albuquerque" creationdate="20210424T075741Z">
+        <seg>Adicionar os padrões &lt;e0&gt;Antes de&lt;/e0&gt; e &lt;e1&gt;Depois de&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064526Z" creationid="Pedro Albuquerque" creationdate="20210421T064526Z">
@@ -2822,6 +2862,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072928Z" creationid="Pedro Albuquerque" creationdate="20210424T072928Z">
         <seg>Estão disponíveis variantes adicionais para as variáveis ${nameOnly} e ${Extension}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075847Z" creationid="Pedro Albuquerque" creationdate="20210424T075847Z">
+        <seg>Depois de</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,6 +3690,14 @@ Buy another drink</seg>
         <seg>O empregado grita alto:
 A sua página não foi encontrada,
 Compre outra bebida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075841Z" creationid="Pedro Albuquerque" creationdate="20210424T075841Z">
+        <seg>Antes de</seg>
       </tuv>
     </tu>
     <tu>
@@ -9277,6 +9333,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075835Z" creationid="Pedro Albuquerque" creationdate="20210424T075835Z">
+        <seg>Intenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074237Z" creationid="Pedro Albuquerque" creationdate="20210421T074237Z">
@@ -14489,6 +14553,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075812Z" creationid="Pedro Albuquerque" creationdate="20210424T075812Z">
+        <seg>Ver &lt;l2&gt;Expressões regulares&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072741Z" creationid="Pedro Albuquerque" creationdate="20210424T072741Z">
@@ -15043,8 +15115,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Set the segment start after a period (".") followed by a space, tab ...</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075929Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Definir o início do segmento após um ponto (".") seguido de um espaço, tabulação ....</seg>
       </tuv>
     </tu>
     <tu>
@@ -17590,6 +17662,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095953Z" creationid="Pedro Albuquerque" creationdate="20210422T095953Z">
         <seg>Para adicionar novos termos aos glossários de referência, edite-os num editor de texto externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075754Z" creationid="Pedro Albuquerque" creationdate="20210424T075754Z">
+        <seg>Para verificar a sua sintaxe e a sua aplicabilidade, é aconselhável utilizar ferramentas que lhe permitam ver directamente o seu efeito.</seg>
       </tuv>
     </tu>
     <tu>
