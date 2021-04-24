@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="dialogs.projectproperties">
-  <title>Project Properties</title>
+  <title>Propriedades do projecto</title>
 
-  <para>This dialog is accessible by selecting <menuchoice>
-      <guimenuitem>Project</guimenuitem>
-
-      <guimenuitem>Properties...</guimenuitem>
-    </menuchoice></para>
+  <para>Este diálogo está acessível seleccionando <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Propriedades...</guimenuitem> </menuchoice></para>
 
   <section>
     <title>Idiomas</title>
 
-    <para>You can either enter the source and target languages by hand or use
-    the drop down menus. Bear in mind that changing the languages may render
-    the currently used translation memories useless since their language pair
-    may not longer match the new languages.</para>
+    <para>Pode introduzir manualmente os idiomas fonte e alvo ou utilizar os menus pendentes. Tenha em mente que a mudança de idiomas pode tornar inúteis as memórias de tradução actualmente utilizadas, uma vez que o seu par de idiomas pode já não corresponder aos novos idiomas.</para>
 
-    <para>Tokenizers corresponding to the selected languages are
-    displayed.</para>
+    <para>São exibidos os Tokenizers correspondentes aos idiomas seleccionados.</para>
   </section>
 
   <section>
@@ -26,35 +18,19 @@
 
     <variablelist>
       <varlistentry>
-        <term>Enable Sentence-level segmentation</term>
+        <term>Activar a segmentação ao nível das frases</term>
 
         <listitem>
-          <para>The segmentation settings only address the way the source
-          files are handled by <application>OmegaT</application>. The
-          predominant way of segmenting the sources is the sentence-level
-          segmenting, so this check box should in a normal case be left
-          checked.</para>
+          <para>As definições de segmentação apenas abordam a forma como os ficheiros de origem são tratados pelo <application>OmegaT</application>. A forma predominante de segmentar as fontes é a segmentação ao nível da frase, pelo que esta caixa deve, num caso normal, ser deixada marcada.</para>
 
-          <para>In some seldom cases the alternative, i.e. segmenting by
-          paragraphs, may be preferred. Changing this flag does not modify the
-          segmentation of already existing translation memories. If you decide
-          mid-translation to switch from sentence to paragraph translation,
-          the internal translation memory of the project will not be changed
-          (OmegaT may upgrade old translation memories that did not use
-          sentence segmentation, but not vice versa), but OmegaT will attempt
-          to create paragraph fuzzy matches by gluing together existing
-          sentence translations.</para>
+          <para>Nalguns casos raros, a alternativa, ou seja, a segmentação por parágrafos, pode ser preferida. A mudança desta bandeira não altera a segmentação das memórias de tradução já existentes. Se decidir mudar de tradução de frase para tradução de parágrafo, a memória de tradução interna do projecto não será alterada (o OmegaT pode actualizar memórias de tradução antigas que não usavam segmentação de frases, mas não vice-versa), mas o OmegaT tentará criar correspondências aproximadas de parágrafo, colando as traduções de frases existentes.</para>
 
-          <para>Changing segmentation settings may cause some already
-          translated segments to be split or merged. This will effectively
-          return them to the &quot;untranslated&quot; status, as they will no longer
-          match segments recorded in the project memory, even though their
-          original translation is still there.</para>
+          <para>A alteração das definições de segmentação pode causar a divisão ou união de alguns segmentos já traduzidos. Isto vai efectivamente devolvê-los ao estatuto de &quot;Não traduzido&quot;, uma vez que deixarão de corresponder a segmentos registados na memória do projecto, mesmo que a sua tradução original ainda lá esteja.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>Auto-propagation of Translations</term>
+        <term>Auto-propagação de traduções</term>
 
         <listitem>
           <para>In case there are non-unique segments in source documents, the
