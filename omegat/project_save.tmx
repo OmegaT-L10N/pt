@@ -1818,6 +1818,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073126Z" creationid="Pedro Albuquerque" creationdate="20210424T073126Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; tem duas formas de segmentar um texto: por parágrafo ou por segmentação de frases (também referida como "segmentação baseada em regras").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095829Z" creationid="Pedro Albuquerque" creationdate="20210422T095829Z">
@@ -2114,6 +2122,30 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073030Z" creationid="Pedro Albuquerque" creationdate="20210424T073030Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073030Z" creationid="Pedro Albuquerque" creationdate="20210424T073030Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073030Z" creationid="Pedro Albuquerque" creationdate="20210424T073030Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072414Z" creationid="Pedro Albuquerque" creationdate="20210424T072414Z">
@@ -2134,6 +2166,30 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072836Z" creationid="Pedro Albuquerque" creationdate="20210424T072836Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - codificação do ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073029Z" creationid="Pedro Albuquerque" creationdate="20210424T073029Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073029Z" creationid="Pedro Albuquerque" creationdate="20210424T073029Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073029Z" creationid="Pedro Albuquerque" creationdate="20210424T073029Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -8319,6 +8375,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073241Z" creationid="Pedro Albuquerque" creationdate="20210424T073241Z">
+        <seg>Se a segmentação de frases foi seleccionada, pode configurar as regras seleccionando &lt;m4&gt; &lt;g5&gt;Opções&lt;/g5&gt; &lt;g6&gt;Segmentação...&lt;/g6&gt; &lt;/m4&gt;do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
@@ -8697,6 +8761,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165752Z" creationid="Pedro Albuquerque" creationdate="20210420T165752Z">
         <seg>Para que as alterações tenham efeito, o OmegaT tem de fechar e reabrir o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073153Z" creationid="Pedro Albuquerque" creationdate="20210424T073153Z">
+        <seg>Para seleccionar o tipo de segmentação, seleccione &lt;m1&gt; &lt;g2&gt;Projecto&lt;/g2&gt; &lt;g3&gt;Propriedades...&lt;/g3&gt; &lt;/m1&gt; no menu principal e marque ou desmarque a caixa fornecida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12047,6 +12119,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091856Z" creationid="Pedro Albuquerque" creationdate="20210421T091856Z">
         <seg>Formato de delimitação do parágrafo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073222Z" creationid="Pedro Albuquerque" creationdate="20210424T073222Z">
+        <seg>A segmentação de parágrafos é vantajosa em certos casos, tais como traduções altamente criativas ou estilísticas em que o tradutor pode querer alterar a ordem de frases inteiras; para a maioria dos projectos, contudo, a segmentação de frases é uma escolha a privilegiar, uma vez que proporciona melhores correspondências com as traduções anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17588,6 +17668,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053356Z" creationid="Pedro Albuquerque" creationdate="20210422T053356Z">
         <seg>A pasta de memórias de tradução {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073100Z" creationid="Pedro Albuquerque" creationdate="20210424T073100Z">
+        <seg>As ferramentas de memória de tradução funcionam com unidades de texto chamadas segmentos.</seg>
       </tuv>
     </tu>
     <tu>
