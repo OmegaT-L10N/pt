@@ -2122,10 +2122,50 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072821Z" creationid="Pedro Albuquerque" creationdate="20210424T072821Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - codificação do ficheiro-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072836Z" creationid="Pedro Albuquerque" creationdate="20210424T072836Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - codificação do ficheiro-alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072406Z" creationid="Pedro Albuquerque" creationdate="20210424T072406Z">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– permite a inserção apenas do nome do ficheiro-fonte sem a extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072813Z" creationid="Pedro Albuquerque" creationdate="20210424T072813Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - nome do anfitrião do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072755Z" creationid="Pedro Albuquerque" creationdate="20210424T072755Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - sistema operativo do computador utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072805Z" creationid="Pedro Albuquerque" creationdate="20210424T072805Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - nome do utilizador do sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2190,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072544Z" creationid="Pedro Albuquerque" creationdate="20210424T072544Z">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– o idioma-alvo e o código do país juntos (em forma de "XX-YYY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072912Z" creationid="Pedro Albuquerque" creationdate="20210424T072912Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Idioma-alvo em formato Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2734,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062116Z" creationid="Pedro Albuquerque" creationdate="20210422T062116Z">
         <seg>Adicionados: {1}, Eliminados: {2}, Modificados: {3} (Conflitos: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072928Z" creationid="Pedro Albuquerque" creationdate="20210424T072928Z">
+        <seg>Estão disponíveis variantes adicionais para as variáveis ${nameOnly} e ${Extension}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,6 +8241,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073028Z" creationid="Pedro Albuquerque" creationdate="20210424T073028Z">
+        <seg>Se, por exemplo, o ficheiro original for chamado Document.xx.docx, as seguintes variáveis darão os seguintes resultados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -8593,6 +8657,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>In both exact and keyword searches, the wild card search characters "*" and "?" can be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073011Z" creationid="Pedro Albuquerque" creationdate="20210424T073011Z">
+        <seg>No caso do nome do ficheiro ter nome ambivalente, pode-se aplicar variáveis do formulário &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-número de extensão&lt;/e1&gt;} e &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;número de extensão} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
