@@ -1834,6 +1834,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071710Z" creationid="Pedro Albuquerque" creationdate="20210424T071710Z">
+        <seg>&lt;auto&gt; deixa a escolha da codificação ao &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091142Z" creationid="Pedro Albuquerque" creationdate="20210422T091142Z">
@@ -3538,6 +3546,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>By default, the /tm folder is below the project"s root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071543Z" creationid="Pedro Albuquerque" creationdate="20210424T071543Z">
+        <seg>Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,6 +11349,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071803Z" creationid="Pedro Albuquerque" creationdate="20210424T071803Z">
+        <seg>O OmegaT identifica a codificação do ficheiro-fonte utilizando a sua declaração de codificação, se presente (ficheiros HTML, ficheiros baseados em XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -11361,6 +11385,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
 (à sua escolha) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071840Z" creationid="Pedro Albuquerque" creationdate="20210424T071840Z">
+        <seg>O OmegaT é instruído para utilizar uma codificação obrigatória para certos formatos de ficheiro (Java properties etc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,6 +16472,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071650Z" creationid="Pedro Albuquerque" creationdate="20210424T071650Z">
+        <seg>Os campos de codificação de fonte e alvo utilizam menus pendentes contendo todas as codificações suportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055313Z" creationid="Pedro Albuquerque" creationdate="20210421T055313Z">
@@ -16806,6 +16846,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054924Z" creationid="Pedro Albuquerque" creationdate="20210422T054924Z">
         <seg>Este é um ficheiro de projecto válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071717Z" creationid="Pedro Albuquerque" creationdate="20210424T071717Z">
+        <seg>É assim que funciona:</seg>
       </tuv>
     </tu>
     <tu>
