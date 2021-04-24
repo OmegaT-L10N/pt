@@ -3822,6 +3822,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095736Z" creationid="Pedro Albuquerque" creationdate="20210424T095736Z">
+        <seg>Tenha em mente que a mudança de idiomas pode tornar inúteis as memórias de tradução actualmente utilizadas, uma vez que o seu par de idiomas pode já não corresponder aos novos idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075841Z" creationid="Pedro Albuquerque" creationdate="20210424T075841Z">
@@ -6604,6 +6612,14 @@ A sua página de ajuda não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
         <seg>URL de repositório vazia no mapeamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095814Z" creationid="Pedro Albuquerque" creationdate="20210424T095814Z">
+        <seg>Activar a segmentação ao nível das frases</seg>
       </tuv>
     </tu>
     <tu>
@@ -13661,8 +13677,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Project Properties</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095512Z" creationid="Pedro Albuquerque" creationdate="20210424T095512Z">
-        <seg>Project Properties</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095607Z" creationid="Pedro Albuquerque" creationdate="20210424T095512Z">
+        <seg>Propriedades do projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -17848,6 +17864,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095832Z" creationid="Pedro Albuquerque" creationdate="20210424T095832Z">
+        <seg>As definições de segmentação apenas abordam a forma como os ficheiros de origem são tratados pelo &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082845Z" creationid="Pedro Albuquerque" creationdate="20210423T082845Z">
@@ -18290,6 +18314,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095624Z" creationid="Pedro Albuquerque" creationdate="20210424T095624Z">
+        <seg>Este diálogo está acessível seleccionando &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Propriedades...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170735Z" creationid="Pedro Albuquerque" creationdate="20210423T170735Z">
@@ -18714,6 +18746,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065242Z" creationid="Pedro Albuquerque" creationdate="20210422T065242Z">
         <seg>Alternar selecção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095757Z" creationid="Pedro Albuquerque" creationdate="20210424T095757Z">
+        <seg>São exibidos os Tokenizers correspondentes aos idiomas seleccionados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20625,6 +20665,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082715Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Pode copiar ficheiros manualmente, ou seja, de qualquer outra parte do seu sistema, usando o seu gestor de ficheiros; ou pode usar a função &lt;e0&gt;"Instalar novo dicionário"&lt;/e0&gt; do OmegaT para fornecer uma lista de dicionários disponíveis para seleccionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095652Z" creationid="Pedro Albuquerque" creationdate="20210424T095652Z">
+        <seg>Pode introduzir manualmente os idiomas fonte e alvo ou utilizar os menus pendentes.</seg>
       </tuv>
     </tu>
     <tu>
