@@ -3340,8 +3340,8 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074448Z" creationid="Pedro Albuquerque" creationdate="20210424T074448Z">
-        <seg>Em cada uma das regras de posição do cursor, que consistem num padrão &lt;e0&gt;Antes de &lt;e0&gt; e &lt;e1&gt;Depois de &lt;/e1&gt;, são aplicadas na sua ordem dada para ver se algum dos padrões&lt;e2&gt; Antes de&lt;/e2&gt; é válido para o texto à esquerda e o padrão correspondente &lt;e3&gt;Depois de&lt;/e3&gt; para o texto à direita do cursor.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074622Z" creationid="Pedro Albuquerque" creationdate="20210424T074448Z">
+        <seg>Em cada uma das regras de posição do cursor, que consistem num padrão &lt;e0&gt;Antes de&lt;/e0&gt; e &lt;e1&gt;Depois de &lt;/e1&gt;, são aplicadas na sua ordem dada para ver se algum dos padrões&lt;e2&gt; Antes de&lt;/e2&gt; é válido para o texto à esquerda e o padrão correspondente &lt;e3&gt;Depois de&lt;/e3&gt; para o texto à direita do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3666,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093019Z" creationid="Pedro Albuquerque" creationdate="20210422T093011Z">
         <seg>Ambos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074709Z" creationid="Pedro Albuquerque" creationdate="20210424T074709Z">
+        <seg>Regra de quebra</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7386,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074733Z" creationid="Pedro Albuquerque" creationdate="20210424T074733Z">
+        <seg>Por exemplo, "&lt;e0&gt;Fez sentido?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111041Z" creationid="Pedro Albuquerque" creationdate="20210422T111041Z">
@@ -8246,6 +8262,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074757Z" creationid="Pedro Albuquerque" creationdate="20210424T074757Z">
+        <seg>Não tinha a certeza&lt;/e0&gt;." deve ser dividido em dois segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125600Z" creationid="Pedro Albuquerque" creationdate="20210420T125600Z">
@@ -8521,8 +8545,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074504Z" creationid="Pedro Albuquerque" creationdate="20210424T074504Z">
-        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074651Z" creationid="Pedro Albuquerque" creationdate="20210424T074504Z">
+        <seg>Se a regra corresponder, ou o cursor avança sem inserir uma quebra de segmento (para uma regra de excepção), ou é criada uma nova quebra de segmento na posição actual do cursor (para a regra de quebra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,6 +14833,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074721Z" creationid="Pedro Albuquerque" creationdate="20210424T074721Z">
+        <seg>Separa o texto-fonte em segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072805Z" creationid="Pedro Albuquerque" creationdate="20210421T072805Z">
@@ -16964,6 +16996,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060036Z" creationid="Pedro Albuquerque" creationdate="20210422T060036Z">
         <seg>A tradução foi alterada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074700Z" creationid="Pedro Albuquerque" creationdate="20210424T074700Z">
+        <seg>Os dois tipos de regras comportam-se da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
