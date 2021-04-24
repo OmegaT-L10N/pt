@@ -1818,10 +1818,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074138Z" creationid="Pedro Albuquerque" creationdate="20210424T074138Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; primeiros parses do texto para segmentação a nível de estrutura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073126Z" creationid="Pedro Albuquerque" creationdate="20210424T073126Z">
         <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; tem duas formas de segmentar um texto: por parágrafo ou por segmentação de frases (também referida como "segmentação baseada em regras").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074114Z" creationid="Pedro Albuquerque" creationdate="20210424T074114Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; utiliza a seguinte sequência de passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2038,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172807Z" creationid="Pedro Albuquerque" creationdate="20210423T172807Z">
         <seg>&lt;e0&gt;Traduzir os seguintes atributos&lt;/e0&gt;: os atributos seleccionados aparecerão como segmentos na janela do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074043Z" creationid="Pedro Albuquerque" creationdate="20210424T074043Z">
+        <seg>&lt;e0&gt;Aviso&lt;/e0&gt;: porque o texto será segmentado de forma diferente após as opções de filtro terem sido alteradas, poderá ter de começar a traduzir a partir do zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3326,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172530Z" creationid="Pedro Albuquerque" creationdate="20210423T172530Z">
         <seg>Como este é o comportamento padrão para ficheiros PO, está marcado por pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074052Z" creationid="Pedro Albuquerque" creationdate="20210424T074052Z">
+        <seg>Ao mesmo tempo, os segmentos válidos anteriores na memória de tradução do projecto transformar-se-ão em segmentos órfãos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,6 +5364,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073938Z" creationid="Pedro Albuquerque" creationdate="20210424T073938Z">
+        <seg>Já existem regras de segmentação fiáveis para muitos idiomas, pelo que é provável que não tenha de se envolver na escrita das suas próprias regras de segmentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062248Z" creationid="Pedro Albuquerque" creationdate="20210422T062248Z">
@@ -5944,6 +5984,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170316Z" creationid="Pedro Albuquerque" creationdate="20210420T170316Z">
         <seg>Segmentos duplicados: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074147Z" creationid="Pedro Albuquerque" creationdate="20210424T074147Z">
+        <seg>Durante este processo, é apenas a estrutura do ficheiro-fonte que é utilizada para produzir segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7386,6 +7434,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074159Z" creationid="Pedro Albuquerque" creationdate="20210424T074159Z">
+        <seg>Por exemplo, os ficheiros de texto podem ser segmentados em quebras de linha, linhas vazias, ou não ser segmentados de todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175025Z" creationid="Pedro Albuquerque" creationdate="20210423T175025Z">
@@ -8533,6 +8589,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If you can"t run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074102Z" creationid="Pedro Albuquerque" creationdate="20210424T074102Z">
+        <seg>Se alterar as opções de segmentação quando um projecto está aberto, deve recarregar o projecto para que as alterações produzam efeito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,6 +11811,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113942Z" creationid="Pedro Albuquerque" creationdate="20210422T113942Z">
         <seg>Emo Mac, o modificador &lt;e0&gt;meta&lt;/e0&gt; deve ser utilizado para especificar a tecla &lt;e1&gt;comando&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074000Z" creationid="Pedro Albuquerque" creationdate="20210424T074000Z">
+        <seg>Por outro lado, esta funcionalidade pode ser muito útil em casos especiais, onde pode aumentar a sua produtividade ajustando as regras de segmentação ao texto a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15485,6 +15557,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114358Z" creationid="Pedro Albuquerque" creationdate="20210423T114358Z">
         <seg>Armazenar só para esta sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074123Z" creationid="Pedro Albuquerque" creationdate="20210424T074123Z">
+        <seg>Segmentação a nível estrutural</seg>
       </tuv>
     </tu>
     <tu>
