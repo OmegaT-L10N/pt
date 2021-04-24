@@ -7048,6 +7048,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092402Z" creationid="Pedro Albuquerque" creationdate="20210424T092402Z">
+        <seg>Exportar o segmento para ficheiros de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072119Z" creationid="Pedro Albuquerque" creationdate="20210421T072119Z">
@@ -12073,6 +12081,14 @@ tradução alavancada em projectos actualizados.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092347Z" creationid="Pedro Albuquerque" creationdate="20210424T092335Z">
+        <seg>O OmegaT é capaz de reconhecer que o fez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -12211,6 +12227,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170921Z" creationid="Pedro Albuquerque" creationdate="20210423T170921Z">
         <seg>A OmegaT omitirá então os ficheiros correspondentes ao carregar projectos, e copiá-los-á sem modificação para a pasta de destino ao criar documentos-alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092303Z" creationid="Pedro Albuquerque" creationdate="20210424T092303Z">
+        <seg>O OmegaT relata estes segmentos como não traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16732,6 +16756,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092334Z" creationid="Pedro Albuquerque" creationdate="20210424T092334Z">
+        <seg>A alternativa é introduzir uma tradução idêntica ao texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The available options are:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172240Z" creationid="Pedro Albuquerque" creationdate="20210423T172240Z">
@@ -16861,6 +16893,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092516Z" creationid="Pedro Albuquerque" creationdate="20210424T092516Z">
+        <seg>O conteúdo do texto-fonte do segmento (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092530Z" creationid="Pedro Albuquerque" creationdate="20210424T092530Z">
+        <seg>O conteúdo do texto-alvo do segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105628Z" creationid="Pedro Albuquerque" creationdate="20210422T105628Z">
@@ -16882,6 +16930,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092406Z" creationid="Pedro Albuquerque" creationdate="20210422T092406Z">
         <seg>O projecto actual deve ser recarregado a fim de aplicar estas alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092437Z" creationid="Pedro Albuquerque" creationdate="20210424T092437Z">
+        <seg>Os dados são exportados quando o segmento é aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16986,6 +17042,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095709Z" creationid="Pedro Albuquerque" creationdate="20210422T095709Z">
         <seg>O ficheiro não precisa de existir ao defini-lo, ele será criado ao adicionar a primeira entrada do glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092502Z" creationid="Pedro Albuquerque" creationdate="20210424T092502Z">
+        <seg>Os ficheiros aparecem na sub-pasta /script na pasta de ficheiros de utilizador OmegaT e incluem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17472,6 +17536,22 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092428Z" creationid="Pedro Albuquerque" creationdate="20210424T092428Z">
+        <seg>A função de exportação de texto exporta dados de dentro do actual projecto &lt;a0&gt;OmegaT&lt;/a0&gt; para ficheiros de texto simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092616Z" creationid="Pedro Albuquerque" creationdate="20210424T092616Z">
+        <seg>O texto realçado pelo utilizador, quando &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; é premido ou &lt;g1&gt;Editar &gt; Exportar selecção&lt;/g1&gt; é seleccionado (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055454Z" creationid="Pedro Albuquerque" creationdate="20210421T055454Z">
@@ -17834,6 +17914,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092326Z" creationid="Pedro Albuquerque" creationdate="20210424T092326Z">
+        <seg>Esta é a pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171441Z" creationid="Pedro Albuquerque" creationdate="20210420T171441Z">
@@ -18078,6 +18166,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
         <seg>Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092354Z" creationid="Pedro Albuquerque" creationdate="20210424T092336Z">
+        <seg>Para tornar isto possível, seleccione esta opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20001,6 +20097,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100321Z" creationid="Pedro Albuquerque" creationdate="20210421T100321Z">
         <seg>Pode criar entradas no glossário com a opção Criar entrada no glossário do menu Editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092244Z" creationid="Pedro Albuquerque" creationdate="20210424T092244Z">
+        <seg>Pode decidir não traduzir de todo esses segmentos.</seg>
       </tuv>
     </tu>
     <tu>
