@@ -6748,6 +6748,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074921Z" creationid="Pedro Albuquerque" creationdate="20210424T074921Z">
+        <seg>Regra de excepção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090256Z" creationid="Pedro Albuquerque" creationdate="20210421T090256Z">
@@ -7542,6 +7550,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers" mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074817Z" creationid="Pedro Albuquerque" creationdate="20210424T074817Z">
+        <seg>Para que isto aconteça, deveria haver uma regra de quebra para "?", quando seguida por espaços e uma palavra em maiúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8897,6 +8913,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060334Z" creationid="Pedro Albuquerque" creationdate="20210421T060334Z">
         <seg>Na font&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075020Z" creationid="Pedro Albuquerque" creationdate="20210424T075020Z">
+        <seg>Apesar do ponto, &lt;e0&gt;"Sra. Dalloway"&lt;/e0&gt; não deve ser dividido em dois segmentos, pelo que deve ser estabelecida uma regra de excepção para Sra. (e para Sr., para Dr., para Prof., etc.), seguida de um ponto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16760,6 +16784,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075115Z" creationid="Pedro Albuquerque" creationdate="20210424T075115Z">
+        <seg>As regras de interrupção predefinidas devem ser suficientes para a maioria dos idiomas europeus e para o japonês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182641Z" creationid="Pedro Albuquerque" creationdate="20210421T182641Z">
@@ -17454,6 +17486,22 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054023Z" creationid="Pedro Albuquerque" creationdate="20210422T054023Z">
         <seg>Para o converter num novo projecto de equipa, abra-o no GUI do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074850Z" creationid="Pedro Albuquerque" creationdate="20210424T074850Z">
+        <seg>Para definir uma regra como regra de quebra, marque a caixa Quebra/Excepção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075047Z" creationid="Pedro Albuquerque" creationdate="20210424T075047Z">
+        <seg>Para definir uma regra como regra de excepção, deixar a caixa Quebra/Excepção desmarcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,6 +21165,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072922Z" creationid="Pedro Albuquerque" creationdate="20210421T072922Z">
         <seg>slf4j (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074934Z" creationid="Pedro Albuquerque" creationdate="20210424T074934Z">
+        <seg>especifica que partes do texto NÃO devem ser separadas.</seg>
       </tuv>
     </tu>
     <tu>
