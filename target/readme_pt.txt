@@ -4,7 +4,7 @@ Este documento foi traduzido por Pedro M. R. Albuquerque
 O que é o OmegaT?
 ===============
 
-OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
+O OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
 com correspondência fuzzy, memória de tradução, pesquisa de palavras-chave, glossários e
 tradução alavancada em projectos actualizados.
 
@@ -13,12 +13,12 @@ tradução alavancada em projectos actualizados.
 Informação de licenciamento
 =====================
 
-OmegaT está disponível sob os termos da GNU General Public License como
+O OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
 (à sua escolha) qualquer versão posterior. Pode encontrar o texto da licença em
 /docs/OmegaT-license.txt.
 
-OmegaT usa uma série de bibliotecas. A licença de cada biblioteca é mencionada em
+O OmegaT usa uma série de bibliotecas. A licença de cada biblioteca é mencionada em
 /lib/licenses/Licenses.txt.
 
 
@@ -137,7 +137,7 @@ e depois:
 Início do OmegaT a partir da linha de comando (todos os sistemas)
 ====================================================
 
-O comando para inciar o OmegaT é:
+O comando para iniciar o OmegaT é:
 
     cd <pasta onde se encontra o ficheiro OmegaT.jar>
 
