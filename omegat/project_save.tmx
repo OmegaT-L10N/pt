@@ -3130,6 +3130,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094850Z" creationid="Pedro Albuquerque" creationdate="20210424T094850Z">
+        <seg>Permite ao utilizador seleccionar o intervalo - em minutos e segundos - entre gravações automáticas consecutivos do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100833Z" creationid="Pedro Albuquerque" creationdate="20210421T100833Z">
@@ -4134,6 +4142,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094903Z" creationid="Pedro Albuquerque" creationdate="20210424T094903Z">
+        <seg>Alterar o intervalo padrão (3 minutos) em função das características do projecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075601Z" creationid="Pedro Albuquerque" creationdate="20210424T075601Z">
@@ -4338,6 +4354,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093050Z" creationid="Pedro Albuquerque" creationdate="20210424T093050Z">
         <seg>Marque esta opção para ser avisado das diferenças entre as etiquetas dos segmentos fonte e alvo cada vez que deixar um segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094726Z" creationid="Pedro Albuquerque" creationdate="20210424T094726Z">
+        <seg>Marque esta opção para mostrar todos os segmentos não únicos (repetições) a cinzento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4868,14 @@ Compre outra bebida</seg>
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Uma lista de expressões regulares de ficheiros-fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094700Z" creationid="Pedro Albuquerque" creationdate="20210424T094700Z">
+        <seg>Contém opções para exibição de textos e informação de modificação de diferentes maneiras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9401,6 +9433,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092618Z" creationid="Pedro Albuquerque" creationdate="20210421T092618Z">
         <seg>&amp;Incluir o primeiro segmento não-único ao marcar segmentos não-únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094709Z" creationid="Pedro Albuquerque" creationdate="20210424T094709Z">
+        <seg>Incluir o primeiro segmento não-único ao marcar segmentos não-únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -16209,6 +16249,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095000Z" creationid="Pedro Albuquerque" creationdate="20210424T095000Z">
+        <seg>Especificar comandos que são executados após o comando &lt;g0&gt;Criar documentos traduzidos&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071701Z" creationid="Pedro Albuquerque" creationdate="20210421T071701Z">
@@ -19978,6 +20026,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094745Z" creationid="Pedro Albuquerque" creationdate="20210424T094745Z">
+        <seg>Quando a opção está desmarcada, todos os segmentos não-únicos são mostrados a cinzento, excepto a primeira ocorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113927Z" creationid="Pedro Albuquerque" creationdate="20210423T113927Z">
@@ -21793,6 +21849,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094938Z" creationid="Pedro Albuquerque" creationdate="20210424T094938Z">
+        <seg>intervalos longos para projectos de equipa alojados em servidores externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075853Z" creationid="Pedro Albuquerque" creationdate="20210423T075853Z">
@@ -22229,6 +22293,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075922Z" creationid="Pedro Albuquerque" creationdate="20210423T075922Z">
         <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094915Z" creationid="Pedro Albuquerque" creationdate="20210424T094915Z">
+        <seg>intervalos curtos (mínimo: 10 segundos) para projectos sincronizados num servidor interno.</seg>
       </tuv>
     </tu>
     <tu>
