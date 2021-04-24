@@ -12417,8 +12417,8 @@ a pasta Aplicações.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160655Z" creationid="Pedro Albuquerque" creationdate="20210420T160655Z">
-        <seg>OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100401Z" creationid="Pedro Albuquerque" creationdate="20210420T160655Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
 com correspondência fuzzy, memória de tradução, pesquisa de palavras-chave, glossários e
 tradução alavancada em projectos actualizados.</seg>
       </tuv>
@@ -12445,8 +12445,8 @@ tradução alavancada em projectos actualizados.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160731Z" creationid="Pedro Albuquerque" creationdate="20210420T160731Z">
-        <seg>OmegaT está disponível sob os termos da GNU General Public License como
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100406Z" creationid="Pedro Albuquerque" creationdate="20210420T160731Z">
+        <seg>O OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
 (à sua escolha) qualquer versão posterior.</seg>
       </tuv>
@@ -12543,8 +12543,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160805Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
-        <seg>OmegaT usa uma série de bibliotecas.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100410Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
+        <seg>O OmegaT usa uma série de bibliotecas.</seg>
       </tuv>
     </tu>
     <tu>
