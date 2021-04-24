@@ -1810,6 +1810,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091503Z" creationid="Pedro Albuquerque" creationdate="20210424T091503Z">
+        <seg>&lt;/e1&gt; As traduções vazias são agora permitidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175215Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9325,6 +9333,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091652Z" creationid="Pedro Albuquerque" creationdate="20210424T091652Z">
+        <seg>Inserir a melhor correspondência aproximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert the source text</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091323Z" creationid="Pedro Albuquerque" creationdate="20210424T091323Z">
@@ -10165,6 +10181,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182732Z" creationid="Pedro Albuquerque" creationdate="20210421T182732Z">
         <seg>Programador principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091352Z" creationid="Pedro Albuquerque" creationdate="20210424T091352Z">
+        <seg>Deixar o segmento vazio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12055,6 +12079,14 @@ ser iniciado.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>OmegaT isn"t just a product; it"s an exciting project, and you can be part of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT leaves the editing field blank.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091404Z" creationid="Pedro Albuquerque" creationdate="20210424T091404Z">
+        <seg>O OmegaT deixa o campo de edição em branco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16846,6 +16878,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091608Z" creationid="Pedro Albuquerque" creationdate="20210424T091608Z">
+        <seg>A entrada &lt;e3&gt;Remover tradução&lt;/e3&gt; no mesmo menu pendente também permite apagar a tradução existente do segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -17478,6 +17518,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091525Z" creationid="Pedro Albuquerque" creationdate="20210424T091525Z">
+        <seg>São mostradas como &lt;VAZIA&gt; no Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095348Z" creationid="Pedro Albuquerque" creationdate="20210422T095348Z">
@@ -17690,6 +17738,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091345Z" creationid="Pedro Albuquerque" creationdate="20210424T091345Z">
+        <seg>Isto é útil para textos contendo muitas marcas registadas ou outros substantivos próprios que devem ser deixados inalterados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -17710,6 +17766,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172712Z" creationid="Pedro Albuquerque" creationdate="20210423T172712Z">
         <seg>Esta opção permite que o OmegaT substitua a especificação no cabeçalho do ficheiro PO e utilize a predefinição para o idioma-alvo seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091451Z" creationid="Pedro Albuquerque" creationdate="20210424T091451Z">
+        <seg>Esta opção permite-lhe inserir a tradução sem necessidade de remover o texto original, poupando assim dois toques de tecla (&lt;e0&gt;Ctrl+A&lt;/e0&gt; e &lt;e1&gt;Del.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17838,6 +17902,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054023Z" creationid="Pedro Albuquerque" creationdate="20210422T054023Z">
         <seg>Para o converter num novo projecto de equipa, abra-o no GUI do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091547Z" creationid="Pedro Albuquerque" creationdate="20210424T091547Z">
+        <seg>Para criar uma, clique com o botão direito num segmento e seleccione "&lt;e2&gt;Configurar tradução vazia&lt;/e2&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19725,6 +19797,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162331Z" creationid="Pedro Albuquerque" creationdate="20210420T162331Z">
         <seg>Pode então iniciar o script Kaptain com:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091629Z" creationid="Pedro Albuquerque" creationdate="20210424T091629Z">
+        <seg>Consegue-se o mesmo ao limpar o segmento alvo e ao premir &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
