@@ -10519,6 +10519,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104919Z" creationid="Pedro Albuquerque" creationdate="20210425T104919Z">
+        <seg>Neste caso, o procedimento é o mesmo, mas o gestor do projecto não adiciona (todos) os ficheiros ao projecto controlado por versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075142Z" creationid="Pedro Albuquerque" creationdate="20210424T075142Z">
@@ -10835,6 +10843,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101705Z" creationid="Pedro Albuquerque" creationdate="20210421T101705Z">
         <seg>Arranque instantâneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104929Z" creationid="Pedro Albuquerque" creationdate="20210425T104929Z">
+        <seg>Em vez disso, os tradutores copiam os ficheiros eles próprios, ou adicionam mapeamentos para sincronizar ficheiros de outros locais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12065,6 +12081,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054939Z" creationid="Pedro Albuquerque" creationdate="20210421T054939Z">
         <seg>Mapeamento de pastas locais para pstas remotas nos repositórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105111Z" creationid="Pedro Albuquerque" creationdate="20210425T105111Z">
+        <seg>Parâmetros de mapeamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -13995,6 +14019,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181633Z" creationid="Pedro Albuquerque" creationdate="20210421T181633Z">
         <seg>Equipa do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104908Z" creationid="Pedro Albuquerque" creationdate="20210425T104908Z">
+        <seg>Os projectos de equipa OmegaT também podem ser criados de uma forma diferente, onde vários tradutores partilham o ficheiro project_save.tmx mas não (todos) os ficheiros (de origem).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19714,6 +19746,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105101Z" creationid="Pedro Albuquerque" creationdate="20210425T105101Z">
+        <seg>Os mapeamentos podem ser adicionados através do UI: &lt;m0&gt;&lt;g1&gt;Projecto&lt;/g1&gt;&lt;g2&gt;Propriedades&lt;/g2&gt;&lt;g3&gt; Mapear repositório&lt;/g3&gt;&lt;/m0&gt; ou por edição de &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163257Z" creationid="Pedro Albuquerque" creationdate="20210420T163257Z">
@@ -20472,6 +20512,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103829Z" creationid="Pedro Albuquerque" creationdate="20210425T103829Z">
         <seg>Isto pode ser feito de duas maneiras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105141Z" creationid="Pedro Albuquerque" creationdate="20210425T105141Z">
+        <seg>Isto pode ser http (que inclui https), svn, git ou file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25135,6 +25183,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090327Z" creationid="Pedro Albuquerque" creationdate="20210425T090327Z">
         <seg>renomeie o actual ficheiro &lt;f0&gt;project_save.tmx&lt;/f0&gt; (e.g. para &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105118Z" creationid="Pedro Albuquerque" creationdate="20210425T105118Z">
+        <seg>tipo de repositório</seg>
       </tuv>
     </tu>
     <tu>
