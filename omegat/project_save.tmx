@@ -4142,6 +4142,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071026Z" creationid="Pedro Albuquerque" creationdate="20210425T071026Z">
+        <seg>Como pré-definição, o alinhamento à esquerda é utilizado para os idiomas da esquerda para a direita (LTR) e o alinhamento à direita para os idiomas da direita para a esquerda (RTL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10777,6 +10785,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070848Z" creationid="Pedro Albuquerque" creationdate="20210425T070848Z">
+        <seg>A justificação dos segmentos fonte e alvo depende dos idiomas do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085653Z" creationid="Pedro Albuquerque" creationdate="20210422T085653Z">
@@ -11525,8 +11541,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070752Z" creationid="Pedro Albuquerque" creationdate="20210425T070752Z">
-        <seg>Manage Right-To-Left languages</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070820Z" creationid="Pedro Albuquerque" creationdate="20210425T070752Z">
+        <seg>Gerir os idiomas da direita para a esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -22287,6 +22303,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114336Z" creationid="Pedro Albuquerque" creationdate="20210423T114336Z">
         <seg>Pode então criar uma chave de acesso na página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071127Z" creationid="Pedro Albuquerque" creationdate="20210425T071127Z">
+        <seg>Pode alternar entre diferentes modos de visualização premindo &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (esta é a letra O e não o algarismo zero).</seg>
       </tuv>
     </tu>
     <tu>
