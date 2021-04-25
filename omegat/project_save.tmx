@@ -8394,6 +8394,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071917Z" creationid="Pedro Albuquerque" creationdate="20210425T071917Z">
+        <seg>Por exemplo, em etiquetas OmegaT, nomes de produtos que devem ser deixados no idioma-fonte LTR, colocar suportes em ficheiros de localização e números em texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114153Z">
@@ -9973,10 +9981,26 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071949Z" creationid="Pedro Albuquerque" creationdate="20210425T071949Z">
+        <seg>Em casos como estes torna-se necessário mudar para o modo RTL, de modo a que o texto RTL (de facto bidireccional) seja exibido correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
         <seg>Nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071809Z" creationid="Pedro Albuquerque" creationdate="20210425T071809Z">
+        <seg>Em muitos casos, contudo, é necessário incorporar texto LTR no texto RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10609,6 +10633,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053959Z" creationid="Pedro Albuquerque" creationdate="20210422T053959Z">
         <seg>Precisa de ser convertido para um novo projecto de equipa, mas isto não pode ser feito em modo de consola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072013Z" creationid="Pedro Albuquerque" creationdate="20210425T072013Z">
+        <seg>Deve-se notar que quando o &lt;a0&gt;OmegaT&lt;/a0&gt; está em modo RTL, tanto a fonte como o alvo são exibidos em modo RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12047,6 +12079,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T060642Z" creationid="Pedro Albuquerque" creationdate="20210425T060642Z">
         <seg>Segmentos mal traduzidos podem ser corrigidos manualmente mais tarde usando &lt;g0&gt;Criar tradução alternativa&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mixing RTL and LTR strings in segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071743Z" creationid="Pedro Albuquerque" creationdate="20210425T071743Z">
+        <seg>Mistura de cadeias RTL e LTR em segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -21750,6 +21790,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070314Z" creationid="Pedro Albuquerque" creationdate="20210425T070314Z">
         <seg>Ao trabalhar num projecto de equipa, esta janela permite definir o mapeamento entre pastas remotas e pastas locais (ver exemplos &lt;l0&gt;aqui&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071756Z" creationid="Pedro Albuquerque" creationdate="20210425T071756Z">
+        <seg>Ao escrever texto puramente RTL, pode ser utilizada a visualização por defeito (LTR).</seg>
       </tuv>
     </tu>
     <tu>
