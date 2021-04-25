@@ -16169,6 +16169,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065511Z" creationid="Pedro Albuquerque" creationdate="20210425T065511Z">
+        <seg>Ver as &lt;l1&gt;preferências de segmentação&lt;/l1&gt; para mais informação sobre as regras de segmentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075812Z" creationid="Pedro Albuquerque" creationdate="20210424T075812Z">
@@ -18800,6 +18808,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065356Z" creationid="Pedro Albuquerque" creationdate="20210425T065356Z">
+        <seg>O novo conjunto de regras será armazenado em conjunto com o projecto e não interferirá com o conjunto geral de regras de segmentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105513Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -19008,6 +19024,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segmentation rules are generally valid across all the projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065246Z" creationid="Pedro Albuquerque" creationdate="20210425T065246Z">
+        <seg>As regras de segmentação são geralmente válidas em todos os projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095832Z" creationid="Pedro Albuquerque" creationdate="20210424T095832Z">
@@ -19196,6 +19220,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074700Z" creationid="Pedro Albuquerque" creationdate="20210424T074700Z">
         <seg>Os dois tipos de regras comportam-se da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065300Z" creationid="Pedro Albuquerque" creationdate="20210425T065300Z">
+        <seg>O utilizador, contudo, poderá ter de gerar um conjunto de regras, específicas para o projecto em questão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19502,6 +19534,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>This ensures that the users" interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065232Z" creationid="Pedro Albuquerque" creationdate="20210425T065232Z">
+        <seg>Este comando externo não pode incluir "pipes", etc., e é por isso que se recomenda utilizar um script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19822,6 +19862,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075047Z" creationid="Pedro Albuquerque" creationdate="20210424T075047Z">
         <seg>Para definir uma regra como regra de excepção, deixar a caixa Quebra/Excepção desmarcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065415Z" creationid="Pedro Albuquerque" creationdate="20210425T065415Z">
+        <seg>Para eliminar as regras de segmentação específicas do projecto, desmarque a caixa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20992,6 +21040,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101131Z" creationid="Pedro Albuquerque" creationdate="20210424T101131Z">
         <seg>Utilizar o idioma de instalação no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065339Z" creationid="Pedro Albuquerque" creationdate="20210425T065339Z">
+        <seg>Use este botão para abrir um diálogo, active a caixa &lt;g0&gt;Regras de segmentação específicas do projecto&lt;/g0&gt; e depois proceda ao ajustamento das regras de segmentação conforme desejado.</seg>
       </tuv>
     </tu>
     <tu>
