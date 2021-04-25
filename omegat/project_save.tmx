@@ -5386,6 +5386,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095336Z" creationid="Pedro Albuquerque" creationdate="20210425T095336Z">
+        <seg>Copie os documentos para os quais precisa da memória de tradução para a pasta de fontes do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095437Z" creationid="Pedro Albuquerque" creationdate="20210425T095437Z">
+        <seg>Copie as memórias de tradução, contendo as traduções dos documentos acima, para a sub-pasta &lt;f0&gt;tm/auto&lt;/f0&gt; do novo projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082912Z" creationid="Pedro Albuquerque" creationdate="20210423T082912Z">
@@ -5538,6 +5554,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095224Z" creationid="Pedro Albuquerque" creationdate="20210425T095224Z">
+        <seg>Crie um projecto, separado de outros projectos, no par de idiomas desejado, com um nome apropriado - note que as TMXs criadas incluirão este nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create backup files of original DOCX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103506Z" creationid="Pedro Albuquerque" creationdate="20210424T103506Z">
@@ -5590,6 +5614,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075407Z" creationid="Pedro Albuquerque" creationdate="20210424T075407Z">
         <seg>Criar uma nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095100Z" creationid="Pedro Albuquerque" creationdate="20210425T095100Z">
+        <seg>Criação de uma memória de tradução para documentos seleccionados</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,6 +10185,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T060611Z" creationid="Pedro Albuquerque" creationdate="20210425T060611Z">
         <seg>No caso de existirem segmentos não únicos nos documentos-fonte, a caixa Propagação automática oferece ao utilizador as duas seguintes possibilidades no que respeita à tradução automática: se marcada, o primeiro segmento traduzido será assumido como a tradução pré-definida e o seu texto de destino será automaticamente utilizado para acertos posteriores durante o processo de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095128Z" creationid="Pedro Albuquerque" creationdate="20210425T095128Z">
+        <seg>Caso os tradutores precisem de partilhar as suas bases TMX, excluindo algumas das suas partes ou incluindo apenas traduções de certos ficheiros, partilhar o &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; completo está fora de questão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19242,6 +19282,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071351Z" creationid="Pedro Albuquerque" creationdate="20210421T071351Z">
         <seg>As seguintes opções não se aplicam se "Compatibilidade com o OmegaT 2.6" estiver marcada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095148Z" creationid="Pedro Albuquerque" creationdate="20210425T095148Z">
+        <seg>A receita seguinte é apenas uma das possibilidades, mas suficientemente simples de seguir e sem qualquer perigo para os dados.</seg>
       </tuv>
     </tu>
     <tu>
