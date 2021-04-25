@@ -2242,6 +2242,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103842Z" creationid="Pedro Albuquerque" creationdate="20210425T103842Z">
+        <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Novo...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090353Z" creationid="Pedro Albuquerque" creationdate="20210422T090353Z">
@@ -3030,6 +3038,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075741Z" creationid="Pedro Albuquerque" creationdate="20210424T075741Z">
         <seg>Adicionar os padrões &lt;e0&gt;Antes de&lt;/e0&gt; e &lt;e1&gt;Depois de&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103917Z" creationid="Pedro Albuquerque" creationdate="20210425T103855Z">
+        <seg>Adicionar o novo projecto OmegaT ao sistema de versionamento (&lt;c0&gt;add&lt;/c0&gt; com SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,10 +5594,34 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103802Z" creationid="Pedro Albuquerque" creationdate="20210425T103802Z">
+        <seg>Criar uma cópia local do repositório (&lt;c0&gt;check out&lt;/c0&gt; com SVN, &lt;c1&gt;clone&lt;/c1&gt; com Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103820Z" creationid="Pedro Albuquerque" creationdate="20210425T103820Z">
+        <seg>Criar um projecto OmegaT novo e vazio no repositório local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095224Z" creationid="Pedro Albuquerque" creationdate="20210425T095224Z">
         <seg>Crie um projecto, separado de outros projectos, no par de idiomas desejado, com um nome apropriado - note que as TMXs criadas incluirão este nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103744Z" creationid="Pedro Albuquerque" creationdate="20210425T103744Z">
+        <seg>Criar um repositório SVN ou Git num servidor que estará acessível aos tradutores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5686,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095100Z" creationid="Pedro Albuquerque" creationdate="20210425T095100Z">
         <seg>Criação de uma memória de tradução para documentos seleccionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103703Z" creationid="Pedro Albuquerque" creationdate="20210425T103703Z">
+        <seg>Criar um projecto vazio num servidor</seg>
       </tuv>
     </tu>
     <tu>
@@ -13277,6 +13325,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103938Z" creationid="Pedro Albuquerque" creationdate="20210425T103938Z">
+        <seg>Nota: se o projecto foi criado com a linha de comandos no passo 3, este passo já foi feito pelo programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090354Z" creationid="Pedro Albuquerque" creationdate="20210421T090354Z">
@@ -20242,6 +20298,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103829Z" creationid="Pedro Albuquerque" creationdate="20210425T103829Z">
+        <seg>Isto pode ser feito de duas maneiras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105249Z" creationid="Pedro Albuquerque" creationdate="20210422T105249Z">
@@ -24453,6 +24517,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162333Z" creationid="Pedro Albuquerque" creationdate="20210420T162333Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103859Z" creationid="Pedro Albuquerque" creationdate="20210425T103852Z">
+        <seg>na linha de comandos: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
