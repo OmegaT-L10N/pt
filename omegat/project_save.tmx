@@ -3644,8 +3644,8 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       <tuv lang="en">
         <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>As plenty of information about SVN and Git is easily available, we won"t describe how they work here, but only how OmegaT works with them.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103608Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Como muita informação sobre SVN e Git está facilmente disponível, não vamos descrever como funcionam aqui, mas apenas como o OmegaT trabalha com eles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10941,6 +10941,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103550Z" creationid="Pedro Albuquerque" creationdate="20210425T103550Z">
+        <seg>Deve assim ser realizado por um gestor de projecto, um chefe de projecto ou um engenheiro de localização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -17409,6 +17417,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103536Z" creationid="Pedro Albuquerque" creationdate="20210425T103536Z">
+        <seg>A criação de um projecto de equipa requer algum conhecimento dos servidores e dos sistemas de versão SVN ou Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172214Z" creationid="Pedro Albuquerque" creationdate="20210423T172214Z">
@@ -18173,6 +18189,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085557Z" creationid="Pedro Albuquerque" creationdate="20210422T085557Z">
         <seg>Passo 1: ajustar parâmetros de alinahmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103639Z" creationid="Pedro Albuquerque" creationdate="20210425T103639Z">
+        <seg>Passo 1: criar um projecto vazio num servidor</seg>
       </tuv>
     </tu>
     <tu>
