@@ -18332,6 +18332,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071205Z" creationid="Pedro Albuquerque" creationdate="20210425T071205Z">
+        <seg>O atalho &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; tem três estados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -18714,6 +18722,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181604Z" creationid="Pedro Albuquerque" creationdate="20210421T181604Z">
         <seg>A diferença é mínima: chamamos "janela" a uma janela que permanece aberta junto ao editor e interage com ele, e "diálogo" a uma janela onde tem de seleccionar parâmetros antes de a fechar e continuar a sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071445Z" creationid="Pedro Albuquerque" creationdate="20210425T071445Z">
+        <seg>O modo de apresentação dos documentos traduzidos deve ser modificado no âmbito da aplicação (como o Microsoft Word) normalmente utilizado para os mostrar ou modificar (consultar os manuais relevantes para mais pormenores).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21352,6 +21368,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071358Z" creationid="Pedro Albuquerque" creationdate="20210425T071358Z">
+        <seg>Utilizar o modo RTL no &lt;a0&gt;OmegaT&lt;/a0&gt; não tem qualquer influência sobre o modo de apresentação dos documentos traduzidos criados no &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174301Z" creationid="Pedro Albuquerque" creationdate="20210423T174301Z">
@@ -22895,6 +22919,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071239Z" creationid="Pedro Albuquerque" creationdate="20210425T071239Z">
+        <seg>justificação pré-definida, ou seja, tal como definida pelo idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052124Z" creationid="Pedro Albuquerque" creationdate="20210422T052124Z">
@@ -23545,6 +23577,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>left justification</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071252Z" creationid="Pedro Albuquerque" creationdate="20210425T071252Z">
+        <seg>justificação à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063139Z" creationid="Pedro Albuquerque" creationdate="20210421T063139Z">
@@ -23973,6 +24013,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114901Z" creationid="Pedro Albuquerque" creationdate="20210422T114901Z">
         <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>right justification</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071320Z" creationid="Pedro Albuquerque" creationdate="20210425T071320Z">
+        <seg>justificação à direita</seg>
       </tuv>
     </tu>
     <tu>
