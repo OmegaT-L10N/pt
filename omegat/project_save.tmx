@@ -8256,6 +8256,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T073248Z" creationid="Pedro Albuquerque" creationdate="20210425T073248Z">
+        <seg>Siga as indicações dadas em Dicas para a gestão de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9539,6 +9547,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
         <seg>Se for encontrado o filtro apropriado, o ficheiro é-lhe atribuído para processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072656Z" creationid="Pedro Albuquerque" creationdate="20210425T072656Z">
+        <seg>Se o documento permitir, o tradutor é fortemente encorajado a remover informação de estilo do documento original para que o menor número possível de etiquetas apareça no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
