@@ -20202,6 +20202,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090421Z" creationid="Pedro Albuquerque" creationdate="20210425T090421Z">
+        <seg>Para evitar a perda de dados importantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075754Z" creationid="Pedro Albuquerque" creationdate="20210424T075754Z">
@@ -23167,6 +23175,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090241Z" creationid="Pedro Albuquerque" creationdate="20210425T090241Z">
+        <seg>feche o projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111910Z" creationid="Pedro Albuquerque" creationdate="20210422T111910Z">
@@ -23913,6 +23929,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090411Z" creationid="Pedro Albuquerque" creationdate="20210425T090411Z">
+        <seg>abra o projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAccessConfigDirMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081400Z" creationid="Pedro Albuquerque" creationdate="20210423T081400Z">
@@ -24281,6 +24305,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090402Z" creationid="Pedro Albuquerque" creationdate="20210425T090402Z">
+        <seg>renomeie-a para &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090327Z" creationid="Pedro Albuquerque" creationdate="20210425T090327Z">
+        <seg>renomeie o actual ficheiro &lt;f0&gt;project_save.tmx&lt;/f0&gt; (e.g. para &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>right justification</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071320Z" creationid="Pedro Albuquerque" creationdate="20210425T071320Z">
@@ -24301,6 +24341,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171326Z" creationid="Pedro Albuquerque" creationdate="20210420T171326Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090352Z" creationid="Pedro Albuquerque" creationdate="20210425T090352Z">
+        <seg>seleccione a memória de tradução de reserva que é a mais susceptível de conter os dados que procura</seg>
       </tuv>
     </tu>
     <tu>
