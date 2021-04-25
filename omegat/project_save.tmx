@@ -5410,6 +5410,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095831Z" creationid="Pedro Albuquerque" creationdate="20210425T095831Z">
+        <seg>Copie-os para um local seguro para futuras referências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082912Z" creationid="Pedro Albuquerque" creationdate="20210423T082912Z">
@@ -10221,6 +10229,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095924Z" creationid="Pedro Albuquerque" creationdate="20210425T095924Z">
+        <seg>Nos casos em que uma equipa de tradutores esteja envolvida, os tradutores preferirão partilhar memórias de tradução comuns em vez de distribuir as suas versões locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
@@ -13649,6 +13665,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091712Z" creationid="Pedro Albuquerque" creationdate="20210424T091712Z">
         <seg>O OmegaT insere a tradução da cadeia mais semelhante à fonte actual, se estiver acima do limiar de similaridade que seleccionou neste diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100012Z" creationid="Pedro Albuquerque" creationdate="20210425T100012Z">
+        <seg>O OmegaT tem mecanismos para SVN e Git, dois sistemas comuns de controlo de versões e revisão de programas de equipa (RCS), disponíveis sob uma licença de código aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17353,6 +17377,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095909Z" creationid="Pedro Albuquerque" creationdate="20210425T095909Z">
+        <seg>Partilhar memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075931Z" creationid="Pedro Albuquerque" creationdate="20210423T075931Z">
@@ -20498,6 +20530,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095902Z" creationid="Pedro Albuquerque" creationdate="20210425T095902Z">
+        <seg>Para evitar reutilizar o projecto e assim possivelmente poluir futuros casos, elimine a pasta do projecto ou arquive-a fora do seu local de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095706Z" creationid="Pedro Albuquerque" creationdate="20210425T095706Z">
@@ -22334,6 +22374,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093844Z" creationid="Pedro Albuquerque" creationdate="20210425T093844Z">
         <seg>Quando se criam os documentos-alvo num projecto &lt;a0&gt;OmegaT&lt;/a0&gt;, a memória de tradução do projecto é produzida sob a forma de três ficheiros na pasta raiz do seu projecto &lt;a1&gt;OmegaT&lt;/a1&gt; (ver a descrição acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095738Z" creationid="Pedro Albuquerque" creationdate="20210425T095738Z">
+        <seg>Quando sair do projecto, </seg>
       </tuv>
     </tu>
     <tu>
@@ -24757,6 +24805,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085955Z" creationid="Pedro Albuquerque" creationdate="20210421T085955Z">
         <seg>src (URL de &amp;imagens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095810Z" creationid="Pedro Albuquerque" creationdate="20210425T095810Z">
+        <seg>os ficheiros TMX na pasta principal do projecto (ver acima) contêm agora as traduções no par de idiomas seleccionado, para os ficheiros, copiados para a pasta de origem.</seg>
       </tuv>
     </tu>
     <tu>
