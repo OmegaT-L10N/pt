@@ -9869,6 +9869,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T060611Z" creationid="Pedro Albuquerque" creationdate="20210425T060611Z">
+        <seg>No caso de existirem segmentos não únicos nos documentos-fonte, a caixa Propagação automática oferece ao utilizador as duas seguintes possibilidades no que respeita à tradução automática: se marcada, o primeiro segmento traduzido será assumido como a tradução pré-definida e o seu texto de destino será automaticamente utilizado para acertos posteriores durante o processo de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
