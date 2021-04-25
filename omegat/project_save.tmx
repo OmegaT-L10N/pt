@@ -6542,8 +6542,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090732Z" creationid="Pedro Albuquerque" creationdate="20210425T090732Z">
-        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090805Z" creationid="Pedro Albuquerque" creationdate="20210425T090732Z">
+        <seg>Não hesite em publicar no idioma com o qual se sente mais familiarizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15951,6 +15951,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090807Z" creationid="Pedro Albuquerque" creationdate="20210425T090807Z">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100801Z" creationid="Pedro Albuquerque" creationdate="20210422T100801Z">
@@ -17211,8 +17219,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090712Z" creationid="Pedro Albuquerque" creationdate="20210425T090712Z">
-        <seg>Se tiver problemas, afixe uma mensagem no grupo de utilizadores do &lt;u0&gt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090738Z" creationid="Pedro Albuquerque" creationdate="20210425T090712Z">
+        <seg>Se tiver problemas, afixe uma mensagem no grupo de utilizadores do &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
