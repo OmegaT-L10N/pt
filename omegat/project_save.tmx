@@ -12623,8 +12623,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Non-visible formatting (i.e., which doesn"t appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065113Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A formatação não visível (isto é, que não aparece como etiquetas no editor OmegaT) é retida nos documentos-alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,6 +19410,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065157Z" creationid="Pedro Albuquerque" creationdate="20210425T065157Z">
+        <seg>Esta área permite introduzir um comando externo de pós-processamento (por exemplo, um script para renomear ficheiros) que será aplicado cada vez que for utilizado Criar documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114530Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -19526,6 +19534,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054924Z" creationid="Pedro Albuquerque" creationdate="20210422T054924Z">
         <seg>Este é um ficheiro de projecto válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065030Z" creationid="Pedro Albuquerque" creationdate="20210425T065030Z">
+        <seg>Isto é especialmente útil quando se trata de textos onde a formatação em linha não é realmente útil (por exemplo, PDF OCRed, .odt ou .docx mal convertidos, etc.) Num caso normal, deve ser sempre possível abrir os documentos-alvo, uma vez que apenas as etiquetas em linha são removidas.</seg>
       </tuv>
     </tu>
     <tu>
