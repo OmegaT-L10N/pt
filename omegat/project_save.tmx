@@ -10373,6 +10373,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100759Z" creationid="Pedro Albuquerque" creationdate="20210425T100759Z">
+        <seg>Neste caso, a memória de tradução NL-EN pode servir de intermediário para ajudar a gerar a tradução de NL para ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075142Z" creationid="Pedro Albuquerque" creationdate="20210424T075142Z">
@@ -19736,6 +19744,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100816Z" creationid="Pedro Albuquerque" creationdate="20210425T100816Z">
+        <seg>A solução no nosso exemplo é copiar a memória de tradução existente para a subpasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071650Z" creationid="Pedro Albuquerque" creationdate="20210424T071650Z">
@@ -19876,6 +19892,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060036Z" creationid="Pedro Albuquerque" creationdate="20210422T060036Z">
         <seg>A tradução foi alterada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100910Z" creationid="Pedro Albuquerque" creationdate="20210425T100910Z">
+        <seg>Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</seg>
       </tuv>
     </tu>
     <tu>
