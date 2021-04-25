@@ -6916,6 +6916,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074834Z" creationid="Pedro Albuquerque" creationdate="20210425T074834Z">
+        <seg>Cada formato de saída tem formas específicas de lidar com a visualização RTL; consulte os manuais da aplicação relevantes para obter detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093737Z" creationid="Pedro Albuquerque" creationdate="20210422T093737Z">
@@ -8308,6 +8316,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071843Z" creationid="Pedro Albuquerque" creationdate="20210421T071843Z">
         <seg>&amp;Rodapés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074857Z" creationid="Pedro Albuquerque" creationdate="20210425T074857Z">
+        <seg>Para ficheiros .docx, uma série de alterações são contudo feitas automaticamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14043,6 +14059,14 @@ Desaparecendo como névoa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidi</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074907Z" creationid="Pedro Albuquerque" creationdate="20210425T074907Z">
+        <seg>Parágrafos, secções e tabelas são definidos para bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063458Z" creationid="Pedro Albuquerque" creationdate="20210421T063458Z">
@@ -14621,6 +14645,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092945Z" creationid="Pedro Albuquerque" creationdate="20210422T092945Z">
         <seg>Prima o atalho de teclado que deseja atribuir, depois clique em Aceitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T075012Z" creationid="Pedro Albuquerque" creationdate="20210425T075012Z">
+        <seg>Prevent data loss</seg>
       </tuv>
     </tu>
     <tu>
@@ -15963,6 +15995,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123645Z" creationid="Pedro Albuquerque" creationdate="20210420T123645Z">
         <seg>A executar no Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074919Z" creationid="Pedro Albuquerque" creationdate="20210425T074919Z">
+        <seg>As execuções (elementos de texto) são definidas para RTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -17877,6 +17917,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
         <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T075005Z" creationid="Pedro Albuquerque" creationdate="20210425T075005Z">
+        <seg>Tais modificações são possíveis em ficheiros ODF, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20110,6 +20158,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095953Z" creationid="Pedro Albuquerque" creationdate="20210422T095953Z">
         <seg>Para adicionar novos termos aos glossários de referência, edite-os num editor de texto externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074952Z" creationid="Pedro Albuquerque" creationdate="20210425T074952Z">
+        <seg>Para evitar alterar os parâmetros de exibição dos ficheiros-alvo cada vez que os ficheiros são abertos, pode ser possível alterar os parâmetros de exibição do ficheiro fonte de modo a que tais parâmetros sejam herdados pelos ficheiros-alvo.</seg>
       </tuv>
     </tu>
     <tu>
