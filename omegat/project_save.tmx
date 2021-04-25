@@ -5586,6 +5586,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074113Z" creationid="Pedro Albuquerque" creationdate="20210425T074113Z">
+        <seg>Criação de documentos RTL traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173529Z" creationid="Pedro Albuquerque" creationdate="20210420T173529Z">
@@ -21806,6 +21814,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094745Z" creationid="Pedro Albuquerque" creationdate="20210424T094745Z">
         <seg>Quando a opção está desmarcada, todos os segmentos não-únicos são mostrados a cinzento, excepto a primeira ocorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074447Z" creationid="Pedro Albuquerque" creationdate="20210425T074447Z">
+        <seg>Quando o documento traduzido for criado, a sua direcção de visualização será a mesma que a do documento original.</seg>
       </tuv>
     </tu>
     <tu>
