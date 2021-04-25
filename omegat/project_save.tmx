@@ -8578,6 +8578,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T073723Z" creationid="Pedro Albuquerque" creationdate="20210425T073723Z">
+        <seg>Validar frequentemente as etiquetas (ver validação de etiquetas) e produzir documentos traduzidos (ver abaixo e Menu) a intervalos regulares para facilitar a captura de quaisquer problemas que surjam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063557Z" creationid="Pedro Albuquerque" creationdate="20210422T063557Z">
