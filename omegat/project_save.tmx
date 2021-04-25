@@ -3068,6 +3068,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105530Z" creationid="Pedro Albuquerque" creationdate="20210425T105530Z">
+        <seg>Adicionar padrões usando caracteres universais (estilo Formiga Apache): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075741Z" creationid="Pedro Albuquerque" creationdate="20210424T075741Z">
@@ -12915,6 +12923,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105305Z" creationid="Pedro Albuquerque" creationdate="20210425T105305Z">
+        <seg>Nome da pasta ou ficheiro local, relativo à raiz do projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105331Z" creationid="Pedro Albuquerque" creationdate="20210425T105331Z">
+        <seg>Nome da pasta ou ficheiro remoto, relativo à url do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093544Z" creationid="Pedro Albuquerque" creationdate="20210422T093544Z">
@@ -15901,6 +15925,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054859Z" creationid="Pedro Albuquerque" creationdate="20210421T054859Z">
         <seg>Repositórios remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105214Z" creationid="Pedro Albuquerque" creationdate="20210425T105214Z">
+        <seg>Localização remota ou pasta dos ficheiros a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,6 +24321,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105336Z" creationid="Pedro Albuquerque" creationdate="20210425T105336Z">
+        <seg>exclui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052635Z" creationid="Pedro Albuquerque" creationdate="20210422T052635Z">
@@ -24747,6 +24787,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105255Z" creationid="Pedro Albuquerque" creationdate="20210425T105255Z">
+        <seg>mapeamento local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105322Z" creationid="Pedro Albuquerque" creationdate="20210425T105322Z">
+        <seg>mapeamento de repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>more than one space</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112120Z" creationid="Pedro Albuquerque" creationdate="20210422T112120Z">
@@ -25191,6 +25247,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105118Z" creationid="Pedro Albuquerque" creationdate="20210425T105118Z">
         <seg>tipo de repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105150Z" creationid="Pedro Albuquerque" creationdate="20210425T105150Z">
+        <seg>url do repositório</seg>
       </tuv>
     </tu>
     <tu>
