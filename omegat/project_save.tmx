@@ -1946,6 +1946,16 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104655Z" creationid="Pedro Albuquerque" creationdate="20210425T104655Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T051958Z" creationid="Pedro Albuquerque" creationdate="20210422T051958Z">
@@ -2490,6 +2500,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104655Z" creationid="Pedro Albuquerque" creationdate="20210425T104655Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -2502,6 +2520,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052627Z" creationid="Pedro Albuquerque" creationdate="20210422T052627Z">
         <seg>&lt;nenhum&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104605Z" creationid="Pedro Albuquerque" creationdate="20210425T104605Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104652Z" creationid="Pedro Albuquerque" creationdate="20210425T104652Z">
+        <seg>&lt;repository type="git" url="https://repositório_para_projecto_OmegaT.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4836,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090426Z" creationid="Pedro Albuquerque" creationdate="20210422T090426Z">
         <seg>Verificar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104742Z" creationid="Pedro Albuquerque" creationdate="20210425T104742Z">
+        <seg>Verificação de estatísticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9871,6 +9913,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104820Z" creationid="Pedro Albuquerque" creationdate="20210425T104820Z">
+        <seg>Se houver diferenças, verificar se os ficheiros &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; estão sob controlo de versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10257,6 +10307,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065730Z" creationid="Pedro Albuquerque" creationdate="20210425T065730Z">
         <seg>De forma semelhante à acima referida, o utilizador pode criar filtros de ficheiro específicos do projecto, que serão armazenados juntamente com o projecto e serão válidos apenas para o projecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104728Z" creationid="Pedro Albuquerque" creationdate="20210425T104728Z">
+        <seg>Em ambos os casos, o gestor do projecto deve enviar ao tradutor a sua ID e senha para aceder ao repositório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +18155,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104829Z" creationid="Pedro Albuquerque" creationdate="20210425T104829Z">
+        <seg>Caso especial: partilha selectiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific parameters</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104004Z" creationid="Pedro Albuquerque" creationdate="20210425T104004Z">
@@ -19132,6 +19198,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104808Z" creationid="Pedro Albuquerque" creationdate="20210425T104808Z">
+        <seg>O gestor do projecto deve verificar com o tradutor que as estatísticas são idênticas em ambos os lados (lado do servidor e lado do tradutor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064201Z" creationid="Pedro Albuquerque" creationdate="20210421T064201Z">
@@ -19776,6 +19850,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104845Z" creationid="Pedro Albuquerque" creationdate="20210425T104845Z">
+        <seg>O processo acima descreve o caso habitual, em que o gestor do projecto quer ter o controlo total do projecto e em que os ficheiros (e as estatísticas) são idênticos em ambos os lados (lado do servidor e lado do tradutor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074350Z" creationid="Pedro Albuquerque" creationdate="20210424T074350Z">
@@ -19828,6 +19910,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054009Z" creationid="Pedro Albuquerque" creationdate="20210422T054009Z">
         <seg>O projecto será carregado como um projecto local sem funcionalidade de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104555Z" creationid="Pedro Albuquerque" creationdate="20210425T104555Z">
+        <seg>A referência ao URL é especificada como abaixo (aqui para um repositório Git):</seg>
       </tuv>
     </tu>
     <tu>
@@ -25085,6 +25175,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090352Z" creationid="Pedro Albuquerque" creationdate="20210425T090352Z">
         <seg>seleccione a memória de tradução de reserva que é a mais susceptível de conter os dados que procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104546Z" creationid="Pedro Albuquerque" creationdate="20210425T104546Z">
+        <seg>enviando um ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt; contendo uma referência ao URL e pedindo ao tradutor que o copie para uma pasta dedicada e o abra com OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
