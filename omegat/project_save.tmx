@@ -2114,6 +2114,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070249Z" creationid="Pedro Albuquerque" creationdate="20210425T070249Z">
+        <seg>&lt;e0&gt;Dica:&lt;/e0&gt; o conjunto de filtros de ficheiro para um dado projecto é armazenado como &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065658Z" creationid="Pedro Albuquerque" creationdate="20210425T065658Z">
@@ -6044,6 +6052,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070325Z" creationid="Pedro Albuquerque" creationdate="20210425T070325Z">
+        <seg>Define os recursos de pesquisa externa específicos do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleted</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061853Z" creationid="Pedro Albuquerque" creationdate="20210422T061853Z">
@@ -9058,6 +9074,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095202Z" creationid="Pedro Albuquerque" creationdate="20210424T095202Z">
         <seg>Aqui pode redefinir a senha principal utilizada para proteger os detalhes de início de sessão e as chaves de acesso a serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070406Z" creationid="Pedro Albuquerque" creationdate="20210425T070406Z">
+        <seg>Aqui pode seleccionar diferentes sub-pastas, por exemplo, a sub-pasta com ficheiros de origem, sub-pasta para ficheiros de destino, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16217,6 +16241,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070220Z" creationid="Pedro Albuquerque" creationdate="20210425T070220Z">
+        <seg>Ver &lt;l3&gt;Preferências de filtros de ficheiros&lt;/l3&gt; para mais informações sobre o assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072741Z" creationid="Pedro Albuquerque" creationdate="20210424T072741Z">
@@ -21582,6 +21614,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062326Z" creationid="Pedro Albuquerque" creationdate="20210421T062326Z">
         <seg>Ao utilizar expressões regulares, a cadeia de substituição suporta referências a grupos definidos na cadeia de procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070314Z" creationid="Pedro Albuquerque" creationdate="20210425T070314Z">
+        <seg>Ao trabalhar num projecto de equipa, esta janela permite definir o mapeamento entre pastas remotas e pastas locais (ver exemplos &lt;l0&gt;aqui&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
