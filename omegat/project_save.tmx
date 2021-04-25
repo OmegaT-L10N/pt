@@ -9631,6 +9631,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074743Z" creationid="Pedro Albuquerque" creationdate="20210425T074743Z">
+        <seg>Se o documento original era LTR, a direcção de visualização do documento de destino deve ser alterada manualmente para RTL na sua aplicação de visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074651Z" creationid="Pedro Albuquerque" creationdate="20210424T074504Z">
