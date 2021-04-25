@@ -1978,6 +1978,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072139Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
+        <seg>Etiquetas &lt;a0&gt;OmegaT&lt;/a0&gt; em segementos RTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074114Z" creationid="Pedro Albuquerque" creationdate="20210424T074114Z">
@@ -3614,6 +3622,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>As plenty of information about SVN and Git is easily available, we won"t describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072217Z" creationid="Pedro Albuquerque" creationdate="20210425T072217Z">
+        <seg>Como foi dito acima, as etiquetas OmegaT são cadeias LTR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19882,6 +19898,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072117Z" creationid="Pedro Albuquerque" creationdate="20210425T072117Z">
+        <seg>Isto significa que se o idioma-fonte for LTR e o idioma-alvo for RTL, ou vice-versa, poderá ser necessário alternar entre os modos RTL e LTR para ver a fonte e entrar facilmente no alvo nos seus respectivos modos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -21758,6 +21782,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113927Z" creationid="Pedro Albuquerque" creationdate="20210423T113927Z">
         <seg>Quando esta opção está marcada, o glossário mostra pares ou grupos de palavras (expressões) mesmo que as palavras dentro delas apareçam separadamente no texto fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072609Z" creationid="Pedro Albuquerque" creationdate="20210425T072609Z">
+        <seg>Ao traduzir entre idiomas RTL e LTR, a leitura correcta das etiquetas a partir da fonte e a sua introdução correcta no destino pode exigir que o tradutor mude entre os modos LTR e RTL inúmeras vezes.</seg>
       </tuv>
     </tu>
     <tu>
