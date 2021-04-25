@@ -3218,6 +3218,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104342Z" creationid="Pedro Albuquerque" creationdate="20210425T104342Z">
+        <seg>Todos os outros ficheiros são apenas de leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092856Z" creationid="Pedro Albuquerque" creationdate="20210422T092856Z">
@@ -9855,6 +9863,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104410Z" creationid="Pedro Albuquerque" creationdate="20210425T104410Z">
+        <seg>Se o tradutor tentar modificá-los, eles voltarão ao seu estado original sempre que o projecto for aberto, fechado, gravado ou recarregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -13293,6 +13309,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104333Z" creationid="Pedro Albuquerque" creationdate="20210425T104333Z">
+        <seg>Note-se que apenas dois ficheiros são modificados pelo OmegaT durante a tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
@@ -14011,6 +14035,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113151Z" creationid="Pedro Albuquerque" creationdate="20210422T113151Z">
         <seg>Assim que o ficheiro &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; for modificado, o &lt;a1&gt;OmegaT&lt;/a1&gt; deve ser reiniciado para ter em conta os novos atalhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104445Z" creationid="Pedro Albuquerque" creationdate="20210425T104445Z">
+        <seg>Uma vez o projecto instalado no servidor, o gestor do projecto pode convidar o tradutor a trabalhar no mesmo de duas formas diferentes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18293,6 +18325,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085623Z" creationid="Pedro Albuquerque" creationdate="20210422T085623Z">
         <seg>Passo 2: fazer correcções manuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104429Z" creationid="Pedro Albuquerque" creationdate="20210425T104429Z">
+        <seg>Passo 3: enviar um convite ao tradutor</seg>
       </tuv>
     </tu>
     <tu>
@@ -24143,6 +24183,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104334Z" creationid="Pedro Albuquerque" creationdate="20210425T104334Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080309Z" creationid="Pedro Albuquerque" creationdate="20210423T080309Z">
@@ -24593,6 +24641,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104334Z" creationid="Pedro Albuquerque" creationdate="20210425T104334Z">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103859Z" creationid="Pedro Albuquerque" creationdate="20210425T103852Z">
@@ -25029,6 +25085,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090352Z" creationid="Pedro Albuquerque" creationdate="20210425T090352Z">
         <seg>seleccione a memória de tradução de reserva que é a mais susceptível de conter os dados que procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104530Z" creationid="Pedro Albuquerque" creationdate="20210425T104530Z">
+        <seg>envio do URL do projecto e pedido ao tradutor para criar uma cópia local com &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Transferir projecto de equipa&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
