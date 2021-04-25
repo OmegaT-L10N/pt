@@ -9439,6 +9439,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T064827Z" creationid="Pedro Albuquerque" creationdate="20210425T064827Z">
+        <seg>Se a caixa Propagação automática não for marcada, os segmentos com traduções alternativas são deixados sem tradução até que o utilizador tenha decidido qual a tradução a utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
