@@ -9326,6 +9326,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094654Z" creationid="Pedro Albuquerque" creationdate="20210425T094654Z">
+        <seg>Contudo, o OmegaT não suporta totalmente ficheiros tmx importados de nível 2 (estes armazenam não só a tradução, mas também a formatação).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10057,6 +10065,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
         <seg>Falha ao importar a página Wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094546Z" creationid="Pedro Albuquerque" creationdate="20210425T094546Z">
+        <seg>Importação e exportação de memórias de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -11461,6 +11477,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103516Z" creationid="Pedro Albuquerque" creationdate="20210424T103516Z">
         <seg>Nível 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094742Z" creationid="Pedro Albuquerque" creationdate="20210425T094742Z">
+        <seg>Os ficheiros tmx de nível 2 ainda serão importados e o seu conteúdo textual pode ser visto no OmegaT, mas a qualidade das correspondências aproximadas será um pouco inferior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13461,6 +13485,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094757Z" creationid="Pedro Albuquerque" creationdate="20210425T094757Z">
+        <seg>O OmegaT segue procedimentos muito rigorosos ao carregar ficheiros de memória de tradução (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100844Z" creationid="Pedro Albuquerque" creationdate="20210422T100844Z">
@@ -13649,6 +13681,14 @@ installed on your system.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160927Z" creationid="Pedro Albuquerque" creationdate="20210420T160927Z">
         <seg>O OmegaT requer que o Java Runtime Environment (JRE) versão 1.8 ou superior esteja
 instalado no seu sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094616Z" creationid="Pedro Albuquerque" creationdate="20210425T094616Z">
+        <seg>O OmegaT suporta versões tmx importadas 1.1-1.4b (tanto de nível 1 como de nível 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20002,6 +20042,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094634Z" creationid="Pedro Albuquerque" creationdate="20210425T094634Z">
+        <seg>Isto permite que as memórias de tradução produzidas por outras ferramentas sejam lidas pelo OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -22801,6 +22849,14 @@ window to be able to launch it from any location.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162038Z" creationid="Pedro Albuquerque" creationdate="20210420T162038Z">
         <seg>Pode arrastar a aplicação OmegaT para a sua doca ou para a barra de ferramentas de um Finder
 para poder iniciá-lo a partir de qualquer local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094536Z" creationid="Pedro Albuquerque" creationdate="20210425T094536Z">
+        <seg>Pode até considerar a remoção daqueles que já não são necessários, após ter utilizado o seu conteúdo para preencher o ficheiro &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
