@@ -9823,6 +9823,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104021Z" creationid="Pedro Albuquerque" creationdate="20210425T104021Z">
+        <seg>Se o projecto utilizar filtros e parâmetros de segmentação específicos, tanto os ficheiros &lt;f0&gt;filters.xml&lt;/f0&gt; como &lt;f1&gt;segmentation.conf&lt;/f1&gt; devem ser adicionados ao sistema de versionamento e publicados no servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074651Z" creationid="Pedro Albuquerque" creationdate="20210424T074504Z">
@@ -15379,6 +15387,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103956Z" creationid="Pedro Albuquerque" creationdate="20210425T103956Z">
+        <seg>Publicar o novo projecto OmegaT no servidor (&lt;c0&gt;commit&lt;/c0&gt; com SVN, &lt;c1&gt;commit&lt;/c1&gt; seguido de &lt;c2&gt;push&lt;/c2&gt; com Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053808Z" creationid="Pedro Albuquerque" creationdate="20210422T053808Z">
@@ -18049,6 +18065,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104004Z" creationid="Pedro Albuquerque" creationdate="20210425T104004Z">
+        <seg>Parâmetros específicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093701Z" creationid="Pedro Albuquerque" creationdate="20210422T093701Z">
@@ -18253,6 +18277,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103639Z" creationid="Pedro Albuquerque" creationdate="20210425T103639Z">
         <seg>Passo 1: criar um projecto vazio num servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104036Z" creationid="Pedro Albuquerque" creationdate="20210425T104036Z">
+        <seg>Passo 2: adicionar ficheiros para traduzir e outros recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20298,6 +20330,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104108Z" creationid="Pedro Albuquerque" creationdate="20210425T104108Z">
+        <seg>Isto também pode ser feito dentro do OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be done in two ways:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103829Z" creationid="Pedro Albuquerque" creationdate="20210425T103829Z">
@@ -20642,6 +20682,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104250Z" creationid="Pedro Albuquerque" creationdate="20210425T104250Z">
+        <seg>Para &lt;e0&gt;eliminar ficheiros&lt;/e0&gt;, utilize um cliente SVN ou Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174745Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
@@ -20678,6 +20726,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095953Z" creationid="Pedro Albuquerque" creationdate="20210422T095953Z">
         <seg>Para adicionar novos termos aos glossários de referência, edite-os num editor de texto externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104220Z" creationid="Pedro Albuquerque" creationdate="20210425T104220Z">
+        <seg>Para adicionar outros recursos (dicionários, TMXs ou glossários), utilize um cliente SVN ou Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21896,6 +21952,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061820Z" creationid="Pedro Albuquerque" creationdate="20210422T061820Z">
         <seg>Usar todas as actualizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104045Z" creationid="Pedro Albuquerque" creationdate="20210425T104045Z">
+        <seg>Utilizar um cliente SVN ou Git para adicionar os ficheiros a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23783,6 +23847,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104123Z" creationid="Pedro Albuquerque" creationdate="20210425T104123Z">
+        <seg>copiar os ficheiros para a pasta &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cycleSwitchCaseMenuItem</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075932Z" creationid="Pedro Albuquerque" creationdate="20210423T075932Z">
@@ -25093,6 +25165,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075906Z" creationid="Pedro Albuquerque" creationdate="20210423T075906Z">
         <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104202Z" creationid="Pedro Albuquerque" creationdate="20210425T104202Z">
+        <seg>usar &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Submeter ficheiros-fonte&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
