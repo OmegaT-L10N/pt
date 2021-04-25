@@ -13333,6 +13333,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085748Z" creationid="Pedro Albuquerque" creationdate="20210425T085748Z">
+        <seg>O OmegaT também faz o backup da memória de tradução para project_save.tmx.YEARMMDDHHNN.bak na mesma sub-pasta cada vez que um projecto é aberto ou recarregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105553Z" creationid="Pedro Albuquerque" creationdate="20210424T105553Z">
@@ -21972,8 +21980,8 @@ de o seleccionar, obter e instalar.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project"s &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085809Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Quando traduz os seus ficheiros, o &lt;a2&gt;OmegaT&lt;/a2&gt; grava todos os seus progressos na memória de tradução &lt;l3&gt;project_save.tmx&lt;/l3&gt; que reside na sub-pasta do projecto &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
