@@ -1978,6 +1978,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T083846Z" creationid="Pedro Albuquerque" creationdate="20210425T083846Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; é uma aplicação robusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072139Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
@@ -9306,6 +9314,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>However, the command-line alternative allows the user to control and modify the program"s behavior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085524Z" creationid="Pedro Albuquerque" creationdate="20210425T085524Z">
+        <seg>No entanto, deve tomar precauções contra a perda de dados ao utilizar o &lt;a1&gt;OmegaT&lt;/a1&gt;, tal como em qualquer outra aplicação.</seg>
       </tuv>
     </tu>
     <tu>
