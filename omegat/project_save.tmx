@@ -1946,6 +1946,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110635Z" creationid="Pedro Albuquerque" creationdate="20210425T110635Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -2252,6 +2260,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110634Z" creationid="Pedro Albuquerque" creationdate="20210425T110634Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103842Z" creationid="Pedro Albuquerque" creationdate="20210425T103842Z">
@@ -2328,6 +2344,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094123Z" creationid="Pedro Albuquerque" creationdate="20210422T094123Z">
         <seg>&lt;html&gt;Canal de actualizações: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110635Z" creationid="Pedro Albuquerque" creationdate="20210425T110635Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2516,6 +2540,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110633Z" creationid="Pedro Albuquerque" creationdate="20210425T110633Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -2544,6 +2576,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104652Z" creationid="Pedro Albuquerque" creationdate="20210425T104652Z">
         <seg>&lt;repository type="git" url="https://repositório_para_projecto_OmegaT.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110633Z" creationid="Pedro Albuquerque" creationdate="20210425T110633Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,6 +3344,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075230Z" creationid="Pedro Albuquerque" creationdate="20210424T075230Z">
         <seg>Todos os conjuntos de regras de segmentação para um padrão linguístico correspondente estão activos e são aplicados na ordem de prioridade dada, pelo que as regras para um idioma específico devem ser superiores às regras por defeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110709Z" creationid="Pedro Albuquerque" creationdate="20210425T110709Z">
+        <seg>Todos os conteúdos de &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; são mapeados para a pasta local de origem do projecto OmegaT, excepto todos os ficheiros *.bak sem o readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12169,6 +12217,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110319Z" creationid="Pedro Albuquerque" creationdate="20210421T110319Z">
         <seg>Regras definidas manualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110632Z" creationid="Pedro Albuquerque" creationdate="20210425T110632Z">
+        <seg>Mapeamento de fontes adicionais a partir de repositório remoto, com filtros:</seg>
       </tuv>
     </tu>
     <tu>
