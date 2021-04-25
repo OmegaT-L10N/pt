@@ -2594,6 +2594,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074101Z" creationid="Pedro Albuquerque" creationdate="20210425T074101Z">
+        <seg>Uma dica: traduzir uma versão em texto simples do texto e acrescentar o estilo necessário na aplicação relevante numa fase posterior pode revelar-se menos incómodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111739Z" creationid="Pedro Albuquerque" creationdate="20210422T111739Z">
