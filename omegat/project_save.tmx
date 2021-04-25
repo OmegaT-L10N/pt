@@ -2154,6 +2154,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100947Z" creationid="Pedro Albuquerque" creationdate="20210425T100947Z">
+        <seg>&lt;e0&gt;Importante: &lt;/e0&gt;o TMX de suporte deve ser renomeado XX_YY.tmx, onde XX_YY é o idioma-alvo do tmx, por exemplo para ZH_CN.tmx no exemplo acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -13213,6 +13221,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T101107Z" creationid="Pedro Albuquerque" creationdate="20210425T101107Z">
+        <seg>Note-se que só é possível um TMX para um determinado par de idiomas, por isso, se se devem envolver várias memórias de tradução, será necessário uni-las todas no XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
@@ -17361,6 +17377,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T101114Z" creationid="Pedro Albuquerque" creationdate="20210425T101114Z">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052809Z" creationid="Pedro Albuquerque" creationdate="20210422T052809Z">
@@ -19612,6 +19636,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113414Z" creationid="Pedro Albuquerque" creationdate="20210423T113414Z">
         <seg>O programa procurará confirmação antes de encerrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T101008Z" creationid="Pedro Albuquerque" creationdate="20210425T101008Z">
+        <seg>O projecto e os idiomas de origem TMX devem, evidentemente, ser idênticos - NL no nosso exemplo.</seg>
       </tuv>
     </tu>
     <tu>
