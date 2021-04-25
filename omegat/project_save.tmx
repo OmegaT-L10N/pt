@@ -2114,6 +2114,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065658Z" creationid="Pedro Albuquerque" creationdate="20210425T065658Z">
+        <seg>&lt;e0&gt;Dica&lt;/e0&gt; o conjunto de regras de segmentação para um dado projecto é armazenado como &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9857,6 +9865,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082754Z" creationid="Pedro Albuquerque" creationdate="20210423T082603Z">
         <seg>No OmegaT, seleccione &lt;g0&gt;Opções &gt; Preferências &gt; Verificação ortográfica&lt;/g0&gt; e clique em &lt;g1&gt;Escolher&lt;/g1&gt; ao lado do campo da pasta de dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065730Z" creationid="Pedro Albuquerque" creationdate="20210425T065730Z">
+        <seg>De forma semelhante à acima referida, o utilizador pode criar filtros de ficheiro específicos do projecto, que serão armazenados juntamente com o projecto e serão válidos apenas para o projecto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19838,6 +19854,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054023Z" creationid="Pedro Albuquerque" creationdate="20210422T054023Z">
         <seg>Para o converter num novo projecto de equipa, abra-o no GUI do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065928Z" creationid="Pedro Albuquerque" creationdate="20210425T065928Z">
+        <seg>Para criar um conjunto específico de filtros de ficheiros, clique em &lt;g0&gt;Filtro de ficheiros ... &lt;/g0&gt; e depois marque a caixa &lt;g1&gt;Activar filtros específicos do projecto&lt;/g1&gt; na janela que se abre.</seg>
       </tuv>
     </tu>
     <tu>
