@@ -9489,6 +9489,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093744Z" creationid="Pedro Albuquerque" creationdate="20210425T093744Z">
+        <seg>Se uma determinada frase já tiver sido traduzida uma vez, e traduzida correctamente, não há necessidade de ser retraduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114122Z" creationid="Pedro Albuquerque" creationdate="20210423T114122Z">
@@ -19842,6 +19850,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093708Z" creationid="Pedro Albuquerque" creationdate="20210425T093708Z">
+        <seg>Esta TM torna-se gradualmente preenchida durante a tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054935Z" creationid="Pedro Albuquerque" creationdate="20210422T054935Z">
@@ -20418,6 +20434,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093721Z" creationid="Pedro Albuquerque" creationdate="20210425T093721Z">
+        <seg>Para acelerar este processo, as traduções existentes podem ser reutilizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100600Z" creationid="Pedro Albuquerque" creationdate="20210422T100600Z">
@@ -20740,6 +20764,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171401Z" creationid="Pedro Albuquerque" creationdate="20210420T171401Z">
         <seg>Tradução modificada por {0} a {1} às {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093800Z" creationid="Pedro Albuquerque" creationdate="20210425T093800Z">
+        <seg>As memórias de tradução podem também conter traduções de referência: a legislação multinacional, como a da Comunidade Europeia, é um exemplo típico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22062,6 +22094,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn"t contain any mapping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093844Z" creationid="Pedro Albuquerque" creationdate="20210425T093844Z">
+        <seg>Quando se criam os documentos-alvo num projecto &lt;a0&gt;OmegaT&lt;/a0&gt;, a memória de tradução do projecto é produzida sob a forma de três ficheiros na pasta raiz do seu projecto &lt;a1&gt;OmegaT&lt;/a1&gt; (ver a descrição acima).</seg>
       </tuv>
     </tu>
     <tu>
