@@ -10541,6 +10541,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070750Z" creationid="Pedro Albuquerque" creationdate="20210425T070750Z">
+        <seg>É possível utilizar caracteres universais, usando a sintaxe &lt;u0&gt;ant&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown in red in the tag validator.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172941Z" creationid="Pedro Albuquerque" creationdate="20210423T172941Z">
@@ -11511,6 +11519,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075424Z" creationid="Pedro Albuquerque" creationdate="20210424T075424Z">
         <seg>As grandes alterações às regras de segmentação devem ser geralmente evitadas, especialmente após a conclusão do primeiro projecto, mas pequenas alterações, tais como a adição de uma abreviatura reconhecida, podem ser vantajosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070752Z" creationid="Pedro Albuquerque" creationdate="20210425T070752Z">
+        <seg>Manage Right-To-Left languages</seg>
       </tuv>
     </tu>
     <tu>
