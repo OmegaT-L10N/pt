@@ -6540,6 +6540,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090732Z" creationid="Pedro Albuquerque" creationdate="20210425T090732Z">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080251Z" creationid="Pedro Albuquerque" creationdate="20210424T080226Z">
@@ -9679,6 +9687,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090617Z" creationid="Pedro Albuquerque" creationdate="20210425T090617Z">
+        <seg>Se o ficheiro-fonte for modificado depois de ter começado a traduzir, o &lt;a1&gt;OmegaT&lt;/a1&gt; poderá não conseguir encontrar um segmento que já tenha traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T084152Z" creationid="Pedro Albuquerque" creationdate="20210423T084152Z">
@@ -11695,6 +11711,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075424Z" creationid="Pedro Albuquerque" creationdate="20210424T075424Z">
         <seg>As grandes alterações às regras de segmentação devem ser geralmente evitadas, especialmente após a conclusão do primeiro projecto, mas pequenas alterações, tais como a adição de uma abreviatura reconhecida, podem ser vantajosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090456Z" creationid="Pedro Albuquerque" creationdate="20210425T090456Z">
+        <seg>Faça cópias regulares do ficheiro /omegat/project_save.tmx para suportes de salvaguarda, tais como CD ou DVD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17185,6 +17209,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090712Z" creationid="Pedro Albuquerque" creationdate="20210425T090712Z">
+        <seg>Se tiver problemas, afixe uma mensagem no grupo de utilizadores do &lt;u0&gt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060508Z" creationid="Pedro Albuquerque" creationdate="20210422T060508Z">
@@ -18245,6 +18277,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095238Z" creationid="Pedro Albuquerque" creationdate="20210424T095238Z">
         <seg>Tenha o cuidado de tomar nota de todos estes detalhes antes de criar uma nova senha, pois todos eles serão eliminados e terão de ser reinseridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090533Z" creationid="Pedro Albuquerque" creationdate="20210425T090533Z">
+        <seg>Tenha especial cuidado ao fazer alterações aos ficheiros em &lt;l0&gt;/source&lt;/l0&gt; enquanto está no meio de um projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21188,6 +21228,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090519Z" creationid="Pedro Albuquerque" creationdate="20210425T090519Z">
+        <seg>Até estar familiarizado com o &lt;a0&gt;OmegaT&lt;/a0&gt;, crie ficheiros traduzidos a intervalos regulares e verifique se o ficheiro traduzido contém a última versão da sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101452Z" creationid="Pedro Albuquerque" creationdate="20210424T101452Z">
@@ -21440,6 +21488,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101131Z" creationid="Pedro Albuquerque" creationdate="20210424T101131Z">
         <seg>Utilizar o idioma de instalação no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090632Z" creationid="Pedro Albuquerque" creationdate="20210425T090632Z">
+        <seg>Utilize estes textos de ajuda para começar.</seg>
       </tuv>
     </tu>
     <tu>
