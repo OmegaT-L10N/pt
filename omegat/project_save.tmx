@@ -3386,6 +3386,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111304Z" creationid="Pedro Albuquerque" creationdate="20210425T111304Z">
+        <seg>Todas as outras alterações locais ao projecto são revertidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092856Z" creationid="Pedro Albuquerque" creationdate="20210422T092856Z">
@@ -10019,6 +10027,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095739Z" creationid="Pedro Albuquerque" creationdate="20210422T095739Z">
         <seg>Se o ficheiro já existir, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do ficheiro: as novas entradas serão sempre em formato separado por tabulação e o ficheiro será gravado com codificação UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111315Z" creationid="Pedro Albuquerque" creationdate="20210425T111315Z">
+        <seg>Se o ficheiro contiver mapeamentos, então as alterações locais aos mapeamentos são perdidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21562,6 +21578,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074233Z" creationid="Pedro Albuquerque" creationdate="20210424T074233Z">
         <seg>Os atributos de objectos traduzíveis em XHTML ou ficheiros HTML podem ser extraídos como segmentos separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111319Z" creationid="Pedro Albuquerque" creationdate="20210425T111319Z">
+        <seg>Translate a PDF file</seg>
       </tuv>
     </tu>
     <tu>
