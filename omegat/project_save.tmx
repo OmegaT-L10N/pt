@@ -5530,6 +5530,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094245Z" creationid="Pedro Albuquerque" creationdate="20210425T094245Z">
+        <seg>Criar uma pasta (uma "pasta de repositório") num local conveniente no seu disco rígido para as memórias de tradução para um determinado cliente ou assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create backup files of original DOCX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103506Z" creationid="Pedro Albuquerque" creationdate="20210424T103506Z">
@@ -10229,6 +10237,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094220Z" creationid="Pedro Albuquerque" creationdate="20210425T094220Z">
+        <seg>Neste caso, um procedimento útil seria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094112Z" creationid="Pedro Albuquerque" creationdate="20210425T094112Z">
@@ -13033,6 +13049,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080143Z" creationid="Pedro Albuquerque" creationdate="20210424T080143Z">
         <seg>Note que &lt;l0&gt;Antes de&lt;/l0&gt; está vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094452Z" creationid="Pedro Albuquerque" creationdate="20210425T094452Z">
+        <seg>Note que todos os ficheiros tmx no repositório /tm são analisados quando o projecto é aberto, pelo que colocar todas as diferentes TMs que possa ter à mão nesta pasta pode atrasar desnecessariamente o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20098,6 +20122,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094211Z" creationid="Pedro Albuquerque" creationdate="20210425T094211Z">
+        <seg>Isto é útil se utilizar frequentemente memórias de tradução produzidas no passado, por exemplo, porque estão sobre o mesmo assunto ou para o mesmo cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105624Z" creationid="Pedro Albuquerque" creationdate="20210424T105624Z">
@@ -22106,6 +22138,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094410Z" creationid="Pedro Albuquerque" creationdate="20210425T094410Z">
+        <seg>Quando iniciar um novo projecto sobre o mesmo assunto ou para o mesmo cliente, navegue para a pasta do repositório na pasta &lt;g0&gt;Projecto &gt; Propriedades &gt; Editar diálogo do projecto&lt;/g0&gt; e seleccione-a como a pasta da memória de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -22134,6 +22174,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171117Z" creationid="Pedro Albuquerque" creationdate="20210423T171117Z">
         <seg>Quando desejar utilizar o filtro de novo, basta marcar a respectiva caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094316Z" creationid="Pedro Albuquerque" creationdate="20210425T094316Z">
+        <seg>Sempre que terminar um projecto, copie um dos três ficheiros "exportar" de memória de tradução da pasta raiz do projecto para a pasta do repositório.</seg>
       </tuv>
     </tu>
     <tu>
