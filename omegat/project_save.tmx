@@ -21418,6 +21418,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T064851Z" creationid="Pedro Albuquerque" creationdate="20210425T064851Z">
+        <seg>Quando activadas, todas as etiquetas de formatação são removidas dos segmentos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094745Z" creationid="Pedro Albuquerque" creationdate="20210424T094745Z">
