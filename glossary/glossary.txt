@@ -1,1 +1,2 @@
 plugin	extensão
+wildcards	Caracteres universais	"*", "?"
