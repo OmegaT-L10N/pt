@@ -11891,6 +11891,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T060642Z" creationid="Pedro Albuquerque" creationdate="20210425T060642Z">
+        <seg>Segmentos mal traduzidos podem ser corrigidos manualmente mais tarde usando &lt;g0&gt;Criar tradução alternativa&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173216Z" creationid="Pedro Albuquerque" creationdate="20210421T173216Z">
