@@ -10533,10 +10533,26 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071616Z" creationid="Pedro Albuquerque" creationdate="20210425T071616Z">
+        <seg>Também pode ser usado em todos os campos de entrada encontrados no &lt;a7&gt;OmegaT&lt;/a7&gt; - na janela de procura, para regras de segmentação, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115307Z" creationid="Pedro Albuquerque" creationdate="20210423T115307Z">
         <seg>Também pode ser utilizado quando os painéis não aparecem como esperado após uma actualização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071543Z" creationid="Pedro Albuquerque" creationdate="20210425T071543Z">
+        <seg>Pode ser utilizado separadamente para os três painéis (Editor, Correspondências aproximadas e Glossário), clicando no painel e alternando o modo de visualização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11487,6 +11503,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072900Z" creationid="Pedro Albuquerque" creationdate="20210421T072900Z">
         <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071713Z" creationid="Pedro Albuquerque" creationdate="20210425T071713Z">
+        <seg>Utilizadores Mac OS X, notem: usem &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;não&lt;/e4&gt; cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21330,6 +21354,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115408Z" creationid="Pedro Albuquerque" creationdate="20210423T115408Z">
         <seg>Os utilizadores de computadores antigos que sentem que o redimensionamento da janela é muito lento, podem tentar mudar a fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071502Z" creationid="Pedro Albuquerque" creationdate="20210425T071502Z">
+        <seg>Usando &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; faz com que tanto a entrada de texto como a exibição em &lt;a6&gt;OmegaT&lt;/a6&gt; mudem.</seg>
       </tuv>
     </tu>
     <tu>
