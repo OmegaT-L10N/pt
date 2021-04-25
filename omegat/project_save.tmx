@@ -4184,8 +4184,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>By default, the /tm folder is below the project"s root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094158Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por pré-definição, a pasta /tm está abaixo da pasta raiz do projecto (por exemplo ...&lt;e0&gt;/MeuProjecto/tm&lt;/e0&gt;), mas pode escolher uma pasta diferente no diálogo de propriedades do projecto, se desejar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10225,6 +10225,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
         <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094112Z" creationid="Pedro Albuquerque" creationdate="20210425T094112Z">
+        <seg>Neste caso, coloque as memórias de tradução que deseja utilizar na pasta &lt;e0&gt;/tm&lt;/e0&gt; ou &lt;e1&gt;/tm/auto&lt;/e1&gt; do seu novo projecto: no primeiro caso obterá os resultados destas memórias de tradução no painel de correspondências aproximadas e no segundo caso estas TMs serão utilizadas para pré-traduzir o seu texto-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17241,6 +17249,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093921Z" creationid="Pedro Albuquerque" creationdate="20210425T093921Z">
+        <seg>Se desejar reutilizar uma memória de tradução de um projecto anterior (por exemplo, porque o novo projecto é semelhante ao projecto anterior, ou utiliza terminologia que possa ter sido utilizada anteriormente), pode utilizar estas memórias de tradução como "memórias de tradução de entrada", ou seja, para importação para o seu novo projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060508Z" creationid="Pedro Albuquerque" creationdate="20210422T060508Z">
@@ -22685,8 +22701,8 @@ script de instalação (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project"s content in bilingual form.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093904Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Pode considerar estes três ficheiros tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; e &lt;f4&gt;-level2.tmx&lt;/f4&gt;) como uma "memória de tradução de exportação", ou seja, como uma exportação do conteúdo do seu projecto actual na forma bilingue.</seg>
       </tuv>
     </tu>
     <tu>
