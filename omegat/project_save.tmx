@@ -3708,6 +3708,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105716Z" creationid="Pedro Albuquerque" creationdate="20210425T105716Z">
+        <seg>Como acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103608Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -7834,6 +7842,22 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102217Z" creationid="Pedro Albuquerque" creationdate="20210424T102217Z">
         <seg>Exemplo - Procurar e substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105737Z" creationid="Pedro Albuquerque" creationdate="20210425T105737Z">
+        <seg>Exemplo: &lt;u0&gt;***/*.docx&lt;/u0&gt; para adicionar todos os ficheiros .docx, onde quer que se encontrem no projecto, mesmo em pastas excluídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105700Z" creationid="Pedro Albuquerque" creationdate="20210425T105700Z">
+        <seg>Exemplo: &lt;u0&gt;**/excluirpasta/**;*.txt&lt;/u0&gt; exclui ficheiros que tenham /excuirpasta/ no caminho, e ficheiros com extensão .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17499,6 +17523,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105539Z" creationid="Pedro Albuquerque" creationdate="20210425T105539Z">
+        <seg>Separar padrões diferentes com um ponto e vírgula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074721Z" creationid="Pedro Albuquerque" creationdate="20210424T074721Z">
@@ -24677,6 +24709,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080308Z" creationid="Pedro Albuquerque" creationdate="20210424T080308Z">
         <seg>em expressões regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105708Z" creationid="Pedro Albuquerque" creationdate="20210425T105708Z">
+        <seg>incluir</seg>
       </tuv>
     </tu>
     <tu>
