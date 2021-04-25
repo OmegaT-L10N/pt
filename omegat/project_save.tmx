@@ -8248,6 +8248,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094944Z" creationid="Pedro Albuquerque" creationdate="20210425T094944Z">
+        <seg>As correcções são operações triviais e o OmegaT ajuda na resolução de problemas com a mensagem de erro relacionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070422Z" creationid="Pedro Albuquerque" creationdate="20210421T070422Z">
@@ -9513,6 +9521,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094845Z" creationid="Pedro Albuquerque" creationdate="20210425T094845Z">
+        <seg>Se for encontrado um erro num ficheiro deste tipo, o OmegaT indicará a posição em que o erro se encontra dentro do ficheiro defeituoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114122Z" creationid="Pedro Albuquerque" creationdate="20210423T114122Z">
@@ -9923,6 +9939,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095047Z" creationid="Pedro Albuquerque" creationdate="20210425T095047Z">
+        <seg>Se precisar apenas de informação textual (e não de formatação), utilize o ficheiro de nível 1 que o OmegaT criou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170851Z" creationid="Pedro Albuquerque" creationdate="20210423T170851Z">
@@ -9967,6 +9991,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101055Z" creationid="Pedro Albuquerque" creationdate="20210424T101055Z">
         <seg>Se quiser utilizar o mesmo idioma no OmegaT que o utilizado durante a instalação, marque a caixa abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094928Z" creationid="Pedro Albuquerque" creationdate="20210425T094928Z">
+        <seg>Se desejar utilizar tais ficheiros como traduções de referência no OmegaT, estes devem ser reparados, ou o OmegaT vai reportar um erro e não os carregará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13481,6 +13513,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092708Z" creationid="Pedro Albuquerque" creationdate="20210422T092708Z">
         <seg>OmegaT encripta senhas sensíveis e chaves API com uma senha mestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095012Z" creationid="Pedro Albuquerque" creationdate="20210425T095012Z">
+        <seg>O OmegaT exporta ficheiros da versão 1.4 TMX (tanto de nível 1 como de nível 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17537,6 +17577,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094858Z" creationid="Pedro Albuquerque" creationdate="20210425T094858Z">
+        <seg>Algumas ferramentas são conhecidas por produzir ficheiros tmx inválidos sob certas condições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062630Z" creationid="Pedro Albuquerque" creationdate="20210422T062630Z">
@@ -19282,6 +19330,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060618Z" creationid="Pedro Albuquerque" creationdate="20210421T055433Z">
         <seg>O código de idioma deve estar na forma xx-YY, xxx-YY, xx_YY ou xxx_YY, onde
 xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095031Z" creationid="Pedro Albuquerque" creationdate="20210425T095031Z">
+        <seg>A exportação de nível 2 não é totalmente compatível com a norma de nível 2, mas está suficientemente próxima e irá gerar correspondências correctas noutras ferramentas de memória de tradução que suportam TMX Nível 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22673,6 +22729,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161908Z" creationid="Pedro Albuquerque" creationdate="20210420T161908Z">
         <seg>Pode também arrastar manualmente o ficheiro OmegaT.exe para o
 menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a partir daí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094955Z" creationid="Pedro Albuquerque" creationdate="20210425T094955Z">
+        <seg>Pode pedir conselhos ao grupo de utilizadores se tiver problemas.</seg>
       </tuv>
     </tu>
     <tu>
