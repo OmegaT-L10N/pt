@@ -4606,6 +4606,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095635Z" creationid="Pedro Albuquerque" creationdate="20210425T095635Z">
+        <seg>Verifique possíveis erros de etiqueta com &lt;k0&gt;Ctrl+T &lt;/k0&gt; e segmentos não traduzidos com &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102027Z" creationid="Pedro Albuquerque" creationdate="20210424T102027Z">
@@ -18065,6 +18073,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095457Z" creationid="Pedro Albuquerque" creationdate="20210425T095457Z">
+        <seg>Inicie o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
@@ -20478,6 +20494,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090421Z" creationid="Pedro Albuquerque" creationdate="20210425T090421Z">
         <seg>Para evitar a perda de dados importantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095706Z" creationid="Pedro Albuquerque" creationdate="20210425T095706Z">
+        <seg>Para verificar que tudo está como esperado, pode premir &lt;k2&gt;Ctrl+D&lt;/k2&gt; para criar os documentos alvo e verificar o seu conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
