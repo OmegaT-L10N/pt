@@ -2508,6 +2508,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110005Z" creationid="Pedro Albuquerque" creationdate="20210425T110005Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162517Z" creationid="Pedro Albuquerque" creationdate="20210420T162517Z">
@@ -2536,6 +2544,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104652Z" creationid="Pedro Albuquerque" creationdate="20210425T104652Z">
         <seg>&lt;repository type="git" url="https://repositório_para_projecto_OmegaT.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110004Z" creationid="Pedro Albuquerque" creationdate="20210425T110004Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105917Z" creationid="Pedro Albuquerque" creationdate="20210425T105917Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3280,6 +3304,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075230Z" creationid="Pedro Albuquerque" creationdate="20210424T075230Z">
         <seg>Todos os conjuntos de regras de segmentação para um padrão linguístico correspondente estão activos e são aplicados na ordem de prioridade dada, pelo que as regras para um idioma específico devem ser superiores às regras por defeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110621Z" creationid="Pedro Albuquerque" creationdate="20210425T110621Z">
+        <seg>Todos os conteúdos de &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; são mapeados para o projecto local OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105931Z" creationid="Pedro Albuquerque" creationdate="20210425T105931Z">
+        <seg>Todos os conteúdos de &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; são mapeados para o projecto local OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4252,6 +4292,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095040Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Por defeito, o OmegaT não executa os comandos especificados nas definições específicas do projecto (o ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt;), porque podem ter um impacto crítico na segurança da máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105822Z" creationid="Pedro Albuquerque" creationdate="20210425T105822Z">
+        <seg>Como pré-definição, todos os ficheiros que não são excluídos são incluídos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6278,6 +6326,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105915Z" creationid="Pedro Albuquerque" creationdate="20210425T105915Z">
+        <seg>Mapeamento pré-definido do projecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210422T114814Z">
@@ -7842,6 +7898,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102217Z" creationid="Pedro Albuquerque" creationdate="20210424T102217Z">
         <seg>Exemplo - Procurar e substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105854Z" creationid="Pedro Albuquerque" creationdate="20210425T105854Z">
+        <seg>Mapeamentos de exemplo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12105,6 +12169,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110319Z" creationid="Pedro Albuquerque" creationdate="20210421T110319Z">
         <seg>Regras definidas manualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110002Z" creationid="Pedro Albuquerque" creationdate="20210425T110002Z">
+        <seg>Mapeamento de projectos numa sub-pasta do repositório:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23555,6 +23627,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114832Z" creationid="Pedro Albuquerque" creationdate="20210421T114832Z">
         <seg>Tem de actualizar o seu JDK 1.6 para a versão mais recente, ou simplesmente remover os ficheiros jaxb-*.jar da pasta OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105846Z" creationid="Pedro Albuquerque" creationdate="20210425T105846Z">
+        <seg>Só precisa de especificar isto para anular algumas exclusões.</seg>
       </tuv>
     </tu>
     <tu>
