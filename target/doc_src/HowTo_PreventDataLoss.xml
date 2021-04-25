@@ -1,73 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="howto.preventdataloss">
-  <title>Prevent data loss</title>
+  <title>Prevenir a perda de dados</title>
 
-  <para><application>OmegaT</application> is a robust application. However, you should take precautions against data loss when using <application>OmegaT</application>, just as with any other application. When you translate your files, <application>OmegaT</application> stores all your progress in the translation memory <literal>project_save.tmx</literal> that resides in the project&quot;s <literal>/omegat</literal> subfolder.</para>
+  <para><application>OmegaT</application> é uma aplicação robusta. No entanto, deve tomar precauções contra a perda de dados ao utilizar o <application>OmegaT</application>, tal como em qualquer outra aplicação. Quando traduz os seus ficheiros, o <application>OmegaT</application> grava todos os seus progressos na memória de tradução <literal>project_save.tmx</literal> que reside na sub-pasta do projecto <literal>/omegat</literal>.</para>
 
-  <para>OmegaT also backs up the translation memory to
-  project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project
-  is opened or reloaded. YEAR is the 4-digit year, MM is the month, DD the day
-  of the month, and HH and NN are the hours and minutes when the previous
-  translation memory was saved.</para>
+  <para>O OmegaT também faz o backup da memória de tradução para project_save.tmx.YEARMMDDHHNN.bak na mesma sub-pasta cada vez que um projecto é aberto ou recarregado. ANO é o ano de 4 dígitos, MM é o mês, DD o dia do mês, e HH e NN são as horas e minutos em que a memória de tradução anterior foi guardada.</para>
 
-  <para>If you believe that you have lost translation data, you can use the
-  following procedure to restore the project to its most recently saved state,
-  usually not older than approximately 10 minutes or so:</para>
+  <para>Se acredita ter perdido dados de tradução, pode usar o seguinte procedimento para repor o projecto no seu estado mais recente, geralmente não mais velho do que aproximadamente 10 minutos:</para>
 
   <orderedlist>
     <listitem>
-      <para>close the project</para>
+      <para>feche o projecto</para>
     </listitem>
 
     <listitem>
-      <para>rename the current <filename>project_save.tmx </filename>file
-      (e.g. to <filename>project_save.tmx.temporary</filename>)</para>
+      <para>renomeie o actual ficheiro <filename>project_save.tmx</filename> (e.g. para <filename>project_save.tmx.temporary</filename>)</para>
     </listitem>
 
     <listitem>
-      <para>select the backup translation memory that is the most likely to
-      contain the data you are looking for</para>
+      <para>seleccione a memória de tradução de reserva que é a mais susceptível de conter os dados que procura</para>
     </listitem>
 
     <listitem>
-      <para>rename it <literal>project_save.tmx</literal></para>
+      <para>renomeie-a para <literal>project_save.tmx</literal></para>
     </listitem>
 
     <listitem>
-      <para>open the project</para>
+      <para>abra o projecto</para>
     </listitem>
   </orderedlist>
 
-  <para>To avoid losing important data:</para>
+  <para>Para evitar a perda de dados importantes:</para>
 
   <itemizedlist>
     <listitem>
-      <para>Make regular copies of the file /omegat/project_save.tmx to backup
-      media, such as CD or DVD.</para>
+      <para>Faça cópias regulares do ficheiro /omegat/project_save.tmx para suportes de salvaguarda, tais como CD ou DVD.</para>
     </listitem>
 
     <listitem>
-      <para>Until you are familiar with <application>OmegaT</application>,
-      create translated files at regular intervals and check that the
-      translated file contains the latest version of your translation.</para>
+      <para>Até estar familiarizado com o <application>OmegaT</application>, crie ficheiros traduzidos a intervalos regulares e verifique se o ficheiro traduzido contém a última versão da sua tradução.</para>
     </listitem>
 
     <listitem>
-      <para>Take particular care when making changes to the files in
-      <literal>/source</literal> while in the middle of a project. If the
-      source file is modified after you have begun translating,
-      <application>OmegaT</application> may be unable to find a segment that
-      you have already translated.</para>
+      <para>Tenha especial cuidado ao fazer alterações aos ficheiros em <literal>/source</literal> enquanto está no meio de um projecto. Se o ficheiro-fonte for modificado depois de ter começado a traduzir, o <application>OmegaT</application> poderá não conseguir encontrar um segmento que já tenha traduzido.</para>
     </listitem>
   </itemizedlist>
 
   <itemizedlist>
     <listitem>
-      <para>Use these Help texts to get started. Should you run into problems,
-      post a message in the <ulink url="https://omegat.org/support"><application>OmegaT</application>
-      user group</ulink>. Do not hesitate to post in the language you feel the
-      most familiar with.</para>
+      <para>Utilize estes textos de ajuda para começar. Se tiver problemas, afixe uma mensagem no grupo de utilizadores do <ulink url="https://omegat.org/support"><application>OmegaT</application></ulink>. Não hesite em publicar no idioma com o qual se sente mais familiarizado.</para>
     </listitem>
   </itemizedlist>
 </section>
