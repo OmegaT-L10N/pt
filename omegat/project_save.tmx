@@ -19928,6 +19928,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100744Z" creationid="Pedro Albuquerque" creationdate="20210425T100744Z">
+        <seg>Depois precisa de uma tradução em, por exemplo, chinês, mas a sua tradutora não entende holandês; no entanto, ela entende perfeitamente inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are a number of restrictions:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092025Z" creationid="Pedro Albuquerque" creationdate="20210424T092025Z">
