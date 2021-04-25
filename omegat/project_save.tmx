@@ -2530,6 +2530,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A copy of the changed filters configuration will be stored with the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065941Z" creationid="Pedro Albuquerque" creationdate="20210425T065941Z">
+        <seg>Uma cópia da configuração alterada dos filtros será armazenada com o projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A currency symbol</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110152Z" creationid="Pedro Albuquerque" creationdate="20210422T110152Z">
@@ -12725,6 +12733,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070201Z" creationid="Pedro Albuquerque" creationdate="20210425T070201Z">
+        <seg>Note-se que no menu &lt;g2&gt;Opções-&gt; Filtros de ficheiro&lt;/g2&gt;, os filtros globais do utilizador são alterados, não os filtros do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
@@ -19886,6 +19902,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075047Z" creationid="Pedro Albuquerque" creationdate="20210424T075047Z">
         <seg>Para definir uma regra como regra de excepção, deixar a caixa Quebra/Excepção desmarcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete project specific file filters, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070036Z" creationid="Pedro Albuquerque" creationdate="20210425T070036Z">
+        <seg>Para eliminar filtros de ficheiros específicos do projecto, desmarque a respectiva caixa.</seg>
       </tuv>
     </tu>
     <tu>
