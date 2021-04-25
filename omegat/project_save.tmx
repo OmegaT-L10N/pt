@@ -10189,6 +10189,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100200Z" creationid="Pedro Albuquerque" creationdate="20210425T100200Z">
+        <seg>No caso de pastas de projecto OmegaT completas - por outras palavras, as memórias de tradução envolvidas, bem como as pastas de origem, definições do projecto, etc. - são geridas pelo RCS seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073011Z" creationid="Pedro Albuquerque" creationdate="20210424T073011Z">
@@ -19984,6 +19992,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100332Z" creationid="Pedro Albuquerque" creationdate="20210425T100332Z">
+        <seg>Pode haver casos em que tenha feito um projecto com, por exemplo, fontes holandesas e uma tradução em, digamos, inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180524Z" creationid="Pedro Albuquerque" creationdate="20210420T180524Z">
@@ -21948,6 +21964,14 @@ e a aplicação OmegaT.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100232Z" creationid="Pedro Albuquerque" creationdate="20210425T100232Z">
+        <seg>Utilização de TMX com idioma alternativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24749,6 +24773,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112237Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>procurar por "is", não por "this" ou "isn't", etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100211Z" creationid="Pedro Albuquerque" creationdate="20210425T100211Z">
+        <seg>veja mais no Capítulo</seg>
       </tuv>
     </tu>
     <tu>
