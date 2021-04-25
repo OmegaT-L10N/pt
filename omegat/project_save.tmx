@@ -3438,6 +3438,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070545Z" creationid="Pedro Albuquerque" creationdate="20210425T070545Z">
+        <seg>Um ficheiro ou pasta ignorado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -4794,6 +4802,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115113Z" creationid="Pedro Albuquerque" creationdate="20210423T115113Z">
         <seg>Desmarque esta opção para desactivar a pesquisa automática - se os dicionários forem demasiado longos, por exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070535Z" creationid="Pedro Albuquerque" creationdate="20210425T070535Z">
+        <seg>Clique em &lt;g0&gt;Exclusões...&lt;/g0&gt; para definir os ficheiros ou pastas que serão ignorados pelo &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9689,6 +9705,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070450Z" creationid="Pedro Albuquerque" creationdate="20210425T070450Z">
+        <seg>Se inserir nomes de pastas que ainda não existem, &lt;a0&gt;OmegaT&lt;/a0&gt; cria-os por si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093410Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9933,6 +9957,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070506Z" creationid="Pedro Albuquerque" creationdate="20210425T070506Z">
+        <seg>No caso de decidir modificar as pastas do projecto, tenha em mente que isto não irá mover ficheiros existentes das pastas antigas para o novo local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
@@ -10017,6 +10049,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
         <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070714Z" creationid="Pedro Albuquerque" creationdate="20210425T070714Z">
+        <seg>No diálogo dos padrões de exclusão, é possível adicionar ou remover um padrão, ou editar um, seleccionando uma linha e premindo F2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23279,6 +23319,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070646Z" creationid="Pedro Albuquerque" creationdate="20210425T070646Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105134Z" creationid="Pedro Albuquerque" creationdate="20210422T105134Z">
@@ -23405,6 +23453,30 @@ criasse o ficheiro de configuração.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122656Z" creationid="Pedro Albuquerque" creationdate="20210420T122656Z">
         <seg>init &lt;idioma-fonte&gt; &lt;idioma-alvo&gt;
 		Initializar um projecto de equipa mínimo com os idiomas especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070644Z" creationid="Pedro Albuquerque" creationdate="20210425T070644Z">
+        <seg>não é copiado para a pasta /target durante o processo de criação de ficheiros traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070602Z" creationid="Pedro Albuquerque" creationdate="20210425T070602Z">
+        <seg>não é mostrado no painel do Editor,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070625Z" creationid="Pedro Albuquerque" creationdate="20210425T070625Z">
+        <seg>não é tido em conta nas estatísticas,</seg>
       </tuv>
     </tu>
     <tu>
