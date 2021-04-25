@@ -9783,6 +9783,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090221Z" creationid="Pedro Albuquerque" creationdate="20210425T090221Z">
+        <seg>Se acredita ter perdido dados de tradução, pode usar o seguinte procedimento para repor o projecto no seu estado mais recente, geralmente não mais velho do que aproximadamente 10 minutos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
@@ -22324,6 +22332,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111235Z" creationid="Pedro Albuquerque" creationdate="20210422T111235Z">
         <seg>X|Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085932Z" creationid="Pedro Albuquerque" creationdate="20210425T085932Z">
+        <seg>ANO é o ano de 4 dígitos, MM é o mês, DD o dia do mês, e HH e NN são as horas e minutos em que a memória de tradução anterior foi guardada.</seg>
       </tuv>
     </tu>
     <tu>
