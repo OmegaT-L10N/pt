@@ -2550,6 +2550,24 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110953Z" creationid="Pedro Albuquerque" creationdate="20210425T110953Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110954Z" creationid="Pedro Albuquerque" creationdate="20210425T110954Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
@@ -2588,6 +2606,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104605Z" creationid="Pedro Albuquerque" creationdate="20210425T104605Z">
         <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110952Z" creationid="Pedro Albuquerque" creationdate="20210425T110952Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9999,8 +10025,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If the file doesn"t contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111255Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se o ficheiro não contiver "mapeamentos, os mapeamentos locais existentes são reaplicados, e apenas aqueles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13563,6 +13589,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111111Z" creationid="Pedro Albuquerque" creationdate="20210425T111111Z">
+        <seg>Nota sobre omegat.project e mappings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -13637,8 +13671,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn"t contain the mappings.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111228Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Note-se que o ficheiro omegat.project no repositório não é alterado automaticamente e continua a não conter os mapeamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19990,6 +20024,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111011Z" creationid="Pedro Albuquerque" creationdate="20210425T111011Z">
+        <seg>O ficheiro local &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; é mapeado para o ficheiro local &lt;f1&gt;source/file.txt&lt;/f1&gt; e &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; é mapeado para o ficheiro local &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105101Z" creationid="Pedro Albuquerque" creationdate="20210425T105101Z">
@@ -20866,8 +20908,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This feature is intended for gathering source files, but you"re not restricted to source files.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111102Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Esta funcionalidade destina-se à recolha de ficheiros-fonte, mas não se limita aos ficheiros-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22864,8 +22906,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Warning: if a file does not exist, the project won't load.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Warning: if a file does not exist, the project won"t load.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111030Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Atenção: se um ficheiro não existir, o projecto não carrega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23050,8 +23092,8 @@ de o seleccionar, obter e instalar.</seg>
       <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn"t contain any mapping.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111143Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Quando se cria um novo projecto e se submete a um repositório, o ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt; não contém qualquer mapeamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23064,10 +23106,26 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111215Z" creationid="Pedro Albuquerque" creationdate="20210425T111215Z">
+        <seg>Quando se transfere o projecto, o projecto é convertido para um projecto de equipa localmente e é acrescentado um mapeamento pré-definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095738Z" creationid="Pedro Albuquerque" creationdate="20210425T095738Z">
         <seg>Quando sair do projecto, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111241Z" creationid="Pedro Albuquerque" creationdate="20210425T111241Z">
+        <seg>Quando se carrega um projecto, todas as alterações no repositório são copiadas para o projecto local, incluindo o ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt; com as definições do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,6 +23557,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105639Z" creationid="Pedro Albuquerque" creationdate="20210421T105639Z">
         <seg>Está a desinstalar o dicionário de verificação ortográfica que o seu projecto utiliza actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111052Z" creationid="Pedro Albuquerque" creationdate="20210425T111052Z">
+        <seg>Pode adicionar tantos mapeamentos quantos desejar, mas apenas no contexto de um projecto de equipa, ou seja, um dos mapeamentos inclui omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
