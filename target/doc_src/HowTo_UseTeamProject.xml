@@ -50,15 +50,11 @@
 
   <para><orderedlist>
       <listitem>
-        <para>copy the files to the <filename>/source</filename> folder</para>
+        <para>copiar os ficheiros para a pasta <filename>/source</filename></para>
       </listitem>
 
       <listitem>
-        <para>use <menuchoice>
-            <guimenuitem>Project</guimenuitem>
-
-            <guimenuitem>Commit Source Files</guimenuitem>
-          </menuchoice></para>
+        <para>usar <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Submeter ficheiros-fonte</guimenuitem> </menuchoice></para>
       </listitem>
     </orderedlist>Existing source files can be modified, but the commit
   operation must be carried out before an automatic save and before the
