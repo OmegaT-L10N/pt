@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="howto.useteamproject">
-  <title>Use a Team Project</title>
+  <title>Utilizar um projecto de equipa</title>
 
-  <para>OmegaT team projects must first be <link linkend="howto.setupteamproject">set up</link> on a server.</para>
+  <para>Os projectos de equipa OmegaT devem primeiro ser <link linkend="howto.setupteamproject">set up</link> num servidor.</para>
 
-  <para>To use a team project for the first time, follow the procedure
-  provided by the project manager.</para>
+  <para>Para utilizar um projecto de equipa pela primeira vez, seguir o procedimento fornecido pelo gestor do projecto.</para>
 
-  <para>Once the project has been opened, translation proceeds in the same way
-  as for a non-team project, except the following points.</para>
+  <para>Uma vez o projecto aberto, a tradução procede da mesma forma que para um projecto que não seja de equipa, excepto nos seguintes pontos.</para>
 
-  <para><emphasis role="bold">Automatic saving</emphasis></para>
+  <para><emphasis role="bold">Gravação automática</emphasis></para>
 
-  <para>Every 3 minutes (by default), the local project is synchronised with
-  the remote repository so that the project manager or other translators can
-  see and use translations added during that period.</para>
+  <para>A cada 3 minutos (por defeito), o projecto local é sincronizado com o repositório remoto para que o gestor do projecto ou outros tradutores possam ver e utilizar as traduções adicionadas durante esse período.</para>
 
-  <para>The interval of 3 minutes can be changed in <link linkend="dialogs.preferences.savingandoutput"><menuchoice>
-      <guimenuitem>Options</guimenuitem>
+  <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
 
-      <guimenuitem>Preferences</guimenuitem>
+  <para><emphasis role="bold">Ficheiros sincronizados</emphasis></para>
 
-      <guimenuitem>Saving and Output</guimenuitem>
-    </menuchoice></link>.</para>
-
-  <para><emphasis role="bold">Synchronised files</emphasis></para>
-
-  <para>Whenever the project is automatically saved, but also when it is
-  opened, closed and reloaded, only two files are actually
-  synchronised:</para>
+  <para>Sempre que o projecto é automaticamente gravado, mas também quando é aberto, fechado e recarregado, apenas dois ficheiros são de facto sincronizados:</para>
 
   <itemizedlist>
     <listitem>
@@ -41,12 +29,11 @@
     </listitem>
   </itemizedlist>
 
-  <para>All other files will be replaced by the files in the remote
-  repository.</para>
+  <para>Todos os outros ficheiros serão substituídos pelos ficheiros no repositório remoto.</para>
 
-  <para><emphasis role="bold">Adding new source files</emphasis></para>
+  <para><emphasis role="bold">Acrescentar novos ficheiros-fonte</emphasis></para>
 
-  <para>To add a new source file:</para>
+  <para>Para adicionar um novo ficheiro-fonte:</para>
 
   <para><orderedlist>
       <listitem>
@@ -56,34 +43,29 @@
       <listitem>
         <para>usar <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Submeter ficheiros-fonte</guimenuitem> </menuchoice></para>
       </listitem>
-    </orderedlist>Existing source files can be modified, but the commit
-  operation must be carried out before an automatic save and before the
-  project is reloaded or closed.</para>
+    </orderedlist>Os ficheiros-fonte existentes podem ser modificados, mas a operação de autorização deve ser realizada antes de uma gravação automática e antes de o projecto ser recarregado ou encerrado.</para>
 
-  <para><emphasis role="bold">Deleting source files</emphasis></para>
+  <para><emphasis role="bold">Eliminar ficheiros-fonte</emphasis></para>
 
-  <para>Files must be deleted by the project manager.</para>
+  <para>Os ficheiros devem ser apagados pelo gestor do projecto.</para>
 
-  <para><emphasis role="bold">Changing segmentation rules or file
-  filters</emphasis></para>
+  <para><emphasis role="bold">Alteração das regras de segmentação ou filtros de ficheiros</emphasis></para>
 
-  <para>Project parameters must be changed by the project manager.</para>
+  <para>Os parâmetros do projecto devem ser alterados pelo gestor do projecto.</para>
 
-  <para><emphasis role="bold">Working offline</emphasis></para>
+  <para><emphasis role="bold">Trabalhar offline</emphasis></para>
 
-  <para>A team project can be opened and translated offline. All the changes
-  will be synchronised the next time a connection is available.</para>
+  <para>Um projecto de equipa pode ser aberto e traduzido offline. Todas as alterações serão sincronizadas na próxima vez que uma ligação estiver disponível.</para>
 
-  <para>To work offline:</para>
+  <para>Para trabalhar offline:</para>
 
   <itemizedlist>
     <listitem>
-      <para>Disconnect from the network before opening the project,</para>
+      <para>Desligue-se da rede antes de abrir o projecto,</para>
     </listitem>
 
     <listitem>
-      <para>or open the project with the command line using the
-      <command>--no-team</command> option.</para>
+      <para>ou abra o projecto com a linha de comandos usando a opção <command>--no-team</command>.</para>
     </listitem>
   </itemizedlist>
 </section>

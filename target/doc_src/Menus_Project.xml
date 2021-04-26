@@ -105,13 +105,7 @@
         automatically saves translations every 3 minutes as well as when you
         close the project or quit OmegaT.</para>
 
-        <para>The interval of 3 minutes can be changed in <link linkend="dialogs.preferences.savingandoutput"><menuchoice>
-            <guimenuitem>Options</guimenuitem>
-
-            <guimenuitem>Preferences</guimenuitem>
-
-            <guimenuitem>Saving and Output</guimenuitem>
-          </menuchoice></link>.</para>
+        <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
       </listitem>
     </varlistentry>
 
