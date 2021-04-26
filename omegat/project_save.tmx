@@ -2866,6 +2866,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071956Z" creationid="Pedro Albuquerque" creationdate="20210426T071956Z">
+        <seg>Um projecto de equipa pode ser aberto e traduzido offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100945Z" creationid="Pedro Albuquerque" creationdate="20210422T100945Z">
@@ -3430,6 +3438,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075230Z" creationid="Pedro Albuquerque" creationdate="20210424T075230Z">
         <seg>Todos os conjuntos de regras de segmentação para um padrão linguístico correspondente estão activos e são aplicados na ordem de prioridade dada, pelo que as regras para um idioma específico devem ser superiores às regras por defeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072020Z" creationid="Pedro Albuquerque" creationdate="20210426T072020Z">
+        <seg>Todas as alterações serão sincronizadas na próxima vez que uma ligação estiver disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6752,6 +6768,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090638Z" creationid="Pedro Albuquerque" creationdate="20210422T090638Z">
         <seg>Desactivar regra “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072057Z" creationid="Pedro Albuquerque" creationdate="20210426T072057Z">
+        <seg>Desligue-se da rede antes de abrir o projecto,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11153,6 +11177,14 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161006Z" creationid="Pedro Albuquerque" creationdate="20210420T161006Z">
         <seg>Instalar o OmegaT (Windows)
 ===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072132Z" creationid="Pedro Albuquerque" creationdate="20210426T072132Z">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21710,6 +21742,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072043Z" creationid="Pedro Albuquerque" creationdate="20210426T072043Z">
+        <seg>Para trabalhar offline:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065242Z" creationid="Pedro Albuquerque" creationdate="20210422T065242Z">
@@ -23580,6 +23620,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174005Z" creationid="Pedro Albuquerque" creationdate="20210420T174005Z">
         <seg>Palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071945Z" creationid="Pedro Albuquerque" creationdate="20210426T071945Z">
+        <seg>Trabalhar offline</seg>
       </tuv>
     </tu>
     <tu>
@@ -25701,6 +25749,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081218Z" creationid="Pedro Albuquerque" creationdate="20210423T081218Z">
         <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072122Z" creationid="Pedro Albuquerque" creationdate="20210426T072122Z">
+        <seg>ou abra o projecto com a linha de comandos usando a opção &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
