@@ -1,50 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.installing.and.running">
-  <title>Installing and running <application>OmegaT</application></title>
+  <title>Instalar e executar o <application>OmegaT</application></title>
 
   <section>
-    <title id="Windows.users">Windows Users</title>
+    <title id="Windows.users">Utilizadores Windows</title>
 
     <section>
-      <title id="which.package.to.download.windows">Downloading the
-      package</title>
+      <title id="which.package.to.download.windows">Transferir o pacote</title>
 
-      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
+      <para>Tem uma implementação Java compatível com o Java 8 JRE da Oracle?</para>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Yes: </emphasis>download
-          <filename>OmegaT_4.n.n_Windows_without_JRE.exe</filename>.</para>
+          <para><emphasis role="bold">Sim: </emphasis>transferir o <filename>OmegaT_4.n.n_Windows_without_JRE.exe</filename>.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">No / I don&quot;t know:</emphasis> download <filename>OmegaT_4.n.n_Windows.exe</filename>.</para>
+          <para><emphasis role="bold">Não/Não sei:</emphasis> transferir o <filename>OmegaT_4.n.n_Windows.exe</filename>.</para>
 
-          <para>This package is bundled with Oracle&quot;s Java Runtime Environment. This JRE will not interfere with other Java implementations that may already be installed on your system.</para>
+          <para>Este pacote inclui o Oracle&quot;s Java Runtime Environment. Este JRE não interferirá com outras implementações Java que possam já estar instaladas no seu sistema.</para>
         </listitem>
       </itemizedlist>
     </section>
 
     <section id="OmegaT.installation.Windows">
-      <title><application>Installing OmegaT</application></title>
+      <title><application>Instalar o OmegaT</application></title>
 
-      <para>To install <application>OmegaT</application>, double-click on the
-      program you have downloaded.</para>
+      <para>Para instalar o <application>OmegaT</application>, faça duplo clique sobre o programa que transferiu.</para>
 
-      <para>At the beginning of the installation you can select the language to
-      be used during the installation. In the following window you can indicate
-      that the language selected is to be used in OmegaT. If you check the
-      corresponding checkbox, the <filename>OmegaT.l4J.ini</filename> file is
-      modified to use the language selected (see next section for
-      details). Later, after you have accepted the license agreement, the setup
-      program asks you whether you wish to create a folder in the
-      <emphasis>Start</emphasis> menu, and whether you wish to create a shortcut
-      on the desktop and in the quick launch bar - you can create these
-      shortcuts later by dragging <filename>OmegaT.exe</filename> to the desktop
-      or to the Start menu to link it from there. The last frame offers you to
-      have a look at the readme and changes files for the version you have
-      installed.</para>
+      <para>No início da instalação pode seleccionar o idioma a utilizar durante a instalação. In the following window you can indicate that the language selected is to be used in OmegaT. If you check the corresponding checkbox, the <filename>OmegaT.l4J.ini</filename> file is modified to use the language selected (see next section for details). Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the <emphasis>Start</emphasis> menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging <filename>OmegaT.exe</filename> to the desktop or to the Start menu to link it from there. The last frame offers you to have a look at the readme and changes files for the version you have installed.</para>
     </section>
 
     <section id="running.OmegaT.Windows">
@@ -138,7 +123,7 @@
     <section id="which.package.to.download.Linux">
       <title>Downloading the right package</title>
 
-      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
+      <para>Tem uma implementação Java compatível com o Java 8 JRE da Oracle?</para>
 
       <itemizedlist>
         <listitem>
@@ -149,13 +134,13 @@
         <listitem>
           <para><emphasis role="bold">No / I don&quot;t know:</emphasis> download <filename>OmegaT_4.n.n_Linux.tar.bz2</filename>.</para>
 
-          <para>This package is bundled with Oracle&quot;s Java Runtime Environment. This JRE will not interfere with other Java implementations that may already be installed on your system.</para>
+          <para>Este pacote inclui o Oracle&quot;s Java Runtime Environment. Este JRE não interferirá com outras implementações Java que possam já estar instaladas no seu sistema.</para>
         </listitem>
       </itemizedlist>
     </section>
 
     <section id="OmegaT.installation.Linux">
-      <title><application>Installing OmegaT</application></title>
+      <title><application>Instalar o OmegaT</application></title>
 
       <para>Unpack/untar the downloaded file. This will create an
       <filename>omegat/</filename> folder in the working folder in which you
@@ -269,7 +254,7 @@
     <title>macOS Users</title>
 
     <section id="which.package.to.download.OSX">
-      <title>Downloading the package</title>
+      <title>Transferir o pacote</title>
 
       <para><application>OmegaT</application> contains the Java JRE 1.8</para>
 
@@ -361,7 +346,7 @@
       Windows x64 etc) must have a running compatible Java JRE on their system
       to be able to use <application>OmegaT</application>.</para>
 
-      <para>Do you have a Java implementation compatible with Oracle&quot;s Java 8 JRE?</para>
+      <para>Tem uma implementação Java compatível com o Java 8 JRE da Oracle?</para>
 
       <itemizedlist>
         <listitem>
