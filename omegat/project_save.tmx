@@ -2188,6 +2188,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115320Z" creationid="Pedro Albuquerque" creationdate="20210426T115320Z">
+        <seg>&lt;e0&gt;Instalar sobre a instalação existente.&lt;/e0&gt; Para o fazer, basta seleccionar a mesma pasta de instalação que a instalação existente ao instalar a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -19712,6 +19720,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101928Z" creationid="Pedro Albuquerque" creationdate="20210421T101928Z">
         <seg>Será utilizada a sua pasta actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115347Z" creationid="Pedro Albuquerque" creationdate="20210426T115347Z">
+        <seg>A versão "antiga" do OmegaT será sobrescrita, mas quaisquer definições da mesma serão retidas.</seg>
       </tuv>
     </tu>
     <tu>
