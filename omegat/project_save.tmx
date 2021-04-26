@@ -116,6 +116,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155511Z" creationid="Pedro Albuquerque" creationdate="20210426T155511Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${adjustedScore}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094555Z" creationid="Pedro Albuquerque" creationdate="20210424T094555Z">
@@ -3278,6 +3286,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062116Z" creationid="Pedro Albuquerque" creationdate="20210422T062116Z">
         <seg>Adicionados: {1}, Eliminados: {2}, Modificados: {3} (Conflitos: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155539Z" creationid="Pedro Albuquerque" creationdate="20210426T155539Z">
+        <seg>Adicionar o &lt;a0&gt;OmegaT&lt;/a0&gt; aos seus menus (KDE) ou painéis (Gnome)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21958,6 +21974,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100600Z" creationid="Pedro Albuquerque" creationdate="20210422T100600Z">
         <seg>Para sublinhar termos correspondentes na parte da fonte do segmento utilizar &lt;g0&gt;Ver&lt;/g0&gt; &gt; &lt;g1&gt;Marcar correspondências do glossário&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155509Z" creationid="Pedro Albuquerque" creationdate="20210426T155509Z">
+        <seg>Para descomprimir o ficheiro &lt;f2&gt;.tar.gz&lt;/f2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
