@@ -11809,6 +11809,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KDE 4 Users</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155549Z" creationid="Pedro Albuquerque" creationdate="20210426T155549Z">
+        <seg>Utilizadores KDE 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085653Z" creationid="Pedro Albuquerque" creationdate="20210422T085653Z">
@@ -15749,6 +15757,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054137Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Clique em "Aceitar" para converter o projecto num projecto de equipa estilo 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155625Z" creationid="Pedro Albuquerque" creationdate="20210426T155625Z">
+        <seg>Prima &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; para mostrar o KRunner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22408,6 +22424,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155824Z" creationid="Pedro Albuquerque" creationdate="20210426T155824Z">
+        <seg>Escreva &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; para executar o comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110329Z" creationid="Pedro Albuquerque" creationdate="20210421T110329Z">
@@ -24213,6 +24237,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105639Z" creationid="Pedro Albuquerque" creationdate="20210421T105639Z">
         <seg>Está a desinstalar o dicionário de verificação ortográfica que o seu projecto utiliza actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155612Z" creationid="Pedro Albuquerque" creationdate="20210426T155612Z">
+        <seg>Pode adicionar o &lt;a0&gt;OmegaT&lt;/a0&gt; aos seus menus como se segue:</seg>
       </tuv>
     </tu>
     <tu>
