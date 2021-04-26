@@ -12683,6 +12683,15 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161639Z" creationid="Pedro Albuquerque" creationdate="20210426T161639Z">
+        <seg>Certifique-se de que as suas definições 
+ de &lt;v1&gt;PATH&lt;/v1&gt; estão correctas e que os ficheiros &lt;f2&gt;.jar&lt;/f2&gt; estão devidamente associados a um Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070820Z" creationid="Pedro Albuquerque" creationdate="20210425T070752Z">
@@ -13119,6 +13128,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180821Z" creationid="Pedro Albuquerque" creationdate="20210420T180821Z">
         <seg>Dicionário Merriam Webster - uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161545Z" creationid="Pedro Albuquerque" creationdate="20210426T161545Z">
+        <seg>Os métodos diferem em função da distribuição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24541,8 +24558,8 @@ script de instalação (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161301Z" creationid="Pedro Albuquerque" creationdate="20210426T161301Z">
-        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161431Z" creationid="Pedro Albuquerque" creationdate="20210426T161301Z">
+        <seg>Pode iniciar o OmegaT a partir da linha de comandos com um script que inclui opções de arranque ou pode clicar em &lt;f0&gt;OmegaT.jar&lt;/f0&gt; para o iniciar directamente.</seg>
       </tuv>
     </tu>
     <tu>
