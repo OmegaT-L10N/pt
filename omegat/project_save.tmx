@@ -9330,6 +9330,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GNOME Users</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160741Z" creationid="Pedro Albuquerque" creationdate="20210426T160741Z">
+        <seg>Utilizadores GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092622Z" creationid="Pedro Albuquerque" creationdate="20210422T092622Z">
@@ -17115,6 +17123,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093526Z" creationid="Pedro Albuquerque" creationdate="20210425T090807Z">
         <seg>Reutilizar as memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160745Z" creationid="Pedro Albuquerque" creationdate="20210426T160745Z">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
