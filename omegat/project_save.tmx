@@ -1996,6 +1996,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161803Z" creationid="Pedro Albuquerque" creationdate="20210426T161803Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; contém o Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074138Z" creationid="Pedro Albuquerque" creationdate="20210424T074138Z">
@@ -4870,6 +4878,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161738Z" creationid="Pedro Albuquerque" creationdate="20210426T161738Z">
+        <seg>Veja "&lt;l3/&gt;" abaixo para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
@@ -7244,6 +7260,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161850Z" creationid="Pedro Albuquerque" creationdate="20210426T161850Z">
+        <seg>Faça duplo clique no ficheiro &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; para o descomprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
@@ -7272,6 +7296,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124657Z" creationid="Pedro Albuquerque" creationdate="20210420T124657Z">
         <seg>&amp;Transferir projecto de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161815Z" creationid="Pedro Albuquerque" creationdate="20210426T161815Z">
+        <seg>ransfira o &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11345,6 +11377,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092520Z" creationid="Pedro Albuquerque" creationdate="20210422T092520Z">
         <seg>Extensões instaladas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161821Z" creationid="Pedro Albuquerque" creationdate="20210426T161821Z">
+        <seg>Instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20463,6 +20503,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161932Z" creationid="Pedro Albuquerque" creationdate="20210426T161932Z">
+        <seg>Esta pasta cont+em dois ficheiros: &lt;f2&gt;index.html&lt;/f2&gt; e &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112110Z" creationid="Pedro Albuquerque" creationdate="20210426T112110Z">
@@ -21495,6 +21543,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055736Z" creationid="Pedro Albuquerque" creationdate="20210422T055736Z">
         <seg>Este comando será executado após criar documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161904Z" creationid="Pedro Albuquerque" creationdate="20210426T161904Z">
+        <seg>Isto cria uma pasta chamada &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25982,6 +26038,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
         <seg>mALIGNa (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161750Z" creationid="Pedro Albuquerque" creationdate="20210426T161750Z">
+        <seg>Utilizadores macOS</seg>
       </tuv>
     </tu>
     <tu>
