@@ -7300,6 +7300,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the right package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154015Z" creationid="Pedro Albuquerque" creationdate="20210426T154015Z">
+        <seg>Transferir o pacote certo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072147Z" creationid="Pedro Albuquerque" creationdate="20210421T072147Z">
@@ -10507,6 +10515,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153852Z" creationid="Pedro Albuquerque" creationdate="20210426T153852Z">
+        <seg>se tiver feito alterações ao seu ficheiro &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; e/ou estiver a utilizar um ficheiro .bat, deverá copiá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10607,6 +10623,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>If you"re a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153936Z" creationid="Pedro Albuquerque" creationdate="20210426T153936Z">
+        <seg>Se a sua instalação OmegaT existente for uma versão "Windows com JRE", a nova versão deve também ser uma versão "Windows com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10937,6 +10961,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094220Z" creationid="Pedro Albuquerque" creationdate="20210425T094220Z">
         <seg>Neste caso, um procedimento útil seria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, however:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153739Z" creationid="Pedro Albuquerque" creationdate="20210426T153739Z">
+        <seg>Contudo, neste caso:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,6 +12351,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070912Z" creationid="Pedro Albuquerque" creationdate="20210421T070912Z">
         <seg>Ligações (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux (Intel) Users</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153948Z" creationid="Pedro Albuquerque" creationdate="20210426T153948Z">
+        <seg>Utilizadores Linux (Intel)</seg>
       </tuv>
     </tu>
     <tu>
