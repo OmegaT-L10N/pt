@@ -3298,6 +3298,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T162100Z" creationid="Pedro Albuquerque" creationdate="20210426T162100Z">
+        <seg>Adicionar o &lt;a0&gt;OmegaT&lt;/a0&gt; à doca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155539Z" creationid="Pedro Albuquerque" creationdate="20210426T155539Z">
@@ -5826,6 +5834,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T162017Z" creationid="Pedro Albuquerque" creationdate="20210426T162017Z">
+        <seg>Copie a pasta para uma pasta adequada (por exemplo, Aplicações).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095437Z" creationid="Pedro Albuquerque" creationdate="20210425T095437Z">
@@ -7268,6 +7284,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T164236Z" creationid="Pedro Albuquerque" creationdate="20210426T164236Z">
+        <seg>Faça duplo clique em &lt;f0&gt;OmegaT.app&lt;/f0&gt; ou clique na sua localização na doca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
@@ -7384,6 +7408,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072147Z" creationid="Pedro Albuquerque" creationdate="20210421T072147Z">
         <seg>D&amp;esenhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T162121Z" creationid="Pedro Albuquerque" creationdate="20210426T162121Z">
+        <seg>Arraste e largue o &lt;f0&gt;OmegaT.app&lt;/f0&gt; para a doca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14892,6 +14924,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104445Z" creationid="Pedro Albuquerque" creationdate="20210425T104445Z">
         <seg>Uma vez o projecto instalado no servidor, o gestor do projecto pode convidar o tradutor a trabalhar no mesmo de duas formas diferentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T162045Z" creationid="Pedro Albuquerque" creationdate="20210426T162045Z">
+        <seg>Uma vez feito isto, pode eliminar o ficheiro &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, já não é necessário.</seg>
       </tuv>
     </tu>
     <tu>
