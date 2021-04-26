@@ -14735,6 +14735,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065822Z" creationid="Pedro Albuquerque" creationdate="20210426T065822Z">
+        <seg>Os ficheiros PDF são um caso especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072914Z" creationid="Pedro Albuquerque" creationdate="20210421T072914Z">
@@ -20726,6 +20734,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065858Z" creationid="Pedro Albuquerque" creationdate="20210426T065858Z">
+        <seg>Contêm informação de formatação de texto, mas tal informação não pode ser reutilizada pelo &lt;a0&gt;OmegaT&lt;/a0&gt; a fim de criar ficheiros-alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111455Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
@@ -21584,8 +21600,8 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111319Z" creationid="Pedro Albuquerque" creationdate="20210425T111319Z">
-        <seg>Translate a PDF file</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065811Z" creationid="Pedro Albuquerque" creationdate="20210425T111319Z">
+        <seg>Traduzir um ficheiro PDF</seg>
       </tuv>
     </tu>
     <tu>
