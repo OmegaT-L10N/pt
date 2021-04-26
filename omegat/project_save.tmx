@@ -10323,6 +10323,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065930Z" creationid="Pedro Albuquerque" creationdate="20210426T065930Z">
+        <seg>Se precisar de reproduzir a formatação do texto (bem como outras coisas como desenhos) na sua tradução, há três maneiras de tentar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083158Z" creationid="Pedro Albuquerque" creationdate="20210423T083158Z">
@@ -17281,6 +17289,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070141Z" creationid="Pedro Albuquerque" creationdate="20210426T070141Z">
+        <seg>Ver &lt;u0&gt;Como traduzir ficheiros PDF com Iceni Infix e OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072741Z" creationid="Pedro Albuquerque" creationdate="20210424T072741Z">
@@ -21186,6 +21202,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065915Z" creationid="Pedro Albuquerque" creationdate="20210426T065915Z">
+        <seg>Assim, os ficheiros PDF são tratados como ficheiros de texto simples, e os ficheiros de saída são ficheiros de texto simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T091017Z">
@@ -22436,6 +22460,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070043Z" creationid="Pedro Albuquerque" creationdate="20210426T070043Z">
+        <seg>Utilizar o filtro padrão (entrada PDF) do &lt;a0&gt;OmegaT's&lt;/a0&gt; , traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080724Z" creationid="Pedro Albuquerque" creationdate="20210423T080724Z">
@@ -22552,6 +22584,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113839Z" creationid="Pedro Albuquerque" creationdate="20210423T113839Z">
         <seg>Usar termos que aparecem separadamente no texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070100Z" creationid="Pedro Albuquerque" creationdate="20210426T070100Z">
+        <seg>Utilizar o filtro Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24931,6 +24971,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163258Z" creationid="Pedro Albuquerque" creationdate="20210420T163258Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070047Z" creationid="Pedro Albuquerque" creationdate="20210426T070047Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
     </tu>
     <tu>
