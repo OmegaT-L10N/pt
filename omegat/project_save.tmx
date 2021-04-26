@@ -8808,6 +8808,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160733Z" creationid="Pedro Albuquerque" creationdate="20210426T160733Z">
+        <seg>Finalmente, grave as alterações com &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111839Z" creationid="Pedro Albuquerque" creationdate="20210422T111839Z">
@@ -18141,6 +18149,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110302Z" creationid="Pedro Albuquerque" creationdate="20210421T110302Z">
         <seg>Seleccionar languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160704Z" creationid="Pedro Albuquerque" creationdate="20210426T160704Z">
+        <seg>Seleccione o ícone &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
