@@ -14365,6 +14365,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071027Z" creationid="Pedro Albuquerque" creationdate="20210426T071027Z">
+        <seg>Os projectos de equipa OmegaT devem primeiro ser &lt;l0&gt;set up&lt;/l0&gt; num servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100410Z" creationid="Pedro Albuquerque" creationdate="20210420T160805Z">
@@ -22574,8 +22582,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070709Z" creationid="Pedro Albuquerque" creationdate="20210426T070709Z">
-        <seg>Use a Team Project</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071005Z" creationid="Pedro Albuquerque" creationdate="20210426T070709Z">
+        <seg>Utilizar um projecto de equipa</seg>
       </tuv>
     </tu>
     <tu>
