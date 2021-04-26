@@ -7816,6 +7816,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160046Z" creationid="Pedro Albuquerque" creationdate="20210426T160046Z">
+        <seg>Insira &lt;a2&gt;OmegaT&lt;/a2&gt; como o nome do novo item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092828Z" creationid="Pedro Albuquerque" creationdate="20210421T092828Z">
@@ -10773,6 +10781,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155857Z" creationid="Pedro Albuquerque" creationdate="20210426T155857Z">
+        <seg>No KMenuEditor seleccione &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082754Z" creationid="Pedro Albuquerque" creationdate="20210423T082603Z">
@@ -10945,6 +10961,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075020Z" creationid="Pedro Albuquerque" creationdate="20210424T075020Z">
         <seg>Apesar do ponto, &lt;e0&gt;"Sra. Dalloway"&lt;/e0&gt; não deve ser dividido em dois segmentos, pelo que deve ser estabelecida uma regra de excepção para Sra. (e para Sr., para Dr., para Prof., etc.), seguida de um ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160145Z" creationid="Pedro Albuquerque" creationdate="20210426T160145Z">
+        <seg>No campo "Comando", use o botão de navegação para encontrar o seu script de lançamento &lt;a0&gt;OmegaT&lt;/a0&gt; (o ficheiro chamado &lt;a1&gt;OmegaT&lt;/a1&gt; na pasta descomprimida) e seleccione-o.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19868,6 +19892,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The KMenuEditor appears.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155838Z" creationid="Pedro Albuquerque" creationdate="20210426T155838Z">
+        <seg>Verá o KMenuEditor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065843Z" creationid="Pedro Albuquerque" creationdate="20210421T065843Z">
@@ -21068,6 +21100,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100744Z" creationid="Pedro Albuquerque" creationdate="20210425T100744Z">
         <seg>Depois precisa de uma tradução em, por exemplo, chinês, mas a sua tradutora não entende holandês; no entanto, ela entende perfeitamente inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160026Z" creationid="Pedro Albuquerque" creationdate="20210426T160026Z">
+        <seg>Depois, após seleccionar um menu adequado, adicionar um sub-menu/item com &lt;e0&gt;Ficheiro - Novo&lt;/e0&gt; Sub-menu e &lt;e1&gt;~Ficheiro - Novo item&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
