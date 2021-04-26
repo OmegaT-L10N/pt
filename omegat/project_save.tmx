@@ -21338,6 +21338,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115404Z" creationid="Pedro Albuquerque" creationdate="20210426T115404Z">
+        <seg>Isto inclui preferências definidas a partir do OmegaT, quaisquer alterações que tenha feito ao seu ficheiro &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, e também o seu script de lançamento (&lt;f2&gt;.bat&lt;/f2&gt; ficheiro), se estiver a utilizar um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112432Z" creationid="Pedro Albuquerque" creationdate="20210426T112432Z">
@@ -23772,6 +23780,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181417Z" creationid="Pedro Albuquerque" creationdate="20210421T181417Z">
         <seg>Janelas e diálogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T120341Z" creationid="Pedro Albuquerque" creationdate="20210426T120341Z">
+        <seg>Com este método, pode também transferir a versão "Windows sem JRE", uma vez que a nova instalação utilizará o seu JRE existente.</seg>
       </tuv>
     </tu>
     <tu>
