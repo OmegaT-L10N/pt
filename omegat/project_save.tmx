@@ -10409,6 +10409,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111628Z" creationid="Pedro Albuquerque" creationdate="20210426T111628Z">
+        <seg>Se marcar a caixa correspondente, o ficheiro &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; é modificado para utilizar o idioma seleccionado (ver secção seguinte para detalhes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100049Z" creationid="Pedro Albuquerque" creationdate="20210424T100049Z">
@@ -10865,6 +10873,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070714Z" creationid="Pedro Albuquerque" creationdate="20210425T070714Z">
         <seg>No diálogo dos padrões de exclusão, é possível adicionar ou remover um padrão, ou editar um, seleccionando uma linha e premindo F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111552Z" creationid="Pedro Albuquerque" creationdate="20210426T111552Z">
+        <seg>Na janela seguinte pode indicar que o idioma seleccionado deve ser utilizado no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12029,6 +12045,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161715Z" creationid="Pedro Albuquerque" creationdate="20210420T161715Z">
         <seg>As chamadas posteriores não precisam de estar em linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111745Z" creationid="Pedro Albuquerque" creationdate="20210426T111745Z">
+        <seg>Mais tarde, após aceitar o acordo de licença, o programa de configuração pergunta-lhe se deseja criar uma pasta no menu &lt;e1&gt;Iniciar&lt;/e1&gt; e se deseja criar um atalho no ambiente de trabalho e na barra de lançamento rápido - pode criar estes atalhos mais tarde arrastando &lt;f2&gt;OmegaT.exe&lt;/f2&gt; para o ambiente de trabalho ou para o menu Iniciar para o ligar a partir daí.</seg>
       </tuv>
     </tu>
     <tu>
