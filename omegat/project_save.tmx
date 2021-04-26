@@ -7014,8 +7014,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Do you have a Java implementation compatible with Oracle"s Java 8 JRE?</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072453Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Tem uma implementação Java compatível com o Java 8 JRE da Oracle?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7240,6 +7240,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173122Z" creationid="Pedro Albuquerque" creationdate="20210420T173111Z">
         <seg>A transferir o projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072439Z" creationid="Pedro Albuquerque" creationdate="20210426T072439Z">
+        <seg>Transferir o pacote</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,8 +11191,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072132Z" creationid="Pedro Albuquerque" creationdate="20210426T072132Z">
-        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072409Z" creationid="Pedro Albuquerque" creationdate="20210426T072132Z">
+        <seg>Instalar e executar o &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23572,6 +23580,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065752Z" creationid="Pedro Albuquerque" creationdate="20210421T065752Z">
         <seg>Recursos Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Users</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072419Z" creationid="Pedro Albuquerque" creationdate="20210426T072419Z">
+        <seg>Utilizadores Windows</seg>
       </tuv>
     </tu>
     <tu>
