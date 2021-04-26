@@ -3394,6 +3394,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071358Z" creationid="Pedro Albuquerque" creationdate="20210426T071358Z">
+        <seg>Todos os outros ficheiros serão substituídos pelos ficheiros no repositório remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other local changes to the project are reverted.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111304Z" creationid="Pedro Albuquerque" creationdate="20210425T111304Z">
@@ -4062,6 +4070,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061149Z" creationid="Pedro Albuquerque" creationdate="20210422T061149Z">
         <seg>Ficheiro de texto automático (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071110Z" creationid="Pedro Albuquerque" creationdate="20210426T071110Z">
+        <seg>Gravação automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,6 +8032,14 @@ Ninguém ouve os seus gritos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102439Z" creationid="Pedro Albuquerque" creationdate="20210421T102439Z">
         <seg>Evento: alteração de projecto - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071135Z" creationid="Pedro Albuquerque" creationdate="20210426T071135Z">
+        <seg>A cada 3 minutos (por defeito), o projecto local é sincronizado com o repositório remoto para que o gestor do projecto ou outros tradutores possam ver e utilizar as traduções adicionadas durante esse período.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14471,6 +14495,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071059Z" creationid="Pedro Albuquerque" creationdate="20210426T071059Z">
+        <seg>Uma vez o projecto aberto, a tradução procede da mesma forma que para um projecto que não seja de equipa, excepto nos seguintes pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104445Z" creationid="Pedro Albuquerque" creationdate="20210425T104445Z">
@@ -19009,6 +19041,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071222Z" creationid="Pedro Albuquerque" creationdate="20210426T071222Z">
+        <seg>Ficheiros sincronizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125230Z" creationid="Pedro Albuquerque" creationdate="20210420T125230Z">
@@ -20096,6 +20136,14 @@ in the quick launch area.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161839Z" creationid="Pedro Albuquerque" creationdate="20210420T161839Z">
         <seg>O instalador pode criar atalhos no menu Iniciar, no ambiente de trabalho e
 na área de início rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071210Z" creationid="Pedro Albuquerque" creationdate="20210426T071210Z">
+        <seg>O intervalo de 3 minutos pode ser alterado em &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opções&lt;/g2&gt; &lt;g3&gt;Preferências&lt;/g3&gt; &lt;g4&gt;Gravação e saída&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21566,6 +21614,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100600Z" creationid="Pedro Albuquerque" creationdate="20210422T100600Z">
         <seg>Para sublinhar termos correspondentes na parte da fonte do segmento utilizar &lt;g0&gt;Ver&lt;/g0&gt; &gt; &lt;g1&gt;Marcar correspondências do glossário&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071039Z" creationid="Pedro Albuquerque" creationdate="20210426T071039Z">
+        <seg>Para utilizar um projecto de equipa pela primeira vez, seguir o procedimento fornecido pelo gestor do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23318,6 +23374,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171117Z" creationid="Pedro Albuquerque" creationdate="20210423T171117Z">
         <seg>Quando desejar utilizar o filtro de novo, basta marcar a respectiva caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071308Z" creationid="Pedro Albuquerque" creationdate="20210426T071308Z">
+        <seg>Sempre que o projecto é automaticamente gravado, mas também quando é aberto, fechado e recarregado, apenas dois ficheiros são de facto sincronizados:</seg>
       </tuv>
     </tu>
     <tu>
