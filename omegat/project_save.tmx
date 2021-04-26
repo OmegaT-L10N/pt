@@ -4254,6 +4254,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070634Z" creationid="Pedro Albuquerque" creationdate="20210426T070634Z">
+        <seg>Antes de proceder a tais conversões, não se esqueça de testar todas as opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082108Z" creationid="Pedro Albuquerque" creationdate="20210423T082108Z">
@@ -4970,6 +4978,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180911Z" creationid="Pedro Albuquerque" creationdate="20210420T180911Z">
         <seg>Assegure-se de que os seus ficheiros de dicionário se encontram na pasta correcta (ou numa sub-pasta dela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070659Z" creationid="Pedro Albuquerque" creationdate="20210426T070659Z">
+        <seg>Verifique a página inicial do &lt;u0&gt;OmegaT&lt;/u0&gt; para uma lista actualizada de ferramentas auxiliares de tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20328,6 +20344,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070618Z" creationid="Pedro Albuquerque" creationdate="20210426T070618Z">
+        <seg>A qualidade da formatação do ficheiro traduzido dependerá da qualidade da conversão de ida e volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104555Z" creationid="Pedro Albuquerque" creationdate="20210425T104555Z">
@@ -22544,6 +22568,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080847Z" creationid="Pedro Albuquerque" creationdate="20210423T080847Z">
         <seg>Usar termos que aparecem separadamente no texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070709Z" creationid="Pedro Albuquerque" creationdate="20210426T070709Z">
+        <seg>Use a Team Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -24999,6 +25031,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070605Z" creationid="Pedro Albuquerque" creationdate="20210426T070605Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092617Z" creationid="Pedro Albuquerque" creationdate="20210424T092617Z">
@@ -25229,6 +25269,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071252Z" creationid="Pedro Albuquerque" creationdate="20210425T071252Z">
         <seg>justificação à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070545Z" creationid="Pedro Albuquerque" creationdate="20210426T070545Z">
+        <seg>carregar o ficheiro-alvo no gravador ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -25745,6 +25793,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>save the file as a DOC file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070604Z" creationid="Pedro Albuquerque" creationdate="20210426T070604Z">
+        <seg>gravar o ficheiro como um ficheiro DOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>save the file in ODT format</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070459Z" creationid="Pedro Albuquerque" creationdate="20210426T070459Z">
+        <seg>gravar o ficheiro em formato ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112237Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -25893,6 +25957,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080642Z" creationid="Pedro Albuquerque" creationdate="20210423T080642Z">
         <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translate it into the target ODT file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070511Z" creationid="Pedro Albuquerque" creationdate="20210426T070511Z">
+        <seg>traduzi-lo para o ficheiro ODT de destino</seg>
       </tuv>
     </tu>
     <tu>
