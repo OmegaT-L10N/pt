@@ -5302,6 +5302,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161205Z" creationid="Pedro Albuquerque" creationdate="20210426T161205Z">
+        <seg>Clique no ícone, depois clique em &lt;g0&gt;Navegar...&lt;/g0&gt; e navegue para a sub-pasta &lt;f1&gt;/images&lt;/f1&gt; na pasta &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114316Z" creationid="Pedro Albuquerque" creationdate="20210423T114316Z">
@@ -9342,6 +9350,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160741Z" creationid="Pedro Albuquerque" creationdate="20210426T160741Z">
         <seg>Utilizadores GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161258Z" creationid="Pedro Albuquerque" creationdate="20210426T161258Z">
+        <seg>O GNOME pode não exibir os ficheiros de ícones nos formatos disponíveis e inicialmente parecer à espera de um ficheiro SVG, mas se a pasta for seleccionada, os ficheiros devem aparecer e o &lt;f4&gt;OmegaT.png&lt;/f4&gt; pode ser seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18193,6 +18209,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161222Z" creationid="Pedro Albuquerque" creationdate="20210426T161222Z">
+        <seg>Seleccione o ícone &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
@@ -24511,6 +24535,14 @@ installation script (linux-install.sh).</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161304Z" creationid="Pedro Albuquerque" creationdate="20210420T161304Z">
         <seg>No entanto, pode obter uma instalação mais limpa e mais fácil de utilizar, utilizando o
 script de instalação (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161301Z" creationid="Pedro Albuquerque" creationdate="20210426T161301Z">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
       </tuv>
     </tu>
     <tu>
