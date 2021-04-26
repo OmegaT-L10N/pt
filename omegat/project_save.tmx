@@ -2190,8 +2190,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>&lt;e0&gt;No / I don"t know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072545Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>&lt;e0&gt;Não/Não sei:&lt;/e0&gt; transferir o &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2264,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173908Z" creationid="Pedro Albuquerque" creationdate="20210423T173908Z">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; texto de instrução não visível, comentários, notas de rodapé, notas finais, rodapés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072514Z" creationid="Pedro Albuquerque" creationdate="20210426T072514Z">
+        <seg>&lt;e0&gt;Sim: &lt;/e0&gt;transferir o &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +3942,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074622Z" creationid="Pedro Albuquerque" creationdate="20210424T074448Z">
         <seg>Em cada uma das regras de posição do cursor, que consistem num padrão &lt;e0&gt;Antes de&lt;/e0&gt; e &lt;e1&gt;Depois de &lt;/e1&gt;, são aplicadas na sua ordem dada para ver se algum dos padrões&lt;e2&gt; Antes de&lt;/e2&gt; é válido para o texto à esquerda e o padrão correspondente &lt;e3&gt;Depois de&lt;/e3&gt; para o texto à direita do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072931Z" creationid="Pedro Albuquerque" creationdate="20210426T072931Z">
+        <seg>No início da instalação pode seleccionar o idioma a utilizar durante a instalação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11145,6 +11161,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092520Z" creationid="Pedro Albuquerque" creationdate="20210422T092520Z">
         <seg>Extensões instaladas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072632Z" creationid="Pedro Albuquerque" creationdate="20210426T072632Z">
+        <seg>Instalar o OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -21018,6 +21042,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072625Z" creationid="Pedro Albuquerque" creationdate="20210426T072625Z">
+        <seg>Este JRE não interferirá com outras implementações Java que possam já estar instaladas no seu sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This TM gradually becomes filled during the translation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093708Z" creationid="Pedro Albuquerque" creationdate="20210425T093708Z">
@@ -21364,8 +21396,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This package is bundled with Oracle"s Java Runtime Environment.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072614Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Este pacote inclui o Oracle"s Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21638,6 +21670,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083930Z" creationid="Pedro Albuquerque" creationdate="20210423T083712Z">
         <seg>Para activar o corrector ortográfico, seleccione &lt;g0&gt;Opções &gt; Preferências &gt; Correcção ortográfica&lt;/g0&gt; e marque a caixa &lt;g1&gt;Verificar automaticamente a ortografia do texto&lt;/g1&gt; (ver acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072658Z" creationid="Pedro Albuquerque" creationdate="20210426T072658Z">
+        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, faça duplo clique sobre o programa que transferiu.</seg>
       </tuv>
     </tu>
     <tu>
