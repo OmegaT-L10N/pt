@@ -3234,6 +3234,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071731Z" creationid="Pedro Albuquerque" creationdate="20210426T071731Z">
+        <seg>Acrescentar novos ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072928Z" creationid="Pedro Albuquerque" creationdate="20210424T072928Z">
@@ -4698,6 +4706,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061957Z" creationid="Pedro Albuquerque" creationdate="20210422T061943Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071909Z" creationid="Pedro Albuquerque" creationdate="20210426T071909Z">
+        <seg>Alteração das regras de segmentação ou filtros de ficheiros</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,6 +6540,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071829Z" creationid="Pedro Albuquerque" creationdate="20210426T071829Z">
+        <seg>Eliminar ficheiros-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093541Z" creationid="Pedro Albuquerque" creationdate="20210422T093541Z">
@@ -8192,6 +8216,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071814Z" creationid="Pedro Albuquerque" creationdate="20210426T071814Z">
+        <seg>Os ficheiros-fonte existentes podem ser modificados, mas a operação de autorização deve ser realizada antes de uma gravação automática e antes de o projecto ser recarregado ou encerrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173911Z" creationid="Pedro Albuquerque" creationdate="20210420T173911Z">
@@ -8596,6 +8628,14 @@ Os fios de Gossamer retêm-nos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074223Z" creationid="Pedro Albuquerque" creationdate="20210424T074223Z">
         <seg>Os ficheiros contendo formatação (documentos ODF, documentos HTML, etc.) são segmentados nas etiquetas de nível de bloco (parágrafo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071840Z" creationid="Pedro Albuquerque" creationdate="20210426T071840Z">
+        <seg>Os ficheiros devem ser apagados pelo gestor do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15843,6 +15883,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071927Z" creationid="Pedro Albuquerque" creationdate="20210426T071927Z">
+        <seg>Os parâmetros do projecto devem ser alterados pelo gestor do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170412Z" creationid="Pedro Albuquerque" creationdate="20210420T170412Z">
@@ -21374,6 +21422,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174745Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
         <seg>Para adicionar um novo padrão de filtro de ficheiros, clique em &lt;e1&gt;Adicionar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071755Z" creationid="Pedro Albuquerque" creationdate="20210426T071755Z">
+        <seg>Para adicionar um novo ficheiro-fonte:</seg>
       </tuv>
     </tu>
     <tu>
