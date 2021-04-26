@@ -2206,8 +2206,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>&lt;e0&gt;No / I don"t know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154127Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>&lt;e0&gt;Não/Não sei:&lt;/e0&gt; transferir o &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,6 +2296,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072514Z" creationid="Pedro Albuquerque" creationdate="20210426T072514Z">
         <seg>&lt;e0&gt;Sim: &lt;/e0&gt;transferir o &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154049Z" creationid="Pedro Albuquerque" creationdate="20210426T154049Z">
+        <seg>&lt;e0&gt;Sim: &lt;/e0&gt;transferir o &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22760,6 +22768,14 @@ file and the OmegaT application.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161104Z" creationid="Pedro Albuquerque" creationdate="20210420T161104Z">
         <seg>Desempacotar o arquivo .zip do OmegaT para obter uma pasta que contenha um ficheiro de documentação
 e a aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154500Z" creationid="Pedro Albuquerque" creationdate="20210426T154500Z">
+        <seg>Desempacotar o ficheiro transferido</seg>
       </tuv>
     </tu>
     <tu>
