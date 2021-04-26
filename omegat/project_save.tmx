@@ -21642,6 +21642,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155449Z" creationid="Pedro Albuquerque" creationdate="20210426T155449Z">
+        <seg>Isto vai criar uma pasta &lt;f0&gt;omegat/&lt;/f0&gt; na pasta de trabalho na qual encontrará todos os ficheiros necessários para executar o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085826Z" creationid="Pedro Albuquerque" creationdate="20210422T085826Z">
