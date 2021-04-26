@@ -7824,6 +7824,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161029Z" creationid="Pedro Albuquerque" creationdate="20210426T161029Z">
+        <seg>Insira "&lt;a0&gt;OmegaT&lt;/a0&gt;" no campo "Nome"; no campo "Comando", use o botão de navegação para encontrar o seu script &lt;a1&gt;OmegaT&lt;/a1&gt; (o ficheiro chamado &lt;a2&gt;OmegaT&lt;/a2&gt; na pasta descomprimida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160046Z" creationid="Pedro Albuquerque" creationdate="20210426T160046Z">
@@ -17129,8 +17137,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160745Z" creationid="Pedro Albuquerque" creationdate="20210426T160745Z">
-        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160929Z" creationid="Pedro Albuquerque" creationdate="20210426T160745Z">
+        <seg>Clique com o botão direito do rato no painel - &lt;e0&gt;Adicionar novo lançador&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18157,6 +18165,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091839Z" creationid="Pedro Albuquerque" creationdate="20210422T091839Z">
         <seg>Seleccione os tipos de problemas a verificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161107Z" creationid="Pedro Albuquerque" creationdate="20210426T161107Z">
+        <seg>Seleccione-o e confirme com Aceitar.</seg>
       </tuv>
     </tu>
     <tu>
