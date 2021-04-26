@@ -5294,6 +5294,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160211Z" creationid="Pedro Albuquerque" creationdate="20210426T160211Z">
+        <seg>Clique no botão do ícone (à direita dos campos Nome/Descrição/Comentário)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114316Z" creationid="Pedro Albuquerque" creationdate="20210423T114316Z">
@@ -15059,6 +15067,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064742Z" creationid="Pedro Albuquerque" creationdate="20210422T064722Z">
         <seg>Outras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160641Z" creationid="Pedro Albuquerque" creationdate="20210426T160641Z">
+        <seg>Outros ícones - Navegar, e navegar para a sub-pasta &lt;f0&gt;/images&lt;/f0&gt; na pasta do &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
