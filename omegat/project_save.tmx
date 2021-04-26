@@ -10375,6 +10375,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115259Z" creationid="Pedro Albuquerque" creationdate="20210426T115259Z">
+        <seg>Se já tem uma versão do OmegaT instalada no seu PC e deseja actualizar para uma versão mais recente, tem duas opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114653Z" creationid="Pedro Albuquerque" creationdate="20210422T114653Z">
@@ -11449,6 +11457,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071543Z" creationid="Pedro Albuquerque" creationdate="20210425T071543Z">
         <seg>Pode ser utilizado separadamente para os três painéis (Editor, Correspondências aproximadas e Glossário), clicando no painel e alternando o modo de visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112456Z" creationid="Pedro Albuquerque" creationdate="20210426T112456Z">
+        <seg>Não se aplica às versões Web Start, que são actualizadas automaticamente, nem às versões multi-plataforma instaladas no Windows.</seg>
       </tuv>
     </tu>
     <tu>
