@@ -2196,6 +2196,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070221Z" creationid="Pedro Albuquerque" creationdate="20210426T070221Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; a informação acima aplica-se apenas a ficheiros PDF com uma camada de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173945Z" creationid="Pedro Albuquerque" creationdate="20210423T173945Z">
@@ -8264,6 +8272,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070338Z" creationid="Pedro Albuquerque" creationdate="20210426T070338Z">
+        <seg>Ferramentas externas podem ser utilizadas para converter ficheiros para formatos suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052900Z" creationid="Pedro Albuquerque" creationdate="20210422T052900Z">
@@ -8820,8 +8836,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here"s a round trip for Word files with the DOC extension:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070410Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por exemplo, se tiver uma versão desactualizada do Microsoft Word, que não lide com o formato ODT, aqui está uma viagem de ida e volta para ficheiros Word com a extensão DOC:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10281,6 +10297,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070302Z" creationid="Pedro Albuquerque" creationdate="20210426T070302Z">
+        <seg>Se tiver um ficheiro PDF feito de páginas digitalizadas (por vezes tais ficheiros são referidos como PDFs 'mortos'), precisa de usar um programa OCR (reconhecimento óptico de caracteres) para reconhecer o texto e convertê-lo para um formato que possa ser tratado pela OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093410Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -10489,6 +10513,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090508Z" creationid="Pedro Albuquerque" creationdate="20210422T090508Z">
         <seg>Ignorar: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070207Z" creationid="Pedro Albuquerque" creationdate="20210426T070207Z">
+        <seg>Importar o ficheiro fonte para &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, guardá-lo como um ficheiro ODG, traduzir, exportar para PDF conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,6 +14739,22 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072605Z" creationid="Pedro Albuquerque" creationdate="20210421T072605Z">
         <seg>Outras contribuições são detalhadas no ficheiro readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070312Z" creationid="Pedro Albuquerque" creationdate="20210426T070312Z">
+        <seg>Outros formatos de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070326Z" creationid="Pedro Albuquerque" creationdate="20210426T070326Z">
+        <seg>Podem também existir outros formatos de texto simples ou de ficheiro de texto formatado adequados para processamento em OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20544,6 +20592,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070352Z" creationid="Pedro Albuquerque" creationdate="20210426T070352Z">
+        <seg>Os ficheiros traduzidos terão então de ser convertidos novamente para o formato original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060036Z" creationid="Pedro Albuquerque" creationdate="20210422T060036Z">
@@ -25063,10 +25119,26 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070143Z" creationid="Pedro Albuquerque" creationdate="20210426T070143Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172318Z" creationid="Pedro Albuquerque" creationdate="20210423T172318Z">
         <seg>se as regras de segmentação de frases estiverem activas, o texto será ainda mais segmentado de acordo com a opção aqui seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070439Z" creationid="Pedro Albuquerque" creationdate="20210426T070439Z">
+        <seg>importar o ficheiro para Writer ODF</seg>
       </tuv>
     </tu>
     <tu>
