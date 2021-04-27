@@ -2332,6 +2332,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073614Z" creationid="Pedro Albuquerque" creationdate="20210427T073614Z">
+        <seg>O &lt;f0&gt;OmegaT.app&lt;/f0&gt; pode fazer uso dos Serviços macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103842Z" creationid="Pedro Albuquerque" creationdate="20210425T103842Z">
@@ -26158,6 +26166,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161750Z" creationid="Pedro Albuquerque" creationdate="20210426T161750Z">
         <seg>Utilizadores macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073539Z" creationid="Pedro Albuquerque" creationdate="20210427T073539Z">
+        <seg>Guloseimas macOS</seg>
       </tuv>
     </tu>
     <tu>
