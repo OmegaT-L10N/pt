@@ -3394,6 +3394,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082507Z" creationid="Pedro Albuquerque" creationdate="20210427T082507Z">
+        <seg>Após a instalação inicial pode, claro, usar o &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; também quando estiver offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114518Z" creationid="Pedro Albuquerque" creationdate="20210421T114518Z">
@@ -19602,6 +19610,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082339Z" creationid="Pedro Albuquerque" creationdate="20210427T082339Z">
+        <seg>Cliques subsequentes em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verificarão quaisquer actualizações, instalá-las-ão, se existirem, e depois iniciarão o &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
@@ -20997,6 +21013,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>The perfect companion for those of us who don"t need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082241Z" creationid="Pedro Albuquerque" creationdate="20210427T082241Z">
+        <seg>As permissões que dá a esta versão (que podem aparecer como "acesso sem restrições ao computador") são idênticas às permissões que dá à versão local, ou seja, permitem o acesso ao disco rígido do computador.</seg>
       </tuv>
     </tu>
     <tu>
