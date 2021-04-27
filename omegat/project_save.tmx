@@ -24662,8 +24662,8 @@ script de instalação (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>You can modify OmegaT"s behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T060640Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Pode modificar o comportamento do OmegaT editando o ficheiro &lt;e0&gt;Properties&lt;/e0&gt; assim como o ficheiro &lt;f1&gt;Configuration.properties&lt;/f1&gt; no pacote.</seg>
       </tuv>
     </tu>
     <tu>
