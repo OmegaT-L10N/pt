@@ -15152,6 +15152,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061216Z" creationid="Pedro Albuquerque" creationdate="20210427T061216Z">
+        <seg>As opções são alteradas através da modificação do ficheiro &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070204Z" creationid="Pedro Albuquerque" creationdate="20210421T070204Z">
@@ -24502,6 +24510,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111052Z" creationid="Pedro Albuquerque" creationdate="20210425T111052Z">
         <seg>Pode adicionar tantos mapeamentos quantos desejar, mas apenas no contexto de um projecto de equipa, ou seja, um dos mapeamentos inclui omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061006Z" creationid="Pedro Albuquerque" creationdate="20210427T061006Z">
+        <seg>Pode também &lt;c3&gt;cd&lt;/c3&gt; para lá directamente na linha de comandos e abrir &lt;f4&gt;Configuration.properties&lt;/f4&gt; num editor de linha de comando como o emacs ou o vi.</seg>
       </tuv>
     </tu>
     <tu>
