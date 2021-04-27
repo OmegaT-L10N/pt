@@ -2276,6 +2276,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082612Z" creationid="Pedro Albuquerque" creationdate="20210427T082612Z">
+        <seg>&lt;e0&gt;Privacidade&lt;/e0&gt;: o &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start não guarda nenhuma das suas informações para além do computador em que o está a executar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174506Z" creationid="Pedro Albuquerque" creationdate="20210423T174506Z">
@@ -14222,6 +14230,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082720Z" creationid="Pedro Albuquerque" creationdate="20210427T082720Z">
+        <seg>Normalmente, não é necessário iniciar o &lt;a0&gt;OmegaT&lt;/a0&gt; a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092754Z" creationid="Pedro Albuquerque" creationdate="20210422T092754Z">
@@ -14290,6 +14306,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094452Z" creationid="Pedro Albuquerque" creationdate="20210425T094452Z">
         <seg>Note que todos os ficheiros tmx no repositório /tm são analisados quando o projecto é aberto, pelo que colocar todas as diferentes TMs que possa ter à mão nesta pasta pode atrasar desnecessariamente o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082654Z" creationid="Pedro Albuquerque" creationdate="20210427T082654Z">
+        <seg>Note que se precisar ou desejar utilizar algum dos argumentos de comando de lançamento (ver acima), deve utilizar a instalação normal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19482,6 +19506,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Starting OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082705Z" creationid="Pedro Albuquerque" creationdate="20210427T082705Z">
+        <seg>Iniciar o OmegaT a partir da linha de comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174616Z" creationid="Pedro Albuquerque" creationdate="20210420T174616Z">
@@ -20409,6 +20441,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092334Z" creationid="Pedro Albuquerque" creationdate="20210424T092334Z">
         <seg>A alternativa é introduzir uma tradução idêntica ao texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application runs on your machine only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082621Z" creationid="Pedro Albuquerque" creationdate="20210427T082621Z">
+        <seg>A aplicação funciona apenas na sua máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25138,6 +25178,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064326Z" creationid="Pedro Albuquerque" creationdate="20210421T064326Z">
         <seg>O seu projecto actual usa segmentação por frase, mas o ficheiro TMX foi criado com segmentação por parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082638Z" creationid="Pedro Albuquerque" creationdate="20210427T082638Z">
+        <seg>Os seus documentos e memórias de tradução permanecem no seu computador, e o projecto &lt;a2&gt;OmegaT&lt;/a2&gt; não terá acesso ao seu trabalho ou informação.</seg>
       </tuv>
     </tu>
     <tu>
