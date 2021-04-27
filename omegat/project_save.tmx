@@ -7420,6 +7420,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082030Z" creationid="Pedro Albuquerque" creationdate="20210427T082030Z">
+        <seg>Transfira o ficheiro &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; e depois clique-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173122Z" creationid="Pedro Albuquerque" creationdate="20210420T173111Z">
@@ -7520,6 +7528,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170316Z" creationid="Pedro Albuquerque" creationdate="20210420T170316Z">
         <seg>Segmentos duplicados: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082206Z" creationid="Pedro Albuquerque" creationdate="20210427T082206Z">
+        <seg>Durante a instalação, dependendo do seu sistema operativo, poderá receber vários avisos de segurança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22459,6 +22475,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T081917Z" creationid="Pedro Albuquerque" creationdate="20210427T081917Z">
+        <seg>Para iniciar o OmegaT pela primeira vez com Java Web Start, carregue o seguinte URL no seu navegador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100600Z" creationid="Pedro Albuquerque" creationdate="20210422T100600Z">
@@ -26148,6 +26172,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163311Z" creationid="Pedro Albuquerque" creationdate="20210420T163311Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T081918Z" creationid="Pedro Albuquerque" creationdate="20210427T081918Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
