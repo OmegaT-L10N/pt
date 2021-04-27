@@ -21963,6 +21963,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T062241Z" creationid="Pedro Albuquerque" creationdate="20210427T062109Z">
+        <seg>Isto iniciará o OmegaT com 6 GB de memória; altere os &lt;l4&gt;6g&lt;/l4&gt; para a quantidade desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065915Z" creationid="Pedro Albuquerque" creationdate="20210426T065915Z">
@@ -22085,8 +22093,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T062053Z" creationid="Pedro Albuquerque" creationdate="20210427T062053Z">
-        <seg>Para alterar a quantidade de memória disponível, edite o ficheiro &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; e remova o comentário de &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; removendo &lt;l2&gt;&lt;&lt;!--/l2&gt; e &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T062127Z" creationid="Pedro Albuquerque" creationdate="20210427T062053Z">
+        <seg>Para alterar a quantidade de memória disponível, edite o ficheiro &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; e remova o comentário de &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; removendo &lt;l2&gt;&lt;&lt;!--&lt;/l2&gt; e &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22215,6 +22223,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175937Z" creationid="Pedro Albuquerque" creationdate="20210420T175937Z">
         <seg>Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T062351Z" creationid="Pedro Albuquerque" creationdate="20210427T062351Z">
+        <seg>Para iniciar múltiplas instâncias do &lt;f0&gt;OmegaT.app&lt;/f0&gt;, clique duas vezes no ficheiro &lt;e1&gt;OmegaT&lt;/e1&gt; localizado em &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
