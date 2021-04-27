@@ -9098,6 +9098,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061928Z" creationid="Pedro Albuquerque" creationdate="20210427T061928Z">
+        <seg>Por exemplo, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sem o &lt;l3&gt;##&lt;/l3&gt;) inicia o &lt;a4&gt;OmegaT&lt;/a4&gt; com o ambiente do utilizador em japonês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9222,6 +9230,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174324Z" creationid="Pedro Albuquerque" creationdate="20210423T174324Z">
         <seg>Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061241Z" creationid="Pedro Albuquerque" creationdate="20210427T061241Z">
+        <seg>Para opções pré-definidas, remover o &lt;l1&gt;##&lt;/l1&gt; antes de um parâmetro para o activar.</seg>
       </tuv>
     </tu>
     <tu>
