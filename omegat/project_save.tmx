@@ -4928,8 +4928,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Check "&lt;l4/&gt;" below for more information.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075416Z" creationid="Pedro Albuquerque" creationdate="20210427T075416Z">
-        <seg>Verifique "&lt;l4/&gt;" abaixo para mais informações.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075423Z" creationid="Pedro Albuquerque" creationdate="20210427T075416Z">
+        <seg>Veja "&lt;l4/&gt;" abaixo para mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7448,6 +7448,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072147Z" creationid="Pedro Albuquerque" creationdate="20210421T072147Z">
         <seg>D&amp;esenhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075432Z" creationid="Pedro Albuquerque" creationdate="20210427T075418Z">
+        <seg>Arrastar e largar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11085,6 +11093,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075445Z" creationid="Pedro Albuquerque" creationdate="20210427T075445Z">
+        <seg>Na maioria dos sistemas, é possível abrir um projecto deixando cair um ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt; no ícone do OmegaT no ambiente de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171717Z" creationid="Pedro Albuquerque" creationdate="20210423T171717Z">
@@ -11821,6 +11837,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075501Z" creationid="Pedro Albuquerque" creationdate="20210427T075501Z">
+        <seg>Também pode ser possível abrir um projecto OmegaT fazendo duplo clique num ficheiro &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053959Z" creationid="Pedro Albuquerque" creationdate="20210422T053959Z">
@@ -11997,6 +12021,22 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070258Z" creationid="Pedro Albuquerque" creationdate="20210421T070258Z">
         <seg>Opções de filtro Java Resource Bundles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T081839Z" creationid="Pedro Albuquerque" creationdate="20210427T081839Z">
+        <seg>O Java Web Start assegura que a última versão da aplicação será implementada, bem como a versão correcta do Java Runtime Environment (JRE) utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075550Z" creationid="Pedro Albuquerque" creationdate="20210427T075550Z">
+        <seg>A tecnologia Java Web Start (parte de Java 8 e superior) pode ser utilizada para implementar aplicações Java autónomas com um único clique sobre a rede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23755,6 +23795,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071502Z" creationid="Pedro Albuquerque" creationdate="20210425T071502Z">
         <seg>Usando &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; faz com que tanto a entrada de texto como a exibição em &lt;a6&gt;OmegaT&lt;/a6&gt; mudem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Java Web Start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075508Z" creationid="Pedro Albuquerque" creationdate="20210427T075508Z">
+        <seg>Usar o Java Web Start</seg>
       </tuv>
     </tu>
     <tu>
