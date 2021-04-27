@@ -9024,10 +9024,18 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074940Z" creationid="Pedro Albuquerque" creationdate="20210427T074940Z">
+        <seg>Siga as instruções de instalação do pacote de que necessita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Follow your system"s instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075118Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Siga as instruções do seu sistema para instalar atalhos do &lt;a0&gt;OmegaT&lt;/a0&gt; em locais convenientes à sua escolha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10146,6 +10154,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173227Z" creationid="Pedro Albuquerque" creationdate="20210421T173227Z">
         <seg>IBM Watson indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074924Z" creationid="Pedro Albuquerque" creationdate="20210427T074924Z">
+        <seg>IBM fornece JREs para Linux PowerPC em &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11537,6 +11553,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123555Z" creationid="Pedro Albuquerque" creationdate="20210420T123555Z">
         <seg>Instalar e executar o OmegaT" no manual do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075050Z" creationid="Pedro Albuquerque" creationdate="20210427T075050Z">
+        <seg>Instalar atalhos convenientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -21675,6 +21699,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075031Z" creationid="Pedro Albuquerque" creationdate="20210427T075031Z">
+        <seg>Isto cria uma pasta &lt;f2&gt;./OmegaT_4.n.n.n_Without_JRE/&lt;/f2&gt; na pasta de trabalho com todos os ficheiros necessários para executar o &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174658Z" creationid="Pedro Albuquerque" creationdate="20210423T174658Z">
@@ -22279,6 +22311,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072658Z" creationid="Pedro Albuquerque" creationdate="20210426T072658Z">
         <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, faça duplo clique sobre o programa que transferiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075008Z" creationid="Pedro Albuquerque" creationdate="20210427T075008Z">
+        <seg>Para instalar &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descomprimir o ficheiro &lt;f1&gt;OmegaT_4.n.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25964,6 +26004,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111506Z" creationid="Pedro Albuquerque" creationdate="20210422T111506Z">
         <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074904Z" creationid="Pedro Albuquerque" creationdate="20210427T074904Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
     </tu>
     <tu>
