@@ -2028,6 +2028,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073833Z" creationid="Pedro Albuquerque" creationdate="20210427T073833Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; está disponível como  Oracle Java JRE para Linux (Intel x86) e Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072139Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
@@ -7406,8 +7414,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154015Z" creationid="Pedro Albuquerque" creationdate="20210426T154015Z">
-        <seg>Transferir o pacote certo</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073752Z" creationid="Pedro Albuquerque" creationdate="20210426T154015Z">
+        <seg>Transfira o pacote apropriado</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +15264,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Systems</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073724Z" creationid="Pedro Albuquerque" creationdate="20210427T073724Z">
+        <seg>Outros sistemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072605Z" creationid="Pedro Albuquerque" creationdate="20210421T072605Z">
@@ -21715,6 +21731,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073739Z" creationid="Pedro Albuquerque" creationdate="20210427T073739Z">
+        <seg>Esta informação aplica-se a sistemas tais como Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054856Z" creationid="Pedro Albuquerque" creationdate="20210422T054856Z">
@@ -23615,6 +23639,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074327Z" creationid="Pedro Albuquerque" creationdate="20210427T074327Z">
+        <seg>Os utilizadores de outras plataformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc.) devem ter um Java JRE compatível em execução no seu sistema para poderem utilizar o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071502Z" creationid="Pedro Albuquerque" creationdate="20210425T071502Z">
@@ -24614,6 +24646,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073714Z" creationid="Pedro Albuquerque" creationdate="20210427T073714Z">
+        <seg>Também pode usar o AppleScript ou o Automator para criar Serviços ou scripts que automatizarão acções frequentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094955Z" creationid="Pedro Albuquerque" creationdate="20210425T094955Z">
@@ -24776,6 +24816,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114336Z" creationid="Pedro Albuquerque" creationdate="20210423T114336Z">
         <seg>Pode então criar uma chave de acesso na página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073654Z" creationid="Pedro Albuquerque" creationdate="20210427T073654Z">
+        <seg>Pode assim seleccionar uma palavra no &lt;a1&gt;OmegaT&lt;/a1&gt; e utilizar Serviços para verificar esta palavra, por exemplo no Spotlight ou no Google.</seg>
       </tuv>
     </tu>
     <tu>
