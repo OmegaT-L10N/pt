@@ -2826,6 +2826,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082817Z" creationid="Pedro Albuquerque" creationdate="20210427T082817Z">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065941Z" creationid="Pedro Albuquerque" creationdate="20210425T065941Z">
@@ -10136,8 +10144,8 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>However, the command-line alternative allows the user to control and modify the program"s behavior.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082732Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Contudo, a alternativa de linha de comando permite ao utilizador controlar e modificar o comportamento do programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15308,6 +15316,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070745Z" creationid="Pedro Albuquerque" creationdate="20210421T070745Z">
         <seg>Opções de filtro OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082814Z" creationid="Pedro Albuquerque" creationdate="20210427T082814Z">
+        <seg>Abrir uma janela de linha de comando</seg>
       </tuv>
     </tu>
     <tu>
@@ -21597,6 +21613,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092237Z" creationid="Pedro Albuquerque" creationdate="20210424T092237Z">
         <seg>Há duas estratégias para segmentos que contêm só este texto invariável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082753Z" creationid="Pedro Albuquerque" creationdate="20210427T082753Z">
+        <seg>Há duas maneiras de iniciar o &lt;a1&gt;OmegaT&lt;/a1&gt; usando a linha de comando.</seg>
       </tuv>
     </tu>
     <tu>
