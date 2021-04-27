@@ -23453,6 +23453,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073509Z" creationid="Pedro Albuquerque" creationdate="20210427T073509Z">
+        <seg>Utilizar o ficheiro &lt;f0&gt;OmegaT.jar&lt;/f0&gt; localizado em &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; para iniciar o &lt;a2&gt;OmegaT&lt;/a2&gt; a partir da linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070100Z" creationid="Pedro Albuquerque" creationdate="20210426T070100Z">
