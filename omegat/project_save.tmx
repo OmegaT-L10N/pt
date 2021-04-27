@@ -21971,6 +21971,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T060906Z" creationid="Pedro Albuquerque" creationdate="20210427T060906Z">
+        <seg>Para aceder a &lt;f0&gt;Configuration.properties&lt;/f0&gt;, clique com o botão direito do rato em &lt;f1&gt;OmegaT.app&lt;/f1&gt; e seleccione "Mostrar conteúdo do pacote", depois abra o ficheiro em &lt;f2&gt;Conteúdos/Recursos&lt;/f2&gt;, clicando com o botão direito do rato sobre ele e seleccionando o editor de texto da sua escolha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174745Z" creationid="Pedro Albuquerque" creationdate="20210423T174745Z">
