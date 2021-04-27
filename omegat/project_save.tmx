@@ -4926,6 +4926,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075416Z" creationid="Pedro Albuquerque" creationdate="20210427T075416Z">
+        <seg>Verifique "&lt;l4/&gt;" abaixo para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152903Z" creationid="Pedro Albuquerque" creationdate="20210420T152903Z">
@@ -12844,6 +12852,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075400Z" creationid="Pedro Albuquerque" creationdate="20210427T075400Z">
+        <seg>Certifique-se de que as suas definições de &lt;v2&gt;PATH&lt;/v2&gt; estão correctas e de que os ficheiros &lt;f3&gt;.jar&lt;/f3&gt; estão devidamente associados a um iniciador Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070820Z" creationid="Pedro Albuquerque" creationdate="20210425T070752Z">
@@ -14980,6 +14996,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111945Z" creationid="Pedro Albuquerque" creationdate="20210426T111945Z">
         <seg>Uma vez o &lt;a0&gt;OmegaT&lt;/a0&gt; instalado, pode clicar em &lt;f1&gt;OmegaT.jar &lt;/f1&gt; para o lançar directamente ou pode lançá-lo directamente a partir da linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075208Z" creationid="Pedro Albuquerque" creationdate="20210427T075208Z">
+        <seg>Uma vez o &lt;a0&gt;OmegaT&lt;/a0&gt; instalado, pode iniciá-lo directamente a partir da linha de comandos, pode criar um script que inclua parâmetros de lançamento para a linha de comandos ou pode clicar em &lt;f1&gt;OmegaT.jar&lt;/f1&gt; para o iniciar directamente.</seg>
       </tuv>
     </tu>
     <tu>
