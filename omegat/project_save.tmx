@@ -2198,8 +2198,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>&lt;e0&gt;I don"t know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074453Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>&lt;e0&gt;Não sei:&lt;/e0&gt; bra um terminal e escreva &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,6 +2328,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T154049Z" creationid="Pedro Albuquerque" creationdate="20210426T154049Z">
         <seg>&lt;e0&gt;Sim: &lt;/e0&gt;transferir o &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074345Z" creationid="Pedro Albuquerque" creationdate="20210427T074345Z">
+        <seg>&lt;e0&gt;Sim:&lt;/e0&gt; transfira o &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10213,6 +10221,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095108Z" creationid="Pedro Albuquerque" creationdate="20210424T095108Z">
         <seg>Se o OmegaT precisar de utilizar um servidor proxy autenticado para aceder à Internet, insira aqui os detalhes fornecidos pelo administrador do proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074610Z" creationid="Pedro Albuquerque" creationdate="20210427T074436Z">
+        <seg>Se um "comando não encontrado" ou mensagem semelhante for devolvido, é provável que o Java não esteja instalado no seu sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21919,6 +21935,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113401Z" creationid="Pedro Albuquerque" creationdate="20210423T113401Z">
         <seg>Esta opção é útil para alguns sistemas de introdução de caracteres chineses, japoneses ou coreanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074427Z" creationid="Pedro Albuquerque" creationdate="20210427T074427Z">
+        <seg>Este pacote pode ser utilizado em qualquer plataforma onde esteja instalado um JRE compatível com Java 8.</seg>
       </tuv>
     </tu>
     <tu>
