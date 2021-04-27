@@ -2244,6 +2244,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074718Z" creationid="Pedro Albuquerque" creationdate="20210427T074718Z">
+        <seg>&lt;e0&gt;Não:&lt;/e0&gt; obtenha um Java JRE para o seu sistema (ver abaixo) e transfira o &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070221Z" creationid="Pedro Albuquerque" creationdate="20210426T070221Z">
@@ -15232,6 +15240,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074903Z" creationid="Pedro Albuquerque" creationdate="20210427T074903Z">
+        <seg>A Oracle fornece JREs para Solaris SPARC/x86 (Java 8) e para Linux x64, Solaris x64, Windows x64 (Java 8) em &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182656Z" creationid="Pedro Albuquerque" creationdate="20210421T182656Z">
@@ -25964,6 +25980,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092617Z" creationid="Pedro Albuquerque" creationdate="20210424T092617Z">
         <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074719Z" creationid="Pedro Albuquerque" creationdate="20210427T074719Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
     </tu>
     <tu>
