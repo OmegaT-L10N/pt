@@ -7140,6 +7140,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092819Z" creationid="Pedro Albuquerque" creationdate="20210504T092819Z">
+        <seg>As instruções detalhadas sobre a compilação estão em docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -13069,6 +13077,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102405Z" creationid="Pedro Albuquerque" creationdate="20210424T102405Z">
         <seg>Aprender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092827Z" creationid="Pedro Albuquerque" creationdate="20210504T092827Z">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25934,6 +25950,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092748Z" creationid="Pedro Albuquerque" creationdate="20210504T092748Z">
+        <seg>Também se pode executar directamente a aplicação com o seguinte comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073714Z" creationid="Pedro Albuquerque" creationdate="20210427T073714Z">
@@ -27200,6 +27224,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092751Z" creationid="Pedro Albuquerque" creationdate="20210504T092751Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110954Z" creationid="Pedro Albuquerque" creationdate="20210422T110954Z">
@@ -27444,6 +27476,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163347Z" creationid="Pedro Albuquerque" creationdate="20210420T163347Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092753Z" creationid="Pedro Albuquerque" creationdate="20210504T092753Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
