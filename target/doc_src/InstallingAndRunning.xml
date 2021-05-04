@@ -189,7 +189,7 @@
 
       <para>O <application>OmegaT</application> contém o Java JRE 1.8</para>
 
-      <para>ransfira o <filename>OmegaT_4.n.n_Mac.zip</filename>.</para>
+      <para>Transfira o <filename>OmegaT_4.n.n_Mac.zip</filename>.</para>
     </section>
 
     <section id="OmegaT.installation.OSX">
@@ -237,7 +237,7 @@
     <section>
       <title id="which.package.to.download.other">Transfira o pacote apropriado</title>
 
-      <para>O <application>OmegaT</application> está disponível como  Oracle Java JRE para Linux (Intel x86) e Windows. Os utilizadores de outras plataformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc.) devem ter um Java JRE compatível em execução no seu sistema para poderem utilizar o <application>OmegaT</application>.</para>
+      <para>O <application>OmegaT</application> está disponível como Oracle Java JRE para Linux (Intel x86) e Windows. Os utilizadores de outras plataformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc.) devem ter um Java JRE compatível em execução no seu sistema para poderem utilizar o <application>OmegaT</application>.</para>
 
       <para>Tem uma implementação Java compatível com o Java 8 JRE da Oracle?</para>
 

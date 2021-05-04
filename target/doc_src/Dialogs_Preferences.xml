@@ -269,7 +269,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a  etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
+          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
         </listitem>
       </itemizedlist>
 
@@ -341,7 +341,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML</emphasis>: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito).. Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída. Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</para>
+          <para><emphasis>Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML</emphasis>: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito). Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída. Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</para>
         </listitem>
       </itemizedlist>
 
@@ -353,7 +353,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a  etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
+          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
         </listitem>
       </itemizedlist>
 
@@ -410,7 +410,7 @@
       <section id="source.and.target.files.encoding">
         <title>Codificação de ficheiros fonte e alvo</title>
 
-        <para>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória. Os formatos de ficheiro que não especifiquem a sua codificação, utilizarão a codificação que tiver configurado para a extensão que corresponda ao seu nome. Por exemplo, por pré-definição, os ficheiros  <literal>.txt</literal> serão carregados utilizando a codificação pré-definida do seu sistema operativo. É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente. Os ficheiros-alvo também podem ser escritos em qualquer codificação. Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte. Os campos de codificação de fonte e alvo utilizam menus pendentes contendo todas as codificações suportadas. &lt;auto&gt; deixa a escolha da codificação ao <application>OmegaT</application>. É assim que funciona:</para>
+        <para>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória. Os formatos de ficheiro que não especifiquem a sua codificação, utilizarão a codificação que tiver configurado para a extensão que corresponda ao seu nome. Por exemplo, por pré-definição, os ficheiros <literal>.txt</literal> serão carregados utilizando a codificação pré-definida do seu sistema operativo. É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente. Os ficheiros-alvo também podem ser escritos em qualquer codificação. Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte. Os campos de codificação de fonte e alvo utilizam menus pendentes contendo todas as codificações suportadas. &lt;auto&gt; deixa a escolha da codificação ao <application>OmegaT</application>. É assim que funciona:</para>
 
         <itemizedlist>
           <listitem>
@@ -553,7 +553,7 @@
         <term>Segmentação a nível estrutural</term>
 
         <listitem>
-          <para>O <application>OmegaT</application> primeiros parses do texto para segmentação a nível de estrutura. Durante este processo, é apenas a estrutura do ficheiro-fonte que é utilizada para produzir segmentos.</para>
+          <para>O <application>OmegaT</application> primeiro analisa o texto para segmentação a nível de estrutura. Durante este processo, é apenas a estrutura do ficheiro-fonte que é utilizada para produzir segmentos.</para>
 
           <para>Por exemplo, os ficheiros de texto podem ser segmentados em quebras de linha, linhas vazias, ou não ser segmentados de todo. Os ficheiros contendo formatação (documentos ODF, documentos HTML, etc.) são segmentados nas etiquetas de nível de bloco (parágrafo). Os atributos de objectos traduzíveis em XHTML ou ficheiros HTML podem ser extraídos como segmentos separados.</para>
         </listitem>
@@ -611,7 +611,7 @@
 
       <para>A fim de editar ou expandir um conjunto de regras existentes, basta clicar sobre ele na tabela superior. As regras para esse conjunto aparecerão na metade inferior da janela.</para>
 
-      <para>A fim de criar um conjunto vazio de regras para um novo padrão linguístico, clique em <emphasis role="bold">Adicionar </emphasis> na metade superior do diálogo. Uma linha em branco aparecerá na parte inferior da tabela superior (poderá ter de rolar para baixo para a ver). Alterar o nome do conjunto de regras e o padrão linguístico para o idioma em questão e o seu código. A sintaxe do padrão linguístico está em conformidade com a sintaxe da expressão regular. Se o seu conjunto de regras lidar com um par idioma-país, aconselhamo-lo a movê-lo para o topo usando o botão <emphasis role="bold">Mover acima</emphasis>.</para>
+      <para>A fim de criar um conjunto vazio de regras para um novo padrão linguístico, clique em <emphasis role="bold">Adicionar </emphasis> na metade superior do diálogo. Uma linha em branco aparecerá na parte inferior da tabela superior (poderá ter de rolar para baixo para a ver). Alterar o nome do conjunto de regras e o padrão linguístico para o idioma em questão e o seu código. A sintaxe do padrão linguístico está em conformidade com a sintaxe da expressão regular. Se o seu conjunto de regras lidar com um par idioma-país, aconselhamos movê-lo para o topo usando o botão <emphasis role="bold">Mover acima</emphasis>.</para>
 
       <para>Adicionar os padrões <emphasis role="bold">Antes de</emphasis> e <emphasis role="bold">Depois de</emphasis>. Para verificar a sua sintaxe e a sua aplicabilidade, é aconselhável utilizar ferramentas que lhe permitam ver directamente o seu efeito. Ver <link linkend="appendix.regexp">Expressões regulares</link>. Um bom ponto de partida serão sempre as regras existentes.</para>
     </section>
@@ -790,10 +790,10 @@
 
     <variablelist>
       <varlistentry>
-        <term>Tentativa de converter números ao inserir um correspondência aproximada</term>
+        <term>Tentativa de converter números ao inserir uma correspondência aproximada</term>
 
         <listitem>
-          <para>Se esta opção for marcada, quando um correspondência aproximada é inserida, manual ou automaticamente, o OmegaT tenta converter os números nas correspondências aproximadas de acordo com o conteúdo da fonte. Há uma série de restrições:</para>
+          <para>Se esta opção for marcada, quando uma correspondência aproximada é inserida, manual ou automaticamente, o OmegaT tenta converter os números nas correspondências aproximadas de acordo com o conteúdo da fonte. Há uma série de restrições:</para>
 
           <itemizedlist>
             <listitem>
@@ -904,7 +904,7 @@
   <section id="dialogs.preferences.tagprocessing">
     <title>Processamento de etiquetas</title>
 
-    <para>Ao traduzir ficheiros relacionados com programas, pode configurar as opções de validação de etiquetas para verificar também as variáveis de programação (%...) ou os marcadores de posição ({0}), se o filtro de ficheiros não o fizer imediatamente. O filtro PO já gere %.. e o Java™ Resource Bundle filter já gere as etiquetas {#}, por isso só precisa disto para outros tipos de ficheiros.</para>
+    <para>Ao traduzir ficheiros relacionados com programas, pode configurar as opções de validação de etiquetas para verificar também as variáveis de programação (%...) ou os marcadores de posição ({0}), se o filtro de ficheiros não o fizer imediatamente. O filtro PO já gere %. e o Java™ Resource Bundle filter já gere as etiquetas {#}, por isso só precisa disto para outros tipos de ficheiros.</para>
 
     <para>Também pode definir várias opções relacionadas com a validação de etiquetas e definir etiquetas personalizadas.</para>
 
@@ -953,10 +953,10 @@
         <term>Comparar modelo de disposição</term>
 
         <listitem>
-          <para>Alterar a forma de apresentação de correspondências aproximadasdifusas, através da utilização de variáveis pré-configuradas:</para>
+          <para>Alterar a forma de apresentação de correspondências aproximadas, através da utilização de variáveis pré-configuradas:</para>
 
           <table colsep="0" rowsep="0">
-            <title>Configuração do painel de correpondências</title>
+            <title>Configuração do painel de correspondências</title>
 
             <tgroup cols="2" colsep="1" rowsep="1" title="Match pane setup">
               <colspec align="left"/>

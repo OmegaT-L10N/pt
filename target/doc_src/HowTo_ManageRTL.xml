@@ -34,7 +34,7 @@
     </section>
 
     <section>
-      <title>Etiquetas <application>OmegaT</application> em segementos RTL</title>
+      <title>Etiquetas <application>OmegaT</application> em segmentos RTL</title>
 
       <para>Como foi dito acima, as etiquetas OmegaT são cadeias LTR. Ao traduzir entre idiomas RTL e LTR, a leitura correcta das etiquetas a partir da fonte e a sua introdução correcta no destino pode exigir que o tradutor mude entre os modos LTR e RTL inúmeras vezes.</para>
 
@@ -46,7 +46,7 @@
 
       <para>Quando o documento traduzido for criado, a sua direcção de visualização será a mesma que a do documento original. Se o documento original era LTR, a direcção de visualização do documento de destino deve ser alterada manualmente para RTL na sua aplicação de visualização. Cada formato de saída tem formas específicas de lidar com a visualização RTL; consulte os manuais da aplicação relevantes para obter detalhes.</para>
 
-      <para>Para ficheiros .docx, uma série de alterações são contudo feitas automaticamente:<itemizedlist>
+      <para>Para ficheiros .docx, uma série de alterações são, contudo, feitas automaticamente:<itemizedlist>
           <listitem>Parágrafos, secções e tabelas são definidos para bidi</listitem>
 
           <listitem>As execuções (elementos de texto) são definidas para RTL</listitem>

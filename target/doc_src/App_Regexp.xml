@@ -476,7 +476,7 @@
   <section id="regex.tools.and.examples.of.use">
     <title>Ferramentas Regex e exemplos de utilização</title>
 
-    <para>Estão disponíveis várias ferramentas interactivas para desenvolver e testar expressões regulares. Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio) , produzindo os resultados na caixa de texto.</para>
+    <para>Estão disponíveis várias ferramentas interactivas para desenvolver e testar expressões regulares. Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio), produzindo os resultados na caixa de texto.</para>
 
     <figure id="regerx.tester">
       <title>Teste de Regex</title>
@@ -492,7 +492,7 @@
       </mediaobject>
     </figure>
 
-    <para>Veja o <ulink url="http://weitz.de/regex-coach/">The Regex Coach</ulink> para Windows,Linux, FreeBSD como ferramenta independente. Isto é muito idêntico ao exemplo acima.</para>
+    <para>Veja o <ulink url="http://weitz.de/regex-coach/">The Regex Coach</ulink> para Windows, Linux, FreeBSD como ferramenta independente. Isto é muito idêntico ao exemplo acima.</para>
 
     <para>Uma bela colecção de casos regex úteis pode ser encontrada no <application>OmegaT</application> em si mesmo (ver Opções &gt; Segmentação). A lista seguinte inclui expressões que poderá achar úteis ao pesquisar através da memória de tradução:</para>
 

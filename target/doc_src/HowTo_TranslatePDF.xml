@@ -7,7 +7,7 @@
   <para>Se precisar de reproduzir a formatação do texto (bem como outras coisas como desenhos) na sua tradução, há três maneiras de tentar:</para>
   <orderedlist>
     <listitem>
-      <para>Utilizar o filtro padrão (entrada PDF) do <application>OmegaT's</application> , traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</para>
+      <para>Utilizar o filtro padrão (entrada PDF) do <application>OmegaT's</application>, traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</para>
     </listitem>
     <listitem>
       <para>Utilizar o filtro Iceni Infix. Ver <ulink url="https://omegat.org/howtos/iceni_infix.html">Como traduzir ficheiros PDF com Iceni Infix e OmegaT</ulink>.</para>

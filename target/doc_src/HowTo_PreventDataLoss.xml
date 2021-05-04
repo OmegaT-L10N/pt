@@ -43,7 +43,7 @@
     </listitem>
 
     <listitem>
-      <para>Tenha especial cuidado ao fazer alterações aos ficheiros em <literal>/source</literal> enquanto está no meio de um projecto. Se o ficheiro-fonte for modificado depois de ter começado a traduzir, o <application>OmegaT</application> poderá não conseguir encontrar um segmento que já tenha traduzido.</para>
+      <para>Tenha especial cuidado ao fazer alterações aos ficheiros em <literal>/source</literal> enquanto está no meio de um projecto. Se o ficheiro-fonte for modificado após ter começado a traduzir, o <application>OmegaT</application> poderá não conseguir encontrar um segmento que já tenha traduzido.</para>
     </listitem>
   </itemizedlist>
 

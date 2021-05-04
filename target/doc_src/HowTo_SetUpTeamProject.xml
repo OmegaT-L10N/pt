@@ -38,7 +38,7 @@
       </listitem>
 
       <listitem>
-        <para>Adicionar o novo projecto OmegaT ao sistema de versionamento (<command>add</command> com SVN e Git)</para>
+        <para>Adicionar o novo projecto OmegaT ao sistema de versões (<command>add</command> com SVN e Git)</para>
 
         <para>Nota: se o projecto foi criado com a linha de comandos no passo 3, este passo já foi feito pelo programa.</para>
       </listitem>
@@ -175,7 +175,7 @@
         <listitem>
           <para>Adicionar padrões usando caracteres universais (estilo Formiga Apache): *, ?, **. Separar padrões diferentes com um ponto e vírgula.</para>
 
-          <para>Exemplo: <userinput>**/excluirpasta/**;*.txt</userinput> exclui ficheiros que tenham /excuirpasta/ no caminho, e ficheiros com extensão .txt.</para>
+          <para>Exemplo: <userinput>**/excluirpasta/**;*.txt</userinput> exclui ficheiros que tenham /excluirpasta/ no caminho, e ficheiros com extensão .txt.</para>
         </listitem>
       </varlistentry>
 
@@ -251,7 +251,7 @@
   <section>
     <title>Nota sobre omegat.project e mappings</title>
     <para>Quando se cria um novo projecto e se submete a um repositório, o ficheiro <filename>omegat.project</filename> não contém qualquer mapeamento. Quando se transfere o projecto, o projecto é convertido para um projecto de equipa localmente e é acrescentado um mapeamento pré-definido.</para>
-    <para>Note-se que o ficheiro omegat.project no repositório não é alterado automaticamente e continua a não conter os mapeamentos. Quando se carrega um projecto, todas as alterações no repositório são copiadas para o projecto local, incluindo o ficheiro <filename>omegat.project</filename> com as definições do projecto. Se o ficheiro não contiver &quot;mapeamentos, os mapeamentos locais existentes são reaplicados, e apenas aqueles. Todas as outras alterações locais ao projecto são revertidas. Se o ficheiro contiver mapeamentos, então as alterações locais aos mapeamentos são perdidas.</para>
+    <para>Note-se que o ficheiro omegat.project no repositório não é alterado automaticamente e continua a não conter os mapeamentos. Quando se carrega um projecto, todas as alterações no repositório são copiadas para o projecto local, incluindo o ficheiro <filename>omegat.project</filename> com as definições do projecto. Se o ficheiro não contiver mapeamentos, os mapeamentos locais existentes são re-aplicados, e apenas aqueles. Todas as outras alterações locais ao projecto são revertidas. Se o ficheiro contiver mapeamentos, então as alterações locais aos mapeamentos são perdidas.</para>
   </section>
 
 </section>

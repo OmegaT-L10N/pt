@@ -98,7 +98,7 @@
 
     <para>Pode haver casos em que tenha feito um projecto com, por exemplo, fontes holandesas e uma tradução em, digamos, inglês. Depois precisa de uma tradução em, por exemplo, chinês, mas a sua tradutora não entende holandês; no entanto, ela entende perfeitamente inglês. Neste caso, a memória de tradução NL-EN pode servir de intermediário para ajudar a gerar a tradução de NL para ZH.</para>
 
-    <para>A solução no nosso exemplo é copiar a memória de tradução existente para a subpasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx. Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</para>
+    <para>A solução no nosso exemplo é copiar a memória de tradução existente para a sub-pasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx. Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</para>
 
     <para><emphasis role="bold">Importante: </emphasis>o TMX de suporte deve ser renomeado XX_YY.tmx, onde XX_YY é o idioma-alvo do tmx, por exemplo para ZH_CN.tmx no exemplo acima. O projecto e os idiomas de origem TMX devem, evidentemente, ser idênticos - NL no nosso exemplo. Note-se que só é possível um TMX para um determinado par de idiomas, por isso, se se devem envolver várias memórias de tradução, será necessário uni-las todas no XX_YY.tmx.</para>
   </section>
