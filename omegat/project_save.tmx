@@ -2116,6 +2116,30 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085559Z" creationid="Pedro Albuquerque" creationdate="20210504T085559Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Se subscreveu os serviços Google Translate, insira aqui a sua chave privada API do Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085457Z" creationid="Pedro Albuquerque" creationdate="20210504T085457Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O endereço IP do seu servidor proxy, se o seu sistema utilizar um proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085529Z" creationid="Pedro Albuquerque" creationdate="20210504T085529Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O número da porta que o seu sistema utiliza para aceder ao servidor proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084314Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9938,6 +9962,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Translate V2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085531Z" creationid="Pedro Albuquerque" creationdate="20210504T085531Z">
+        <seg>Google Translate V2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114921Z" creationid="Pedro Albuquerque" creationdate="20210421T114921Z">
@@ -13051,6 +13083,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085633Z" creationid="Pedro Albuquerque" creationdate="20210504T085633Z">
+        <seg>Certifique-se de que tem uma conta Microsoft gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161639Z" creationid="Pedro Albuquerque" creationdate="20210426T161639Z">
@@ -14506,6 +14546,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
         <seg>Note-se que a função "Instalar" requer uma ligação à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085618Z" creationid="Pedro Albuquerque" creationdate="20210504T085618Z">
+        <seg>Note-se que a chave tem 38 caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16768,6 +16816,22 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081321Z" creationid="Pedro Albuquerque" creationdate="20210423T081307Z">
         <seg>Sessão com proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085444Z" creationid="Pedro Albuquerque" creationdate="20210504T085444Z">
+        <seg>Endereço IP do servidor proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy host port number</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085514Z" creationid="Pedro Albuquerque" creationdate="20210504T085514Z">
+        <seg>Número de porta proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -20769,6 +20833,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093925Z" creationid="Pedro Albuquerque" creationdate="20210422T093925Z">
         <seg>O comando tem de incluir "{target}", que será substituído pelo texto a procurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085425Z" creationid="Pedro Albuquerque" creationdate="20210504T085425Z">
+        <seg>O comando para iniciar o &lt;a5&gt;OmegaT&lt;/a5&gt; com atribuição de 2048 MB (2 GB) de memória é portanto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25536,6 +25608,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085701Z" creationid="Pedro Albuquerque" creationdate="20210504T085701Z">
+        <seg>Vai precisar dela para entrar em &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; e utilizar o serviço de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ZIP files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054722Z" creationid="Pedro Albuquerque" creationdate="20210421T054722Z">
@@ -26488,6 +26568,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085621Z" creationid="Pedro Albuquerque" creationdate="20210504T085621Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072706Z" creationid="Pedro Albuquerque" creationdate="20210424T072706Z">
@@ -26564,6 +26652,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070646Z" creationid="Pedro Albuquerque" creationdate="20210425T070646Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085622Z" creationid="Pedro Albuquerque" creationdate="20210504T085622Z">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
@@ -26766,6 +26862,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085115Z" creationid="Pedro Albuquerque" creationdate="20210504T085115Z">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085426Z" creationid="Pedro Albuquerque" creationdate="20210504T085426Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
