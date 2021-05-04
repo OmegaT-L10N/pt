@@ -2922,6 +2922,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093338Z" creationid="Pedro Albuquerque" creationdate="20210504T093338Z">
+        <seg>&lt;p0&gt;Menu Projecto&lt;/p0&gt; &lt;s1&gt;Novo...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093253Z" creationid="Pedro Albuquerque" creationdate="20210504T093253Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt;Criar novo/Abrir&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085024Z" creationid="Pedro Albuquerque" creationdate="20210504T084942Z">
@@ -2934,6 +2950,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085359Z" creationid="Pedro Albuquerque" creationdate="20210504T085359Z">
         <seg>&lt;p4&gt;??&lt;/p4&gt; representa a quantidade de memória atribuída, em megabytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093329Z" creationid="Pedro Albuquerque" creationdate="20210504T093329Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; Num Mac Apple, usar a tecla &lt;k1&gt;Command&lt;/k1&gt; em vez da tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3678,6 +3702,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082507Z" creationid="Pedro Albuquerque" creationdate="20210427T082507Z">
         <seg>Após a instalação inicial pode, claro, usar o &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; também quando estiver offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093526Z" creationid="Pedro Albuquerque" creationdate="20210504T093526Z">
+        <seg>Depois de dar um nome ao seu projecto, será aberto o diálogo &lt;g0&gt;Criar novo projecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11709,6 +11741,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093429Z" creationid="Pedro Albuquerque" creationdate="20210504T093429Z">
+        <seg>No menu &lt;g0&gt;Projecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Novo...&lt;/g2&gt;&lt;/m1&gt; e escreva um nome para o seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
@@ -17656,6 +17696,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093443Z" creationid="Pedro Albuquerque" creationdate="20210504T093443Z">
+        <seg>Lembre-se onde está a criar o projecto, porque terá de regressar ao mesmo later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remo&amp;ve</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093734Z" creationid="Pedro Albuquerque" creationdate="20210422T093734Z">
@@ -19438,6 +19486,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103517Z" creationid="Pedro Albuquerque" creationdate="20210425T101114Z">
         <seg>Criar um projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093307Z" creationid="Pedro Albuquerque" creationdate="20210504T093307Z">
+        <seg>Configurar um novo projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -23527,6 +23583,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T081917Z" creationid="Pedro Albuquerque" creationdate="20210427T081917Z">
         <seg>Para iniciar o OmegaT pela primeira vez com Java Web Start, carregue o seguinte URL no seu navegador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093416Z" creationid="Pedro Albuquerque" creationdate="20210504T093416Z">
+        <seg>Para começar a utilizar o OmegaT, crie primeiro um projecto que gravará todos os seus ficheiros, tais como o seu ficheiro-fonte, memórias de tradução, glossários e, eventualmente, o seu ficheiro traduzido.</seg>
       </tuv>
     </tu>
     <tu>
