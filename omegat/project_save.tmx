@@ -1966,8 +1966,8 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101943Z" creationid="Pedro Albuquerque" creationdate="20210422T101943Z">
-        <seg>...mas os mesmos caracteres são mostrados correctamente no painel de edição: a extensão e a codificação do ficheiro não coincidem.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095918Z" creationid="Pedro Albuquerque" creationdate="20210422T101943Z">
+        <seg>..., mas os mesmos caracteres são mostrados correctamente no painel de edição: a extensão e a codificação do ficheiro não coincidem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18346,8 +18346,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Restore &amp;Defaults</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092323Z" creationid="Pedro Albuquerque" creationdate="20210422T092323Z">
-        <seg>Restaurar pre&amp;definições</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095905Z" creationid="Pedro Albuquerque" creationdate="20210422T092323Z">
+        <seg>Restaurar pré-&amp;definições</seg>
       </tuv>
     </tu>
     <tu>
@@ -20508,8 +20508,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085557Z" creationid="Pedro Albuquerque" creationdate="20210422T085557Z">
-        <seg>Passo 1: ajustar parâmetros de alinahmento</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095654Z" creationid="Pedro Albuquerque" creationdate="20210422T085557Z">
+        <seg>Passo 1: ajustar parâmetros de alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -26560,8 +26560,8 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       <tuv lang="en">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091953Z" creationid="Pedro Albuquerque" creationdate="20210422T091953Z">
-        <seg>Ser-lhe-á pedido que introduza esta senha cada vez que iniciar o OmegaT.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095754Z" creationid="Pedro Albuquerque" creationdate="20210422T091953Z">
+        <seg>Ser-lhe-á pedido que insira esta senha de cada vez que iniciar o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
