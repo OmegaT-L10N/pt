@@ -4014,6 +4014,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083423Z" creationid="Pedro Albuquerque" creationdate="20210504T083423Z">
+        <seg>Os argumentos são adicionados após o inicial &lt;c0&gt;java&lt;/c0&gt;, e antes de &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174835Z" creationid="Pedro Albuquerque" creationdate="20210420T174835Z">
@@ -4866,6 +4874,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061957Z" creationid="Pedro Albuquerque" creationdate="20210422T061943Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083355Z" creationid="Pedro Albuquerque" creationdate="20210504T083355Z">
+        <seg>As alterações a este comando envolvem a adição de "argumentos".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11213,6 +11229,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083534Z" creationid="Pedro Albuquerque" creationdate="20210504T083534Z">
+        <seg>Noutras plataformas, pode modificar o ficheiro &lt;f3&gt;Configuration.properties&lt;/f3&gt; em MacOS, ou &lt;f4&gt;OmegaT&lt;/f4&gt; em Linux para fazer o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082902Z" creationid="Pedro Albuquerque" creationdate="20210504T082902Z">
@@ -12517,6 +12541,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094133Z" creationid="Pedro Albuquerque" creationdate="20210422T094133Z">
         <seg>Última</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch command arguments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083333Z" creationid="Pedro Albuquerque" creationdate="20210504T083333Z">
+        <seg>Argumentos do comando de lançamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -14354,6 +14386,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082654Z" creationid="Pedro Albuquerque" creationdate="20210427T082654Z">
         <seg>Note que se precisar ou desejar utilizar algum dos argumentos de comando de lançamento (ver acima), deve utilizar a instalação normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083436Z" creationid="Pedro Albuquerque" creationdate="20210504T083436Z">
+        <seg>Note que no Windows pode alterar o ficheiro &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; para reflectir as suas preferências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20553,6 +20593,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172240Z" creationid="Pedro Albuquerque" creationdate="20210423T172240Z">
         <seg>As opções disponíveis são as seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083340Z" creationid="Pedro Albuquerque" creationdate="20210504T083340Z">
+        <seg>O comando básico já foi mencionado acima.</seg>
       </tuv>
     </tu>
     <tu>
