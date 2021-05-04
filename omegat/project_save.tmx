@@ -5430,6 +5430,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105603Z" creationid="Pedro Albuquerque" creationdate="20210504T105603Z">
+        <seg>Marcar &lt;g0&gt;Preencher do histórico&lt;/g0&gt; para mostrar as palavras sugeridas assim que as suas primeiras letras forem introduzidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105644Z" creationid="Pedro Albuquerque" creationdate="20210504T105644Z">
+        <seg>Marcar &lt;g0&gt;Prever do histórico&lt;/g0&gt; para mostrar as palavras sugeridas que normalmente seguem a palavra que acabou de ser introduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152922Z" creationid="Pedro Albuquerque" creationdate="20210420T152922Z">
@@ -16528,10 +16544,26 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105705Z" creationid="Pedro Albuquerque" creationdate="20210504T105705Z">
+        <seg>Abre as opções &lt;l0&gt;Filtros de ficheiro&lt;/l0&gt; no diálogo Preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105156Z" creationid="Pedro Albuquerque" creationdate="20210504T105156Z">
         <seg>Abre o diálogo &lt;l0&gt;Preferências&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105744Z" creationid="Pedro Albuquerque" creationdate="20210504T105744Z">
+        <seg>Abre as opções &lt;l0&gt;Configuração da segmentação&lt;/l0&gt; no diálogo Preferências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23255,6 +23287,14 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101910Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Portanto, a localização da pasta de configuração
 do OmegaT não pode ser determinada de forma fiável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105719Z" creationid="Pedro Albuquerque" creationdate="20210504T105719Z">
+        <seg>Estas definições aplicam-se ao nível OmegaT, a todos os projectos.</seg>
       </tuv>
     </tu>
     <tu>
