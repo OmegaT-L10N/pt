@@ -10983,6 +10983,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101942Z" creationid="Pedro Albuquerque" creationdate="20210504T101942Z">
+        <seg>Se parte do segmento-alvo tiver sido seleccionada, esta função substitui a parte seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172425Z" creationid="Pedro Albuquerque" creationdate="20210423T172425Z">
@@ -10995,6 +11003,22 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073241Z" creationid="Pedro Albuquerque" creationdate="20210424T073241Z">
         <seg>Se a segmentação de frases foi seleccionada, pode configurar as regras seleccionando &lt;m4&gt; &lt;g5&gt;Opções&lt;/g5&gt; &lt;g6&gt;Segmentação...&lt;/g6&gt; &lt;/m4&gt;do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102019Z" creationid="Pedro Albuquerque" creationdate="20210504T102019Z">
+        <seg>Se alguns textos estiverem seleccionados dentro da correspondência aproximada, só esta selecção será inserida na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101900Z" creationid="Pedro Albuquerque" creationdate="20210504T101900Z">
+        <seg>Se alguns textos estiverem seleccionados dentro da correspondência aproximada, só esta selecção substituirá todo o segmento-alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12201,6 +12225,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091323Z" creationid="Pedro Albuquerque" creationdate="20210424T091323Z">
         <seg>Inserir o texto-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101929Z" creationid="Pedro Albuquerque" creationdate="20210504T101929Z">
+        <seg>Insere a correspondência aproximada actualmente seleccionada na posição do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +14806,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105219Z" creationid="Pedro Albuquerque" creationdate="20210421T105219Z">
         <seg>Sem sugestões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102111Z" creationid="Pedro Albuquerque" creationdate="20210504T102111Z">
+        <seg>Nenhuma acção é tomada, se nenhum serviço de tradução automática tiver sido activado (em &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Tradução automática&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18228,6 +18268,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055821Z" creationid="Pedro Albuquerque" creationdate="20210421T055821Z">
         <seg>Substituir por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102040Z" creationid="Pedro Albuquerque" creationdate="20210504T102040Z">
+        <seg>Substitui o segmento-alvo pela tradução, fornecida pelo serviço de tradução automática seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
