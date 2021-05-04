@@ -2812,6 +2812,22 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092314Z" creationid="Pedro Albuquerque" creationdate="20210504T092314Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; permite, sob Windows, abrir o mesmo projecto com várias instâncias do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092224Z" creationid="Pedro Albuquerque" creationdate="20210504T092224Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; destina-se a projectos criados para trabalho em equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092057Z" creationid="Pedro Albuquerque" creationdate="20210504T092057Z">
@@ -4930,6 +4946,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071543Z" creationid="Pedro Albuquerque" creationdate="20210424T071543Z">
         <seg>Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092401Z" creationid="Pedro Albuquerque" creationdate="20210504T092401Z">
+        <seg>Por pré-definição, em Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; está bloqueado e é recebida uma mensagem de erro quando se tenta abrir um projecto já aberto noutra instância do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10637,6 +10661,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092142Z" creationid="Pedro Albuquerque" creationdate="20210504T092142Z">
         <seg>Se &lt;l0&gt;abort&lt;/l0&gt; for seleccionado, o validador da etiqueta pára no primeiro segmento inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092157Z" creationid="Pedro Albuquerque" creationdate="20210504T092157Z">
+        <seg>Se &lt;l1&gt;warn&lt;/l1&gt; for especificado, o validador de etiquetas processará todos os segmentos e escreverá avisos sobre quaisquer segmentos com etiquetas inválidas no ficheiro especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17232,6 +17264,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065955Z" creationid="Pedro Albuquerque" creationdate="20210421T065955Z">
         <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quiet option</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092424Z" creationid="Pedro Albuquerque" creationdate="20210504T092424Z">
+        <seg>Opção silenciosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -24565,6 +24605,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092253Z" creationid="Pedro Albuquerque" creationdate="20210504T092253Z">
+        <seg>Utilize-o se não quiser sincronizar o conteúdo do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113957Z" creationid="Pedro Albuquerque" creationdate="20210423T113957Z">
@@ -25413,6 +25461,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181417Z" creationid="Pedro Albuquerque" creationdate="20210421T181417Z">
         <seg>Janelas e diálogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092416Z" creationid="Pedro Albuquerque" creationdate="20210504T092416Z">
+        <seg>Com esta opção, não ocorre qualquer bloqueio.</seg>
       </tuv>
     </tu>
     <tu>
