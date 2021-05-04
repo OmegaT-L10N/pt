@@ -3604,8 +3604,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103917Z" creationid="Pedro Albuquerque" creationdate="20210425T103855Z">
-        <seg>Adicionar o novo projecto OmegaT ao sistema de versionamento (&lt;c0&gt;add&lt;/c0&gt; com SVN e Git)</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101015Z" creationid="Pedro Albuquerque" creationdate="20210425T103855Z">
+        <seg>Adicionar o novo projecto OmegaT ao sistema de versões (&lt;c0&gt;add&lt;/c0&gt; com SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,8 +8838,8 @@ Ninguém ouve os seus gritos</seg>
       <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105700Z" creationid="Pedro Albuquerque" creationdate="20210425T105700Z">
-        <seg>Exemplo: &lt;u0&gt;**/excluirpasta/**;*.txt&lt;/u0&gt; exclui ficheiros que tenham /excuirpasta/ no caminho, e ficheiros com extensão .txt.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101055Z" creationid="Pedro Albuquerque" creationdate="20210425T105700Z">
+        <seg>Exemplo: &lt;u0&gt;**/excluirpasta/**;*.txt&lt;/u0&gt; exclui ficheiros que tenham /excluirpasta/ no caminho, e ficheiros com extensão .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11041,8 +11041,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111255Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Se o ficheiro não contiver "mapeamentos, os mapeamentos locais existentes são reaplicados, e apenas aqueles.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101129Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se o ficheiro não contiver mapeamentos, os mapeamentos locais existentes são re-aplicados, e apenas aqueles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24871,8 +24871,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070043Z" creationid="Pedro Albuquerque" creationdate="20210426T070043Z">
-        <seg>Utilizar o filtro padrão (entrada PDF) do &lt;a0&gt;OmegaT's&lt;/a0&gt; , traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101212Z" creationid="Pedro Albuquerque" creationdate="20210426T070043Z">
+        <seg>Utilizar o filtro padrão (entrada PDF) do &lt;a0&gt;OmegaT's&lt;/a0&gt;, traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</seg>
       </tuv>
     </tu>
     <tu>
