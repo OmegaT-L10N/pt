@@ -21359,8 +21359,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093523Z" creationid="Pedro Albuquerque" creationdate="20210424T093523Z">
-        <seg>O filtro PO já gere %..</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100542Z" creationid="Pedro Albuquerque" creationdate="20210424T093523Z">
+        <seg>O filtro PO já gere %.</seg>
       </tuv>
     </tu>
     <tu>
