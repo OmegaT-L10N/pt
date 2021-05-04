@@ -2148,6 +2148,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104822Z" creationid="Pedro Albuquerque" creationdate="20210504T104822Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; lembra-se dos segmentos executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100708Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
@@ -14602,6 +14610,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104806Z" creationid="Pedro Albuquerque" creationdate="20210504T104806Z">
+        <seg>Passa para o segmento que corresponde à correspondência actual seleccionada no painel &lt;g0&gt;Correspondências aproximadas&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103402Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -15314,6 +15330,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091046Z" creationid="Pedro Albuquerque" creationdate="20210504T091046Z">
         <seg>Note-se o duplo hífen&lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104557Z" creationid="Pedro Albuquerque" creationdate="20210504T104557Z">
+        <seg>Nota: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; é um atalho alternativo se a opção &lt;l3&gt;Utilizar TAB para avançar&lt;/l3&gt; não estiver marcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22345,6 +22369,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104700Z" creationid="Pedro Albuquerque" creationdate="20210504T104700Z">
+        <seg>O segmento seguinte, com uma nota anexa, será aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092108Z" creationid="Pedro Albuquerque" creationdate="20210424T092108Z">
@@ -22445,6 +22477,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091822Z" creationid="Pedro Albuquerque" creationdate="20210424T091822Z">
         <seg>O prefixo (vazio por defeito) pode ser usado para etiquetar traduções, feitas através de correspondências aproximadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104719Z" creationid="Pedro Albuquerque" creationdate="20210504T104719Z">
+        <seg>O segmento anterior com uma nota anexa será aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22645,6 +22685,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083030Z" creationid="Pedro Albuquerque" creationdate="20210504T083030Z">
         <seg>O segundo comando é o comando que efectivamente inicia o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104650Z" creationid="Pedro Albuquerque" creationdate="20210504T104650Z">
+        <seg>O segmento é aberto quando a sua chamada ou  número são inseridos.</seg>
       </tuv>
     </tu>
     <tu>
