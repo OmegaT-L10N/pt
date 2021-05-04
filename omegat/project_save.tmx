@@ -2108,10 +2108,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085156Z" creationid="Pedro Albuquerque" creationdate="20210504T085156Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Além do idioma, pode também especificar o país, por exemplo &lt;l2&gt;CN&lt;/l2&gt; ou &lt;l3&gt;TW&lt;/l3&gt; no caso do idioma chinês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084314Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normalmente, isto é, quando &lt;a3&gt;OmegaT&lt;/a3&gt; é iniciado sem quaisquer argumentos, o programa detecta primeiro o idioma do sistema operativo do utilizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085307Z" creationid="Pedro Albuquerque" creationdate="20210504T085307Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Este comando atribui mais memória ao &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2726,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085024Z" creationid="Pedro Albuquerque" creationdate="20210504T084942Z">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; no comando significa o código de dois dígitos do idioma desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085359Z" creationid="Pedro Albuquerque" creationdate="20210504T085359Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; representa a quantidade de memória atribuída, em megabytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4642,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093348Z" creationid="Pedro Albuquerque" creationdate="20210424T093348Z">
         <seg>Por pré-definição, o editor mostra 2.000 segmentos iniciais e carrega progressivamente mais à medida que se desloca para cima ou para baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085349Z" creationid="Pedro Albuquerque" creationdate="20210504T085349Z">
+        <seg>Por pré-definição, são atribuídos 1024 MB, pelo que não há vantagem em atribuir menos do que este valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13428,6 +13460,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Memory assignment</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085249Z" creationid="Pedro Albuquerque" creationdate="20210504T085249Z">
+        <seg>Atribuição de memória</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114807Z" creationid="Pedro Albuquerque" creationdate="20210422T114807Z">
@@ -22213,8 +22253,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This is necessary even if there"s only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085241Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Isto é necessário mesmo que haja apenas uma combinação disponível, como &lt;l4&gt;pt_BR&lt;/l4&gt; no caso do português brasileiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22655,6 +22695,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100510Z" creationid="Pedro Albuquerque" creationdate="20210422T100510Z">
         <seg>Para mostrar o menu contextual &lt;g0&gt;Conclusão automática&lt;/g0&gt; para as correspondências do glossário, prima a tecla dependente do SO (&lt;k1&gt;Ecape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espaço&lt;/k2&gt; para as outras plataformas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085222Z" creationid="Pedro Albuquerque" creationdate="20210504T085222Z">
+        <seg>Para exibir o guia de arranque instantâneo no idioma desejado, é necessário especificar tanto o idioma como o país.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24043,6 +24091,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T081412Z" creationid="Pedro Albuquerque" creationdate="20210423T081412Z">
         <seg>Manual do utilizador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User country</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085123Z" creationid="Pedro Albuquerque" creationdate="20210504T085123Z">
+        <seg>País do utilizador</seg>
       </tuv>
     </tu>
     <tu>
@@ -26702,6 +26758,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070625Z" creationid="Pedro Albuquerque" creationdate="20210425T070625Z">
         <seg>não é tido em conta nas estatísticas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085115Z" creationid="Pedro Albuquerque" creationdate="20210504T085115Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
