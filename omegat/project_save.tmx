@@ -5732,6 +5732,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083315Z" creationid="Pedro Albuquerque" creationdate="20210504T083315Z">
+        <seg>Consequentemente, para fazer alterações ao comando de lançamento, é suficiente modificar o ficheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -9370,6 +9378,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083245Z" creationid="Pedro Albuquerque" creationdate="20210504T083245Z">
+        <seg>Por esta razão, os dois comandos descritos acima estão contidos num ficheiro (um "script", também chamado ficheiro "&lt;f0&gt;.bat&lt;/f0&gt;" nos sistemas Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074817Z" creationid="Pedro Albuquerque" creationdate="20210424T074817Z">
@@ -11121,6 +11137,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055920Z" creationid="Pedro Albuquerque" creationdate="20210421T055920Z">
         <seg>Nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083044Z" creationid="Pedro Albuquerque" creationdate="20210504T083044Z">
+        <seg>Na sua forma mais básica, este comando é:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15728,6 +15752,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085529Z" creationid="Pedro Albuquerque" creationdate="20210422T085529Z">
         <seg>Padrão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083131Z" creationid="Pedro Albuquerque" creationdate="20210504T083131Z">
+        <seg>Preste atenção às maiúsculas - em sistemas operativos diferentes do Windows, o programa não será iniciado, se inserir &lt;l0&gt;omegat&lt;/l0&gt; em vez de &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20485,6 +20517,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above method somewhat impractical way of launching a program routinely.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083210Z" creationid="Pedro Albuquerque" creationdate="20210504T083210Z">
+        <seg>O método acima descrito é de certa forma impraticável para lançar um programa de forma rotineira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105603Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -22191,6 +22231,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170015Z" creationid="Pedro Albuquerque" creationdate="20210423T170015Z">
         <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083156Z" creationid="Pedro Albuquerque" creationdate="20210504T083156Z">
+        <seg>Este método tem uma vantagem particular de ser adequado para encontrar causas de problemas: se ocorrer um erro durante a utilização do programa, é emitida uma mensagem de erro na janela terminal que pode conter informações úteis sobre a causa do erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24359,6 +24407,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074447Z" creationid="Pedro Albuquerque" creationdate="20210425T074447Z">
         <seg>Quando o documento traduzido for criado, a sua direcção de visualização será a mesma que a do documento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083302Z" creationid="Pedro Albuquerque" creationdate="20210504T083302Z">
+        <seg>Quando este ficheiro é executado, os comandos dentro dele são automaticamente executados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26542,6 +26598,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070625Z" creationid="Pedro Albuquerque" creationdate="20210425T070625Z">
         <seg>não é tido em conta nas estatísticas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083045Z" creationid="Pedro Albuquerque" creationdate="20210504T083045Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
