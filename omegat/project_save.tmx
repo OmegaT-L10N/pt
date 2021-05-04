@@ -1776,6 +1776,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091153Z" creationid="Pedro Albuquerque" creationdate="20210504T091153Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -2168,6 +2176,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085156Z" creationid="Pedro Albuquerque" creationdate="20210504T085156Z">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Além do idioma, pode também especificar o país, por exemplo &lt;l2&gt;CN&lt;/l2&gt; ou &lt;l3&gt;TW&lt;/l3&gt; no caso do idioma chinês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091151Z" creationid="Pedro Albuquerque" creationdate="20210504T091151Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; inicia em modo de consola para executar automaticamente um dos seguintes serviços</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,8 +2742,16 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090931Z" creationid="Pedro Albuquerque" creationdate="20210504T090841Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/caminho/para/ficheiros/de/configuração/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt; em que pasta estão gravados os ficheiros de configuração.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091114Z" creationid="Pedro Albuquerque" creationdate="20210504T090841Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/caminho/para/pasta/de/configuração/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt; em que pasta estão gravados os ficheiros de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091137Z" creationid="Pedro Albuquerque" creationdate="20210504T091105Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/caminho/para/ficheiros/de/configuração/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt; qual o ficheiro de configuração a utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,6 +10695,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091022Z" creationid="Pedro Albuquerque" creationdate="20210504T091022Z">
+        <seg>Se não for dada, &lt;a3&gt;OmegaT&lt;/a3&gt; volta aos valores pré-definidos (pasta &lt;a4&gt;OmegaT&lt;/a4&gt; na pasta home do utilizador ou, se não estiver disponível, a pasta de trabalho actual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T181039Z" creationid="Pedro Albuquerque" creationdate="20210420T181039Z">
@@ -11569,6 +11601,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104919Z" creationid="Pedro Albuquerque" creationdate="20210425T104919Z">
         <seg>Neste caso, o procedimento é o mesmo, mas o gestor do projecto não adiciona (todos) os ficheiros ao projecto controlado por versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091210Z" creationid="Pedro Albuquerque" creationdate="20210504T091210Z">
+        <seg>Neste modo, o OmegaT tentará traduzir os ficheiros em &lt;f0&gt;/source/&lt;/f0&gt; com as memórias de tradução disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14722,6 +14762,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085718Z" creationid="Pedro Albuquerque" creationdate="20210504T085718Z">
         <seg>Note-se que até 2M caracteres por mês são gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091046Z" creationid="Pedro Albuquerque" creationdate="20210504T091046Z">
+        <seg>Note-se o duplo hífen&lt;l5&gt;-&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22623,6 +22671,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094211Z" creationid="Pedro Albuquerque" creationdate="20210425T094211Z">
         <seg>Isto é útil se utilizar frequentemente memórias de tradução produzidas no passado, por exemplo, porque estão sobre o mesmo assunto ou para o mesmo cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091227Z" creationid="Pedro Albuquerque" creationdate="20210504T091227Z">
+        <seg>Isto é útil para executar o OmegaT num servidor com ficheiros TMX alimentados automaticamente para um projecto.</seg>
       </tuv>
     </tu>
     <tu>
