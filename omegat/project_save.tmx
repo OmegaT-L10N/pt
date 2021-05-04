@@ -4428,8 +4428,8 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>At the top of that dialog, select your source file"s language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093634Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Ao cimo desse diálogo, seleccione o idioma do seu ficheiro-fonte, o idioma que o seu ficheiro traduzido terá e clique em &lt;g1&gt;Aceitar&lt;/g1&gt; para continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,6 +5746,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080357Z" creationid="Pedro Albuquerque" creationdate="20210424T080357Z">
         <seg>Clique em &lt;g0&gt;Glossário...&lt;/g0&gt; para configurar a vista do Glossário de conclusão automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093757Z" creationid="Pedro Albuquerque" creationdate="20210504T093757Z">
+        <seg>Clique em &lt;g1&gt;Copyiar ficheiros para a pasta-fonte...&lt;/g1&gt; para seleccionar os seus ficheiros-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11159,6 +11167,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093703Z" creationid="Pedro Albuquerque" creationdate="20210504T093703Z">
+        <seg>Se estiver interessado noutras definições deste diálogo, pode regressar ao mesmo em qualquer altura, premindo &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114653Z" creationid="Pedro Albuquerque" creationdate="20210422T114653Z">
@@ -14618,6 +14634,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093730Z" creationid="Pedro Albuquerque" creationdate="20210504T093730Z">
+        <seg>A seguir, abre-se o diálogo &lt;g0&gt;Ficheiros do projecto&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103244Z" creationid="Pedro Albuquerque" creationdate="20210424T103244Z">
@@ -15676,6 +15700,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123607Z" creationid="Pedro Albuquerque" creationdate="20210420T123607Z">
         <seg>O OmegaT vai agora terminar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093827Z" creationid="Pedro Albuquerque" creationdate="20210504T093827Z">
+        <seg>O OmegaT vai então copiar os ficheiros seleccionados para a sub-pasta &lt;f2&gt;/source/&lt;/f2&gt; do seu projecto recentemente criado.</seg>
       </tuv>
     </tu>
     <tu>
