@@ -10883,8 +10883,8 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
       <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you can"t run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090242Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se não conseguir executar o &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (não há ambiente gráfico disponível): copie os ficheiros de configuração de alguma outra instalação do &lt;a1&gt;OmegaT&lt;/a1&gt; noutra máquina para uma pasta específica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,6 +10979,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090117Z" creationid="Pedro Albuquerque" creationdate="20210504T090117Z">
+        <seg>Se precisar de alterar as configurações, os ficheiros de configuração devem estar disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065930Z" creationid="Pedro Albuquerque" creationdate="20210426T065930Z">
@@ -11007,6 +11015,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170851Z" creationid="Pedro Albuquerque" creationdate="20210423T170851Z">
         <seg>Se preferir não utilizar o OmegaT para traduzir ficheiros de um determinado tipo, pode desligar o filtro correspondente desmarcando a caixa ao lado do seu nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090200Z" creationid="Pedro Albuquerque" creationdate="20210504T090200Z">
+        <seg>Se iniciar o &lt;a1&gt;OmegaT&lt;/a1&gt; em modo de consola, utilizará as mesmas definições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16422,6 +16438,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090023Z" creationid="Pedro Albuquerque" creationdate="20210504T090023Z">
+        <seg>Pré-requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
@@ -17876,6 +17900,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085521Z" creationid="Pedro Albuquerque" creationdate="20210422T085521Z">
         <seg>Regras...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090142Z" creationid="Pedro Albuquerque" creationdate="20210504T090142Z">
+        <seg>Executar o &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (com o GUI) e especificar as definições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21321,6 +21353,22 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090259Z" creationid="Pedro Albuquerque" creationdate="20210504T090259Z">
+        <seg>A localização não importa, uma vez que se pode adicioná-la à linha de comando no arranque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090104Z" creationid="Pedro Albuquerque" creationdate="20210504T090104Z">
+        <seg>A localização não importa, uma vez que tem de ser adicionada à linha de comando no arranque, de qualquer forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082650Z" creationid="Pedro Albuquerque" creationdate="20210504T082650Z">
@@ -21581,6 +21629,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105157Z" creationid="Pedro Albuquerque" creationdate="20210422T105157Z">
         <seg>As expressões regulares (ou regex para abreviar) utilizadas nas pesquisas e regras de segmentação são as suportadas pelo Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090412Z" creationid="Pedro Albuquerque" creationdate="20210504T090412Z">
+        <seg>Os ficheiros relevantes são &lt;f2&gt;filters.conf&lt;/f2&gt; e &lt;f3&gt;segmentation.conf&lt;/f3&gt; e podem ser encontrados na pasta home do utilizador (por exemplo &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;utilizador&lt;/p5&gt;\OmegaT&lt;/f4&gt; em Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; em Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22199,6 +22255,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104108Z" creationid="Pedro Albuquerque" creationdate="20210425T104108Z">
         <seg>Isto também pode ser feito dentro do OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090124Z" creationid="Pedro Albuquerque" creationdate="20210504T090124Z">
+        <seg>Isto pode ser conseguido de duas maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22975,6 +23039,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>To remind yourself of the project"s initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090052Z" creationid="Pedro Albuquerque" creationdate="20210504T090052Z">
+        <seg>Para executar &lt;a0&gt;OmegaT&lt;/a0&gt; no modo de linha de comando, deve estar presente um projecto &lt;a1&gt;OmegaT&lt;/a1&gt; válido.</seg>
       </tuv>
     </tu>
     <tu>
