@@ -9224,6 +9224,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094450Z" creationid="Pedro Albuquerque" creationdate="20210504T094450Z">
+        <seg>Mais algumas coisas para recordar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055222Z" creationid="Pedro Albuquerque" creationdate="20210421T055222Z">
@@ -10819,8 +10827,8 @@ o caminho completo.)</seg>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn"t work in OmegaT.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094503Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se um ficheiro não for carregado no painel &lt;g0&gt;Editor&lt;/g0&gt;, então pode ser que esteja num formato que não funciona no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15938,8 +15946,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094353Z" creationid="Pedro Albuquerque" creationdate="20210504T094353Z">
-        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094433Z" creationid="Pedro Albuquerque" creationdate="20210504T094353Z">
+        <seg>Depois de se certificar de que não existem erros de etiqueta na sua tradução, prima &lt;k0&gt;Ctrl+D&lt;/k0&gt; para gerar os ficheiros de destino, que serão criados na sub-pasta &lt;f1&gt;/target/&lt;/f1&gt; da pasta do seu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18966,6 +18974,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070220Z" creationid="Pedro Albuquerque" creationdate="20210425T070220Z">
         <seg>Ver &lt;l3&gt;Preferências de filtros de ficheiros&lt;/l3&gt; para mais informações sobre o assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094618Z" creationid="Pedro Albuquerque" creationdate="20210504T094552Z">
+        <seg>Ver &lt;m1&gt;&lt;g2&gt;Opções&lt;/g2&gt;&lt;g3&gt;Preferências...&lt;/g3&gt;&lt;g4&gt;Filtros de ficheiro&lt;/g4&gt;&lt;/m1&gt; para uma lista de formatos de ficheiro que o OmegaT pode tratar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23693,8 +23709,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>To remind yourself of the project"s initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094643Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Para se lembrar das configurações iniciais do projecto, abra o diálogo de propriedades do projecto, premindo &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23703,6 +23719,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090052Z" creationid="Pedro Albuquerque" creationdate="20210504T090052Z">
         <seg>Para executar &lt;a0&gt;OmegaT&lt;/a0&gt; no modo de linha de comando, deve estar presente um projecto &lt;a1&gt;OmegaT&lt;/a1&gt; válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094706Z" creationid="Pedro Albuquerque" creationdate="20210504T094706Z">
+        <seg>Para ver uma lista de ficheiros no projecto, abra o diálogo &lt;g1&gt;Ficheiros do projecto&lt;/g1&gt;, premindo &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26226,6 +26250,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071500Z" creationid="Pedro Albuquerque" creationdate="20210424T071500Z">
         <seg>É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094631Z" creationid="Pedro Albuquerque" creationdate="20210504T094608Z">
+        <seg>Pode criar um novo projecto para cada novo trabalho, e pode adicionar novos ficheiros-fonte a um projecto em qualquer altura.</seg>
       </tuv>
     </tu>
     <tu>
