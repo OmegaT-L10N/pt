@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.help">
-  <title>Help</title>
+  <title>Ajuda</title>
 
   <variablelist>
     <varlistentry>
-      <term>User&quot;s Manual...</term>
+      <term>Manual do utilizador...</term>
 
       <listitem>
-        <para>Opens this manual in the default browser.</para>
+        <para>Abre este manual no navegador predefinido.</para>
       </listitem>
     </varlistentry>
 
@@ -16,7 +16,7 @@
       <term>Acerca...</term>
 
       <listitem>
-        <para>Displays copyright, credits and license information.</para>
+        <para>Mostra informação sobre direitos de autor, créditos e licenças.</para>
       </listitem>
     </varlistentry>
 
@@ -24,8 +24,7 @@
       <term>Últimas alterações...</term>
 
       <listitem>
-        <para>Displays the list of new functionalities, enhancements and bug
-        fixes for each new release.</para>
+        <para>Mostra a lista de novas funcionalidades, melhorias e correcções de erros para cada nova versão.</para>
       </listitem>
     </varlistentry>
 
@@ -33,17 +32,15 @@
       <term>Diário...</term>
 
       <listitem>
-        <para>Displays the current log file. The title of the dialog reflects
-        the file actually used (which depends on how many instances of OmegaT
-        are running concurrently).</para>
+        <para>Mostra o ficheiro de diário actual. O título do diálogo reflecte o ficheiro efectivamente utilizado (que depende de quantas instâncias do OmegaT estão a correr em simultâneo).</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Check for Updates...</term>
+      <term>Procurar actualizações...</term>
 
       <listitem>
-        <para>Checks to see whether a more recent version of <application>OmegaT</application> has been released.</para>
+        <para>Verifica se uma versão mais recente do <application>OmegaT</application> foi lançada.</para>
       </listitem>
     </varlistentry>
   </variablelist>

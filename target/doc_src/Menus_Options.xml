@@ -5,27 +5,20 @@
 
   <variablelist>
     <varlistentry>
-      <term>Preferences...</term>
+      <term>Preferências...</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences">Preferences</link>
-        dialog.</para>
+        <para>Abre o diálogo <link linkend="dialogs.preferences">Preferências</link>.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Machine Translate</term>
+      <term>Tradução automática</term>
 
       <listitem>
-        <para>Allows you to activate/deactivate the Machine Translation tools
-        offered.</para>
+        <para>Permite-lhe activar/desactivar as ferramentas de tradução automática oferecidas.</para>
 
-        <para>If several translation engines are selected, then <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>M</keycap>
-          </keycombo> is also used to switch between them and insert the last
-        one selected.</para>
+        <para>Se forem seleccionados vários motores de tradução, então <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> é também utilizado para alternar entre eles e inserir o último motor seleccionado.</para>
       </listitem>
     </varlistentry>
 
@@ -33,8 +26,7 @@
       <term>Glossário</term>
 
       <listitem>
-        <para>Select <guimenuitem>Taas Terminology Lookup</guimenuitem> to
-        activate this lookup.</para>
+        <para>Seleccione <guimenuitem>Taas Terminology Lookup</guimenuitem> para activar esta procura.</para>
       </listitem>
     </varlistentry>
 
@@ -42,22 +34,19 @@
       <term>Dicionário</term>
 
       <listitem>
-        <para>Check the <guimenuitem>Use Fuzzy Matching for Dictionary Entries</guimenuitem> option if you want dictionaries to display words that have the same root.</para>
+        <para>Marque a opção <guimenuitem>Use correspondência aproximada para entradas de dicionário</guimenuitem> se quiser que os dicionários mostrem palavras que tenham a mesma raiz.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Auto-completion</term>
+      <term>Conclusão automática</term>
 
       <listitem>
-        <para>If <guimenuitem>Show Relevant Suggestions
-        Automatically</guimenuitem> option is checked, Auto-completer is
-        launched automatically by typing the first letters of a translated
-        glossary entry, or by typing &quot;&lt;&quot; in case of tags.</para>
+        <para>Se a opção <guimenuitem>Mostrar sugestões relevantes automaticamente</guimenuitem> estiver marcada, a conclusão automática é lançada automaticamente escrevendo as primeiras letras de uma entrada do glossário traduzida, ou escrevendo &quot;&lt;&quot; no caso de etiquetas.</para>
 
-        <para>Check <guimenuitem>History Completion</guimenuitem> to display suggested words as soon as their first letters are entered.</para>
+        <para>Marcar <guimenuitem>Preencher do histórico</guimenuitem> para mostrar as palavras sugeridas assim que as suas primeiras letras forem introduzidas.</para>
 
-        <para>Check <guimenuitem>History Prediction</guimenuitem> to display suggested words that commonly follow the word that has just been entered.</para>
+        <para>Marcar <guimenuitem>Prever do histórico</guimenuitem> para mostrar as palavras sugeridas que normalmente seguem a palavra que acabou de ser introduzida.</para>
       </listitem>
     </varlistentry>
 
@@ -65,10 +54,9 @@
       <term>Filtros de ficheiros...</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.filefilters">File
-        Filters</link> options in the Preferences dialog.</para>
+        <para>Abre as opções <link linkend="dialogs.preferences.filefilters">Filtros de ficheiro</link> no diálogo Preferências.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Estas definições aplicam-se ao nível OmegaT, a todos os projectos.</para>
       </listitem>
     </varlistentry>
 
@@ -76,10 +64,9 @@
       <term>Segmentação...</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.segmentationsetup">Segmentation
-        Setup</link> options in the Preferences dialog.</para>
+        <para>Abre as opções <link linkend="dialogs.preferences.segmentationsetup">Configuração da segmentação</link> no diálogo Preferências.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Estas definições aplicam-se ao nível OmegaT, a todos os projectos.</para>
 
       </listitem>
     </varlistentry>
@@ -88,10 +75,9 @@
       <term>Editor...</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.editor">Editor</link> options in the
-        Preferences dialog.</para>
+        <para>Abre as opções do <link linkend="dialogs.preferences.editor">editor</link> no diálogo Preferências.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Estas definições aplicam-se ao nível OmegaT, a todos os projectos.</para>
 
       </listitem>
     </varlistentry>
@@ -100,8 +86,7 @@
       <term>Aceder à pasta de configuração</term>
 
       <listitem>
-        <para>Opens the local directory where OmegaT configuration files are
-        stored (depends on the Operating system).</para>
+        <para>Abre a pasta local onde os ficheiros de configuração do OmegaT estão armazenados (depende do sistema operativo).</para>
       </listitem>
     </varlistentry>
   </variablelist>

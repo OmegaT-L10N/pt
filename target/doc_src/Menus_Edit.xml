@@ -3,16 +3,14 @@
 <section id="menus.edit">
   <title>Editar</title>
 
-  <para>This menu displays entries only when a project is open.</para>
+  <para>Este menu só mostra entradas quando um projecto está aberto.</para>
 
   <variablelist>
     <varlistentry>
       <term><guimenuitem>Desfazer a última acção</guimenuitem></term>
 
       <listitem>
-        <para>Restores the status before the last editing action was taken.
-        This command does not work once the modified segment has been
-        validated.</para>
+        <para>Restabelece o estado antes de ser tomada a última acção de edição. Este comando não funciona uma vez que o segmento modificado tenha sido validado.</para>
       </listitem>
     </varlistentry>
 
@@ -20,9 +18,7 @@
       <term>Refazer a última acção</term>
 
       <listitem>
-        <para>Restores the status before the last editing action was
-        cancelled. This command does not work once the modified segment has
-        been validated.</para>
+        <para>Restaura o estado antes da última acção de edição ter sido cancelada. Este comando não funciona uma vez que o segmento modificado tenha sido validado.</para>
       </listitem>
     </varlistentry>
 
@@ -30,11 +26,9 @@
       <term>Substituir por correspondência ou selecção</term>
 
       <listitem>
-        <para>Replaces the whole target segment with the currently selected
-        fuzzy match (by default the first match is selected).</para>
+        <para>Substitui todo o segmento-alvo pela correspondência aproximada actualmente seleccionada (por pré-definição, a primeira está seleccionada).</para>
 
-        <para>If some texts are selected within the fuzzy match, only this
-        selection will replace the whole target segment.</para>
+        <para>Se alguns textos estiverem seleccionados dentro da correspondência aproximada, só esta selecção substituirá todo o segmento-alvo.</para>
       </listitem>
     </varlistentry>
 
@@ -42,12 +36,9 @@
       <term>Inserir correspondência ou selecção</term>
 
       <listitem>
-        <para>Inserts the currently selected fuzzy match at the cursor
-        position. If part of the target segment has been selected, this
-        function overwrites the selected portion.</para>
+        <para>Insere a correspondência aproximada actualmente seleccionada na posição do cursor. Se parte do segmento-alvo tiver sido seleccionada, esta função substitui a parte seleccionada.</para>
 
-        <para>If some texts are selected within the fuzzy match, only this
-        selection will be inserted at the cursor position.</para>
+        <para>Se alguns textos estiverem seleccionados dentro da correspondência aproximada, só esta selecção será inserida na posição do cursor.</para>
       </listitem>
     </varlistentry>
 
@@ -55,21 +46,15 @@
       <term>Substituir com tradução automática</term>
 
       <listitem>
-        <para>Replaces the target segment with the translation, provided by
-        the selected Machine Translation service. No action is taken, if no
-        Machine Translation service has been activated (in <menuchoice>
-            <guimenu>Options</guimenu>
-
-            <guimenuitem>Machine Translate</guimenuitem>
-          </menuchoice>).</para>
+        <para>Substitui o segmento-alvo pela tradução, fornecida pelo serviço de tradução automática seleccionado. Nenhuma acção é tomada, se nenhum serviço de tradução automática tiver sido activado (em <menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Tradução automática</guimenuitem> </menuchoice>).</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Replace with Source</term>
+      <term>Substituir pela fonte</term>
 
       <listitem>
-        <para>Replaces the whole target segment with the source.</para>
+        <para>Substitui todo o segmento-alvo com a fonte.</para>
       </listitem>
     </varlistentry>
 
@@ -77,7 +62,7 @@
       <term>Inserir fonte</term>
 
       <listitem>
-        <para>Inserts the source at the cursor position.</para>
+        <para>Insere a fonte na posição do cursor.</para>
       </listitem>
     </varlistentry>
 
@@ -85,8 +70,7 @@
       <term>Inserir etiquetas-fonte em falta</term>
 
       <listitem>
-        <para>Inserts the source tags (if they where missing) at the cursor
-        position.</para>
+        <para>Insere as etiquetas da fonte (se estiverem em falta) na posição do cursor.</para>
       </listitem>
     </varlistentry>
 
@@ -94,8 +78,7 @@
       <term>Inserir etiqueta em falta seguinte</term>
 
       <listitem>
-        <para>Inserts only one tag (among the missing ones) at the cursor
-        position.</para>
+        <para>Insere apenas uma etiqueta (entre as que faltam) na posição do cursor.</para>
       </listitem>
     </varlistentry>
 
@@ -103,7 +86,7 @@
       <term>Exportar selecção</term>
 
       <listitem>
-        <para>Exports the current selection to a text file for processing. If no text has been selected, the current source segment is written to this file. When the user exits <application>OmegaT</application>, this file is not emptied, in order to be consistent with usual clipboard behavior. The exported contents are copied to the file <filename>selection.txt</filename> located in the User&quot;s preference files folder.</para>
+        <para>Exporta a selecção actual para um ficheiro de texto para processamento. Se nenhum texto tiver sido seleccionado, o segmento-fonte actual é escrito neste ficheiro. Quando o utilizador sai do <application>OmegaT</application>, este ficheiro não é esvaziado, de modo a ser consistente com o comportamento habitual da área de transferência. O conteúdo exportado é copiado para o ficheiro <filename>selection.txt</filename> localizado na pasta de ficheiros de preferência do Utilizador.</para>
       </listitem>
     </varlistentry>
 
@@ -111,28 +94,11 @@
       <term>Criar entrada de glossário</term>
 
       <listitem>
-        <para>Allows the user create an entry in the default glossary
-        file.</para>
+        <para>Permite ao utilizador criar uma entrada no ficheiro padrão do glossário.</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
+        <para>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>, o texto será colado por pré-definição no campo <guilabel>Termo-fonte</guilabel>.</para>
 
-            <keycap>Shift</keycap>
-
-            <keycap>G</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Source term</guilabel> field.</para>
-
-        <para>This can apply also to <guimenuitem>Target term</guimenuitem>
-        and <guimenuitem>Comment </guimenuitem>fields if new selections are
-        made and <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Shift</keycap>
-
-            <keycap>G</keycap>
-          </keycombo> pressed again.</para>
+        <para>Isto pode aplicar-se também aos campos <guimenuitem>Termo-alvo</guimenuitem> e <guimenuitem>Comentário</guimenuitem> se forem feitas novas selecções e <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo> premido novamente.</para>
       </listitem>
     </varlistentry>
 
@@ -140,25 +106,11 @@
       <term>Procurar no projecto...</term>
 
       <listitem>
-        <para>Opens a new <link linkend="windows.textsearch">Search
-        window</link>.</para>
+        <para>Abre uma nova <link linkend="windows.textsearch">Janela de procura</link>.</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
+        <para>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, o texto será colado por pré-definição no campo <guilabel>Procurar por</guilabel>.</para>
 
-            <keycap>F</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Search for</guilabel> field.</para>
-
-        <para>Pressing <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Shift</keycap>
-
-            <keycap>F</keycap>
-          </keycombo> displays the last already opened Search window (instead
-        of opening a new one).</para>
+        <para>Premir <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> mostra a última janela de pesquisa já aberta (em vez de abrir uma nova).</para>
       </listitem>
     </varlistentry>
 
@@ -166,16 +118,9 @@
       <term>Procurar e substituir...</term>
 
       <listitem>
-        <para>Opens a new <link linkend="windows.textreplace">Search
-        and replace window</link>.</para>
+        <para>Abre uma nova janela <link linkend="windows.textreplace">Procurar e substituir</link>.</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>K</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Search for</guilabel> field.</para>
+        <para>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir <keycombo> <keycap>Ctrl</keycap> <keycap>K</keycap> </keycombo>, o texto será colado por pré-definição no campo <guilabel>Procurar por</guilabel>.</para>
       </listitem>
     </varlistentry>
 
@@ -183,32 +128,23 @@
       <term>Procurar nos dicionários</term>
 
       <listitem>
-        <para>If <link linkend="dialogs.preferences.dictionary">automatic searching in dictionaries</link> is disabled, this function allows you to search for the selected word in the dictionaries.</para>
+        <para>Se <link linkend="dialogs.preferences.dictionary">Procura automática nos dicionários</link> estiver desactivada, esta função permite-lhe procurar a palavra seleccionada nos dicionários.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Switch case to</term>
+      <term>Mude maiúsculas para</term>
 
       <listitem>
-        <para>Changes the case of the highlighted text in the target segment
-        to the selected option (Lower case, Upper case, Title case or Sentence
-        case). Use <keycombo>
-            <keycap>Shift</keycap>
-
-            <keycap>F3</keycap>
-          </keycombo> to cycle through the four alternatives. If no text is
-        selected, <application>OmegaT</application> selects the word that
-        contains the letter immediately to the right of the cursor.</para>
+        <para>Altera as letras do texto destacado no segmento-alvo para a opção seleccionada (minúsculas, maiúsculas, título ou frase). Use <keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo> para percorrer as quatro alternativas. Se não houver texto seleccionado, o <application>OmegaT</application> selecciona a palavra que contém a letra imediatamente à direita do cursor.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Select Match</term>
+      <term>Seleccionar a correspondência</term>
 
       <listitem>
-        <para>Selects the previous, the next or the Nth fuzzy match displayed
-        in the fuzzy match pane to replace or insert it to the segment.</para>
+        <para>Selecciona a correspondência anterior, a seguinte ou a n-ésima aproximada mostrada no painel de correspondências aproximadas para a substituir ou inserir no segmento.</para>
       </listitem>
     </varlistentry>
 
@@ -216,7 +152,7 @@
       <term>Usar como tradução pré-definida</term>
 
       <listitem>
-        <para>If there&quot;s several alternative translations available for the active segment, you can label the alternative selected as the default translation. The entry will be greyed, if there&quot;s just one translation available.</para>
+        <para>Se houver várias traduções alternativas disponíveis para o segmento activo, pode rotular a alternativa seleccionada como a tradução pré-definida. A entrada estará a cinzento, se houver apenas uma tradução disponível.</para>
       </listitem>
     </varlistentry>
 
@@ -224,19 +160,15 @@
       <term>Criar tradução alternativa</term>
 
       <listitem>
-        <para>The one and the same segment may, depending on the context,
-        require different translations. Select this menu item, if the current
-        translation does not apply and enter the alternative
-        translation.</para>
+        <para>O mesmo segmento pode, dependendo do contexto, requerer diferentes traduções. Seleccione este item do menu, se a tradução actual não se aplicar e introduza a tradução alternativa.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Remove Translation</term>
+      <term>Remover tradução</term>
 
       <listitem>
-        <para>Deletes the translation and set the segment as
-        untranslated.</para>
+        <para>Elimina a tradução e define o segmento como não traduzido.</para>
       </listitem>
     </varlistentry>
 
@@ -244,9 +176,7 @@
       <term>Definir tradução vazia</term>
 
       <listitem>
-        <para>Define the translation as being empty. In the target document,
-        nothing will appear for this segment. In the Editor, the translation
-        is displayed as &lt;EMPTY&gt;</para>
+        <para>Definir a tradução como vazia. No documento de destino, nada aparecerá para este segmento. No Editor, a tradução é mostrada como &lt;EMPTY&gt;</para>
       </listitem>
     </varlistentry>
 
@@ -254,10 +184,7 @@
       <term>Registar tradução idêntica</term>
 
       <listitem>
-        <para>Use this command to register the translation to be identical to
-        the source, even if <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Allow
-        translation to be equal to source</guilabel></link> is not
-        checked.</para>
+        <para>Use este comando para registar a tradução como idêntica à fonte, mesmo que <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Permitir que a tradução seja igual à fonte</guilabel></link> não esteja marcada.</para>
       </listitem>
     </varlistentry>
   </variablelist>
