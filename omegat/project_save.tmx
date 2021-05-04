@@ -2110,8 +2110,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user"s operating system.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084314Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normalmente, isto é, quando &lt;a3&gt;OmegaT&lt;/a3&gt; é iniciado sem quaisquer argumentos, o programa detecta primeiro o idioma do sistema operativo do utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10385,6 +10385,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084354Z" creationid="Pedro Albuquerque" creationdate="20210504T084354Z">
+        <seg>Se estiver disponível um ambiente de utilizador neste idioma, o &lt;a4&gt;OmegaT&lt;/a4&gt; utiliza-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094845Z" creationid="Pedro Albuquerque" creationdate="20210425T094845Z">
@@ -10561,8 +10569,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If the language of the user"s system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084541Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se o idioma do sistema do utilizador não estiver disponível, o &lt;a7&gt;OmegaT&lt;/a7&gt; fica disponível em inglês por pré-definição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19140,8 +19148,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>So, if the user"s operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084446Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Assim, se o sistema operativo do utilizador for russo e o &lt;a5&gt;OmegaT&lt;/a5&gt; tiver sido localizado em russo, o &lt;a6&gt;OmegaT&lt;/a6&gt; será mostrado com um ambiente de utilizador russo, menus russos, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24027,6 +24035,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105410Z" creationid="Pedro Albuquerque" creationdate="20210424T103843Z">
         <seg>Grupo de utilizadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084218Z" creationid="Pedro Albuquerque" creationdate="20210504T084218Z">
+        <seg>Idioma do ambiente do utilizador</seg>
       </tuv>
     </tu>
     <tu>
