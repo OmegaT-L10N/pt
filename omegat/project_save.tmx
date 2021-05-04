@@ -9000,6 +9000,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102933Z" creationid="Pedro Albuquerque" creationdate="20210504T102933Z">
+        <seg>Exporta a selecção actual para um ficheiro de texto para processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072119Z" creationid="Pedro Albuquerque" creationdate="20210421T072119Z">
@@ -12229,10 +12237,34 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102219Z" creationid="Pedro Albuquerque" creationdate="20210504T102219Z">
+        <seg>Insere apenas uma etiqueta (entre as que faltam) na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101929Z" creationid="Pedro Albuquerque" creationdate="20210504T101929Z">
         <seg>Insere a correspondência aproximada actualmente seleccionada na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102150Z" creationid="Pedro Albuquerque" creationdate="20210504T102150Z">
+        <seg>Insere a fonte na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102210Z" creationid="Pedro Albuquerque" creationdate="20210504T102210Z">
+        <seg>Insere as etiquetas da fonte (se estiverem em falta) na posição do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18264,6 +18296,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102126Z" creationid="Pedro Albuquerque" creationdate="20210504T102126Z">
+        <seg>Substituir pela fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055821Z" creationid="Pedro Albuquerque" creationdate="20210421T055821Z">
@@ -18284,6 +18324,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101811Z" creationid="Pedro Albuquerque" creationdate="20210504T101811Z">
         <seg>Substitui todo o segmento-alvo pela correspondência aproximada actualmente seleccionada (por pré-definição, a primeira está seleccionada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102140Z" creationid="Pedro Albuquerque" creationdate="20210504T102140Z">
+        <seg>Substitui todo o segmento-alvo com a fonte.</seg>
       </tuv>
     </tu>
     <tu>
