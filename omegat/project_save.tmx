@@ -2142,8 +2142,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073833Z" creationid="Pedro Albuquerque" creationdate="20210427T073833Z">
-        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; está disponível como  Oracle Java JRE para Linux (Intel x86) e Windows.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101324Z" creationid="Pedro Albuquerque" creationdate="20210427T073833Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; está disponível como Oracle Java JRE para Linux (Intel x86) e Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,8 +3724,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093526Z" creationid="Pedro Albuquerque" creationdate="20210504T093526Z">
-        <seg>Depois de dar um nome ao seu projecto, será aberto o diálogo &lt;g0&gt;Criar novo projecto&lt;/g0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101339Z" creationid="Pedro Albuquerque" creationdate="20210504T093526Z">
+        <seg>Após dar um nome ao seu projecto, será aberto o diálogo &lt;g0&gt;Criar novo projecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,8 +5784,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093757Z" creationid="Pedro Albuquerque" creationdate="20210504T093757Z">
-        <seg>Clique em &lt;g1&gt;Copyiar ficheiros para a pasta-fonte...&lt;/g1&gt; para seleccionar os seus ficheiros-fonte.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101441Z" creationid="Pedro Albuquerque" creationdate="20210504T093757Z">
+        <seg>Clique em &lt;g1&gt;Copiar ficheiros para a pasta-fonte...&lt;/g1&gt; para seleccionar os seus ficheiros-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7814,8 +7814,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161815Z" creationid="Pedro Albuquerque" creationdate="20210426T161815Z">
-        <seg>ransfira o &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101231Z" creationid="Pedro Albuquerque" creationdate="20210426T161815Z">
+        <seg>Transfira o &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
