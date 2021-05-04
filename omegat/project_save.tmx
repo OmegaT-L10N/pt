@@ -2150,8 +2150,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T072139Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
-        <seg>Etiquetas &lt;a0&gt;OmegaT&lt;/a0&gt; em segementos RTL</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100708Z" creationid="Pedro Albuquerque" creationdate="20210425T072139Z">
+        <seg>Etiquetas &lt;a0&gt;OmegaT&lt;/a0&gt; em segmentos RTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -5192,8 +5192,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Change how fuzzy matches are displayed, through the use of pre-configured variables:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094231Z" creationid="Pedro Albuquerque" creationdate="20210424T094231Z">
-        <seg>Alterar a forma de apresentação de correspondências aproximadasdifusas, através da utilização de variáveis pré-configuradas:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100603Z" creationid="Pedro Albuquerque" creationdate="20210424T094231Z">
+        <seg>Alterar a forma de apresentação de correspondências aproximadas, através da utilização de variáveis pré-configuradas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9578,8 +9578,8 @@ Os fios de Gossamer retêm-nos
       <tuv lang="en">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074857Z" creationid="Pedro Albuquerque" creationdate="20210425T074857Z">
-        <seg>Para ficheiros .docx, uma série de alterações são contudo feitas automaticamente:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100744Z" creationid="Pedro Albuquerque" creationdate="20210425T074857Z">
+        <seg>Para ficheiros .docx, uma série de alterações são, contudo, feitas automaticamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11113,8 +11113,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090617Z" creationid="Pedro Albuquerque" creationdate="20210425T090617Z">
-        <seg>Se o ficheiro-fonte for modificado depois de ter começado a traduzir, o &lt;a1&gt;OmegaT&lt;/a1&gt; poderá não conseguir encontrar um segmento que já tenha traduzido.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100812Z" creationid="Pedro Albuquerque" creationdate="20210425T090617Z">
+        <seg>Se o ficheiro-fonte for modificado após ter começado a traduzir, o &lt;a1&gt;OmegaT&lt;/a1&gt; poderá não conseguir encontrar um segmento que já tenha traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13942,8 +13942,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Match pane setup</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094300Z" creationid="Pedro Albuquerque" creationdate="20210424T094300Z">
-        <seg>Configuração do painel de correpondências</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100651Z" creationid="Pedro Albuquerque" creationdate="20210424T094300Z">
+        <seg>Configuração do painel de correspondências</seg>
       </tuv>
     </tu>
     <tu>
@@ -22435,8 +22435,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100816Z" creationid="Pedro Albuquerque" creationdate="20210425T100816Z">
-        <seg>A solução no nosso exemplo é copiar a memória de tradução existente para a subpasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100825Z" creationid="Pedro Albuquerque" creationdate="20210425T100816Z">
+        <seg>A solução no nosso exemplo é copiar a memória de tradução existente para a sub-pasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx.</seg>
       </tuv>
     </tu>
     <tu>
