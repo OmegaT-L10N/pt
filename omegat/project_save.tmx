@@ -5270,6 +5270,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103614Z" creationid="Pedro Albuquerque" creationdate="20210504T103614Z">
+        <seg>Altera as letras do texto destacado no segmento-alvo para a opção seleccionada (minúsculas, maiúsculas, título ou frase).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083355Z" creationid="Pedro Albuquerque" creationdate="20210504T083355Z">
@@ -10817,6 +10825,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103452Z" creationid="Pedro Albuquerque" creationdate="20210504T103452Z">
+        <seg>Se &lt;l0&gt;Procura automática nos dicionários&lt;/l0&gt; estiver desactivada, esta função permite-lhe procurar a palavra seleccionada nos dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092157Z" creationid="Pedro Albuquerque" creationdate="20210504T092157Z">
@@ -11487,6 +11503,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103312Z" creationid="Pedro Albuquerque" creationdate="20210504T103312Z">
         <seg>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, o texto será colado por pré-definição no campo &lt;g3&gt;Procurar por&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103426Z" creationid="Pedro Albuquerque" creationdate="20210504T103426Z">
+        <seg>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, o texto será colado por pré-definição no campo &lt;g3&gt;Procurar por&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16320,6 +16344,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103354Z" creationid="Pedro Albuquerque" creationdate="20210504T103354Z">
+        <seg>Abre uma nova janela &lt;l0&gt;Procurar e substituir&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103242Z" creationid="Pedro Albuquerque" creationdate="20210504T103242Z">
@@ -20882,6 +20914,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103520Z" creationid="Pedro Albuquerque" creationdate="20210504T103520Z">
+        <seg>Mude maiúsculas para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T165202Z" creationid="Pedro Albuquerque" creationdate="20210420T165202Z">
@@ -25057,6 +25097,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101212Z" creationid="Pedro Albuquerque" creationdate="20210426T070043Z">
         <seg>Utilizar o filtro padrão (entrada PDF) do &lt;a0&gt;OmegaT's&lt;/a0&gt;, traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103630Z" creationid="Pedro Albuquerque" creationdate="20210504T103630Z">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para percorrer as quatro alternativas.</seg>
       </tuv>
     </tu>
     <tu>
