@@ -2706,6 +2706,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085024Z" creationid="Pedro Albuquerque" creationdate="20210504T084942Z">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; no comando significa o código de dois dígitos do idioma desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104605Z" creationid="Pedro Albuquerque" creationdate="20210425T104605Z">
@@ -20431,8 +20439,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084935Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>O argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&gt;/l0&gt; faz com que o &lt;a2&gt;OmegaT&lt;/a2&gt; utilize o idioma especificado e não o idioma do sistema operativo do utilizador.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084959Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; faz com que o &lt;a2&gt;OmegaT&lt;/a2&gt; utilize o idioma especificado e não o idioma do sistema operativo do utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22711,6 +22719,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082754Z" creationid="Pedro Albuquerque" creationdate="20210504T082754Z">
         <seg>Para iniciar o &lt;a0&gt;OmegaT&lt;/a0&gt;, normalmente utilizam-se dois comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085112Z" creationid="Pedro Albuquerque" creationdate="20210504T085112Z">
+        <seg>Para iniciar o &lt;a4&gt;OmegaT&lt;/a4&gt; com um ambiente francês (por exemplo, num sistema operativo russo), o comando seria portanto,</seg>
       </tuv>
     </tu>
     <tu>
