@@ -2828,8 +2828,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082817Z" creationid="Pedro Albuquerque" creationdate="20210427T082817Z">
-        <seg>A command line window is also referred to as a "terminal window".</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082331Z" creationid="Pedro Albuquerque" creationdate="20210427T082817Z">
+        <seg>Uma janela de linha de comando é também referida como uma "janela de terminal".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15068,6 +15068,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>OmegaT"s developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082444Z" creationid="Pedro Albuquerque" creationdate="20210504T082444Z">
+        <seg>No Windows chama-se "janela MS-DOS" e está disponível a partir do menu Iniciar, dentro de Programas, através do item "MS-DOS".</seg>
       </tuv>
     </tu>
     <tu>
