@@ -4442,6 +4442,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094727Z" creationid="Pedro Albuquerque" creationdate="20210504T094727Z">
+        <seg>No final da sua tradução, o OmegaT exporta três memórias de tradução chamadas &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; e &lt;f2&gt;omegat&lt;/f2&gt; para a pasta do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074052Z" creationid="Pedro Albuquerque" creationdate="20210424T074052Z">
@@ -11395,6 +11403,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094923Z" creationid="Pedro Albuquerque" creationdate="20210504T094923Z">
+        <seg>Se colocar esses ficheiros de memória de tradução na sub-pasta &lt;f6&gt;/tm/&lt;/f6&gt; de um projecto, o OmegaT procurá-los-á automaticamente por segmentos semelhantes, chamados "correspondências aproximadas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170851Z" creationid="Pedro Albuquerque" creationdate="20210423T170851Z">
@@ -12473,6 +12489,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
         <seg>Consequentemente, é capaz de utilizar a enorme variedade de dicionários ortográficos gratuitos disponíveis para estas aplicações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095041Z" creationid="Pedro Albuquerque" creationdate="20210504T095041Z">
+        <seg>É frequentemente útil procurar palavras e frases no texto original e na sua tradução, por isso prima &lt;k0&gt;Ctrl+F&lt;/k0&gt; para abrir o diálogo &lt;g1&gt;Procura de texto&lt;/g1&gt; em qualquer altura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21205,6 +21229,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094808Z" creationid="Pedro Albuquerque" creationdate="20210504T094808Z">
+        <seg>As memórias &lt;f3&gt; level1&lt;/f3&gt; e &lt;f4&gt;level2&lt;/f4&gt; podem ser partilhadas com utilizadores de outros programas de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071205Z" creationid="Pedro Albuquerque" creationdate="20210425T071205Z">
@@ -21965,6 +21997,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105101Z" creationid="Pedro Albuquerque" creationdate="20210425T105101Z">
         <seg>Os mapeamentos podem ser adicionados através do UI: &lt;m0&gt;&lt;g1&gt;Projecto&lt;/g1&gt;&lt;g2&gt;Propriedades&lt;/g2&gt;&lt;g3&gt; Mapear repositório&lt;/g3&gt;&lt;/m0&gt; ou por edição de &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094834Z" creationid="Pedro Albuquerque" creationdate="20210504T094834Z">
+        <seg>A memória denominada &lt;f5&gt;omegat&lt;/f5&gt; pode ser utilizada pelo próprio OmegaT, em projectos futuros que criar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26150,6 +26190,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155612Z" creationid="Pedro Albuquerque" creationdate="20210426T155612Z">
         <seg>Pode adicionar o &lt;a0&gt;OmegaT&lt;/a0&gt; aos seus menus como se segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094957Z" creationid="Pedro Albuquerque" creationdate="20210504T094957Z">
+        <seg>Pode adicionar um novo termo ao glossário premindo &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, ou copiar glossários existentes para a sub-pasta &lt;f1&gt;/glossary/&lt;/f1&gt; da pasta do seu projecto e o OmegaT procurará automaticamente as palavras neles contidas.</seg>
       </tuv>
     </tu>
     <tu>
