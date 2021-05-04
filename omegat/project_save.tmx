@@ -5446,6 +5446,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105116Z" creationid="Pedro Albuquerque" creationdate="20210504T105116Z">
+        <seg>Procurar actualizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101655Z" creationid="Pedro Albuquerque" creationdate="20210424T101655Z">
@@ -5674,6 +5682,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104742Z" creationid="Pedro Albuquerque" creationdate="20210425T104742Z">
         <seg>Verificação de estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105132Z" creationid="Pedro Albuquerque" creationdate="20210504T105132Z">
+        <seg>Verifica se uma versão mais recente do &lt;a0&gt;OmegaT&lt;/a0&gt; foi lançada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7540,6 +7556,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104944Z" creationid="Pedro Albuquerque" creationdate="20210504T104940Z">
+        <seg>Mostra informação sobre direitos de autor, créditos e licenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105022Z" creationid="Pedro Albuquerque" creationdate="20210504T105022Z">
+        <seg>Mostra o ficheiro de diário actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100551Z" creationid="Pedro Albuquerque" creationdate="20210421T100551Z">
@@ -7568,6 +7600,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T100252Z" creationid="Pedro Albuquerque" creationdate="20210421T095848Z">
         <seg>Mostra as entradas de glossário encontradas nos ficheiros localizados na pasta /glossary/ se estes estiverem presentes no segmento-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105008Z" creationid="Pedro Albuquerque" creationdate="20210504T105008Z">
+        <seg>Mostra a lista de novas funcionalidades, melhorias e correcções de erros para cada nova versão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10494,6 +10534,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090035Z" creationid="Pedro Albuquerque" creationdate="20210422T090035Z">
         <seg>Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104914Z" creationid="Pedro Albuquerque" creationdate="20210504T104914Z">
+        <seg>Ajuda</seg>
       </tuv>
     </tu>
     <tu>
@@ -16428,6 +16476,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103242Z" creationid="Pedro Albuquerque" creationdate="20210504T103242Z">
         <seg>Abre uma nova &lt;l0&gt;Janela de procura&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104930Z" creationid="Pedro Albuquerque" creationdate="20210504T104930Z">
+        <seg>Abre este manual no navegador predefinido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22905,6 +22961,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105109Z" creationid="Pedro Albuquerque" creationdate="20210504T105109Z">
+        <seg>O título do diálogo reflecte o ficheiro efectivamente utilizado (que depende de quantas instâncias do OmegaT estão a correr em simultâneo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055454Z" creationid="Pedro Albuquerque" creationdate="20210421T055454Z">
@@ -25497,8 +25561,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>User's Manual...</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>User"s Manual...</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104921Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Manual do utilizador...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26213,6 +26277,22 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092416Z" creationid="Pedro Albuquerque" creationdate="20210504T092416Z">
         <seg>Com esta opção, não ocorre qualquer bloqueio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104910Z" creationid="Pedro Albuquerque" creationdate="20210504T104910Z">
+        <seg>Com este comando pode recuar um segmento de cada vez, para voltar mais tarde ao segmento actual usando &lt;g0&gt;Avançar no histórico...&lt;/g0&gt;comando abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104848Z" creationid="Pedro Albuquerque" creationdate="20210504T104848Z">
+        <seg>Com este comando pode dar um passo em frente para o segmento, que anteriormente foi deixado pelo comando &lt;g1&gt;Recuar no histórico&lt;/g1&gt;....</seg>
       </tuv>
     </tu>
     <tu>
