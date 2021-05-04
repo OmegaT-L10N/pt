@@ -18232,6 +18232,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101811Z" creationid="Pedro Albuquerque" creationdate="20210504T101811Z">
+        <seg>Substitui todo o segmento-alvo pela correspondência aproximada actualmente seleccionada (por pré-definição, a primeira está seleccionada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054946Z" creationid="Pedro Albuquerque" creationdate="20210421T054946Z">
@@ -18372,6 +18380,22 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115223Z" creationid="Pedro Albuquerque" creationdate="20210423T115223Z">
         <seg>Restaura os componentes da janela principal do OmegaT para o seu estado padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101700Z" creationid="Pedro Albuquerque" creationdate="20210504T101700Z">
+        <seg>Restaura o estado antes da última acção de edição ter sido cancelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101639Z" creationid="Pedro Albuquerque" creationdate="20210504T101639Z">
+        <seg>Restabelece o estado antes de ser tomada a última acção de edição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23003,6 +23027,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101648Z" creationid="Pedro Albuquerque" creationdate="20210504T101648Z">
+        <seg>Este comando não funciona uma vez que o segmento modificado tenha sido validado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T055736Z" creationid="Pedro Albuquerque" creationdate="20210422T055736Z">
@@ -23285,8 +23317,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170015Z" creationid="Pedro Albuquerque" creationdate="20210423T170015Z">
-        <seg>This menu displays entries only when a project is open.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101629Z" creationid="Pedro Albuquerque" creationdate="20210423T170015Z">
+        <seg>Este menu só mostra entradas quando um projecto está aberto.</seg>
       </tuv>
     </tu>
     <tu>
