@@ -3994,6 +3994,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103049Z" creationid="Pedro Albuquerque" creationdate="20210504T103049Z">
+        <seg>Permite ao utilizador criar uma entrada no ficheiro padrão do glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094850Z" creationid="Pedro Albuquerque" creationdate="20210424T094850Z">
@@ -11475,6 +11483,22 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103312Z" creationid="Pedro Albuquerque" creationdate="20210504T103312Z">
+        <seg>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, o texto será colado por pré-definição no campo &lt;g3&gt;Procurar por&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103132Z" creationid="Pedro Albuquerque" creationdate="20210504T103132Z">
+        <seg>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, o texto será colado por pré-definição no campo &lt;g4&gt;Termo-fonte&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090200Z" creationid="Pedro Albuquerque" creationdate="20210504T090200Z">
@@ -16296,6 +16320,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103242Z" creationid="Pedro Albuquerque" creationdate="20210504T103242Z">
+        <seg>Abre uma nova &lt;l0&gt;Janela de procura&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174932Z" creationid="Pedro Albuquerque" creationdate="20210420T174932Z">
@@ -17166,6 +17198,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092945Z" creationid="Pedro Albuquerque" creationdate="20210422T092945Z">
         <seg>Prima o atalho de teclado que deseja atribuir, depois clique em Aceitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103337Z" creationid="Pedro Albuquerque" creationdate="20210504T103337Z">
+        <seg>Premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; mostra a última janela de pesquisa já aberta (em vez de abrir uma nova).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21873,8 +21913,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User"s preference files folder.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103035Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O conteúdo exportado é copiado para o ficheiro &lt;f1&gt;selection.txt&lt;/f1&gt; localizado na pasta de ficheiros de preferência do Utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23087,6 +23127,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104108Z" creationid="Pedro Albuquerque" creationdate="20210425T104108Z">
         <seg>Isto também pode ser feito dentro do OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103219Z" creationid="Pedro Albuquerque" creationdate="20210504T103219Z">
+        <seg>Isto pode aplicar-se também aos campos &lt;g0&gt;Termo-alvo&lt;/g0&gt; e &lt;g1&gt;Comentário&lt;/g1&gt; se forem feitas novas selecções e &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; premido novamente.</seg>
       </tuv>
     </tu>
     <tu>
