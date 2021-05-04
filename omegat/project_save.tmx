@@ -1818,10 +1818,34 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085749Z" creationid="Pedro Albuquerque" creationdate="20210504T085749Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085751Z" creationid="Pedro Albuquerque" creationdate="20210504T085751Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112305Z" creationid="Pedro Albuquerque" creationdate="20210426T112305Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085902Z" creationid="Pedro Albuquerque" creationdate="20210504T085902Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3146,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085900Z" creationid="Pedro Albuquerque" creationdate="20210504T085900Z">
+        <seg>As chaves API podem ser solicitadas usando &lt;u0&gt;API key request form&lt;/u0&gt;, e vistas em &lt;u1&gt;My Keys&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093004Z" creationid="Pedro Albuquerque" creationdate="20210422T093004Z">
@@ -4090,6 +4122,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083423Z" creationid="Pedro Albuquerque" creationdate="20210504T083423Z">
         <seg>Os argumentos são adicionados após o inicial &lt;c0&gt;java&lt;/c0&gt;, e antes de &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085929Z" creationid="Pedro Albuquerque" creationdate="20210504T085929Z">
+        <seg>Os argumentos podem ser combinados: para lançar o &lt;a0&gt;OmegaT&lt;/a0&gt; com todos os exemplos descritos acima, o comando seria:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13091,6 +13131,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085803Z" creationid="Pedro Albuquerque" creationdate="20210504T085803Z">
+        <seg>Certifique-se de que tem uma conta Yandex gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161639Z" creationid="Pedro Albuquerque" creationdate="20210426T161639Z">
@@ -14574,6 +14622,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085718Z" creationid="Pedro Albuquerque" creationdate="20210504T085718Z">
+        <seg>Note-se que até 2M caracteres por mês são gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090909Z" creationid="Pedro Albuquerque" creationdate="20210421T090909Z">
@@ -15018,6 +15074,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071803Z" creationid="Pedro Albuquerque" creationdate="20210424T071803Z">
         <seg>O OmegaT identifica a codificação do ficheiro-fonte utilizando a sua declaração de codificação, se presente (ficheiros HTML, ficheiros baseados em XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085939Z" creationid="Pedro Albuquerque" creationdate="20210504T085939Z">
+        <seg>OmegaT no modo de linha de comando</seg>
       </tuv>
     </tu>
     <tu>
@@ -21489,6 +21553,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085950Z" creationid="Pedro Albuquerque" creationdate="20210504T085950Z">
+        <seg>O objectivo do modo de consola é utilizar o OmegaT como ferramenta de tradução num ambiente de scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070618Z" creationid="Pedro Albuquerque" creationdate="20210426T070618Z">
@@ -21797,6 +21869,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100910Z" creationid="Pedro Albuquerque" creationdate="20210425T100910Z">
         <seg>Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085747Z" creationid="Pedro Albuquerque" creationdate="20210504T085747Z">
+        <seg>As duas entradas requeridas estão disponíveis na sua &lt;u1&gt;página de conta&lt;/u1&gt; em Primary account key e Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24627,6 +24707,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090015Z" creationid="Pedro Albuquerque" creationdate="20210504T090015Z">
+        <seg>Quando iniciado em modo de consola, nenhum GUI é carregado (pelo que funcionará em qualquer consola) e o projecto dado é automaticamente processado conforme solicitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094745Z" creationid="Pedro Albuquerque" creationdate="20210424T094745Z">
@@ -25153,6 +25241,14 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085752Z" creationid="Pedro Albuquerque" creationdate="20210504T085752Z">
+        <seg>Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yandex.Cloud</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114936Z" creationid="Pedro Albuquerque" creationdate="20210421T114936Z">
@@ -25604,6 +25700,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124202Z" creationid="Pedro Albuquerque" creationdate="20210420T124202Z">
         <seg>O seu projecto não contém quaisquer ficheiros em formatos suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085828Z" creationid="Pedro Albuquerque" creationdate="20210504T085828Z">
+        <seg>Vai precisar dela para poder obter e utilizar a chave Yandex Translate API.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26568,6 +26672,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085753Z" creationid="Pedro Albuquerque" creationdate="20210504T085753Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085754Z" creationid="Pedro Albuquerque" creationdate="20210504T085754Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085621Z" creationid="Pedro Albuquerque" creationdate="20210504T085621Z">
@@ -26854,6 +26974,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070625Z" creationid="Pedro Albuquerque" creationdate="20210425T070625Z">
         <seg>não é tido em conta nas estatísticas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085929Z" creationid="Pedro Albuquerque" creationdate="20210504T085929Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
