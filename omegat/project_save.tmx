@@ -2890,6 +2890,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084129Z" creationid="Pedro Albuquerque" creationdate="20210504T084129Z">
+        <seg>Uma lista de possíveis argumentos é apresentada abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111739Z" creationid="Pedro Albuquerque" creationdate="20210422T111739Z">
@@ -3382,6 +3390,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105907Z" creationid="Pedro Albuquerque" creationdate="20210424T105907Z">
         <seg>Administração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084152Z" creationid="Pedro Albuquerque" creationdate="20210504T084152Z">
+        <seg>Os utilizadores avançados podem obter mais informações sobre os argumentos escrevendo &lt;e0&gt;man java&lt;/e0&gt; na janela do terminal.</seg>
       </tuv>
     </tu>
     <tu>
