@@ -10308,8 +10308,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170014Z" creationid="Pedro Albuquerque" creationdate="20210423T170014Z">
-        <seg>Go To</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104328Z" creationid="Pedro Albuquerque" creationdate="20210423T170014Z">
+        <seg>Ir para</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,6 +11083,22 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
         <seg>Se for encontrado o filtro apropriado, o ficheiro é-lhe atribuído para processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104513Z" creationid="Pedro Albuquerque" creationdate="20210504T104513Z">
+        <seg>Se o segmento actual é o primeiro de um ficheiro, passa para o último segmento do ficheiro anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104414Z" creationid="Pedro Albuquerque" creationdate="20210504T104414Z">
+        <seg>Se o segmento actual é o último segmento de um ficheiro, passa para o primeiro segmento do ficheiro seguinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14556,16 +14572,32 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170024Z" creationid="Pedro Albuquerque" creationdate="20210423T170024Z">
-        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104352Z" creationid="Pedro Albuquerque" creationdate="20210423T170024Z">
+        <seg>Passa para o próximo segmento já traduzido, ignorando segmentos não traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170015Z" creationid="Pedro Albuquerque" creationdate="20210423T170015Z">
-        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104337Z" creationid="Pedro Albuquerque" creationdate="20210423T170015Z">
+        <seg>Passa para o segmento seguinte que não tem equivalente na memória de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104401Z" creationid="Pedro Albuquerque" creationdate="20210504T104401Z">
+        <seg>Avança para o segmento seguinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104502Z" creationid="Pedro Albuquerque" creationdate="20210504T104502Z">
+        <seg>Passa para o segmento anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15282,6 +15314,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091046Z" creationid="Pedro Albuquerque" creationdate="20210504T091046Z">
         <seg>Note-se o duplo hífen&lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104449Z" creationid="Pedro Albuquerque" creationdate="20210504T104449Z">
+        <seg>Nota: &lt;k0&gt;Enter&lt;/k0&gt; é um atalho alternativo se a opção &lt;l1&gt;Utilizar TAB para avançar&lt;/l1&gt; não estiver marcada.</seg>
       </tuv>
     </tu>
     <tu>
