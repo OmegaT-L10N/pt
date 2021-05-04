@@ -4142,6 +4142,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092440Z" creationid="Pedro Albuquerque" creationdate="20210504T092440Z">
+        <seg>Um parâmetro de linha de comando extra específico para o modo de consola: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070545Z" creationid="Pedro Albuquerque" creationdate="20210425T070545Z">
@@ -4858,6 +4866,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105728Z" creationid="Pedro Albuquerque" creationdate="20210424T105728Z">
         <seg>Problemas, pedidos de funcionalidades e questões de documentação são tratados na SourceForge pelos seguintes sistemas de rastreio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092529Z" creationid="Pedro Albuquerque" creationdate="20210504T092529Z">
+        <seg>Compilar o &lt;a0&gt;OmegaT&lt;/a0&gt; da fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11709,6 +11725,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092448Z" creationid="Pedro Albuquerque" creationdate="20210504T092448Z">
+        <seg>No modo silencioso, é registada menos informação no ecrã.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
@@ -15708,6 +15732,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113151Z" creationid="Pedro Albuquerque" creationdate="20210422T113151Z">
         <seg>Assim que o ficheiro &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; for modificado, o &lt;a1&gt;OmegaT&lt;/a1&gt; deve ser reiniciado para ter em conta os novos atalhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092640Z" creationid="Pedro Albuquerque" creationdate="20210504T092640Z">
+        <seg>Uma vez o código transferido, abra um terminal na pasta-fonte e insira:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21729,6 +21761,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092503Z" creationid="Pedro Albuquerque" creationdate="20210504T092503Z">
+        <seg>As mensagens que normalmente encontrará na barra de estado não são mostradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163257Z" creationid="Pedro Albuquerque" creationdate="20210420T163257Z">
@@ -22181,6 +22221,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100218Z" creationid="Pedro Albuquerque" creationdate="20210422T100218Z">
         <seg>O termo-fonte é mostrado antes do sinal " = " e o termo-alvo depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092554Z" creationid="Pedro Albuquerque" creationdate="20210504T092554Z">
+        <seg>As fontes da versão actual podem ser recuperadas com um cliente Git a partir do repositório &lt;u0/&gt; ou directamente na &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23055,6 +23103,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103037Z" creationid="Pedro Albuquerque" creationdate="20210424T102954Z">
         <seg>Este script destina-se a correr no OmegaT 3.6 e mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092736Z" creationid="Pedro Albuquerque" creationdate="20210504T092736Z">
+        <seg>Isto criará uma distribuição completa do OmegaT na pasta &lt;f0&gt;./build/distributions&lt;/f0&gt;, onde encontrará um arquivo zip contendo tudo o que é necessário para correr o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24425,6 +24481,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095743Z" creationid="Pedro Albuquerque" creationdate="20210422T095743Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092508Z" creationid="Pedro Albuquerque" creationdate="20210504T092508Z">
+        <seg>Uso: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27128,6 +27192,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092645Z" creationid="Pedro Albuquerque" creationdate="20210504T092645Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110954Z" creationid="Pedro Albuquerque" creationdate="20210422T110954Z">
@@ -27304,6 +27376,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092530Z" creationid="Pedro Albuquerque" creationdate="20210504T092530Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163258Z" creationid="Pedro Albuquerque" creationdate="20210420T163258Z">
@@ -27348,6 +27428,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163413Z" creationid="Pedro Albuquerque" creationdate="20210420T163413Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092531Z" creationid="Pedro Albuquerque" creationdate="20210504T092531Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
