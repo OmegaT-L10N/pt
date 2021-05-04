@@ -2118,8 +2118,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074138Z" creationid="Pedro Albuquerque" creationdate="20210424T074138Z">
-        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; primeiros parses do texto para segmentação a nível de estrutura.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100441Z" creationid="Pedro Albuquerque" creationdate="20210424T074138Z">
+        <seg>O &lt;a0&gt;OmegaT&lt;/a0&gt; primeiro analisa o texto para segmentação a nível de estrutura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,8 +2278,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174237Z" creationid="Pedro Albuquerque" creationdate="20210423T174237Z">
-        <seg>&lt;e0&gt;Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML&lt;/e0&gt;: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito)..</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100315Z" creationid="Pedro Albuquerque" creationdate="20210423T174237Z">
+        <seg>&lt;e0&gt;Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML&lt;/e0&gt;: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4476,8 +4476,8 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091916Z" creationid="Pedro Albuquerque" creationdate="20210424T091916Z">
-        <seg>Tentativa de converter números ao inserir um correspondência aproximada</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100512Z" creationid="Pedro Albuquerque" creationdate="20210424T091916Z">
+        <seg>Tentativa de converter números ao inserir uma correspondência aproximada</seg>
       </tuv>
     </tu>
     <tu>
@@ -9676,8 +9676,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071443Z" creationid="Pedro Albuquerque" creationdate="20210424T071443Z">
-        <seg>Por exemplo, por pré-definição, os ficheiros  &lt;l0&gt;.txt&lt;/l0&gt; serão carregados utilizando a codificação pré-definida do seu sistema operativo.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100355Z" creationid="Pedro Albuquerque" creationdate="20210424T071443Z">
+        <seg>Por exemplo, por pré-definição, os ficheiros &lt;l0&gt;.txt&lt;/l0&gt; serão carregados utilizando a codificação pré-definida do seu sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11201,8 +11201,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092016Z" creationid="Pedro Albuquerque" creationdate="20210424T092016Z">
-        <seg>Se esta opção for marcada, quando um correspondência aproximada é inserida, manual ou automaticamente, o OmegaT tenta converter os números nas correspondências aproximadas de acordo com o conteúdo da fonte.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100534Z" creationid="Pedro Albuquerque" creationdate="20210424T092016Z">
+        <seg>Se esta opção for marcada, quando uma correspondência aproximada é inserida, manual ou automaticamente, o OmegaT tenta converter os números nas correspondências aproximadas de acordo com o conteúdo da fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11509,8 +11509,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075702Z" creationid="Pedro Albuquerque" creationdate="20210424T075702Z">
-        <seg>Se o seu conjunto de regras lidar com um par idioma-país, aconselhamo-lo a movê-lo para o topo usando o botão &lt;e1&gt;Mover acima&lt;/e1&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100506Z" creationid="Pedro Albuquerque" creationdate="20210424T075702Z">
+        <seg>Se o seu conjunto de regras lidar com um par idioma-país, aconselhamos movê-lo para o topo usando o botão &lt;e1&gt;Mover acima&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
