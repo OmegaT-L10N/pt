@@ -3706,10 +3706,26 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093858Z" creationid="Pedro Albuquerque" creationdate="20210504T093858Z">
+        <seg>Após os ficheiros-fonte terem sido carregados no &lt;g3&gt;Editor&lt;/g3&gt;, pode fechar o diálogo &lt;g4&gt; Ficheiros do projecto&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093526Z" creationid="Pedro Albuquerque" creationdate="20210504T093526Z">
         <seg>Depois de dar um nome ao seu projecto, será aberto o diálogo &lt;g0&gt;Criar novo projecto&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093958Z" creationid="Pedro Albuquerque" creationdate="20210504T093958Z">
+        <seg>Após ter traduzido cada segmento, prima &lt;k0&gt;Ctrl+U&lt;/k0&gt; para passar ao próximo segmento não traduzido (ou &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; para passar ao próximo segmento traduzido).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7964,6 +7980,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094046Z" creationid="Pedro Albuquerque" creationdate="20210504T094046Z">
+        <seg>Durante a tradução, utilize os menus &lt;g4&gt;Editar&lt;/g4&gt; e &lt;g5&gt;Ir para&lt;/g5&gt; para executar várias funções úteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090708Z" creationid="Pedro Albuquerque" creationdate="20210421T090708Z">
@@ -11423,6 +11447,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075702Z" creationid="Pedro Albuquerque" creationdate="20210424T075702Z">
         <seg>Se o seu conjunto de regras lidar com um par idioma-país, aconselhamo-lo a movê-lo para o topo usando o botão &lt;e1&gt;Mover acima&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094109Z" creationid="Pedro Albuquerque" creationdate="20210504T094109Z">
+        <seg>Se os seus ficheiros-fonte são ficheiros formatados, por exemplo Microsoft Word, LibreOffice Writer ou HTML, o OmegaT converterá a formatação em etiquetas que rodeiam o texto que traduz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15700,6 +15732,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123607Z" creationid="Pedro Albuquerque" creationdate="20210420T123607Z">
         <seg>O OmegaT vai agora terminar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093939Z" creationid="Pedro Albuquerque" creationdate="20210504T093939Z">
+        <seg>O OmegaT mostra um segmento de cada vez para que possa traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23807,6 +23847,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093917Z" creationid="Pedro Albuquerque" creationdate="20210504T093917Z">
+        <seg>Traduza o ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085931Z" creationid="Pedro Albuquerque" creationdate="20210421T085931Z">
@@ -25097,6 +25145,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094053Z" creationid="Pedro Albuquerque" creationdate="20210504T094053Z">
+        <seg>Valide as suas etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053042Z" creationid="Pedro Albuquerque" creationdate="20210422T053042Z">
@@ -25527,6 +25583,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094316Z" creationid="Pedro Albuquerque" creationdate="20210425T094316Z">
         <seg>Sempre que terminar um projecto, copie um dos três ficheiros "exportar" de memória de tradução da pasta raiz do projecto para a pasta do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094026Z" creationid="Pedro Albuquerque" creationdate="20210504T094026Z">
+        <seg>Sempre que quiser ver como será a sua tradução no seu formato final, prima &lt;k2&gt;Ctrl+D&lt;/k2&gt; para gerar os documentos traduzidos, que serão criados na sub-pasta &lt;f3&gt;/target/&lt;/f3&gt; da pasta do seu projecto.</seg>
       </tuv>
     </tu>
     <tu>
