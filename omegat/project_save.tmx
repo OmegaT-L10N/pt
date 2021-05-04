@@ -6260,8 +6260,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054036Z" creationid="Pedro Albuquerque" creationdate="20210422T054036Z">
-        <seg>Converter projecto de euipa antigo</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095240Z" creationid="Pedro Albuquerque" creationdate="20210422T054036Z">
+        <seg>Converter projecto de equipa antigo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,6 +9584,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095101Z" creationid="Pedro Albuquerque" creationdate="20210504T095101Z">
+        <seg>Para uma introdução mais abrangente ver &lt;u0&gt;OmegaT para principiantes&lt;/u0&gt; no sítio web do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
@@ -11375,6 +11383,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090117Z" creationid="Pedro Albuquerque" creationdate="20210504T090117Z">
         <seg>Se precisar de alterar as configurações, os ficheiros de configuração devem estar disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095118Z" creationid="Pedro Albuquerque" creationdate="20210504T095118Z">
+        <seg>Se precisar de assistência com qualquer aspecto do OmegaT, sinta-se à vontade para se juntar ao grupo de utilizadores do &lt;u1&gt;OmegaT.&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14764,8 +14780,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053856Z" creationid="Pedro Albuquerque" creationdate="20210422T053856Z">
-        <seg>Nenhuma ligação disponível, o projecto está em modo offline.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095226Z" creationid="Pedro Albuquerque" creationdate="20210422T053856Z">
+        <seg>Nenhuma ligação disponível, o projecto está em modo sem rede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22859,9 +22875,9 @@ Você foi vítima de um deles</seg>
 will delete your local data and re-download the project contents from
 the server.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054238Z" creationid="Pedro Albuquerque" creationdate="20210422T054238Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095303Z" creationid="Pedro Albuquerque" creationdate="20210422T054238Z">
         <seg>Isto
-vai eliminar os dados locais e voltar a trasnferir o conteúdo do projecto
+vai eliminar os dados locais e voltar a transferir o conteúdo do projecto
 do servidor.</seg>
       </tuv>
     </tu>
@@ -27732,6 +27748,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163258Z" creationid="Pedro Albuquerque" creationdate="20210420T163258Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095043Z" creationid="Pedro Albuquerque" creationdate="20210504T095043Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
