@@ -1712,6 +1712,22 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090638Z" creationid="Pedro Albuquerque" creationdate="20210504T090638Z">
+        <seg>--config-dir=&lt;p1&gt;/caminho/para/pasta/de/configuração/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090645Z" creationid="Pedro Albuquerque" creationdate="20210504T090645Z">
+        <seg>--config-file=&lt;p2&gt;/caminho/para/ficheiros/de/configuração/&lt;/p2&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1738,6 +1754,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121457Z" creationid="Pedro Albuquerque" creationdate="20210420T121457Z">
         <seg>--disable-project-locking
 		Não tentar bloquear o ficheiros de projecto omegat.project file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090653Z" creationid="Pedro Albuquerque" creationdate="20210504T090653Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -1804,6 +1828,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T121843Z" creationid="Pedro Albuquerque" creationdate="20210420T121843Z">
         <seg>--script=&lt;path&gt;
 		Um script a executar em eventos do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090708Z" creationid="Pedro Albuquerque" creationdate="20210504T090708Z">
+        <seg>--source-pattern=&lt;p4&gt;expressão regular&lt;/p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2688,6 +2720,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072705Z" creationid="Pedro Albuquerque" creationdate="20210424T072705Z">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – data e hora do sistema na geração, em vários padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090931Z" creationid="Pedro Albuquerque" creationdate="20210504T090841Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/caminho/para/ficheiros/de/configuração/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt; em que pasta estão gravados os ficheiros de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090816Z" creationid="Pedro Albuquerque" creationdate="20210504T090816Z">
+        <seg>&lt;l0&gt;/caminho/do/projecto&lt;/l0&gt; diz ao &lt;a1&gt;OmegaT&lt;/a1&gt; onde encontrar o projecto a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,6 +8736,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090749Z" creationid="Pedro Albuquerque" creationdate="20210504T090749Z">
+        <seg>Explicação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075749Z" creationid="Pedro Albuquerque" creationdate="20210423T075738Z">
@@ -10549,6 +10605,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073028Z" creationid="Pedro Albuquerque" creationdate="20210424T073028Z">
         <seg>Se, por exemplo, o ficheiro original for chamado Document.xx.docx, as seguintes variáveis darão os seguintes resultados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090826Z" creationid="Pedro Albuquerque" creationdate="20210504T090826Z">
+        <seg>Se dado, &lt;a2&gt;OmegaT&lt;/a2&gt; começa em modo de consola e traduzirá o projecto dado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14554,6 +14618,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T080143Z" creationid="Pedro Albuquerque" creationdate="20210424T080143Z">
         <seg>Note que &lt;l0&gt;Antes de&lt;/l0&gt; está vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090743Z" creationid="Pedro Albuquerque" creationdate="20210504T090743Z">
+        <seg>Note-se que todos os parâmetros começam com um duplo hífen&lt;l0&gt;-&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
