@@ -1872,6 +1872,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091735Z" creationid="Pedro Albuquerque" creationdate="20210504T091735Z">
+        <seg>--source-pattern=&lt;p0&gt;expressão regular&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090708Z" creationid="Pedro Albuquerque" creationdate="20210504T090708Z">
@@ -1936,6 +1944,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110351Z" creationid="Pedro Albuquerque" creationdate="20210422T110351Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091809Z" creationid="Pedro Albuquerque" creationdate="20210504T091809Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,6 +2528,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073614Z" creationid="Pedro Albuquerque" creationdate="20210427T073614Z">
         <seg>O &lt;f0&gt;OmegaT.app&lt;/f0&gt; pode fazer uso dos Serviços macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091601Z" creationid="Pedro Albuquerque" creationdate="20210504T091524Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; deve conter uma tradução no idioma-alvo do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3758,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103441Z" creationid="Pedro Albuquerque" creationdate="20210424T103441Z">
         <seg>Todos os DOCX no projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091912Z" creationid="Pedro Albuquerque" creationdate="20210504T091912Z">
+        <seg>Todos os ficheiros HTML serão traduzidos - note-se que o ponto habitual &lt;l0&gt;*.html&lt;/l0&gt; tem de ser escapado (&lt;l1&gt;\.&lt;/l1&gt;) como especificado pelas regras para expressões regulares</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9634,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091705Z" creationid="Pedro Albuquerque" creationdate="20210504T091705Z">
+        <seg>Por exemplo, se o projecto for EN -&gt; FR, &lt;f1&gt;alignDir&lt;/f1&gt; deve conter um pacote que termine com &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061241Z" creationid="Pedro Albuquerque" creationdate="20210427T061241Z">
@@ -10320,8 +10360,8 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Here's few typical examples to limit your choice:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Here"s few typical examples to limit your choice:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091809Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Aqui ficam alguns exemplos típicos para limitar a sua escolha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,6 +10891,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074743Z" creationid="Pedro Albuquerque" creationdate="20210425T074743Z">
         <seg>Se o documento original era LTR, a direcção de visualização do documento de destino deve ser alterada manualmente para RTL na sua aplicação de visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091800Z" creationid="Pedro Albuquerque" creationdate="20210504T091800Z">
+        <seg>Se o parâmetro não for especificado, todos os ficheiros serão processados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21881,6 +21929,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091724Z" creationid="Pedro Albuquerque" creationdate="20210504T091724Z">
+        <seg>A TMX resultante é armazenado na pasta &lt;f3&gt;omegat&lt;/f3&gt; sob o nome &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075443Z" creationid="Pedro Albuquerque" creationdate="20210424T075443Z">
@@ -25015,6 +25071,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T064851Z" creationid="Pedro Albuquerque" creationdate="20210425T064851Z">
         <seg>Quando activadas, todas as etiquetas de formatação são removidas dos segmentos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091751Z" creationid="Pedro Albuquerque" creationdate="20210504T091751Z">
+        <seg>Quando o modo tiver sido utilizado, esta opção especificará os ficheiros a processar automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
