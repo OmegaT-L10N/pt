@@ -11007,6 +11007,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103658Z" creationid="Pedro Albuquerque" creationdate="20210504T103658Z">
+        <seg>Se não houver texto seleccionado, o &lt;a3&gt;OmegaT&lt;/a3&gt; selecciona a palavra que contém a letra imediatamente à direita do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091022Z" creationid="Pedro Albuquerque" creationdate="20210504T091022Z">
@@ -11225,8 +11233,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If there"s several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103911Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se houver várias traduções alternativas disponíveis para o segmento activo, pode rotular a alternativa seleccionada como a tradução pré-definida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19490,6 +19498,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103734Z" creationid="Pedro Albuquerque" creationdate="20210504T103734Z">
+        <seg>Seleccionar a correspondência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Match #&amp;1</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125859Z" creationid="Pedro Albuquerque" creationdate="20210420T125859Z">
@@ -19726,6 +19742,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103158Z" creationid="Pedro Albuquerque" creationdate="20210424T103158Z">
         <seg>Opções seleccionadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103838Z" creationid="Pedro Albuquerque" creationdate="20210504T103838Z">
+        <seg>Selecciona a correspondência anterior, a seguinte ou a n-ésima aproximada mostrada no painel de correspondências aproximadas para a substituir ou inserir no segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21937,8 +21961,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The entry will be greyed, if there"s just one translation available.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103933Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A entrada estará a cinzento, se houver apenas uma tradução disponível.</seg>
       </tuv>
     </tu>
     <tu>
