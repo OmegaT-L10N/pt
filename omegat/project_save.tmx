@@ -4026,6 +4026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105214Z" creationid="Pedro Albuquerque" creationdate="20210504T105214Z">
+        <seg>Permite-lhe activar/desactivar as ferramentas de tradução automática oferecidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095019Z" creationid="Pedro Albuquerque" creationdate="20210424T095019Z">
@@ -4558,6 +4566,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T090749Z" creationid="Pedro Albuquerque" creationdate="20210424T090749Z">
         <seg>O auto-completar é lançado dentro do segmento-alvo através do atalho &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105403Z" creationid="Pedro Albuquerque" creationdate="20210504T105403Z">
+        <seg>Conclusão automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5634,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180911Z" creationid="Pedro Albuquerque" creationdate="20210420T180911Z">
         <seg>Assegure-se de que os seus ficheiros de dicionário se encontram na pasta correcta (ou numa sub-pasta dela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105341Z" creationid="Pedro Albuquerque" creationdate="20210504T105341Z">
+        <seg>Marque a opção &lt;g0&gt;Use correspondência aproximada para entradas de dicionário&lt;/g0&gt; se quiser que os dicionários mostrem palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10873,6 +10897,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105522Z" creationid="Pedro Albuquerque" creationdate="20210504T105522Z">
+        <seg>Se a opção &lt;g0&gt;Mostrar sugestões relevantes automaticamente&lt;/g0&gt; estiver marcada, a conclusão automática é lançada automaticamente escrevendo as primeiras letras de uma entrada do glossário traduzida, ou escrevendo "&lt;" no caso de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092142Z" creationid="Pedro Albuquerque" creationdate="20210504T092142Z">
@@ -11107,6 +11139,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073241Z" creationid="Pedro Albuquerque" creationdate="20210424T073241Z">
         <seg>Se a segmentação de frases foi seleccionada, pode configurar as regras seleccionando &lt;m4&gt; &lt;g5&gt;Opções&lt;/g5&gt; &lt;g6&gt;Segmentação...&lt;/g6&gt; &lt;/m4&gt;do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105234Z" creationid="Pedro Albuquerque" creationdate="20210504T105234Z">
+        <seg>Se forem seleccionados vários motores de tradução, então &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; é também utilizado para alternar entre eles e inserir o último motor seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,6 +13807,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T153152Z" creationid="Pedro Albuquerque" creationdate="20210420T153152Z">
         <seg>Tra&amp;dução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105204Z" creationid="Pedro Albuquerque" creationdate="20210504T105204Z">
+        <seg>Tradução automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -16480,6 +16528,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105156Z" creationid="Pedro Albuquerque" creationdate="20210504T105156Z">
+        <seg>Abre o diálogo &lt;l0&gt;Preferências&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104930Z" creationid="Pedro Albuquerque" creationdate="20210504T104930Z">
@@ -17266,6 +17322,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063419Z" creationid="Pedro Albuquerque" creationdate="20210421T063419Z">
         <seg>Falha ao gravar as preferências do sistema!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105146Z" creationid="Pedro Albuquerque" creationdate="20210504T105146Z">
+        <seg>Preferências...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19590,6 +19654,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125842Z" creationid="Pedro Albuquerque" creationdate="20210420T125842Z">
         <seg>Seleccionar corres&amp;pondência anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105251Z" creationid="Pedro Albuquerque" creationdate="20210504T105251Z">
+        <seg>Seleccione &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; para activar esta procura.</seg>
       </tuv>
     </tu>
     <tu>
