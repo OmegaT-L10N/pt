@@ -2812,6 +2812,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092057Z" creationid="Pedro Albuquerque" creationdate="20210504T092057Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090816Z" creationid="Pedro Albuquerque" creationdate="20210504T090816Z">
@@ -3654,6 +3662,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082507Z" creationid="Pedro Albuquerque" creationdate="20210427T082507Z">
         <seg>Após a instalação inicial pode, claro, usar o &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; também quando estiver offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092020Z" creationid="Pedro Albuquerque" creationdate="20210504T092020Z">
+        <seg>Mais uma vez, note-se que a barra esquerda também está escapada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10617,6 +10633,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092142Z" creationid="Pedro Albuquerque" creationdate="20210504T092142Z">
+        <seg>Se &lt;l0&gt;abort&lt;/l0&gt; for seleccionado, o validador da etiqueta pára no primeiro segmento inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074355Z" creationid="Pedro Albuquerque" creationdate="20210421T074355Z">
@@ -10947,6 +10971,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104820Z" creationid="Pedro Albuquerque" creationdate="20210425T104820Z">
         <seg>Se houver diferenças, verificar se os ficheiros &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; estão sob controlo de versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091934Z" creationid="Pedro Albuquerque" creationdate="20210504T091934Z">
+        <seg>Se houver outros ficheiros com o nome test.html noutras pastas, eles serão ignorados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15724,6 +15756,22 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092145Z" creationid="Pedro Albuquerque" creationdate="20210424T092145Z">
         <seg>Só são considerados números inteiros e flutuantes simples (usando o ponto como carácter decimal, por exemplo 5.4, mas não 5,4 ou 54E-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091948Z" creationid="Pedro Albuquerque" creationdate="20210504T091948Z">
+        <seg>Apenas o ficheiro &lt;f0&gt;test.html&lt;/f0&gt; na pasta &lt;f1&gt;dir-10&lt;/f1&gt; será processado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091925Z" creationid="Pedro Albuquerque" creationdate="20210504T091925Z">
+        <seg>Apenas o ficheiro test.html na raiz da pasta de origem será traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22891,6 +22939,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092106Z" creationid="Pedro Albuquerque" creationdate="20210504T092106Z">
+        <seg>Esta opção permite a validação da etiqueta em modo de lote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091451Z" creationid="Pedro Albuquerque" creationdate="20210424T091451Z">
@@ -26632,6 +26688,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091935Z" creationid="Pedro Albuquerque" creationdate="20210504T091935Z">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052124Z" creationid="Pedro Albuquerque" creationdate="20210422T052124Z">
@@ -28086,6 +28150,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085955Z" creationid="Pedro Albuquerque" creationdate="20210421T085955Z">
         <seg>src (URL de &amp;imagens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091914Z" creationid="Pedro Albuquerque" creationdate="20210504T091914Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
