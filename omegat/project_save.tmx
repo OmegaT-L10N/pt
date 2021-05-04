@@ -10975,6 +10975,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T102949Z" creationid="Pedro Albuquerque" creationdate="20210504T102949Z">
+        <seg>Se nenhum texto tiver sido seleccionado, o segmento-fonte actual é escrito neste ficheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091022Z" creationid="Pedro Albuquerque" creationdate="20210504T091022Z">
@@ -25719,6 +25727,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074447Z" creationid="Pedro Albuquerque" creationdate="20210425T074447Z">
         <seg>Quando o documento traduzido for criado, a sua direcção de visualização será a mesma que a do documento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103024Z" creationid="Pedro Albuquerque" creationdate="20210504T103024Z">
+        <seg>Quando o utilizador sai do &lt;a0&gt;OmegaT&lt;/a0&gt;, este ficheiro não é esvaziado, de modo a ser consistente com o comportamento habitual da área de transferência.</seg>
       </tuv>
     </tu>
     <tu>
