@@ -7142,8 +7142,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
-        <seg>Define the translation as being empty.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104033Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
+        <seg>Definir a tradução como vazia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,8 +7166,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170012Z" creationid="Pedro Albuquerque" creationdate="20210423T170012Z">
-        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104021Z" creationid="Pedro Albuquerque" creationdate="20210423T170012Z">
+        <seg>Elimina a tradução e define o segmento como não traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11959,8 +11959,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
-        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104108Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
+        <seg>No Editor, a tradução é mostrada como &lt;EMPTY&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11991,8 +11991,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170013Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
-        <seg>In the target document, nothing will appear for this segment.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104045Z" creationid="Pedro Albuquerque" creationdate="20210423T170013Z">
+        <seg>No documento de destino, nada aparecerá para este segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18138,8 +18138,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Remove Translation</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170012Z" creationid="Pedro Albuquerque" creationdate="20210423T170012Z">
-        <seg>Remove Translation</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104011Z" creationid="Pedro Albuquerque" creationdate="20210423T170012Z">
+        <seg>Remover tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -19708,8 +19708,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170011Z" creationid="Pedro Albuquerque" creationdate="20210423T170011Z">
-        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104004Z" creationid="Pedro Albuquerque" creationdate="20210423T170011Z">
+        <seg>Seleccione este item do menu, se a tradução actual não se aplicar e introduza a tradução alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22315,8 +22315,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170011Z" creationid="Pedro Albuquerque" creationdate="20210423T170011Z">
-        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103951Z" creationid="Pedro Albuquerque" creationdate="20210423T170011Z">
+        <seg>O mesmo segmento pode, dependendo do contexto, requerer diferentes traduções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25311,8 +25311,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170014Z" creationid="Pedro Albuquerque" creationdate="20210423T170014Z">
-        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104200Z" creationid="Pedro Albuquerque" creationdate="20210423T170014Z">
+        <seg>Use este comando para registar a tradução como idêntica à fonte, mesmo que &lt;l0&gt;&lt;g1&gt;Permitir que a tradução seja igual à fonte&lt;/g1&gt;&lt;/l0&gt; não esteja marcada.</seg>
       </tuv>
     </tu>
     <tu>
