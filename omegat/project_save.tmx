@@ -20431,8 +20431,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user"s operating system.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084935Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&gt;/l0&gt; faz com que o &lt;a2&gt;OmegaT&lt;/a2&gt; utilize o idioma especificado e não o idioma do sistema operativo do utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22231,6 +22231,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092326Z" creationid="Pedro Albuquerque" creationdate="20210424T092326Z">
         <seg>Esta é a pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084551Z" creationid="Pedro Albuquerque" creationdate="20210504T084551Z">
+        <seg>Este é o comportamento padrão.</seg>
       </tuv>
     </tu>
     <tu>
