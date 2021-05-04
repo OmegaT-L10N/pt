@@ -8308,6 +8308,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105747Z" creationid="Pedro Albuquerque" creationdate="20210504T105747Z">
+        <seg>Editor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111247Z" creationid="Pedro Albuquerque" creationdate="20210422T111247Z">
@@ -16544,6 +16552,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105814Z" creationid="Pedro Albuquerque" creationdate="20210504T105814Z">
+        <seg>Abre as opções do &lt;l0&gt;editor&lt;/l0&gt; no diálogo Preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105705Z" creationid="Pedro Albuquerque" creationdate="20210504T105705Z">
@@ -16564,6 +16580,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105744Z" creationid="Pedro Albuquerque" creationdate="20210504T105744Z">
         <seg>Abre as opções &lt;l0&gt;Configuração da segmentação&lt;/l0&gt; no diálogo Preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105840Z" creationid="Pedro Albuquerque" creationdate="20210504T105840Z">
+        <seg>Abre a pasta local onde os ficheiros de configuração do OmegaT estão armazenados (depende do sistema operativo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17584,6 +17608,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061839Z" creationid="Pedro Albuquerque" creationdate="20210422T061839Z">
         <seg>A processar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105844Z" creationid="Pedro Albuquerque" creationdate="20210504T105844Z">
+        <seg>Project</seg>
       </tuv>
     </tu>
     <tu>
