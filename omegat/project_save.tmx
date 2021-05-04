@@ -20044,8 +20044,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061059Z" creationid="Pedro Albuquerque" creationdate="20210422T061059Z">
-        <seg>Ordenar por texto c&amp;ompleto, não por atalho</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095452Z" creationid="Pedro Albuquerque" creationdate="20210422T061059Z">
+        <seg>&amp;Ordenar por texto completo, não por atalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -22651,8 +22651,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053420Z" creationid="Pedro Albuquerque" creationdate="20210422T053420Z">
-        <seg>O glossário editável não está na pasta de glossáros.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095400Z" creationid="Pedro Albuquerque" creationdate="20210422T053420Z">
+        <seg>O glossário editável não está na pasta de glossários.</seg>
       </tuv>
     </tu>
     <tu>
