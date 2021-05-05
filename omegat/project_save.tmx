@@ -5110,6 +5110,38 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122739Z" creationid="Pedro Albuquerque" creationdate="20210505T122739Z">
+        <seg>Por Sheila Gomes (em Brasileiro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122704Z" creationid="Pedro Albuquerque" creationdate="20210505T122704Z">
+        <seg>Por Susan Welsh (Open Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122712Z" creationid="Pedro Albuquerque" creationdate="20210505T122712Z">
+        <seg>Por Susan Welsh (PDF format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122725Z" creationid="Pedro Albuquerque" creationdate="20210505T122725Z">
+        <seg>Por Vladimir Zhdanov (em Russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093348Z" creationid="Pedro Albuquerque" creationdate="20210424T093348Z">
@@ -9520,6 +9552,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122747Z" creationid="Pedro Albuquerque" creationdate="20210505T122747Z">
+        <seg>Documentação externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070338Z" creationid="Pedro Albuquerque" creationdate="20210426T070338Z">
@@ -10902,6 +10942,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174126Z" creationid="Pedro Albuquerque" creationdate="20210423T174126Z">
         <seg>Ficheiros HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122545Z" creationid="Pedro Albuquerque" creationdate="20210505T122545Z">
+        <seg>Manual do utilizador HTML online</seg>
       </tuv>
     </tu>
     <tu>
@@ -12849,6 +12897,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T102333Z" creationid="Pedro Albuquerque" creationdate="20210421T102333Z">
         <seg>Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122800Z" creationid="Pedro Albuquerque" creationdate="20210505T122800Z">
+        <seg>Informações sobre procedimentos e características do OmegaT para utilizadores avançados que podem ser encontradas noutros sítios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16566,6 +16622,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122659Z" creationid="Pedro Albuquerque" creationdate="20210505T122659Z">
+        <seg>Tutorial OmegaT for Beginners</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100844Z" creationid="Pedro Albuquerque" creationdate="20210422T100844Z">
@@ -18884,6 +18948,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060713Z" creationid="Pedro Albuquerque" creationdate="20210421T060713Z">
         <seg>Procura recursi&amp;va</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122727Z" creationid="Pedro Albuquerque" creationdate="20210505T122727Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -22805,6 +22877,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122604Z" creationid="Pedro Albuquerque" creationdate="20210505T122604Z">
+        <seg>O manual do utilizador em HTML para a versão padrão do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070342Z" creationid="Pedro Albuquerque" creationdate="20210421T070342Z">
@@ -23411,6 +23491,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095148Z" creationid="Pedro Albuquerque" creationdate="20210425T095148Z">
         <seg>A receita seguinte é apenas uma das possibilidades, mas suficientemente simples de seguir e sem qualquer perigo para os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122646Z" creationid="Pedro Albuquerque" creationdate="20210505T122646Z">
+        <seg>Os seguintes tutoriais estão disponíveis em linha/para transferir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26001,6 +26089,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122818Z" creationid="Pedro Albuquerque" creationdate="20210505T122818Z">
+        <seg>Traduzir o IDE NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053023Z" creationid="Pedro Albuquerque" creationdate="20210422T053023Z">
@@ -26109,6 +26205,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181408Z" creationid="Pedro Albuquerque" creationdate="20210421T181408Z">
         <seg>Resolução de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122609Z" creationid="Pedro Albuquerque" creationdate="20210505T122609Z">
+        <seg>Tutoriais</seg>
       </tuv>
     </tu>
     <tu>
@@ -31278,6 +31382,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091140Z" creationid="Pedro Albuquerque" creationdate="20210422T091140Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122715Z" creationid="Pedro Albuquerque" creationdate="20210505T122715Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
