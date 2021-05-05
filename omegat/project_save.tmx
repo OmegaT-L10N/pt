@@ -3418,6 +3418,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075812Z" creationid="Pedro Albuquerque" creationdate="20210505T075812Z">
+        <seg>Acesso ao conteúdo do projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T115203Z" creationid="Pedro Albuquerque" creationdate="20210422T115203Z">
@@ -6378,6 +6386,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075652Z" creationid="Pedro Albuquerque" creationdate="20210505T075652Z">
+        <seg>Converte o projecto actual num pacote MED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124747Z" creationid="Pedro Albuquerque" creationdate="20210420T124747Z">
@@ -6582,6 +6598,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125055Z" creationid="Pedro Albuquerque" creationdate="20210420T125055Z">
         <seg>Criar projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075642Z" creationid="Pedro Albuquerque" creationdate="20210505T075642Z">
+        <seg>Criar projectos MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,6 +7680,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094143Z" creationid="Pedro Albuquerque" creationdate="20210424T094143Z">
         <seg>Mostrar etiquetas em TMX não-OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075735Z" creationid="Pedro Albuquerque" creationdate="20210505T075735Z">
+        <seg>Mostra o diálogo &lt;l0&gt;Propriedades do projecto&lt;/l0&gt;, para editar os idiomas do projecto e a localização das pastas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10322,6 +10354,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075820Z" creationid="Pedro Albuquerque" creationdate="20210505T075820Z">
+        <seg>Dá acesso às pastas do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072059Z" creationid="Pedro Albuquerque" creationdate="20210421T072059Z">
@@ -11977,6 +12017,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065730Z" creationid="Pedro Albuquerque" creationdate="20210425T065730Z">
         <seg>De forma semelhante à acima referida, o utilizador pode criar filtros de ficheiro específicos do projecto, que serão armazenados juntamente com o projecto e serão válidos apenas para o projecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075851Z" creationid="Pedro Albuquerque" creationdate="20210505T075851Z">
+        <seg>Além disso, duas entradas de menu permitem abrir directamente os documentos fonte e alvo actuais e o glossário editável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,6 +16744,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075633Z" creationid="Pedro Albuquerque" creationdate="20210505T075633Z">
+        <seg>Abre um pacote de projectos no formato MED definido pela EU Directorate-General for Translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105814Z" creationid="Pedro Albuquerque" creationdate="20210504T105814Z">
@@ -16716,6 +16772,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105156Z" creationid="Pedro Albuquerque" creationdate="20210504T105156Z">
         <seg>Abre o diálogo &lt;l0&gt;Preferências&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075803Z" creationid="Pedro Albuquerque" creationdate="20210505T075803Z">
+        <seg>Abre a janela &lt;l0&gt;Ficheiros do projecto&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
