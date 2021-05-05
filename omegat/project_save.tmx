@@ -18186,6 +18186,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093244Z" creationid="Pedro Albuquerque" creationdate="20210505T093244Z">
+        <seg>Prima &lt;k0&gt;Ctrl+M&lt;/k0&gt; para substituir a tradução do segmento actual com a tradução sugerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060233Z" creationid="Pedro Albuquerque" creationdate="20210422T060233Z">
