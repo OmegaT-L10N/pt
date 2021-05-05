@@ -11257,6 +11257,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082059Z" creationid="Pedro Albuquerque" creationdate="20210505T082059Z">
+        <seg>Se verificado, serão mostrados espaços inseparáveis com um fundo cinzento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081922Z" creationid="Pedro Albuquerque" creationdate="20210505T081922Z">
@@ -11277,6 +11285,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081819Z" creationid="Pedro Albuquerque" creationdate="20210505T081819Z">
         <seg>Se marcada, os segmentos-fonte serão mostrados e marcados a verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082239Z" creationid="Pedro Albuquerque" creationdate="20210505T082239Z">
+        <seg>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em &lt;f0&gt;/tm/auto&lt;/f0&gt; por exemplo) são mostrados a cores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11317,6 +11333,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081656Z" creationid="Pedro Albuquerque" creationdate="20210505T081656Z">
         <seg>Se marcada, os segmentos não traduzidos serão marcados em violeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082121Z" creationid="Pedro Albuquerque" creationdate="20210505T082121Z">
+        <seg>Se marcada, os espaços brancos serão exibidos com um pequeno ponto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22549,6 +22573,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082342Z" creationid="Pedro Albuquerque" creationdate="20210505T082342Z">
+        <seg>As cores são mostradas enquanto a opção &lt;l1&gt;&gt;g2&gt;Gravar o estado de povoamento automático&lt;/g2&gt;&lt;/l1&gt; esteja marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093925Z" creationid="Pedro Albuquerque" creationdate="20210422T093925Z">
@@ -24431,6 +24463,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091451Z" creationid="Pedro Albuquerque" creationdate="20210424T091451Z">
         <seg>Esta opção permite-lhe inserir a tradução sem necessidade de remover o texto original, poupando assim dois toques de tecla (&lt;e0&gt;Ctrl+A&lt;/e0&gt; e &lt;e1&gt;Del.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082146Z" creationid="Pedro Albuquerque" creationdate="20210505T082146Z">
+        <seg>Esta opção mostra &lt;u0&gt; caracteres de controlo bidireccional&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28872,6 +28912,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082149Z" creationid="Pedro Albuquerque" creationdate="20210505T082149Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111506Z" creationid="Pedro Albuquerque" creationdate="20210422T111506Z">
@@ -28908,6 +28956,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074719Z" creationid="Pedro Albuquerque" creationdate="20210427T074719Z">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082125Z" creationid="Pedro Albuquerque" creationdate="20210505T082125Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
