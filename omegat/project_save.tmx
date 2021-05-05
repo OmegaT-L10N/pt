@@ -7468,6 +7468,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085738Z" creationid="Pedro Albuquerque" creationdate="20210505T085738Z">
+        <seg>Dependendo do comportamento de edição preferido, o campo de edição para o segmento não traduzido pode estar vazio, conter o texto original, ou conter a tradução da cadeia mais parecida com a que será traduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062248Z" creationid="Pedro Albuquerque" creationdate="20210422T062248Z">
@@ -12091,6 +12099,14 @@ usar o Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085809Z" creationid="Pedro Albuquerque" creationdate="20210505T085809Z">
+        <seg>Se quiser que a tradução seja a mesma que a fonte, basta esvaziar o campo de edição removendo todo o texto (seleccione tudo com &lt;k0&gt;Ctrl+A&lt;/k0&gt; e apague com &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072242Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12481,6 +12497,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075020Z" creationid="Pedro Albuquerque" creationdate="20210424T075020Z">
         <seg>Apesar do ponto, &lt;e0&gt;"Sra. Dalloway"&lt;/e0&gt; não deve ser dividido em dois segmentos, pelo que deve ser estabelecida uma regra de excepção para Sra. (e para Sr., para Dr., para Prof., etc.), seguida de um ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085703Z" creationid="Pedro Albuquerque" creationdate="20210505T085703Z">
+        <seg>Nesse caso, yy é o número de outras ocorrências do segmento no projecto.&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16006,6 +16030,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085654Z" creationid="Pedro Albuquerque" creationdate="20210505T085654Z">
+        <seg>Nota: o marcador de segmento mostra &lt;l0&gt;&gt;segmento nnnn +yyy more&gt; quando o segmento não é único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093733Z" creationid="Pedro Albuquerque" creationdate="20210424T093733Z">
@@ -16462,6 +16494,14 @@ tradução alavancada em projectos actualizados.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092347Z" creationid="Pedro Albuquerque" creationdate="20210424T092335Z">
         <seg>O OmegaT é capaz de reconhecer que o fez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085823Z" creationid="Pedro Albuquerque" creationdate="20210505T085823Z">
+        <seg>O OmegaT é capaz de armazenar traduções que são idênticas à fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24563,6 +24603,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085859Z" creationid="Pedro Albuquerque" creationdate="20210505T085859Z">
+        <seg>Isto é útil para documentos que contenham marcas, nomes ou outros substantivos próprios, ou partes num terceiro idioma que não necessitem de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091345Z" creationid="Pedro Albuquerque" creationdate="20210424T091345Z">
@@ -26453,6 +26501,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085621Z" creationid="Pedro Albuquerque" creationdate="20210505T085621Z">
+        <seg>Utilize a parte superior como referência e substitua ou modifique o conteúdo do campo de edição com a sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090632Z" creationid="Pedro Albuquerque" creationdate="20210425T090632Z">
@@ -27151,6 +27207,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111241Z" creationid="Pedro Albuquerque" creationdate="20210425T111241Z">
         <seg>Quando se carrega um projecto, todas as alterações no repositório são copiadas para o projecto local, incluindo o ficheiro &lt;f0&gt;omegat.project&lt;/f0&gt; com as definições do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085747Z" creationid="Pedro Albuquerque" creationdate="20210505T085747Z">
+        <seg>Quando se passa para outro segmento, a tradução é validada e armazenada.</seg>
       </tuv>
     </tu>
     <tu>
