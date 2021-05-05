@@ -13269,6 +13269,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091104Z" creationid="Pedro Albuquerque" creationdate="20210505T091104Z">
+        <seg>É possível modificar a ordem das três percentagens mas não a que é utilizada para seleccionar as correspondências aproximadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070750Z" creationid="Pedro Albuquerque" creationdate="20210425T070750Z">
@@ -20266,6 +20274,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090919Z" creationid="Pedro Albuquerque" creationdate="20210505T090919Z">
+        <seg>Veja &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T122318Z" creationid="Pedro Albuquerque" creationdate="20210420T122318Z">
@@ -23777,6 +23793,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091156Z" creationid="Pedro Albuquerque" creationdate="20210505T091156Z">
+        <seg>A correspondência aproximada seleccionada é realçada em negrito, as palavras que faltam no segmento que está a traduzir estão em azul e as palavras adjacentes às partes em falta estão em verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082845Z" creationid="Pedro Albuquerque" creationdate="20210423T082845Z">
@@ -23989,6 +24013,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092616Z" creationid="Pedro Albuquerque" creationdate="20210424T092616Z">
         <seg>O texto realçado pelo utilizador, quando &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; é premido ou &lt;g1&gt;Editar &gt; Exportar selecção&lt;/g1&gt; é seleccionado (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090853Z" creationid="Pedro Albuquerque" creationdate="20210505T090853Z">
+        <seg>As três percentagens correspondentes estão na seguinte ordem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25367,6 +25399,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095808Z" creationid="Pedro Albuquerque" creationdate="20210422T095808Z">
         <seg>Para utilizar um glossário existente, basta colocá-lo na pasta &lt;f0&gt;/glossary&lt;/f0&gt; após a criação do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090844Z" creationid="Pedro Albuquerque" creationdate="20210505T090844Z">
+        <seg>Para usar a correspondência seleccionada na sua tradução, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; para substituir o campo alvo pela correspondência ou use &lt;g5&gt;Ctrl+I &lt;/g5&gt; para o inserir na posição do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28696,6 +28736,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090930Z" creationid="Pedro Albuquerque" creationdate="20210505T090930Z">
+        <seg>e ignorando etiquetas e números (geralmente os mais altos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163203Z" creationid="Pedro Albuquerque" creationdate="20210420T163203Z">
@@ -29412,6 +29460,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105134Z" creationid="Pedro Albuquerque" creationdate="20210422T105134Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090914Z" creationid="Pedro Albuquerque" creationdate="20210505T090914Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,6 +30478,30 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095810Z" creationid="Pedro Albuquerque" creationdate="20210425T095810Z">
         <seg>os ficheiros TMX na pasta principal do projecto (ver acima) contêm agora as traduções no par de idiomas seleccionado, para os ficheiros, copiados para a pasta de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090913Z" creationid="Pedro Albuquerque" creationdate="20210505T090913Z">
+        <seg>a percentagem calculada com lematização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091022Z" creationid="Pedro Albuquerque" creationdate="20210505T091022Z">
+        <seg>a percentagem calculada com o texto completo, incluindo etiquetas e números (geralmente os mais baixos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090955Z" creationid="Pedro Albuquerque" creationdate="20210505T090955Z">
+        <seg>a percentagem calculada sem lematização e ainda ignorando etiquetas e números (geralmente ligeiramente mais baixos)</seg>
       </tuv>
     </tu>
     <tu>
