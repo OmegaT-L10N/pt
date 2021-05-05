@@ -20850,6 +20850,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084444Z" creationid="Pedro Albuquerque" creationdate="20210505T084444Z">
+        <seg>Caso perca a noção das suas alterações ao ambiente do utilizador, pode usar &lt;g0&gt; Opções → Restaurar a janela principal&lt;/g0&gt; a qualquer momento para voltar à disposição original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105214Z" creationid="Pedro Albuquerque" creationdate="20210422T105214Z">
@@ -23573,6 +23581,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082845Z" creationid="Pedro Albuquerque" creationdate="20210423T082845Z">
         <seg>Os idiomas seleccionados serão então instalados e eventualmente aparecerão na janela de configuração do seu corrector ortográfico (isto pode demorar algum tempo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084353Z" creationid="Pedro Albuquerque" creationdate="20210505T084353Z">
+        <seg>Os separadores entre os painéis podem ser arrastados para os redimensionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26915,6 +26931,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084322Z" creationid="Pedro Albuquerque" creationdate="20210505T084322Z">
+        <seg>Quando isto é feito, os painéis mostram um separador no topo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113927Z" creationid="Pedro Albuquerque" creationdate="20210423T113927Z">
@@ -27768,6 +27792,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T060640Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Pode modificar o comportamento do OmegaT editando o ficheiro &lt;e0&gt;Properties&lt;/e0&gt; assim como o ficheiro &lt;f1&gt;Configuration.properties&lt;/f1&gt; no pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084248Z" creationid="Pedro Albuquerque" creationdate="20210505T084248Z">
+        <seg>Se desejar, pode sobrepor painéis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,6 +29506,22 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084156Z" creationid="Pedro Albuquerque" creationdate="20210505T084156Z">
+        <seg>maximiza o painel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084150Z" creationid="Pedro Albuquerque" creationdate="20210505T084150Z">
+        <seg>minimiza o painel, de modo a que apenas o seu nome seja mostrado na parte inferior da janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080215Z" creationid="Pedro Albuquerque" creationdate="20210505T080215Z">
@@ -29922,6 +29970,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084240Z" creationid="Pedro Albuquerque" creationdate="20210505T084240Z">
+        <seg>coloca o painel de volta dentro da janela principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090402Z" creationid="Pedro Albuquerque" creationdate="20210425T090402Z">
@@ -29950,6 +30006,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105150Z" creationid="Pedro Albuquerque" creationdate="20210425T105150Z">
         <seg>url do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084213Z" creationid="Pedro Albuquerque" creationdate="20210505T084213Z">
+        <seg>restaura a disposição antes da etapa de maximização</seg>
       </tuv>
     </tu>
     <tu>
@@ -30166,6 +30230,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072857Z" creationid="Pedro Albuquerque" creationdate="20210421T072857Z">
         <seg>trilead-ssh2 (Licença Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084230Z" creationid="Pedro Albuquerque" creationdate="20210505T084230Z">
+        <seg>desliga o painel da janela principal</seg>
       </tuv>
     </tu>
     <tu>
