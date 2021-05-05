@@ -2548,10 +2548,34 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080459Z" creationid="Pedro Albuquerque" creationdate="20210505T080459Z">
+        <seg>&lt;g0&gt;Verificações LanguageTool&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103842Z" creationid="Pedro Albuquerque" creationdate="20210425T103842Z">
         <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Novo...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080423Z" creationid="Pedro Albuquerque" creationdate="20210505T080423Z">
+        <seg>&lt;g0&gt;Erros ortográficos&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080445Z" creationid="Pedro Albuquerque" creationdate="20210505T080445Z">
+        <seg>&lt;g0&gt;Problemas de terminologia&lt;/g0&gt; (opcional).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16576,6 +16600,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080433Z" creationid="Pedro Albuquerque" creationdate="20210505T080433Z">
+        <seg>Só funciona se for instalado um dicionário ortográfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114836Z" creationid="Pedro Albuquerque" creationdate="20210422T114836Z">
@@ -22021,6 +22053,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080356Z" creationid="Pedro Albuquerque" creationdate="20210505T080356Z">
+        <seg>A opção &lt;g1&gt;Problemas de etiquetas&lt;/g1&gt; está sempre marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071205Z" creationid="Pedro Albuquerque" creationdate="20210425T071205Z">
@@ -23179,8 +23219,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104650Z" creationid="Pedro Albuquerque" creationdate="20210504T104650Z">
-        <seg>O segmento é aberto quando a sua chamada ou  número são inseridos.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080226Z" creationid="Pedro Albuquerque" creationdate="20210504T104650Z">
+        <seg>O segmento é aberto quando a sua chamada ou número são inseridos.</seg>
       </tuv>
     </tu>
     <tu>
