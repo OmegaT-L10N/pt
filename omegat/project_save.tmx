@@ -11769,8 +11769,8 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If there"s no file name displayed, the source is the internal project translation memory.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091401Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se não houver nenhum nome de ficheiro mostrado, a fonte é a memória interna de tradução do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12569,6 +12569,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084928Z" creationid="Pedro Albuquerque" creationdate="20210505T084928Z">
         <seg>No caso acima, os segmentos já traduzidos são mostrados a amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091226Z" creationid="Pedro Albuquerque" creationdate="20210505T091226Z">
+        <seg>No exemplo acima, o segmento-fonte é &lt;e0&gt;Comando do menu contextual&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17336,6 +17344,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091449Z" creationid="Pedro Albuquerque" creationdate="20210505T091449Z">
+        <seg>Segmentos órfãos (correspondência nº 2) descrevem segmentos na memória de tradução pré-definida do projecto que não têm segmento-fonte correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphaned</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060010Z" creationid="Pedro Albuquerque" creationdate="20210422T060010Z">
@@ -21242,6 +21258,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091326Z" creationid="Pedro Albuquerque" creationdate="20210505T091326Z">
+        <seg>Assim como as duas correspondências seguintes e a partida número 4 é semelhante, mas diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084446Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -23329,6 +23353,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091339Z" creationid="Pedro Albuquerque" creationdate="20210505T091339Z">
+        <seg>A linha com a percentagem de correspondência também inclui o nome da memória de tradução que contém a correspondência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111011Z" creationid="Pedro Albuquerque" creationdate="20210425T111011Z">
@@ -24029,6 +24061,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105109Z" creationid="Pedro Albuquerque" creationdate="20210504T105109Z">
         <seg>O título do diálogo reflecte o ficheiro efectivamente utilizado (que depende de quantas instâncias do OmegaT estão a correr em simultâneo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091242Z" creationid="Pedro Albuquerque" creationdate="20210505T091242Z">
+        <seg>A correspondência máxima é de 100%, porque todas as palavras coincidem.</seg>
       </tuv>
     </tu>
     <tu>
