@@ -1520,10 +1520,26 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123507Z" creationid="Pedro Albuquerque" creationdate="20210505T123445Z">
+        <seg>(em inglês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In Italian)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123248Z" creationid="Pedro Albuquerque" creationdate="20210505T123248Z">
-        <seg>(em Italiano)</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123516Z" creationid="Pedro Albuquerque" creationdate="20210505T123248Z">
+        <seg>(em italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123501Z" creationid="Pedro Albuquerque" creationdate="20210505T123501Z">
+        <seg>(em russo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,6 +5026,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063528Z" creationid="Pedro Albuquerque" creationdate="20210422T063528Z">
         <seg>Caracteres de controlo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123430Z" creationid="Pedro Albuquerque" creationdate="20210505T123430Z">
+        <seg>Páginas de blogues sobre o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12055,6 +12079,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123709Z" creationid="Pedro Albuquerque" creationdate="20210505T123709Z">
+        <seg>Se não tiver a certeza sobre qual versão transferir, pode usar o &lt;a0&gt;selector de transferências&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093703Z" creationid="Pedro Albuquerque" creationdate="20210504T093703Z">
@@ -14427,6 +14459,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123606Z" creationid="Pedro Albuquerque" creationdate="20210505T123606Z">
+        <seg>Abaixo são fornecidas ligações para as várias versões do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153948Z" creationid="Pedro Albuquerque" creationdate="20210426T153948Z">
@@ -16594,6 +16634,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181627Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>OmegaT 4.2 - Guia do utilizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123721Z" creationid="Pedro Albuquerque" creationdate="20210505T123721Z">
+        <seg>Selector de transferências do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
