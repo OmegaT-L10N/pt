@@ -116,6 +116,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124208Z" creationid="Pedro Albuquerque" creationdate="20210505T124208Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T155511Z" creationid="Pedro Albuquerque" creationdate="20210426T155511Z">
@@ -11585,6 +11593,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124113Z" creationid="Pedro Albuquerque" creationdate="20210505T124113Z">
+        <seg>Se um JRE adequado já estiver instalado no seu sistema Windows, seleccione "Sem JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T084354Z" creationid="Pedro Albuquerque" creationdate="20210504T084354Z">
@@ -11811,6 +11827,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091022Z" creationid="Pedro Albuquerque" creationdate="20210504T091022Z">
         <seg>Se não for dada, &lt;a3&gt;OmegaT&lt;/a3&gt; volta aos valores pré-definidos (pasta &lt;a4&gt;OmegaT&lt;/a4&gt; na pasta home do utilizador ou, se não estiver disponível, a pasta de trabalho actual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124123Z" creationid="Pedro Albuquerque" creationdate="20210505T124123Z">
+        <seg>Se não, ou se não tiver a certeza, seleccione "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,6 +12187,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114653Z" creationid="Pedro Albuquerque" creationdate="20210422T114653Z">
         <seg>Se estiver num Mac e quiser adicionar um atalho &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; para &lt;m4&gt; &lt;g5&gt;Ferramentas&lt;/g5&gt; &lt;g6&gt;Estatísticas&lt;/g6&gt; &lt;/m4&gt;, adicione a seguinte linha ao seu &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124228Z" creationid="Pedro Albuquerque" creationdate="20210505T124228Z">
+        <seg>Se não tiver a certeza se um JRE adequado já está instalado no seu sistema, ainda pode transferir e instalar uma versão OmegaT com o JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16814,6 +16846,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124154Z" creationid="Pedro Albuquerque" creationdate="20210505T124154Z">
+        <seg>O OmegaT requer actualmente a versão 1.8 do JRE ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055807Z" creationid="Pedro Albuquerque" creationdate="20210421T055807Z">
@@ -17196,6 +17236,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064356Z" creationid="Pedro Albuquerque" creationdate="20210421T064356Z">
         <seg>O OmegaT vai tentar corrigir a segmentação do ficheiro TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124140Z" creationid="Pedro Albuquerque" creationdate="20210505T124140Z">
+        <seg>O OmegaT será normalmente executado em qualquer sistema Linux no qual uma versão adequada do Java Runtime Environment (JRE) pode ser instalada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21278,6 +21326,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114012Z" creationid="Pedro Albuquerque" creationdate="20210423T114012Z">
         <seg>Seleccione esta opção se quiser que o glossário exiba palavras que tenham a mesma raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124100Z" creationid="Pedro Albuquerque" creationdate="20210505T124100Z">
+        <seg>Seleccione se pretende transferir o OmegaT com ou sem o Java Runtime Environment (JRE) incluído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25603,6 +25659,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124321Z" creationid="Pedro Albuquerque" creationdate="20210505T124321Z">
+        <seg>Esta versão do JRE só será utilizada localmente para o OmegaT, não entra em conflito, anula ou desinstala quaisquer outras instalações do JRE e é portanto, segura de utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093547Z" creationid="Pedro Albuquerque" creationdate="20210505T093547Z">
@@ -25807,6 +25871,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075754Z" creationid="Pedro Albuquerque" creationdate="20210424T075754Z">
         <seg>Para verificar a sua sintaxe e a sua aplicabilidade, é aconselhável utilizar ferramentas que lhe permitam ver directamente o seu efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124207Z" creationid="Pedro Albuquerque" creationdate="20210505T124207Z">
+        <seg>Para verificar que versão do JRE, se existir, está instalada no seu sistema Linux, abra uma consola (janela de linha de comando) e escreva:</seg>
       </tuv>
     </tu>
     <tu>
