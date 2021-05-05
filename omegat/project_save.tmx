@@ -4610,6 +4610,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124653Z" creationid="Pedro Albuquerque" creationdate="20210505T124653Z">
+        <seg>Como o seu nome sugere, a versão "mais recente" do Omegat e é a mais actualizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103608Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
