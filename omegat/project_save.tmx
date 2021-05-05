@@ -13681,6 +13681,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081321Z" creationid="Pedro Albuquerque" creationdate="20210505T081321Z">
+        <seg>Inicia scripts que foram associados a um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -16752,6 +16760,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081400Z" creationid="Pedro Albuquerque" creationdate="20210505T081400Z">
+        <seg>Abra a janela Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T172048Z" creationid="Pedro Albuquerque" creationdate="20210420T172048Z">
@@ -16852,6 +16868,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075633Z" creationid="Pedro Albuquerque" creationdate="20210505T075633Z">
         <seg>Abre um pacote de projectos no formato MED definido pela EU Directorate-General for Translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081244Z" creationid="Pedro Albuquerque" creationdate="20210505T081244Z">
+        <seg>Abre a janela &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19650,6 +19674,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081227Z" creationid="Pedro Albuquerque" creationdate="20210505T081227Z">
+        <seg>Scripting...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052222Z" creationid="Pedro Albuquerque" creationdate="20210422T052222Z">
@@ -20318,6 +20350,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
         <seg>Seleccionar a localização do verificador de idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081418Z" creationid="Pedro Albuquerque" creationdate="20210505T081418Z">
+        <seg>Seleccione o script desejado a partir da lista da esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -23361,6 +23401,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081225Z" creationid="Pedro Albuquerque" creationdate="20210505T081225Z">
+        <seg>Os ficheiros fonte e alvo podem ter formatos diferentes (por exemplo, um ficheiro &lt;f0&gt;.docx&lt;/f0&gt; pode ser alinhado com um ficheiro &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055313Z" creationid="Pedro Albuquerque" creationdate="20210421T055313Z">
@@ -23445,6 +23493,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T085018Z" creationid="Pedro Albuquerque" creationdate="20210423T084419Z">
         <seg>O corrector ortográfico utiliza o código do idioma-alvo para determinar o idioma a utilizar: se o idioma-alvo for português (pt), a sub-pasta com vocabulário deve conter os dois ficheiros de vocabulário, chamados &lt;e0&gt;pt.aff&lt;/e0&gt; e &lt;e1&gt;pt.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081208Z" creationid="Pedro Albuquerque" creationdate="20210505T081208Z">
+        <seg>Os formatos de ficheiro suportados são os listados em &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Propriedades&lt;/g2&gt; &lt;g3&gt;Filtros de ficheiro&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24479,6 +24535,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104220Z" creationid="Pedro Albuquerque" creationdate="20210425T104220Z">
         <seg>Para adicionar outros recursos (dicionários, TMXs ou glossários), utilize um cliente SVN ou Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081343Z" creationid="Pedro Albuquerque" creationdate="20210505T081343Z">
+        <seg>Para associar um script a um número:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29150,6 +29214,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112120Z" creationid="Pedro Albuquerque" creationdate="20210422T112120Z">
         <seg>mais de um espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081251Z" creationid="Pedro Albuquerque" creationdate="20210505T081251Z">
+        <seg>n - (nome do script)</seg>
       </tuv>
     </tu>
     <tu>
