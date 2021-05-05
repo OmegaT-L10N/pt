@@ -12517,6 +12517,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084928Z" creationid="Pedro Albuquerque" creationdate="20210505T084928Z">
+        <seg>No caso acima, os segmentos já traduzidos são mostrados a amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111552Z" creationid="Pedro Albuquerque" creationdate="20210426T111552Z">
@@ -16780,6 +16788,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094433Z" creationid="Pedro Albuquerque" creationdate="20210504T094353Z">
         <seg>Depois de se certificar de que não existem erros de etiqueta na sua tradução, prima &lt;k0&gt;Ctrl+D&lt;/k0&gt; para gerar os ficheiros de destino, que serão criados na sub-pasta &lt;f1&gt;/target/&lt;/f1&gt; da pasta do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084943Z" creationid="Pedro Albuquerque" creationdate="20210505T084943Z">
+        <seg>Um dos segmentos acima é o segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22445,6 +22461,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084848Z" creationid="Pedro Albuquerque" creationdate="20210505T084848Z">
+        <seg>O painel Editor mostra o texto do documento parcialmente traduzido: o texto já traduzido é mostrado na tradução enquanto o texto não traduzido é mostrado no idioma original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070342Z" creationid="Pedro Albuquerque" creationdate="20210421T070342Z">
@@ -22883,6 +22907,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071445Z" creationid="Pedro Albuquerque" creationdate="20210425T071445Z">
         <seg>O modo de apresentação dos documentos traduzidos deve ser modificado no âmbito da aplicação (como o Microsoft Word) normalmente utilizado para os mostrar ou modificar (consultar os manuais relevantes para mais pormenores).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084916Z" creationid="Pedro Albuquerque" creationdate="20210505T084916Z">
+        <seg>O texto mostrado é dividido em segmentos e pode percorrer o documento e fazer duplo clique sobre qualquer segmento para o abrir e editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24535,6 +24567,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091227Z" creationid="Pedro Albuquerque" creationdate="20210504T091227Z">
         <seg>Isto é útil para executar o OmegaT num servidor com ficheiros TMX alimentados automaticamente para um projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084803Z" creationid="Pedro Albuquerque" creationdate="20210505T084803Z">
+        <seg>É aqui que escreve e edita a sua tradução.</seg>
       </tuv>
     </tu>
     <tu>
