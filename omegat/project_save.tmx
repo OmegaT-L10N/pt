@@ -6434,6 +6434,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075055Z" creationid="Pedro Albuquerque" creationdate="20210505T075055Z">
+        <seg>Copie o texto e cole-o na versão traduzida da página da Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095437Z" creationid="Pedro Albuquerque" creationdate="20210425T095437Z">
@@ -14994,6 +15002,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075159Z" creationid="Pedro Albuquerque" creationdate="20210505T075159Z">
+        <seg>Novas memórias de tradução colocadas na pasta &lt;f0&gt;/tm&lt;/f0&gt; enquanto se traduz são carregadas automaticamente assim que o cursor se move de um segmento para outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074651Z" creationid="Pedro Albuquerque" creationdate="20210505T074651Z">
@@ -15886,6 +15902,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075304Z" creationid="Pedro Albuquerque" creationdate="20210505T075304Z">
+        <seg>O OmegaT grava automaticamente as traduções a cada 3 minutos, assim como quando fecha o projecto ou sai do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093232Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -16548,6 +16572,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071731Z" creationid="Pedro Albuquerque" creationdate="20210421T071731Z">
         <seg>Opções de filtro Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075036Z" creationid="Pedro Albuquerque" creationdate="20210505T075036Z">
+        <seg>Abra o ficheiro &lt;f0&gt;.UTF8&lt;/f0&gt; gerado na pasta &lt;f1&gt;/target&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18320,6 +18352,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075122Z" creationid="Pedro Albuquerque" creationdate="20210505T075122Z">
+        <seg>Recarrega o projecto para ter em conta as alterações externas nos ficheiros-fonte e definições do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174357Z" creationid="Pedro Albuquerque" creationdate="20210420T174357Z">
@@ -19276,6 +19316,22 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114724Z" creationid="Pedro Albuquerque" creationdate="20210422T114724Z">
         <seg>Grave o ficheiro e reinicie o &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075239Z" creationid="Pedro Albuquerque" creationdate="20210505T075239Z">
+        <seg>Grava a memória interna de tradução no disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075217Z" creationid="Pedro Albuquerque" creationdate="20210505T075217Z">
+        <seg>Grava a tradução e fecha o projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26359,6 +26415,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095738Z" creationid="Pedro Albuquerque" creationdate="20210425T095738Z">
         <seg>Quando sair do projecto, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075004Z" creationid="Pedro Albuquerque" creationdate="20210505T075004Z">
+        <seg>Quando tiver terminado a sua tradução, importe-a para a Wikipedia:</seg>
       </tuv>
     </tu>
     <tu>
