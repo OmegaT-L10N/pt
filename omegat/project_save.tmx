@@ -5886,6 +5886,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074935Z" creationid="Pedro Albuquerque" creationdate="20210505T074935Z">
+        <seg>Clique no separador &lt;g0&gt;Editar&lt;/g0&gt; na página da Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114316Z" creationid="Pedro Albuquerque" creationdate="20210423T114316Z">
@@ -5898,6 +5906,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083016Z" creationid="Pedro Albuquerque" creationdate="20210423T083016Z">
         <seg>Clicar em &lt;g0&gt;Instalar novo dicionário&lt;/g0&gt; abrirá a janela do instalador de dicionários, onde poderá seleccionar os dicionários que deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074841Z" creationid="Pedro Albuquerque" creationdate="20210505T074841Z">
+        <seg>Clicando num grava o projecto actual, fecha-o e abre o outro projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,6 +6386,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074857Z" creationid="Pedro Albuquerque" creationdate="20210505T074857Z">
+        <seg>Copia os ficheiros seleccionados para a pasta &lt;f0&gt;source&lt;/f0&gt; e recarrega o projecto para carregar o novo files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T114842Z" creationid="Pedro Albuquerque" creationdate="20210421T114842Z">
@@ -6382,6 +6406,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124752Z" creationid="Pedro Albuquerque" creationdate="20210420T124752Z">
         <seg>Copiar ficheiros para a pasta-fonte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074951Z" creationid="Pedro Albuquerque" creationdate="20210505T074951Z">
+        <seg>Copie o URL da página (terminando com &lt;g0&gt;action=edit&lt;/g0&gt;) e cole-o em &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6646,6 +6678,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064918Z" creationid="Pedro Albuquerque" creationdate="20210422T064918Z">
         <seg>Criado a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074732Z" creationid="Pedro Albuquerque" creationdate="20210505T074732Z">
+        <seg>Cria uma cópia local de um projecto OmegaT remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074659Z" creationid="Pedro Albuquerque" creationdate="20210505T074659Z">
+        <seg>Cria e abre um novo projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7952,6 +8000,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054602Z" creationid="Pedro Albuquerque" creationdate="20210422T054602Z">
         <seg>Transferir projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074722Z" creationid="Pedro Albuquerque" creationdate="20210505T074722Z">
+        <seg>Transferir projecto de equipa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10214,6 +10270,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053713Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Início da execução de Git "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074809Z" creationid="Pedro Albuquerque" creationdate="20210505T074809Z">
+        <seg>Dá acesso aos dez últimos projectos editados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14930,6 +14994,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074651Z" creationid="Pedro Albuquerque" creationdate="20210505T074651Z">
+        <seg>Novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will be immediately recognized.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095933Z" creationid="Pedro Albuquerque" creationdate="20210422T095933Z">
@@ -16496,6 +16568,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074746Z" creationid="Pedro Albuquerque" creationdate="20210505T074746Z">
+        <seg>Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070736Z" creationid="Pedro Albuquerque" creationdate="20210421T070736Z">
@@ -16548,6 +16628,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103242Z" creationid="Pedro Albuquerque" creationdate="20210504T103242Z">
         <seg>Abre uma nova &lt;l0&gt;Janela de procura&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074754Z" creationid="Pedro Albuquerque" creationdate="20210505T074754Z">
+        <seg>Abre um projecto previamente criado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,8 +17702,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Project</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105844Z" creationid="Pedro Albuquerque" creationdate="20210504T105844Z">
-        <seg>Project</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074647Z" creationid="Pedro Albuquerque" creationdate="20210504T105844Z">
+        <seg>Projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,6 +19534,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072625Z" creationid="Pedro Albuquerque" creationdate="20210421T072625Z">
         <seg>Veja /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074742Z" creationid="Pedro Albuquerque" creationdate="20210505T074742Z">
+        <seg>Ver &lt;l0&gt;Utilizar um projecto de equipa&lt;/l0&gt; para detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24359,6 +24455,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093416Z" creationid="Pedro Albuquerque" creationdate="20210504T093416Z">
         <seg>Para começar a utilizar o OmegaT, crie primeiro um projecto que gravará todos os seus ficheiros, tais como o seu ficheiro-fonte, memórias de tradução, glossários e, eventualmente, o seu ficheiro traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074910Z" creationid="Pedro Albuquerque" creationdate="20210505T074910Z">
+        <seg>Para traduzir o conteúdo de uma página da Wikipedia (por exemplo):</seg>
       </tuv>
     </tu>
     <tu>
