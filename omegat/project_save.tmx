@@ -7460,6 +7460,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084004Z" creationid="Pedro Albuquerque" creationdate="20210505T084004Z">
+        <seg>Dependendo do estado do painel, diferentes sinais podem aparecer no seu canto superior direito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062248Z" creationid="Pedro Albuquerque" creationdate="20210422T062248Z">
@@ -11835,6 +11843,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090221Z" creationid="Pedro Albuquerque" creationdate="20210425T090221Z">
         <seg>Se acredita ter perdido dados de tradução, pode usar o seguinte procedimento para repor o projecto no seu estado mais recente, geralmente não mais velho do que aproximadamente 10 minutos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084107Z" creationid="Pedro Albuquerque" creationdate="20210505T084107Z">
+        <seg>Se não conseguir ver todos os painéis (estejam eles abertos ou minimizados), premindo &lt;g0&gt; Opções &gt; Restaurar janela principal &lt;/g0&gt; restaurá-los-á ao estado definido na instalação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17320,6 +17336,14 @@ Vanishing like mist</seg>
         <seg>A página desliza pelos dedos
 Pulso a bater forte e frenético
 Desaparecendo como névoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084139Z" creationid="Pedro Albuquerque" creationdate="20210505T084139Z">
+        <seg>Widgets dos painéis</seg>
       </tuv>
     </tu>
     <tu>
@@ -23121,6 +23145,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T083913Z" creationid="Pedro Albuquerque" creationdate="20210505T083913Z">
+        <seg>A janela principal é constituída por vários painéis, o menu principal e uma barra de estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105101Z" creationid="Pedro Albuquerque" creationdate="20210425T105101Z">
@@ -27610,6 +27642,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112833Z" creationid="Pedro Albuquerque" creationdate="20210422T112833Z">
         <seg>Pode alterar os atalhos já atribuídos e adicionar novos atalhos colocando um ficheiro de definição de atalhos na sua pasta de preferências do &lt;a0&gt;OmegaT&lt;/a0&gt; (acessível em &lt;m1&gt; &lt;g2&gt;Opções&lt;/g2&gt; &lt;g3&gt;Aceder à pasta de configurações&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T083948Z" creationid="Pedro Albuquerque" creationdate="20210505T083948Z">
+        <seg>Pode alterar a posição de qualquer painel ou mesmo movê-lo para uma janela separada, clicando e arrastando o painel pelo seu nome.</seg>
       </tuv>
     </tu>
     <tu>
