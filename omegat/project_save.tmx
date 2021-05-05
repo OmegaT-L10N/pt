@@ -13237,6 +13237,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085511Z" creationid="Pedro Albuquerque" creationdate="20210505T085511Z">
+        <seg>É o segmento que é mostrado em duas partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091244Z" creationid="Pedro Albuquerque" creationdate="20210421T091244Z">
@@ -23917,6 +23925,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074700Z" creationid="Pedro Albuquerque" creationdate="20210424T074700Z">
         <seg>Os dois tipos de regras comportam-se da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085608Z" creationid="Pedro Albuquerque" creationdate="20210505T085608Z">
+        <seg>A parte superior está no idioma de origem, em caracteres a negrito com um fundo verde, a parte inferior é o campo de edição, terminado por um marcador: o marcador é &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; onde nnnn é um número do segmento do projecto.</seg>
       </tuv>
     </tu>
     <tu>
