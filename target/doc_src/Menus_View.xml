@@ -8,8 +8,7 @@
       <term>Marcar segmentos traduzidos</term>
 
       <listitem>
-        <para>If checked, the translated segments will be marked in
-        yellow.</para>
+        <para>Se marcada, os segmentos traduzidos serão marcados em amarelo.</para>
       </listitem>
     </varlistentry>
 
@@ -17,16 +16,15 @@
       <term>Marcar segmentos não traduzidos</term>
 
       <listitem>
-        <para>If checked, the untranslated segments will be marked in
-        violet.</para>
+        <para>Se marcada, os segmentos não traduzidos serão marcados em violeta.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Paragraph delimitations</term>
+      <term>Marcar delimitações de parágrafo</term>
 
       <listitem>
-        <para>If checked, the separations between paragraphs in the source document are indicated visually.</para>
+        <para>Se marcada, as separações entre parágrafos no documento-fonte são indicadas visualmente.</para>
       </listitem>
     </varlistentry>
 
@@ -34,8 +32,7 @@
       <term>Mostrar segmentos-fonte</term>
 
       <listitem>
-        <para>If checked, source segments will be shown and marked in green.
-        If not checked, source segments will not be shown.</para>
+        <para>Se marcada, os segmentos-fonte serão mostrados e marcados a verde. Se não estiver marcada, os segmentos-fonte não serão mostrados.</para>
       </listitem>
     </varlistentry>
 
@@ -43,8 +40,7 @@
       <term>Marcar segmentos não-únicos</term>
 
       <listitem>
-        <para>If checked, non-unique segments will be marked in pale
-        grey.</para>
+        <para>Se marcada, os segmentos não-únicos serão marcados a cinzento pálido.</para>
       </listitem>
     </varlistentry>
 
@@ -52,10 +48,7 @@
       <term>Marcar segmentos com notas</term>
 
       <listitem>
-        <para>If checked, segments with notes will be marked in cyan. This
-        marking has priority over <guimenuitem>Mark Translated
-        Segments</guimenuitem> and <guimenuitem>Mark Untranslated
-        Segments</guimenuitem>.</para>
+        <para>Se marcada, os segmentos com notas serão marcados em ciano. Esta marcação tem prioridade sobre <guimenuitem>Marcar segmentos traduzidos</guimenuitem> e <guimenuitem>Marcar segmentos não traduzidos</guimenuitem>.</para>
       </listitem>
     </varlistentry>
 
@@ -63,8 +56,7 @@
       <term>Marcar espaços inseparáveis</term>
 
       <listitem>
-        <para>If checked, non-breakable spaces will be displayed with a grey
-        background.</para>
+        <para>Se verificado, serão mostrados espaços inseparáveis com um fundo cinzento.</para>
       </listitem>
     </varlistentry>
 
@@ -72,8 +64,7 @@
       <term>Marcar espaços</term>
 
       <listitem>
-        <para>If checked, white spaces will be displayed with a small
-        dot.</para>
+        <para>Se marcada, os espaços brancos serão exibidos com um pequeno ponto.</para>
       </listitem>
     </varlistentry>
 
@@ -81,8 +72,7 @@
       <term>Marcar caracteres de controlo do algoritmo bidireccional</term>
 
       <listitem>
-        <para>This option displays <ulink url="http://www.w3.org/International/questions/qa-bidi-controls">bidirectional
-        control characters</ulink></para>
+        <para>Esta opção mostra <ulink url="http://www.w3.org/International/questions/qa-bidi-controls"> caracteres de controlo bidireccional</ulink></para>
       </listitem>
     </varlistentry>
 
@@ -90,41 +80,23 @@
       <term>Marcar segmentos povoados automaticamente</term>
 
       <listitem>
-        <para>If checked, the background of all segments where the target
-        segment has been auto-populated (from TMXs placed in
-        <filename>/tm/auto</filename> for example) are displayed in colour.
-        The colours are displayed as long as the <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Save
-        auto-populated status</guimenuitem></link> option is checked. Usual
-        translations inserted from the auto folder are displayed in orange.
-        Other translations, identified specifically in the TMX, can be
-        displayed using different colours. For technical details, see the
-        <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request
-        For Enhancement</ulink>.</para>
+        <para>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em <filename>/tm/auto</filename> por exemplo) são mostrados a cores. As cores são mostradas enquanto a opção <link linkend="dialogs.preferences.editor.saveautopopulatedstatus">&gt;g2&gt;Gravar o estado de povoamento automático</guimenuitem></link> esteja marcada. As traduções habituais inseridas a partir da pasta auto são mostradas em laranja. Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores. Para detalhes técnicos, ver <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Pedidos de melhoramentos</ulink>.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Aggressive Font Fallback</term>
+      <term>Garantia agressiva de letra</term>
 
       <listitem>
-        <para>Check this option in case <application>OmegaT</application> does
-        not display some glyphs properly (even if the fonts containing the
-        relevant glyphs are installed on your machine). Note: on Windows it
-        seems that this manual font fallback mechanism can interfere with
-        standard font fallback, causing undesirable font substitution. For
-        that reason, it is OFF by default.</para>
+        <para>Marque esta opção caso o <application>OmegaT</application> não mostrar correctamente alguns glifos (mesmo que as letras contendo os glifos relevantes estejam instaladas na sua máquina). Nota: no Windows parece que este mecanismo manual de garantia de letra pode interferir com a garantia de letra padrão, causando uma substituição indesejável da fonte. Por esse motivo, está DESLIGADO por pré-definição.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Modification Info</term>
+      <term>Informações de modificação</term>
 
       <listitem>
-        <para>Setting the Display Modification option to <guimenuitem>Current
-        segment</guimenuitem> will display the time and the author of the last
-        change in the current segment. Setting it to <guimenuitem>All
-        segments</guimenuitem> shows this information for all segments and
-        <guimenuitem>None</guimenuitem> turns this option off.</para>
+        <para>Definir a opção Mostrar modificação para <guimenuitem>Segmento actual</guimenuitem> mostra a hora e o autor da última alteração no segmento actual. Definir para <guimenuitem>Todos os segmentos</guimenuitem> mostra esta informação para todos os segmentos e <guimenuitem>Nenhum</guimenuitem> desliga esta opção.</para>
       </listitem>
     </varlistentry>
   </variablelist>

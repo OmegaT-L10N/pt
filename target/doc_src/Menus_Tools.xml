@@ -1,68 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.tools">
-  <title>Tools</title>
+  <title>Ferramentas</title>
 
   <variablelist>
     <varlistentry>
-      <term>Check Issues...</term>
+      <term>Procurar problemas...</term>
 
       <listitem>
-        <para>Quality assurance tool that carries out all the automatic checks
-        in one go and displays the results in a window.</para>
+        <para>Ferramenta de garantia de qualidade que efectua todas as verificações automáticas de uma só vez e exibe os resultados numa janela.</para>
 
-        <para>Four types of issues are detected:</para>
+        <para>São detectados quatro tipos de problemas:</para>
 
         <itemizedlist>
           <listitem>
-            <para>missing or displaced tags, including <link linkend="dialogs.preferences.tagprocessing">custom tags</link>.
-            The <guilabel>Tag Issues</guilabel> option is always
-            selected.</para>
+            <para>etiquetas em falta ou deslocadas, incluindo <link linkend="dialogs.preferences.tagprocessing">etiquetas personalizadas</link>. A opção <guilabel>Problemas de etiquetas</guilabel> está sempre marcada.</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Spelling Issues</guilabel> (optional). Only works
-            if a spelling dictionary is installed.</para>
+            <para><guilabel>Erros ortográficos</guilabel> (opcional). Só funciona se for instalado um dicionário ortográfico.</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Terminology Issues</guilabel> (optional).</para>
+            <para><guilabel>Problemas de terminologia</guilabel> (opcional).</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>LanguageTool Issues</guilabel> (optional).</para>
+            <para><guilabel>Verificações LanguageTool</guilabel> (opcional).</para>
           </listitem>
         </itemizedlist>
 
-        <para>The results window is laid out in the form of a table in
-        which:</para>
+        <para>A janela de resultados é mostrada sob a forma de uma tabela na qual:</para>
 
         <itemizedlist>
           <listitem>
-            <para>double-clicking a row activates the corresponding segment in
-            the Editor pane,</para>
+            <para>clicando duas vezes numa linha, activa o segmento correspondente no painel Editor,</para>
           </listitem>
 
           <listitem>
-            <para>clicking a column header changes the sort order for the
-            column,</para>
+            <para>clicar num cabeçalho de coluna altera a ordem da coluna,</para>
           </listitem>
 
           <listitem>
-            <para>selecting or moving the mouse over a row displays a pop-up
-            menu icon in the last column containing actions for correcting or
-            ignoring the error.</para>
+            <para>seleccionando ou movendo o rato sobre uma linha mostra um ícone de menu contextual na última coluna contendo acções para corrigir ou ignorar o erro.</para>
           </listitem>
         </itemizedlist>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Check Issues for Current Document</term>
+      <term>Procurar problemas no documento actual</term>
 
       <listitem>
-        <para>As above, but only for the document currently displayed in the
-        Editor pane.</para>
+        <para>Como acima, mas apenas para o documento actualmente mostrado no painel Editor.</para>
       </listitem>
     </varlistentry>
 
@@ -70,8 +60,7 @@
       <term>Estatísticas</term>
 
       <listitem>
-        <para>Opens a new window and displays the project statistics, i.e. the
-        project totals and totals for every file in the project.</para>
+        <para>Abre uma nova janela e mostra as estatísticas do projecto, ou seja, os totais do projecto e os totais para cada ficheiro do projecto.</para>
       </listitem>
     </varlistentry>
 
@@ -79,9 +68,7 @@
       <term>Estatísticas de correspondências</term>
 
       <listitem>
-        <para>Displays the Match Statistics for the project: the number of
-        repetitions, exact matches, fuzzy matches and no-matches for segments,
-        words and characters.</para>
+        <para>Mostra as estatísticas de correspondências para o projecto: o número de repetições, correspondências exactas, correspondências aproximadas e segmentos, palavras e caracteres sem correspondências.</para>
       </listitem>
     </varlistentry>
 
@@ -89,31 +76,19 @@
       <term>Estatísticas de correspondências por ficheiro</term>
 
       <listitem>
-        <para>Displays the Match Statistics for each file of the project: the
-        number of repetitions, exact matches, fuzzy matches and no-matches for
-        segments, words and characters.</para>
+        <para>Mostra as estatísticas de correspondências para cada ficheiro do projecto: o número de repetições, correspondências exactas, correspondências aproximadas e segmentos, palavras e caracteres sem correspondências.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Align Files...</term>
+      <term>Alinhar ficheiros...</term>
 
       <listitem>
-        <para>Select the two files to be aligned (the source file and its
-        translation) and click OK to open the <link linkend="windows.aligner"><guilabel>Align</guilabel>
-        window</link>.</para>
+        <para>Seleccione os dois ficheiros a alinhar (o ficheiro-fonte e a sua tradução) e clique em Aceitar para abrir a janela <link linkend="windows.aligner"><guilabel>Alinhar</guilabel></link>.</para>
 
-        <para>The supported file formats are those listed in <menuchoice>
-            <guimenuitem>Project</guimenuitem>
+        <para>Os formatos de ficheiro suportados são os listados em <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Propriedades</guimenuitem> <guimenuitem>Filtros de ficheiro</guimenuitem> </menuchoice>.</para>
 
-            <guimenuitem>Properties</guimenuitem>
-
-            <guimenuitem>File Filters</guimenuitem>
-          </menuchoice>.</para>
-
-        <para>The source and target files can have different formats (for
-        example, a <filename>.docx</filename> file can be aligned with a
-        <filename>.pdf</filename> file).</para>
+        <para>Os ficheiros fonte e alvo podem ter formatos diferentes (por exemplo, um ficheiro <filename>.docx</filename> pode ser alinhado com um ficheiro <filename>.pdf</filename>).</para>
       </listitem>
     </varlistentry>
 
@@ -121,42 +96,39 @@
       <term>Scripting...</term>
 
       <listitem>
-        <para>Opens the <link linkend="windows.scripts"><guilabel>Scripting</guilabel>
-        window</link>, where the location of scripts can be set, and where
-        scripts can be written, run and associated with a shortcut.</para>
+        <para>Abre a janela <link linkend="windows.scripts"><guilabel>Scripting</guilabel>, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>n - (script name)</term>
+      <term>n - (nome do script)</term>
 
       <listitem>
-        <para>Launches scripts that have been associated with a number.</para>
+        <para>Inicia scripts que foram associados a um número.</para>
 
-        <para>To associate a script with a number:</para>
+        <para>Para associar um script a um número:</para>
 
         <orderedlist>
           <listitem>
-            <para>Open the Scripting window</para>
+            <para>Abra a janela Scripting</para>
           </listitem>
 
           <listitem>
-            <para>Select the script you want from the list on the left</para>
+            <para>Seleccione o script desejado a partir da lista da esquerda</para>
           </listitem>
 
           <listitem>
-            <para>At the bottom of the window, right-click on a free number
-            and select <guilabel>Add Script</guilabel>.</para>
+            <para>Na parte inferior da janela, clique com o botão direito do rato num número livre e seleccione <guilabel>Adicionar script</guilabel>.</para>
           </listitem>
         </orderedlist>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>(external search commands)</term>
+      <term>(comandos de procura externa)</term>
 
       <listitem>
-        <para>If commands to perform external searches have been defined in the <link linkend="dialogs.preferences.externalsearch">Preferences</link>, they are listed and accessible here.</para>
+        <para>Se os comandos para efectuar procuras externas tiverem sido definidos nas <link linkend="dialogs.preferences.externalsearch">preferências</link>, estarão listados e acessíveis aqui.</para>
       </listitem>
     </varlistentry>
   </variablelist>

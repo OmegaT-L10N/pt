@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.project">
-  <title>Project</title>
+  <title>Projecto</title>
 
   <variablelist>
     <varlistentry>
-      <term><guimenuitem>New...</guimenuitem></term>
+      <term><guimenuitem>Novo...</guimenuitem></term>
 
       <listitem>
-        <para>Creates and opens a new project.</para>
+        <para>Cria e abre um novo projecto.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term><guimenuitem>Download Team Project...</guimenuitem></term>
+      <term><guimenuitem>Transferir projecto de equipa...</guimenuitem></term>
 
       <listitem>
-        <para>Creates a local copy of a remote OmegaT project. See <link linkend="howto.useteamproject">Use a team project</link> for
-        details.</para>
+        <para>Cria uma cópia local de um projecto OmegaT remoto. Ver <link linkend="howto.useteamproject">Utilizar um projecto de equipa</link> para detalhes.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Open...</term>
+      <term>Abrir...</term>
 
       <listitem>
-        <para>Opens a previously created project.</para>
+        <para>Abre um projecto previamente criado.</para>
       </listitem>
     </varlistentry>
 
@@ -33,9 +32,7 @@
       <term>Abrir projecto recente</term>
 
       <listitem>
-        <para>Give access to the ten last edited projects. Clicking on one
-        will save the current project, close it and open the other
-        project.</para>
+        <para>Dá acesso aos dez últimos projectos editados. Clicando num grava o projecto actual, fecha-o e abre o outro projecto.</para>
       </listitem>
     </varlistentry>
 
@@ -43,8 +40,7 @@
       <term>Copiar ficheiros para a pasta-fonte...</term>
 
       <listitem>
-        <para>Copies the selected files to the <filename>source</filename>
-        folder and reloads the project to load the new files.</para>
+        <para>Copia os ficheiros seleccionados para a pasta <filename>source</filename> e recarrega o projecto para carregar o novo files.</para>
       </listitem>
     </varlistentry>
 
@@ -52,27 +48,27 @@
       <term>Transferir página MediaWiki...</term>
 
       <listitem>
-        <para>To translate the contents of a Wikipedia page (for example):</para>
+        <para>Para traduzir o conteúdo de uma página da Wikipedia (por exemplo):</para>
 
         <orderedlist>
           <listitem>
-            <para>Click the <guilabel>Edit</guilabel> tab on the Wikipedia page.</para>
+            <para>Clique no separador <guilabel>Editar</guilabel> na página da Wikipedia.</para>
           </listitem>
 
           <listitem>
-            <para>Copy the URL of the page (ending with <guilabel>action=edit</guilabel>) and paste it into <application>OmegaT</application>.</para>
+            <para>Copie o URL da página (terminando com <guilabel>action=edit</guilabel>) e cole-o em <application>OmegaT</application>.</para>
           </listitem>
         </orderedlist>
 
-        <para>When you have finished your translation, to import it into Wikipedia:</para>
+        <para>Quando tiver terminado a sua tradução, importe-a para a Wikipedia:</para>
 
         <orderedlist>
           <listitem>
-            <para>Open the <filename>.UTF8</filename> file generated in the <filename>/target</filename> folder.</para>
+            <para>Abra o ficheiro <filename>.UTF8</filename> gerado na pasta <filename>/target</filename>.</para>
           </listitem>
 
           <listitem>
-            <para>Copy the text and paste it into the translated version of the Wikipedia page.</para>
+            <para>Copie o texto e cole-o na versão traduzida da página da Wikipedia.</para>
           </listitem>
         </orderedlist>
       </listitem>
@@ -82,10 +78,9 @@
       <term>Recarregar</term>
 
       <listitem>
-        <para>Reloads the project to take external changes in source files and
-        project settings into account.</para>
+        <para>Recarrega o projecto para ter em conta as alterações externas nos ficheiros-fonte e definições do projecto.</para>
 
-        <para>New translation memories placed in the <filename>/tm</filename> folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</para>
+        <para>Novas memórias de tradução colocadas na pasta <filename>/tm</filename> enquanto se traduz são carregadas automaticamente assim que o cursor se move de um segmento para outro.</para>
       </listitem>
     </varlistentry>
 
@@ -93,7 +88,7 @@
       <term>Fechar</term>
 
       <listitem>
-        <para>Saves the translation and closes the project.</para>
+        <para>Grava a tradução e fecha o projecto.</para>
       </listitem>
     </varlistentry>
 
@@ -101,9 +96,7 @@
       <term>Gravar</term>
 
       <listitem>
-        <para>Saves the internal translation memory to the hard disk. OmegaT
-        automatically saves translations every 3 minutes as well as when you
-        close the project or quit OmegaT.</para>
+        <para>Grava a memória interna de tradução no disco rígido. O OmegaT grava automaticamente as traduções a cada 3 minutos, assim como quando fecha o projecto ou sai do OmegaT.</para>
 
         <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
       </listitem>
@@ -113,10 +106,9 @@
       <term>Enviar ficheiros-fonte</term>
 
       <listitem>
-        <para>Uploads to the repository the files that have been added or
-        modified locally in the <filename>source</filename> directory.</para>
+        <para>Envia para o repositório os ficheiros que foram adicionados ou modificados localmente na pasta <filename>source</filename>.</para>
 
-        <para>This function is specific to team projects.</para>
+        <para>Esta função é específica para projectos de equipa.</para>
       </listitem>
     </varlistentry>
 
@@ -124,10 +116,9 @@
       <term>Enviar ficheiros-alvo</term>
 
       <listitem>
-        <para>Uploads to the repository the files that have been created
-        locally in the <filename>target</filename> directory.</para>
+        <para>Envia para o repositório os ficheiros que foram criados localmente na pasta <filename>target</filename>.</para>
 
-        <para>This function is specific to team projects.</para>
+        <para>Esta função é específica para projectos de equipa.</para>
       </listitem>
     </varlistentry>
 
@@ -135,18 +126,15 @@
       <term>Criar documentos traduzidos</term>
 
       <listitem>
-        <para>Creates the target documents based on your translation. The
-        created target documents are located in the
-        <filename>target</filename> folder.</para>
+        <para>Cria os documentos-alvo com base na sua tradução. Os documentos-alvo criados estão localizados na pasta <filename>target</filename>.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Create Current Translated Document</term>
+      <term>Criar documento traduzido actual</term>
 
       <listitem>
-        <para>Creates the target document corresponding to the current
-        document in translation.</para>
+        <para>Cria o documento-alvo correspondente ao documento actual em tradução.</para>
       </listitem>
     </varlistentry>
 
@@ -154,15 +142,15 @@
       <term>Abrir projecto MED...</term>
 
       <listitem>
-        <para>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</para>
+        <para>Abre um pacote de projectos no formato MED definido pela EU Directorate-General for Translation.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Create MED Projects...</term>
+      <term>Criar projectos MED...</term>
 
       <listitem>
-        <para>Converts the current project into a MED package.</para>
+        <para>Converte o projecto actual num pacote MED.</para>
       </listitem>
     </varlistentry>
 
@@ -170,9 +158,7 @@
       <term>Propriedades...</term>
 
       <listitem>
-        <para>Displays <link linkend="dialogs.projectproperties">Project
-        properties</link> dialog to edit project languages and folder
-        locations.</para>
+        <para>Mostra o diálogo <link linkend="dialogs.projectproperties">Propriedades do projecto</link>, para editar os idiomas do projecto e a localização das pastas.</para>
       </listitem>
     </varlistentry>
 
@@ -180,21 +166,17 @@
       <term>Ficheiros do projecto...</term>
 
       <listitem>
-        <para>Opens the <link linkend="windows.projectfiles">Project
-        files</link> window.</para>
+        <para>Abre a janela <link linkend="windows.projectfiles">Ficheiros do projecto</link>.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Access Project Contents</term>
+      <term>Acesso ao conteúdo do projecto</term>
 
       <listitem>
-        <para>Gives access to the project folders.</para>
+        <para>Dá acesso às pastas do projecto.</para>
 
-        <para>In addition, two menu entries allow opening directly the current
-        source and target documents and the writable glossary. The documents
-        are opened by the application chosen by the operating system. If the
-        documents are not available, the entry is greyed out.</para>
+        <para>Além disso, duas entradas de menu permitem abrir directamente os documentos fonte e alvo actuais e o glossário editável. Os documentos são abertos pela aplicação escolhida pelo sistema operativo. Se os documentos não estiverem disponíveis, a entrada está a cinzento.</para>
       </listitem>
     </varlistentry>
 
@@ -202,7 +184,7 @@
       <term>Sair</term>
 
       <listitem>
-        <para>Saves the project and quits <application>OmegaT</application>. If you haven&quot;t yet saved the project, this manually confirms whether you really wish to quit.</para>
+        <para>Grava o projecto e sai do <application>OmegaT</application>. Se ainda não gravou o projecto, isto confirma manualmente se deseja realmente desistir.</para>
       </listitem>
     </varlistentry>
   </variablelist>
