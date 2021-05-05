@@ -6554,6 +6554,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075541Z" creationid="Pedro Albuquerque" creationdate="20210505T075541Z">
+        <seg>Criar documento traduzido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114938Z" creationid="Pedro Albuquerque" creationdate="20210422T114938Z">
@@ -6702,6 +6710,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074659Z" creationid="Pedro Albuquerque" creationdate="20210505T074659Z">
         <seg>Cria e abre um novo projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075601Z" creationid="Pedro Albuquerque" creationdate="20210505T075601Z">
+        <seg>Cria o documento-alvo correspondente ao documento actual em tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075450Z" creationid="Pedro Albuquerque" creationdate="20210505T075450Z">
+        <seg>Cria os documentos-alvo com base na sua tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22270,6 +22294,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075514Z" creationid="Pedro Albuquerque" creationdate="20210505T075514Z">
+        <seg>Os documentos-alvo criados estão localizados na pasta &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -23791,6 +23823,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111102Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Esta funcionalidade destina-se à recolha de ficheiros-fonte, mas não se limita aos ficheiros-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075354Z" creationid="Pedro Albuquerque" creationdate="20210505T075354Z">
+        <seg>Esta função é específica para projectos de equipa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25489,6 +25529,22 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064241Z" creationid="Pedro Albuquerque" creationdate="20210421T064241Z">
         <seg>A actualizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075347Z" creationid="Pedro Albuquerque" creationdate="20210505T075347Z">
+        <seg>Envia para o repositório os ficheiros que foram adicionados ou modificados localmente na pasta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075424Z" creationid="Pedro Albuquerque" creationdate="20210505T075424Z">
+        <seg>Envia para o repositório os ficheiros que foram criados localmente na pasta &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
