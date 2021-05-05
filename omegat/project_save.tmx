@@ -5102,6 +5102,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090254Z" creationid="Pedro Albuquerque" creationdate="20210505T090254Z">
+        <seg>Por pré-definição, não é possível seleccionar palavras no segmento de origem utilizando o teclado em vez do rato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071026Z" creationid="Pedro Albuquerque" creationdate="20210425T071026Z">
@@ -12637,6 +12645,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090404Z" creationid="Pedro Albuquerque" creationdate="20210505T090404Z">
+        <seg>Neste modo, "&lt;g1&gt;Bloqueio de cursor desligado&lt;/g1&gt;" é mostrado no fundo do painel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091337Z" creationid="Pedro Albuquerque" creationdate="20210504T091337Z">
@@ -18146,6 +18162,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090326Z" creationid="Pedro Albuquerque" creationdate="20210505T090326Z">
+        <seg>Premindo &lt;k0&gt;F2&lt;/k0&gt; permite mover o cursor para o segmento-fonte (ou para qualquer parte do editor) com as setas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prevent data loss</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T083835Z" creationid="Pedro Albuquerque" creationdate="20210425T075012Z">
@@ -22460,6 +22484,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090222Z" creationid="Pedro Albuquerque" creationdate="20210505T090222Z">
+        <seg>O texto arrastado do exterior do segmento-alvo é copiado, enquanto o texto arrastado do interior do segmento é movido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -25031,6 +25063,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075754Z" creationid="Pedro Albuquerque" creationdate="20210424T075754Z">
         <seg>Para verificar a sua sintaxe e a sua aplicabilidade, é aconselhável utilizar ferramentas que lhe permitam ver directamente o seu efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090511Z" creationid="Pedro Albuquerque" creationdate="20210505T090511Z">
+        <seg>Para voltar ao modo padrão "&lt;g2&gt;Bloqueio de cursor ligado&lt;/g2&gt;", prima novamente &lt;k3&gt;F2&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
