@@ -13367,8 +13367,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091104Z" creationid="Pedro Albuquerque" creationdate="20210505T091104Z">
-        <seg>É possível modificar a ordem das três percentagens mas não a que é utilizada para seleccionar as correspondências aproximadas.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T094440Z" creationid="Pedro Albuquerque" creationdate="20210505T091104Z">
+        <seg>É possível modificar a ordem das três percentagens, mas não a que é utilizada para seleccionar as correspondências aproximadas.</seg>
       </tuv>
     </tu>
     <tu>
