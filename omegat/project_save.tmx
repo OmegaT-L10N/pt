@@ -11737,6 +11737,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124433Z" creationid="Pedro Albuquerque" creationdate="20210505T124433Z">
+        <seg>Em caso de dúvida, seleccione esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123759Z" creationid="Pedro Albuquerque" creationdate="20210505T123759Z">
@@ -12187,6 +12195,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114653Z" creationid="Pedro Albuquerque" creationdate="20210422T114653Z">
         <seg>Se estiver num Mac e quiser adicionar um atalho &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; para &lt;m4&gt; &lt;g5&gt;Ferramentas&lt;/g5&gt; &lt;g6&gt;Estatísticas&lt;/g6&gt; &lt;/m4&gt;, adicione a seguinte linha ao seu &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124535Z" creationid="Pedro Albuquerque" creationdate="20210505T124535Z">
+        <seg>Se tiver a certeza de que já está instalado no seu computador um Java Runtime Environment adequado ao nível do sistema, pode seleccionar a opção sem JRE incluído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13689,6 +13705,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173610Z" creationid="Pedro Albuquerque" creationdate="20210423T173610Z">
         <seg>É por vezes útil poder tornar certas etiquetas intraduzíveis com base nos valores dos seus atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124624Z" creationid="Pedro Albuquerque" creationdate="20210505T124624Z">
+        <seg>É a versão recomendada para utilizadores inexperientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23141,6 +23165,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124601Z" creationid="Pedro Albuquerque" creationdate="20210505T124601Z">
+        <seg>A versão "Standard" do OmegaT inclui um manual do utilizador completo (pelo menos em inglês) e terá normalmente sido testada durante algum tempo para eliminar quaisquer problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124401Z" creationid="Pedro Albuquerque" creationdate="20210505T124401Z">
+        <seg>A versão "pilhas incluídas" do OmegaT, com o seu próprio Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115347Z" creationid="Pedro Albuquerque" creationdate="20210426T115347Z">
@@ -23911,6 +23951,14 @@ But others await</seg>
         <seg>A página de ajuda que procura
 Fica para além da nossa percepção,
 Mas outros esperam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124500Z" creationid="Pedro Albuquerque" creationdate="20210505T124500Z">
+        <seg>O JRE incluído é a versão de 64 bits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25663,6 +25711,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124321Z" creationid="Pedro Albuquerque" creationdate="20210505T124321Z">
         <seg>Esta versão do JRE só será utilizada localmente para o OmegaT, não entra em conflito, anula ou desinstala quaisquer outras instalações do JRE e é portanto, segura de utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124426Z" creationid="Pedro Albuquerque" creationdate="20210505T124426Z">
+        <seg>Esta versão levará mais tempo a transferir e necessitará de mais espaço no seu disco rígido, mas pode estar confiante de que funcionará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28369,6 +28425,22 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124448Z" creationid="Pedro Albuquerque" creationdate="20210505T124448Z">
+        <seg>Com JRE de 64 bits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124324Z" creationid="Pedro Albuquerque" creationdate="20210505T124324Z">
+        <seg>Com JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092416Z" creationid="Pedro Albuquerque" creationdate="20210504T092416Z">
@@ -28397,6 +28469,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T120341Z" creationid="Pedro Albuquerque" creationdate="20210426T120341Z">
         <seg>Com este método, pode também transferir a versão "Windows sem JRE", uma vez que a nova instalação utilizará o seu JRE existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124518Z" creationid="Pedro Albuquerque" creationdate="20210505T124518Z">
+        <seg>Sem JRE</seg>
       </tuv>
     </tu>
     <tu>
