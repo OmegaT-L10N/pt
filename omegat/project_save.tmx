@@ -3802,6 +3802,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082531Z" creationid="Pedro Albuquerque" creationdate="20210505T082531Z">
+        <seg>Garantia agressiva de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex Buloichik</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103644Z" creationid="Pedro Albuquerque" creationdate="20210424T103644Z">
@@ -5754,6 +5762,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113615Z" creationid="Pedro Albuquerque" creationdate="20210423T113615Z">
         <seg>Marque esta caixa para enviar apenas segmentos não traduzidos para os serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082625Z" creationid="Pedro Albuquerque" creationdate="20210505T082625Z">
+        <seg>Marque esta opção caso o &lt;a0&gt;OmegaT&lt;/a0&gt; não mostrar correctamente alguns glifos (mesmo que as letras contendo os glifos relevantes estejam instaladas na sua máquina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10142,6 +10158,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110038Z" creationid="Pedro Albuquerque" creationdate="20210424T110038Z">
         <seg>Para pedidos de apoio, utilize o &lt;a1&gt;canal de suporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082455Z" creationid="Pedro Albuquerque" creationdate="20210505T082455Z">
+        <seg>Para detalhes técnicos, ver &lt;u3&gt;Pedidos de melhoramentos&lt;/u3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17180,6 +17204,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070326Z" creationid="Pedro Albuquerque" creationdate="20210426T070326Z">
         <seg>Podem também existir outros formatos de texto simples ou de ficheiro de texto formatado adequados para processamento em OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082431Z" creationid="Pedro Albuquerque" creationdate="20210505T082431Z">
+        <seg>Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26453,6 +26485,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174301Z" creationid="Pedro Albuquerque" creationdate="20210423T174301Z">
         <seg>Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082406Z" creationid="Pedro Albuquerque" creationdate="20210505T082406Z">
+        <seg>As traduções habituais inseridas a partir da pasta auto são mostradas em laranja.</seg>
       </tuv>
     </tu>
     <tu>
