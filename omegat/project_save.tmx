@@ -3826,6 +3826,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081054Z" creationid="Pedro Albuquerque" creationdate="20210505T081054Z">
+        <seg>Alinhar ficheiros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053155Z" creationid="Pedro Albuquerque" creationdate="20210422T053155Z">
@@ -7760,6 +7768,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104944Z" creationid="Pedro Albuquerque" creationdate="20210504T104940Z">
         <seg>Mostra informação sobre direitos de autor, créditos e licenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081044Z" creationid="Pedro Albuquerque" creationdate="20210505T081000Z">
+        <seg>Mostra as estatísticas de correspondências para cada ficheiro do projecto: o número de repetições, correspondências exactas, correspondências aproximadas e segmentos, palavras e caracteres sem correspondências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080934Z" creationid="Pedro Albuquerque" creationdate="20210505T080934Z">
+        <seg>Mostra as estatísticas de correspondências para o projecto: o número de repetições, correspondências exactas, correspondências aproximadas e segmentos, palavras e caracteres sem correspondências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20294,6 +20318,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
         <seg>Seleccionar a localização do verificador de idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081135Z" creationid="Pedro Albuquerque" creationdate="20210505T081135Z">
+        <seg>Seleccione os dois ficheiros a alinhar (o ficheiro-fonte e a sua tradução) e clique em Aceitar para abrir a janela &lt;l0&gt;&lt;g1&gt;Alinhar&lt;/g1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
