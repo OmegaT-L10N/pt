@@ -5462,6 +5462,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080030Z" creationid="Pedro Albuquerque" creationdate="20210505T080030Z">
+        <seg>Procurar problemas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101630Z" creationid="Pedro Albuquerque" creationdate="20210424T101630Z">
@@ -10138,6 +10146,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080059Z" creationid="Pedro Albuquerque" creationdate="20210505T080059Z">
+        <seg>São detectados quatro tipos de problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090656Z" creationid="Pedro Albuquerque" creationdate="20210421T090656Z">
@@ -11367,6 +11383,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075916Z" creationid="Pedro Albuquerque" creationdate="20210505T075916Z">
+        <seg>Se os documentos não estiverem disponíveis, a entrada está a cinzento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095739Z" creationid="Pedro Albuquerque" creationdate="20210422T095739Z">
@@ -11709,8 +11733,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you haven"t yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080007Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se ainda não gravou o projecto, isto confirma manualmente se deseja realmente desistir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18132,6 +18156,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080051Z" creationid="Pedro Albuquerque" creationdate="20210505T080051Z">
+        <seg>Ferramenta de garantia de qualidade que efectua todas as verificações automáticas de uma só vez e exibe os resultados numa janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065955Z" creationid="Pedro Albuquerque" creationdate="20210421T065955Z">
@@ -19412,6 +19444,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075239Z" creationid="Pedro Albuquerque" creationdate="20210505T075239Z">
         <seg>Grava a memória interna de tradução no disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075941Z" creationid="Pedro Albuquerque" creationdate="20210505T075941Z">
+        <seg>Grava o projecto e sai do &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22447,6 +22487,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075900Z" creationid="Pedro Albuquerque" creationdate="20210505T075900Z">
+        <seg>Os documentos são abertos pela aplicação escolhida pelo sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110655Z" creationid="Pedro Albuquerque" creationdate="20210422T110655Z">
@@ -24707,6 +24755,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074226Z" creationid="Pedro Albuquerque" creationdate="20210421T074226Z">
         <seg>Ficheiro HTML muito grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080020Z" creationid="Pedro Albuquerque" creationdate="20210505T080020Z">
+        <seg>Ferramentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -28958,6 +29014,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105322Z" creationid="Pedro Albuquerque" creationdate="20210425T105322Z">
         <seg>mapeamento de repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080215Z" creationid="Pedro Albuquerque" creationdate="20210505T080215Z">
+        <seg>etiquetas em falta ou deslocadas, incluindo &lt;l0&gt;etiquetas personalizadas&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
