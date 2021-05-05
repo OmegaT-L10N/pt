@@ -7580,6 +7580,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091948Z" creationid="Pedro Albuquerque" creationdate="20210505T091948Z">
+        <seg>Os dicionários são os equivalentes electrónicos de dicionários impressos como Merriam Webster, Duden, Larousse, etc., que poderá ter na sua secretária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175918Z" creationid="Pedro Albuquerque" creationdate="20210420T175918Z">
@@ -20370,6 +20378,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T092008Z" creationid="Pedro Albuquerque" creationdate="20210505T092008Z">
+        <seg>Saiba mais sobre eles no capítulo sobre &lt;l0&gt;Dicionários&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065356Z" creationid="Pedro Albuquerque" creationdate="20210422T065356Z">
@@ -20814,6 +20830,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103158Z" creationid="Pedro Albuquerque" creationdate="20210424T103158Z">
         <seg>Opções seleccionadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091852Z" creationid="Pedro Albuquerque" creationdate="20210505T091852Z">
+        <seg>A selecção de uma delas inseri-la-á na posição actual do cursor no segmento-alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23413,6 +23437,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082650Z" creationid="Pedro Albuquerque" creationdate="20210504T082650Z">
         <seg>O equivalente em macOS é a aplicação Terminal localizada em &lt;f0&gt;Aplicações/Utilitários&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T092022Z" creationid="Pedro Albuquerque" creationdate="20210505T092022Z">
+        <seg>O painel de tradução automática, quando aberto, contém as sugestões das ferramentas de tradução automática para o segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27966,6 +27998,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093602Z" creationid="Pedro Albuquerque" creationdate="20210424T093602Z">
         <seg>Também pode definir várias opções relacionadas com a validação de etiquetas e definir etiquetas personalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091918Z" creationid="Pedro Albuquerque" creationdate="20210505T091918Z">
+        <seg>Pode também realçar a sua alternativa preferida no painel do glossário e inseri-la no alvo, clicando com o botão direito do rato na selecção.</seg>
       </tuv>
     </tu>
     <tu>
