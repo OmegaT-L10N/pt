@@ -17314,8 +17314,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081244Z" creationid="Pedro Albuquerque" creationdate="20210505T081244Z">
-        <seg>Abre a janela &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T094328Z" creationid="Pedro Albuquerque" creationdate="20210505T081244Z">
+        <seg>Abre a janela &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;&lt;/l0&gt;, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23055,8 +23055,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082342Z" creationid="Pedro Albuquerque" creationdate="20210505T082342Z">
-        <seg>As cores são mostradas enquanto a opção &lt;l1&gt;&gt;g2&gt;Gravar o estado de povoamento automático&lt;/g2&gt;&lt;/l1&gt; esteja marcada.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T094234Z" creationid="Pedro Albuquerque" creationdate="20210505T082342Z">
+        <seg>As cores são mostradas enquanto a opção &lt;l1&gt;&lt;g2&gt;Gravar o estado de povoamento automático&lt;/g2&gt;&lt;/l1&gt; esteja marcada.</seg>
       </tuv>
     </tu>
     <tu>
