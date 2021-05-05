@@ -2026,6 +2026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093819Z" creationid="Pedro Albuquerque" creationdate="20210505T093819Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174752Z" creationid="Pedro Albuquerque" creationdate="20210420T174752Z">
@@ -12613,6 +12621,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093607Z" creationid="Pedro Albuquerque" creationdate="20210505T093607Z">
+        <seg>No exemplo abaixo, o autor do ficheiro PO incluiu um aviso para o tradutor verificar a extensão da tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111552Z" creationid="Pedro Albuquerque" creationdate="20210426T111552Z">
@@ -13241,6 +13257,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181831Z" creationid="Pedro Albuquerque" creationdate="20210421T181831Z">
         <seg>Também contém instruções de instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093736Z" creationid="Pedro Albuquerque" creationdate="20210505T093736Z">
+        <seg>Mostra também o número de correspondências aproximadas e de glossário para o segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,6 +14455,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105514Z" creationid="Pedro Albuquerque" creationdate="20210424T105514Z">
         <seg>Listas de correio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093817Z" creationid="Pedro Albuquerque" creationdate="20210505T093817Z">
+        <seg>Janela principal - contadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -21882,6 +21914,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093614Z" creationid="Pedro Albuquerque" creationdate="20210505T093614Z">
+        <seg>Barra de estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092306Z" creationid="Pedro Albuquerque" creationdate="20210421T092306Z">
@@ -23062,6 +23102,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093801Z" creationid="Pedro Albuquerque" creationdate="20210505T093801Z">
+        <seg>Os contadores no canto inferior direito acompanham o progresso da tradução (os números na coluna da esquerda referem-se à figura acima):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T075514Z" creationid="Pedro Albuquerque" creationdate="20210505T075514Z">
@@ -24081,6 +24129,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093632Z" creationid="Pedro Albuquerque" creationdate="20210505T093632Z">
+        <seg>A barra de estado mostra mensagens relacionadas com o fluxo de trabalho na parte inferior da janela principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081208Z" creationid="Pedro Albuquerque" creationdate="20210505T081208Z">
@@ -24543,6 +24599,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065157Z" creationid="Pedro Albuquerque" creationdate="20210425T065157Z">
         <seg>Esta área permite introduzir um comando externo de pós-processamento (por exemplo, um script para renomear ficheiros) que será aplicado cada vez que for utilizado Criar documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093651Z" creationid="Pedro Albuquerque" creationdate="20210505T093651Z">
+        <seg>Esta barra dá ao utilizador um retorno sobre operações específicas que estão em curso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30054,6 +30118,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111144Z" creationid="Pedro Albuquerque" creationdate="20210422T111106Z">
         <seg>quantificadores relutantes farão o mínimo de correspondências possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093838Z" creationid="Pedro Albuquerque" creationdate="20210505T093838Z">
+        <seg>número de segmentos - traduzidos vs total para o ficheiro actual</seg>
       </tuv>
     </tu>
     <tu>
