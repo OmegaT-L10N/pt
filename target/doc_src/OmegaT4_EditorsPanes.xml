@@ -145,7 +145,7 @@
     </itemizedlist>
     </para>
 
-    <para>É possível modificar a ordem das três percentagens mas não a que é utilizada para seleccionar as correspondências aproximadas.</para>
+    <para>É possível modificar a ordem das três percentagens, mas não a que é utilizada para seleccionar as correspondências aproximadas.</para>
 
     <para>A correspondência aproximada seleccionada é realçada em negrito, as palavras que faltam no segmento que está a traduzir estão em azul e as palavras adjacentes às partes em falta estão em verde. No exemplo acima, o segmento-fonte é <emphasis role="bold">Comando do menu contextual</emphasis>. A correspondência máxima é de 100%, porque todas as palavras coincidem. Assim como as duas correspondências seguintes e a partida número 4 é semelhante, mas diferente. A linha com a percentagem de correspondência também inclui o nome da memória de tradução que contém a correspondência. Se não houver nenhum nome de ficheiro mostrado, a fonte é a memória interna de tradução do projecto. Segmentos órfãos (correspondência nº 2) descrevem segmentos na memória de tradução pré-definida do projecto que não têm segmento-fonte correspondente.</para>
   </section>

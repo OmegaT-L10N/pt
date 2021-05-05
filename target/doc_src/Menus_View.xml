@@ -80,7 +80,7 @@
       <term>Marcar segmentos povoados automaticamente</term>
 
       <listitem>
-        <para>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em <filename>/tm/auto</filename> por exemplo) são mostrados a cores. As cores são mostradas enquanto a opção <link linkend="dialogs.preferences.editor.saveautopopulatedstatus">&gt;g2&gt;Gravar o estado de povoamento automático</guimenuitem></link> esteja marcada. As traduções habituais inseridas a partir da pasta auto são mostradas em laranja. Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores. Para detalhes técnicos, ver <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Pedidos de melhoramentos</ulink>.</para>
+        <para>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em <filename>/tm/auto</filename> por exemplo) são mostrados a cores. As cores são mostradas enquanto a opção <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Gravar o estado de povoamento automático</guimenuitem></link> esteja marcada. As traduções habituais inseridas a partir da pasta auto são mostradas em laranja. Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores. Para detalhes técnicos, ver <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Pedidos de melhoramentos</ulink>.</para>
       </listitem>
     </varlistentry>
 

@@ -96,7 +96,7 @@
       <term>Scripting...</term>
 
       <listitem>
-        <para>Abre a janela <link linkend="windows.scripts"><guilabel>Scripting</guilabel>, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</para>
+        <para>Abre a janela <link linkend="windows.scripts"><guilabel>Scripting</guilabel></link>, onde a localização dos scripts pode ser definida, e onde os scripts podem ser escritos, executados e associados a um atalho.</para>
       </listitem>
     </varlistentry>
 
