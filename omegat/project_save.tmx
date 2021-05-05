@@ -11257,6 +11257,30 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-unique segments will be marked in pale grey.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081922Z" creationid="Pedro Albuquerque" creationdate="20210505T081922Z">
+        <seg>Se marcada, os segmentos não-únicos serão marcados a cinzento pálido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081940Z" creationid="Pedro Albuquerque" creationdate="20210505T081940Z">
+        <seg>Se marcada, os segmentos com notas serão marcados em ciano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081819Z" creationid="Pedro Albuquerque" creationdate="20210505T081819Z">
+        <seg>Se marcada, os segmentos-fonte serão mostrados e marcados a verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060713Z" creationid="Pedro Albuquerque" creationdate="20210422T060713Z">
@@ -11269,6 +11293,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060536Z" creationid="Pedro Albuquerque" creationdate="20210422T060536Z">
         <seg>Se marcada, as entradas mais longas são colocadas primeiro na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081751Z" creationid="Pedro Albuquerque" creationdate="20210505T081751Z">
+        <seg>Se marcada, as separações entre parágrafos no documento-fonte são indicadas visualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,6 +11411,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103658Z" creationid="Pedro Albuquerque" creationdate="20210504T103658Z">
         <seg>Se não houver texto seleccionado, o &lt;a3&gt;OmegaT&lt;/a3&gt; selecciona a palavra que contém a letra imediatamente à direita do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081846Z" creationid="Pedro Albuquerque" creationdate="20210505T081846Z">
+        <seg>Se não estiver marcada, os segmentos-fonte não serão mostrados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14384,6 +14424,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080446Z" creationid="Pedro Albuquerque" creationdate="20210423T080446Z">
         <seg>Marcar espaços inseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081721Z" creationid="Pedro Albuquerque" creationdate="20210505T081721Z">
+        <seg>Marcar delimitações de parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24311,6 +24359,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110942Z" creationid="Pedro Albuquerque" creationdate="20210425T110942Z">
         <seg>Isto torna possível renomear o ficheiro a traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082027Z" creationid="Pedro Albuquerque" creationdate="20210505T082027Z">
+        <seg>Esta marcação tem prioridade sobre &lt;g0&gt;Marcar segmentos traduzidos&lt;/g0&gt; e &lt;g1&gt;Marcar segmentos não traduzidos&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
