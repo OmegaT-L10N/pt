@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="panes">
-  <title>Panes</title>
+  <title>Painéis</title>
 
-  <para>The main window consists of several panes, the main menu and a status
-  bar. You can change the position of any pane or even undock it to a separate
-  window by clicking and dragging the pane by its name. Depending on the pane
-  status, different signs can appear at its top right corner:</para>
+  <para>A janela principal é constituída por vários painéis, o menu principal e uma barra de estado. Pode alterar a posição de qualquer painel ou mesmo movê-lo para uma janela separada, clicando e arrastando o painel pelo seu nome. Dependendo do estado do painel, diferentes sinais podem aparecer no seu canto superior direito:</para>
 
   <note>
-    <para>If you can not see all the panes (be it opened or minimized),
-    pressing <guisubmenu> Options &gt; Restore Main Window </guisubmenu>will
-    restore them to the state, defined in the installation.</para>
+    <para>Se não conseguir ver todos os painéis (estejam eles abertos ou minimizados), premindo <guisubmenu> Opções &gt; Restaurar janela principal </guisubmenu> restaurá-los-á ao estado definido na instalação.</para>
   </note>
 
   <table>
-    <title>Pane widgets</title>
+    <title>Widgets dos painéis</title>
 
     <tgroup cols="2">
       <colspec align="left" colnum="1"/>
@@ -32,8 +27,7 @@
               </imageobject>
             </inlinemediaobject></entry>
 
-          <entry>minimizes the pane, so that only its name is shown at the
-          bottom of the window</entry>
+          <entry>minimiza o painel, de modo a que apenas o seu nome seja mostrado na parte inferior da janela</entry>
         </row>
 
         <row>
@@ -47,7 +41,7 @@
               </imageobject>
             </inlinemediaobject></entry>
 
-          <entry>maximizes the pane</entry>
+          <entry>maximiza o painel</entry>
         </row>
 
         <row>
@@ -61,7 +55,7 @@
               </imageobject>
             </inlinemediaobject></entry>
 
-          <entry>restores the layout before the maximizing step</entry>
+          <entry>restaura a disposição antes da etapa de maximização</entry>
         </row>
 
         <row>
@@ -75,7 +69,7 @@
               </imageobject>
             </inlinemediaobject></entry>
 
-          <entry>undocks the pane from the main window</entry>
+          <entry>desliga o painel da janela principal</entry>
         </row>
 
         <row>
@@ -89,236 +83,120 @@
               </imageobject>
             </inlinemediaobject></entry>
 
-          <entry>puts the pane back within the main window</entry>
+          <entry>coloca o painel de volta dentro da janela principal</entry>
         </row>
       </tbody>
     </tgroup>
   </table>
 
-  <para>You can overlap panes if desired. When this is done the panes display
-  a tab at the top. The separators between the panes can be dragged to resize
-  panes. Should you lose track of your changes to the user interface, you can
-  use <guimenuitem> Options → Restore the main window</guimenuitem> any time to
-  return to the original layout.</para>
+  <para>Se desejar, pode sobrepor painéis. Quando isto é feito, os painéis mostram um separador no topo. Os separadores entre os painéis podem ser arrastados para os redimensionar. Caso perca a noção das suas alterações ao ambiente do utilizador, pode usar <guimenuitem> Opções → Restaurar a janela principal</guimenuitem> a qualquer momento para voltar à disposição original.</para>
 
-  <para>It is possible to drag and drop files to each pane, which will react
-  accordingly. <itemizedlist>
+  <para>É possível arrastar e largar ficheiros para cada painel, que reagirá em conformidade.<itemizedlist>
       <listitem>
-        <para>Editor pane: If an OmegaT project file
-        (<filename>omegat.project</filename>) is dropped on this pane, the
-        corresponding project will be opened, closing first any opened
-        project. Other dropped files will be copied to the
-        <filename>source</filename> folder. This applies also to the <link linkend="windows.projectfiles">Project files</link> window.</para>
+        <para>Painel do editor: Se um ficheiro de projecto OmegaT (<filename>omegat.project</filename>) for largado neste painel, o projecto correspondente será aberto, fechando primeiro qualquer projecto aberto. Outros ficheiros largados serão copiados para a pasta <filename>source</filename>. Isto aplica-se também à janela <link linkend="windows.projectfiles">Ficheiros de projecto</link>.</para>
       </listitem>
 
       <listitem>
-        <para>Fuzzy Matches pane: Dropped <filename>.tmx</filename> files will
-        be copied to the <filename>tm</filename> folder.</para>
+        <para>Painel Correspondências aproximadas: ficheiros <filename>.tmx</filename> largados aqui serão copiados para a pasta <filename>tm</filename>.</para>
       </listitem>
 
       <listitem>
-        <para>Glossary pane: Dropped files with known glossary extensions
-        (<filename>.txt</filename>, <filename>.tab</filename>, etc.) will be
-        copied to the <filename>glossary</filename> folder.</para>
+        <para>Painel Glossário: ficheiros largados com extensões de glossário conhecidas, (<filename>.txt</filename>, <filename>.tab</filename>, etc.) serão copiados para a pasta <filename>glossary</filename>.</para>
       </listitem>
     </itemizedlist></para>
 
   <section id="editor.pane">
     <title>Editor</title>
 
-    <para>This is where you type and edit your translation. The Editor pane
-    displays the text of the partially translated document: the text already
-    translated is displayed in translation while the untranslated text is
-    displayed in the original language. The displayed text is split into
-    segments and you may scroll through the document and double-click on any
-    segment to open and edit it. In the above case, the segments already
-    translated are shown in yellow.</para>
+    <para>É aqui que escreve e edita a sua tradução. O painel Editor mostra o texto do documento parcialmente traduzido: o texto já traduzido é mostrado na tradução enquanto o texto não traduzido é mostrado no idioma original. O texto mostrado é dividido em segmentos e pode percorrer o documento e fazer duplo clique sobre qualquer segmento para o abrir e editar. No caso acima, os segmentos já traduzidos são mostrados a amarelo.</para>
 
-    <para>One of the above segments is the current segment. It is the segment
-    that is displayed in two parts. The upper part is in the source language,
-    in bold characters with a green background color, the lower part is the
-    editing field, ended by a marker: the marker is <literal>&lt;segment nnnn&gt;</literal> where
-    nnnn is a number of the segment in the project. Use the upper part as a
-    reference and replace or modify the contents of the editing field with
-    your translation.</para>
+    <para>Um dos segmentos acima é o segmento actual. É o segmento que é mostrado em duas partes. A parte superior está no idioma de origem, em caracteres a negrito com um fundo verde, a parte inferior é o campo de edição, terminado por um marcador: o marcador é <literal>&lt;segment nnnn&gt;</literal> onde nnnn é um número do segmento do projecto. Utilize a parte superior como referência e substitua ou modifique o conteúdo do campo de edição com a sua tradução.</para>
 
-    <para>Note: the segment marker displays <literal>&lt;segment
-    nnnn +yy more&gt; when the segment is non-unique. In that case, yy is the
-    number of other occurrences of the segment in the
-    project.</literal></para>
+    <para>Nota: o marcador de segmento mostra <literal>&gt;segmento nnnn +yyy more&gt; quando o segmento não é único. Nesse caso, yy é o número de outras ocorrências do segmento no projecto.</literal></para>
 
-    <para>Depending upon the preferred editing behavior, the editing field for
-    the untranslated segment may be empty, contain the source text, or contain
-    the translation of the string most similar to the one to be translated.
-    When you move to another segment, the translation is validated and stored.
-    If you want the translation to be the same as the source, simply make the
-    editing field empty by removing all the text (select all with
-    <keycap>Ctrl+A</keycap> and delete with <keycap>Del</keycap>). OmegaT is
-    able to store translations that are identical to the source. This is
-    useful for documents that contain trade marks, names or other proper
-    nouns, or parts in a third language that do not require translation. See
-    <emphasis>Translation editing</emphasis> for more details.</para>
+    <para>Dependendo do comportamento de edição preferido, o campo de edição para o segmento não traduzido pode estar vazio, conter o texto original, ou conter a tradução da cadeia mais parecida com a que será traduzida. Quando se passa para outro segmento, a tradução é validada e armazenada. Se quiser que a tradução seja a mesma que a fonte, basta esvaziar o campo de edição removendo todo o texto (seleccione tudo com <keycap>Ctrl+A</keycap> e apague com <keycap>Del</keycap>). O OmegaT é capaz de armazenar traduções que são idênticas à fonte. Isto é útil para documentos que contenham marcas, nomes ou outros substantivos próprios, ou partes num terceiro idioma que não necessitem de tradução. Ver <emphasis>Edição da tradução</emphasis> para mais detalhes.</para>
 
-    <para>If you right click on the Editor pane, a pop-up menu opens,
-    offering<emphasis role="bold"> Cut, Copy, Paste</emphasis> (i.e. same
-    functions as <keycombo>
-        <keycap>Ctrl</keycap>
+    <para>Se clicar com o botão direito do rato no painel Editor, abre-se um menu contextual, oferecendo as funções <emphasis role="bold">Cortar, Copiar, Colar</emphasis> (isto é, as mesmas funções que <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> e <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo>), <emphasis role="bold">Ir para segmento</emphasis> e <emphasis role="bold">Adicionar entrada de glossário</emphasis>. Além disso, quando o clique direito ocorre num segmento aberto, são propostas outras opções relativas a <emphasis role="bold">Traduções alternativas</emphasis>, por exemplo para saltar para outro exemplo de segmentos não-únicos.</para>
 
-        <keycap>X</keycap>
-      </keycombo>, <keycombo>
-        <keycap>Ctrl</keycap>
+    <para>É possível arrastar o texto de qualquer parte da janela principal e largá-lo dentro do segmento. O texto arrastado do exterior do segmento-alvo é copiado, enquanto o texto arrastado do interior do segmento é movido.</para>
 
-        <keycap>C</keycap>
-      </keycombo> and <keycombo>
-        <keycap>Ctrl</keycap>
-
-        <keycap>V</keycap>
-      </keycombo>), <emphasis role="bold">GoTo segment</emphasis> and
-    <emphasis role="bold">Add glossary entry</emphasis> functions. In
-    addition, when the right click occurs on an opened segment, other options
-    concerning <emphasis role="bold">Alternative translations</emphasis> are
-    proposed, for example to to jump to another instance of non-unique
-    segments.</para>
-
-    <para>It is possible to drag text from anywhere in the main window and to
-    drop it within the segment. Texted dragged from outside the target segment
-    is copied, while text dragged from within the segment is moved.</para>
-
-    <para>By default, it is not possible to select words in the source segment
-    using the keyboard rather than the mouse. Pressing <keycap>F2</keycap> key
-    allows to move the cursor into the source segment (or anywhere in the
-    editor) with the keyboard arrows. In this mode, &quot;<guilabel>Cursor lock
-    off</guilabel>&quot; is displayed at the bottom of the pane. To come back to
-    the standard mode &quot;<guilabel>Cursor lock on</guilabel>&quot;, press
-    <keycap>F2</keycap> again.</para>
+    <para>Por pré-definição, não é possível seleccionar palavras no segmento de origem utilizando o teclado em vez do rato. Premindo <keycap>F2</keycap> permite mover o cursor para o segmento-fonte (ou para qualquer parte do editor) com as setas do teclado. Neste modo, &quot;<guilabel>Bloqueio de cursor desligado</guilabel>&quot; é mostrado no fundo do painel. Para voltar ao modo padrão &quot;<guilabel>Bloqueio de cursor ligado</guilabel>&quot;, prima novamente <keycap>F2</keycap>.</para>
   </section>
 
   <section>
     <title>Correspondências aproximadas</title>
 
-    <para>The match viewer shows the most similar segments from translation
-    memories, both from internal project translation memory created in real
-    time as you translate your project and from ancillary translation memories
-    you have imported from your earlier jobs, or received from your client or
-    translation agency.</para>
+    <para>O visualizador de correspondências mostra os segmentos mais semelhantes das memórias de tradução, tanto da memória de tradução interna do projecto criada em tempo real à medida que traduz o seu projecto, como das memórias de tradução acessórias que importou dos seus trabalhos anteriores, ou que recebeu do seu cliente ou agência de tradução.</para>
 
-    <para>When you move to the next segment, the first fuzzy match (the one
-    with the best matching percentage) is automatically selected. You may
-    select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or
-    5</guimenuitem>. Of course, pressing <keycombo>
-        <keycap>Ctrl</keycap>
+    <para>Quando se passa para o segmento seguinte, a primeira correspondência aproximada (aquela com a melhor percentagem de correspondência) é automaticamente seleccionada. Pode seleccionar uma correspondência diferente, premindo <guimenuitem>Ctrl+2, 3, 4, ou 5</guimenuitem>. Naturalmente, premir <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> não terá qualquer efeito, se não houver a correspondência nº 5. Para usar a correspondência seleccionada na sua tradução, use <guimenuitem>Ctrl+R</guimenuitem> para substituir o campo alvo pela correspondência ou use <guimenuitem>Ctrl+I </guimenuitem> para o inserir na posição do cursor.</para>
 
-        <keycap>5</keycap>
-      </keycombo> will have no effect, if there is no match #5. To use the
-    selected match in your translation, use
-    <guimenuitem>Ctrl+R</guimenuitem> to replace the target field with the match or use
-    <guimenuitem>Ctrl+I </guimenuitem> to insert it at the cursor position.</para>
-
-    <para>The three matching percentages are in the following order:
-    <itemizedlist>
+    <para>As três percentagens correspondentes estão na seguinte ordem:<itemizedlist>
       <listitem>
-		  <para>the percentage calculated with stemming<footnote>
-		  <para>See <ulink url="https://en.wikipedia.org/wiki/Stemming">https://en.wikipedia.org/wiki/Stemming</ulink></para>
-		  </footnote> and ignoring tags and numbers (generally the
-		  highest)</para>
+		  <para>a percentagem calculada com lematização<footnote>
+		  <para>Veja <ulink url="https://en.wikipedia.org/wiki/Stemming">https://en.wikipedia.org/wiki/Stemming</ulink></para>
+		  </footnote>e ignorando etiquetas e números (geralmente os mais altos)</para>
 	  </listitem>
       <listitem>
-		  <para>the percentage calculated without stemming and still ignoring
-		  tags and numbers (generally slightly lower)</para>
+		  <para>a percentagem calculada sem lematização e ainda ignorando etiquetas e números (geralmente ligeiramente mais baixos)</para>
 	  </listitem>
       <listitem>
-		  <para>the percentage calculated with the full text, including tags and
-		  numbers (generally the lowest)
-		  </para>
+		  <para>a percentagem calculada com o texto completo, incluindo etiquetas e números (geralmente os mais baixos)</para>
 	  </listitem>
     </itemizedlist>
     </para>
 
-    <para>It is possible to modify the sort order of the three percentages but
-    not which is used to select the fuzzy matches.</para>
+    <para>É possível modificar a ordem das três percentagens mas não a que é utilizada para seleccionar as correspondências aproximadas.</para>
 
-    <para>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green. In the above example the source segment is <emphasis role="bold">Context menu command</emphasis>. The top match is 100%, because all words match. So do the next two matches, and the match #4 is similar, but different. The line with the matching percentage also includes the name of the translation memory containing the match. If there&quot;s no file name displayed, the source is the internal project translation memory. Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</para>
+    <para>A correspondência aproximada seleccionada é realçada em negrito, as palavras que faltam no segmento que está a traduzir estão em azul e as palavras adjacentes às partes em falta estão em verde. No exemplo acima, o segmento-fonte é <emphasis role="bold">Comando do menu contextual</emphasis>. A correspondência máxima é de 100%, porque todas as palavras coincidem. Assim como as duas correspondências seguintes e a partida número 4 é semelhante, mas diferente. A linha com a percentagem de correspondência também inclui o nome da memória de tradução que contém a correspondência. Se não houver nenhum nome de ficheiro mostrado, a fonte é a memória interna de tradução do projecto. Segmentos órfãos (correspondência nº 2) descrevem segmentos na memória de tradução pré-definida do projecto que não têm segmento-fonte correspondente.</para>
   </section>
 
   <section>
     <title>Glossário</title>
 
-    <para>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files. It shows translation of terms found in the current segment. The source segment in the example below was “<emphasis>Context menu command</emphasis>”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft&quot;s Term collection and Slovenian Linux User group Glossary).</para>
+    <para>O painel Glossário permite-lhe aceder à sua própria colecção de expressões e terminologia especializada que construiu nos seus ficheiros de glossário. Mostra a tradução de termos encontrados no segmento actual. O segmento-fonte no exemplo abaixo foi &quot;<emphasis>Comando do menu contextual</emphasis>&quot;, como no exemplo de correspondências aproximadas acima, e os termos mostrados foram encontrados nos glossários disponíveis (Microsoft's Term collection e Slovenian Linux User group).</para>
 
-    <para>If you have TransTips option activated (<guimenuitem>Options →
-    TransTips</guimenuitem>), you can right click on the highlighted word in
-    the source segment to open a pop-up menu with suggested translation, as
-    offered by your glossary. Selecting one of them will insert it at the
-    current cursor position into the target segment. You can also highlight
-    your preferred alternative in the glossary pane and insert it into the
-    target by right clicking on the selection.</para>
+    <para>Se tiver a opção Dicas de tradução activada (<guimenuitem>Opções → Dicas de tradução</guimenuitem>), pode clicar com o botão direito do rato sobre a palavra em destaque no segmento-fonte para abrir um menu contextual com sugestões de tradução, tal como oferecido pelo seu glossário. A selecção de uma delas inseri-la-á na posição actual do cursor no segmento-alvo. Pode também realçar a sua alternativa preferida no painel do glossário e inseri-la no alvo, clicando com o botão direito do rato na selecção.</para>
   </section>
 
   <section>
     <title>Dicionário</title>
 
-    <para>Dictionaries are the electronic equivalents of printed dictionaries
-    like Merriam Webster, Duden, Larousse etc., that you may have on your
-    desk. See more about them in the chapter on <link linkend="appendix.dictionaries">Dictionaries</link></para>
+    <para>Os dicionários são os equivalentes electrónicos de dicionários impressos como Merriam Webster, Duden, Larousse, etc., que poderá ter na sua secretária. Saiba mais sobre eles no capítulo sobre <link linkend="appendix.dictionaries">Dicionários</link></para>
   </section>
 
   <section>
     <title>Tradução automática</title>
 
-    <para>The machine translation pane, when opened, contains the suggestions
-    by machine translation tools for the current segment. Press
-    <keysym>Ctrl+M</keysym> to replace the translation of the current segment
-    with the suggested translation.</para>
+    <para>O painel de tradução automática, quando aberto, contém as sugestões das ferramentas de tradução automática para o segmento actual. Prima <keysym>Ctrl+M</keysym> para substituir a tradução do segmento actual com a tradução sugerida.</para>
   </section>
 
   <section>
     <title>Traduções múltiplas</title>
 
-    <para>A given source segment may require several different translations,
-    depending on the context. If the current translation of the segment does
-    not fit, the user can select <guisubmenu>Edit → Create Alternative
-    Translation</guisubmenu>. The target text entered after that will be
-    treated as an alternative translation of the source segment. You can
-    define one of the alternative - for instance the most probable among them
-    - as default translation by selecting <guisubmenu>Edit → Use as Default
-    Translation</guisubmenu></para>
+    <para>Um determinado segmento-fonte pode requerer várias traduções diferentes, dependendo do contexto. Se a tradução actual do segmento não se enquadrar, o utilizador pode seleccionar <guisubmenu>Editar → Criar tradução alternativa</guisubmenu>. O texto de destino inserido depois disso será tratado como uma tradução alternativa do segmento de origem. Pode definir uma das alternativas - por exemplo a mais provável entre elas - como tradução pré-definida seleccionando <guisubmenu>Editar → Usar como tradução pré-definida</guisubmenu></para>
   </section>
 
   <section>
     <title>Notas</title>
 
-    <para>The translator can add notes to the opened segment, for instance to
-    come back later to the segment and redo the translation, check that
-    alternative translations are correct or to ask colleagues for their
-    opinion. You can browse through notes using <guisubmenu>GoTo → Next
-    Note</guisubmenu> and <guisubmenu>GoTo → Previous
-    Note</guisubmenu>.</para>
+    <para>O tradutor pode acrescentar notas ao segmento aberto, por exemplo para voltar mais tarde ao segmento e refazer a tradução, verificar se as traduções alternativas estão correctas ou pedir a opinião dos colegas. Pode navegar através de notas usando <guisubmenu>Ir para → Nota seguinte</guisubmenu> e <guisubmenu>Ir para → Nota anterior</guisubmenu>.</para>
   </section>
 
   <section>
     <title>Comentários</title>
 
-    <para>Some of the file formats, specialized for translation work, for
-    instance PO, allow the inclusion of comments. This way the translator can
-    be provided the context about the segment to be translated. In the example
-    below, the author of the PO file included a warning for the translator to
-    check the length of the translation:</para>
+    <para>Alguns dos formatos de ficheiro, especializados para trabalhos de tradução, por exemplo PO, permitem a inclusão de comentários. Desta forma, o tradutor pode receber o contexto sobre o segmento a traduzir No exemplo abaixo, o autor do ficheiro PO incluiu um aviso para o tradutor verificar a extensão da tradução:</para>
   </section>
 
   <section>
-    <title>Status bar</title>
+    <title>Barra de estado</title>
 
-    <para>The status bar displays work-flow related messages at the bottom of
-    the main window. This bar gives the user feedback on specific operations
-    that are in progress. It also displays the number of fuzzy and glossary
-    matches for the current segment.</para>
+    <para>A barra de estado mostra mensagens relacionadas com o fluxo de trabalho na parte inferior da janela principal. Esta barra dá ao utilizador um retorno sobre operações específicas que estão em curso. Mostra também o número de correspondências aproximadas e de glossário para o segmento actual.</para>
 
-    <para>The counters in the lower right corner keep track of the progress of
-    the translation (numbers in the left hand column refer to the figure
-    above):</para>
+    <para>Os contadores no canto inferior direito acompanham o progresso da tradução (os números na coluna da esquerda referem-se à figura acima):</para>
 
     <table>
-      <title>Main Window - counters</title>
+      <title>Janela principal - contadores</title>
 
       <tgroup cols="2">
         <colspec align="left" colnum="1"/>
@@ -327,37 +205,30 @@
           <row>
             <entry>27/27</entry>
 
-            <entry>number of segments - translated vs total for the current
-            file</entry>
+            <entry>número de segmentos - traduzidos vs total para o ficheiro actual</entry>
           </row>
 
           <row>
             <entry>9319/16338</entry>
 
-            <entry>number of unique segments - translated vs total in the
-            project</entry>
+            <entry>número de segmentos únicos - traduzidos vs total no projecto</entry>
           </row>
 
           <row>
             <entry>31175</entry>
 
-            <entry>total number of segments (including repeats) in the
-            project</entry>
+            <entry>número total de segmentos (incluindo repetições) no projecto</entry>
           </row>
 
           <row>
             <entry>103/114</entry>
 
-            <entry>number of source and target characters in the current
-            segment</entry>
+            <entry>número de caracteres fonte e alvo no segmento actual</entry>
           </row>
         </tbody>
       </tgroup>
     </table>
 
-    <para>From a practical point of view, the most important pair of numbers
-    is the second pair: it tells, how much you have done so far, in relation
-    to the total or second number. The project in the example is evidently
-    finished, as all the unique segments have been translated.</para>
+    <para>De um ponto de vista prático, o par de números mais importante é o segundo par: indica quanto fez até agora, em relação ao total ou ao segundo número. O projecto no exemplo está evidentemente terminado, uma vez que todos os segmentos únicos foram traduzidos.</para>
   </section>
 </chapter>
