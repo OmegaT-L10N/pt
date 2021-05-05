@@ -4170,6 +4170,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122407Z" creationid="Pedro Albuquerque" creationdate="20210505T122407Z">
+        <seg>Um guia de início rápido, que o guia através dos principais procedimentos e funções do OmegaT, é mostrado no ambiente do utilizador OmegaT por pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075527Z" creationid="Pedro Albuquerque" creationdate="20210424T075527Z">
@@ -13317,6 +13325,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122439Z" creationid="Pedro Albuquerque" creationdate="20210505T122439Z">
+        <seg>Pode ser encontrado na pasta "docs" na pasta do seu programa OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071543Z" creationid="Pedro Albuquerque" creationdate="20210425T071543Z">
@@ -16702,6 +16718,14 @@ your home folder.</seg>
         <seg>Foi recusado ao OmegaT o acesso à propriedade de sistema que contém
 o nome do seu SO e/ou a propriedade de sistema que contém
 a sua pasta raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122253Z" creationid="Pedro Albuquerque" creationdate="20210505T122253Z">
+        <seg>O OmegaT é fornecido com um manual do utilizador abrangente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24329,6 +24353,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122513Z" creationid="Pedro Albuquerque" creationdate="20210505T122513Z">
+        <seg>O manual do utilizador do OmegaT em formato PDF ({{{site.data.versions.standard.name }}}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065300Z" creationid="Pedro Albuquerque" creationdate="20210425T065300Z">
@@ -25343,6 +25375,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095902Z" creationid="Pedro Albuquerque" creationdate="20210425T095902Z">
         <seg>Para evitar reutilizar o projecto e assim possivelmente poluir futuros casos, elimine a pasta do projecto ou arquive-a fora do seu local de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122309Z" creationid="Pedro Albuquerque" creationdate="20210505T122309Z">
+        <seg>Para chamar o manual de dentro do OmegaT, basta seleccionar Ajuda &gt; Manual do utilizador, ou premir F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26991,6 +27031,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122451Z" creationid="Pedro Albuquerque" creationdate="20210505T122451Z">
+        <seg>Manual do utilizador em linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User manuals</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110222Z" creationid="Pedro Albuquerque" creationdate="20210424T110222Z">
@@ -28150,6 +28198,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061006Z" creationid="Pedro Albuquerque" creationdate="20210427T061006Z">
         <seg>Pode também &lt;c3&gt;cd&lt;/c3&gt; para lá directamente na linha de comandos e abrir &lt;f4&gt;Configuration.properties&lt;/f4&gt; num editor de linha de comando como o emacs ou o vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122427Z" creationid="Pedro Albuquerque" creationdate="20210505T122427Z">
+        <seg>Também pode consultar o manual do utilizador fornecido com o OmegaT sem iniciar o OmegaT em si.</seg>
       </tuv>
     </tu>
     <tu>
