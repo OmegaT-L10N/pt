@@ -3804,8 +3804,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082531Z" creationid="Pedro Albuquerque" creationdate="20210505T082531Z">
-        <seg>Garantia agressiva de fonte</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082632Z" creationid="Pedro Albuquerque" creationdate="20210505T082531Z">
+        <seg>Garantia agressiva de letra</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,6 +10170,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082726Z" creationid="Pedro Albuquerque" creationdate="20210505T082726Z">
+        <seg>Por esse motivo, está DESLIGADO por pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173702Z" creationid="Pedro Albuquerque" creationdate="20210423T173702Z">
@@ -14860,6 +14868,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082735Z" creationid="Pedro Albuquerque" creationdate="20210505T082735Z">
+        <seg>Informações de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080623Z" creationid="Pedro Albuquerque" creationdate="20210423T080623Z">
@@ -15914,6 +15930,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073449Z" creationid="Pedro Albuquerque" creationdate="20210421T073449Z">
         <seg>Nota: nem todos os filtros permitem seleccionar a codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082709Z" creationid="Pedro Albuquerque" creationdate="20210505T082709Z">
+        <seg>Nota: no Windows parece que este mecanismo manual de garantia de letra pode interferir com a garantia de letra padrão, causando uma substituição indesejável da fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20726,6 +20750,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210423T113348Z">
         <seg>Define a chave de validação do segmento para Tab em vez da tecla Enter pré-definida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082852Z" creationid="Pedro Albuquerque" creationdate="20210505T082852Z">
+        <seg>Definir para &lt;g1&gt;Todos os segmentos&lt;/g1&gt; mostra esta informação para todos os segmentos e &lt;g2&gt;Nenhum&lt;/g2&gt; desliga esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T082824Z" creationid="Pedro Albuquerque" creationdate="20210505T082824Z">
+        <seg>Definir a opção Mostrar modificação para &lt;g0&gt;Segmento actual&lt;/g0&gt; mostra a hora e o autor da última alteração no segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
