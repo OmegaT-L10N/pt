@@ -11945,6 +11945,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091820Z" creationid="Pedro Albuquerque" creationdate="20210505T091820Z">
+        <seg>Se tiver a opção Dicas de tradução activada (&lt;g0&gt;Opções → Dicas de tradução&lt;/g0&gt;), pode clicar com o botão direito do rato sobre a palavra em destaque no segmento-fonte para abrir um menu contextual com sugestões de tradução, tal como oferecido pelo seu glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070302Z" creationid="Pedro Albuquerque" creationdate="20210426T070302Z">
@@ -13361,6 +13369,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103550Z" creationid="Pedro Albuquerque" creationdate="20210425T103550Z">
         <seg>Deve assim ser realizado por um gestor de projecto, um chefe de projecto ou um engenheiro de localização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091521Z" creationid="Pedro Albuquerque" creationdate="20210505T091521Z">
+        <seg>Mostra a tradução de termos encontrados no segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22629,6 +22645,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091508Z" creationid="Pedro Albuquerque" creationdate="20210505T091508Z">
+        <seg>O painel Glossário permite-lhe aceder à sua própria colecção de expressões e terminologia especializada que construiu nos seus ficheiros de glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070342Z" creationid="Pedro Albuquerque" creationdate="20210421T070342Z">
@@ -23923,8 +23947,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft"s Term collection and Slovenian Linux User group Glossary).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091703Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O segmento-fonte no exemplo abaixo foi "&lt;e0&gt;Comando do menu contextual&lt;/e0&gt;", como no exemplo de correspondências aproximadas acima, e os termos mostrados foram encontrados nos glossários disponíveis (Microsoft's Term collection e Slovenian Linux User group).</seg>
       </tuv>
     </tu>
     <tu>
