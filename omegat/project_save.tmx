@@ -1594,6 +1594,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081458Z" creationid="Pedro Albuquerque" creationdate="20210505T081458Z">
+        <seg>(comandos de procura externa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062759Z" creationid="Pedro Albuquerque" creationdate="20210421T062759Z">
@@ -4510,6 +4518,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T072931Z" creationid="Pedro Albuquerque" creationdate="20210426T072931Z">
         <seg>No início da instalação pode seleccionar o idioma a utilizar durante a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081445Z" creationid="Pedro Albuquerque" creationdate="20210505T081445Z">
+        <seg>Na parte inferior da janela, clique com o botão direito do rato num número livre e seleccione &lt;g0&gt;Adicionar script&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11253,6 +11269,30 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060536Z" creationid="Pedro Albuquerque" creationdate="20210422T060536Z">
         <seg>Se marcada, as entradas mais longas são colocadas primeiro na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081707Z" creationid="Pedro Albuquerque" creationdate="20210505T081635Z">
+        <seg>Se marcada, os segmentos traduzidos serão marcados em amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081656Z" creationid="Pedro Albuquerque" creationdate="20210505T081656Z">
+        <seg>Se marcada, os segmentos não traduzidos serão marcados em violeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081611Z" creationid="Pedro Albuquerque" creationdate="20210505T081611Z">
+        <seg>Se os comandos para efectuar procuras externas tiverem sido definidos nas &lt;l0&gt;preferências&lt;/l0&gt;, estarão listados e acessíveis aqui.</seg>
       </tuv>
     </tu>
     <tu>
