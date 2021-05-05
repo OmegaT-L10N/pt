@@ -3322,6 +3322,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123054Z" creationid="Pedro Albuquerque" creationdate="20210505T123054Z">
+        <seg>Um guia passo-a-passo sobre como utilizar os utilitários de extracção e união de texto do Rainbow para ficheiros pré e pós-processo a traduzir utilizando o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071956Z" creationid="Pedro Albuquerque" creationdate="20210426T071956Z">
@@ -11182,6 +11190,22 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122850Z" creationid="Pedro Albuquerque" creationdate="20210505T122850Z">
+        <seg>Como traduzir o Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122913Z" creationid="Pedro Albuquerque" creationdate="20210505T122913Z">
+        <seg>Como traduzir ficheiros Wordpress XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094654Z" creationid="Pedro Albuquerque" creationdate="20210425T094654Z">
@@ -18508,6 +18532,30 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122901Z" creationid="Pedro Albuquerque" creationdate="20210505T122901Z">
+        <seg>Procedimento para utilizar o OmegaT para localizar o Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122928Z" creationid="Pedro Albuquerque" creationdate="20210505T122928Z">
+        <seg>Procedimento de utilização do OmegaT para localizar os ficheiros XLIFF exportados do Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122836Z" creationid="Pedro Albuquerque" creationdate="20210505T122836Z">
+        <seg>Procedimento para utilizar o OmegaT para localizar o IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T105644Z" creationid="Pedro Albuquerque" creationdate="20210421T105644Z">
@@ -24647,6 +24695,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123112Z" creationid="Pedro Albuquerque" creationdate="20210505T123112Z">
+        <seg>Estes utilitários permitem que o OmegaT seja utilizado para traduzir formatos de ficheiros para os quais estão disponíveis filtros de conversão XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091525Z" creationid="Pedro Albuquerque" creationdate="20210424T091525Z">
@@ -26101,6 +26157,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053023Z" creationid="Pedro Albuquerque" creationdate="20210422T053023Z">
         <seg>A traduzir o projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122936Z" creationid="Pedro Albuquerque" creationdate="20210505T122936Z">
+        <seg>Traduzir com Rainbow e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
