@@ -2716,6 +2716,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124038Z" creationid="Pedro Albuquerque" creationdate="20210505T124038Z">
+        <seg>O &lt;i1&gt;OmegaT pode ser instalado em qualquer sistema operativo capaz de executar a versão 1.8 do Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T110635Z" creationid="Pedro Albuquerque" creationdate="20210425T110635Z">
@@ -3110,6 +3118,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105917Z" creationid="Pedro Albuquerque" creationdate="20210425T105917Z">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123831Z" creationid="Pedro Albuquerque" creationdate="20210505T123831Z">
+        <seg>&lt;s1&gt;A vantagem&lt;/s1&gt;: uma vez lançada, futuras actualizações da versão Web Start serão instaladas automaticamente no seu computador.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123851Z" creationid="Pedro Albuquerque" creationdate="20210505T123851Z">
+        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: actualmente, esta versão não pode ser usada em conjunto com extensões, pelo que nem todas as funções estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10322,6 +10346,38 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123921Z" creationid="Pedro Albuquerque" creationdate="20210505T123921Z">
+        <seg>Para instalação em sistemas Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123913Z" creationid="Pedro Albuquerque" creationdate="20210505T123913Z">
+        <seg>Para instalação em sistemas Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123901Z" creationid="Pedro Albuquerque" creationdate="20210505T123901Z">
+        <seg>Para instalação no sistema Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123953Z" creationid="Pedro Albuquerque" creationdate="20210505T123953Z">
+        <seg>Para instalação noutros sistemas operativos (tais como FreeBSD e Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -11661,6 +11717,14 @@ o caminho completo.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090826Z" creationid="Pedro Albuquerque" creationdate="20210504T090826Z">
         <seg>Se dado, &lt;a2&gt;OmegaT&lt;/a2&gt; começa em modo de consola e traduzirá o projecto dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123759Z" creationid="Pedro Albuquerque" creationdate="20210505T123759Z">
+        <seg>Em caso de dúvida, seleccione esta versão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13213,6 +13277,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123728Z" creationid="Pedro Albuquerque" creationdate="20210505T123728Z">
+        <seg>Tipo de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092520Z" creationid="Pedro Albuquerque" creationdate="20210422T092520Z">
@@ -13757,6 +13829,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072832Z" creationid="Pedro Albuquerque" creationdate="20210421T072832Z">
         <seg>JGit (Licença Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123735Z" creationid="Pedro Albuquerque" creationdate="20210505T123735Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,6 +14547,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123913Z" creationid="Pedro Albuquerque" creationdate="20210505T123913Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153948Z" creationid="Pedro Albuquerque" creationdate="20210426T153948Z">
@@ -14623,6 +14711,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072900Z" creationid="Pedro Albuquerque" creationdate="20210421T072900Z">
         <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123901Z" creationid="Pedro Albuquerque" creationdate="20210505T123901Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -17604,6 +17700,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T104930Z" creationid="Pedro Albuquerque" creationdate="20210504T104930Z">
         <seg>Abre este manual no navegador predefinido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123734Z" creationid="Pedro Albuquerque" creationdate="20210505T123734Z">
+        <seg>Sistema operativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -23197,6 +23301,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123814Z" creationid="Pedro Albuquerque" creationdate="20210505T123814Z">
+        <seg>A versão Web Start é a versão "instalar e esquecer".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083210Z" creationid="Pedro Albuquerque" creationdate="20210504T083210Z">
@@ -24637,6 +24749,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065300Z" creationid="Pedro Albuquerque" creationdate="20210425T065300Z">
         <seg>O utilizador, contudo, poderá ter de gerar um conjunto de regras, específicas para o projecto em questão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123749Z" creationid="Pedro Albuquerque" creationdate="20210505T123749Z">
+        <seg>A versão para instalação pelo utilizador, familiar aos utilizadores OmegaT existentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26107,6 +26227,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105657Z" creationid="Pedro Albuquerque" creationdate="20210424T105657Z">
         <seg>Sistema de rastreio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123739Z" creationid="Pedro Albuquerque" creationdate="20210505T123739Z">
+        <seg>Tradicional</seg>
       </tuv>
     </tu>
     <tu>
@@ -27747,6 +27875,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123800Z" creationid="Pedro Albuquerque" creationdate="20210505T123800Z">
+        <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070621Z" creationid="Pedro Albuquerque" creationdate="20210421T070621Z">
@@ -28125,6 +28261,14 @@ Your page is not found</seg>
         <seg>O vento apanha o lírio
 Pétalas ao vento:
 A sua página não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123852Z" creationid="Pedro Albuquerque" creationdate="20210505T123852Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
