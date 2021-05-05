@@ -4450,6 +4450,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080740Z" creationid="Pedro Albuquerque" creationdate="20210505T080740Z">
+        <seg>Como acima, mas apenas para o documento actualmente mostrado no painel Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105716Z" creationid="Pedro Albuquerque" creationdate="20210425T105716Z">
@@ -5482,6 +5490,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T152922Z" creationid="Pedro Albuquerque" creationdate="20210420T152922Z">
         <seg>Procurar problemas no &amp;documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080720Z" creationid="Pedro Albuquerque" creationdate="20210505T080720Z">
+        <seg>Procurar problemas no documento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -16792,6 +16808,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080817Z" creationid="Pedro Albuquerque" creationdate="20210505T080817Z">
+        <seg>Abre uma nova janela e mostra as estatísticas do projecto, ou seja, os totais do projecto e os totais para cada ficheiro do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074754Z" creationid="Pedro Albuquerque" creationdate="20210505T074754Z">
@@ -23169,6 +23193,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080520Z" creationid="Pedro Albuquerque" creationdate="20210505T080520Z">
+        <seg>A janela de resultados é mostrada sob a forma de uma tabela na qual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075443Z" creationid="Pedro Albuquerque" creationdate="20210424T075443Z">
@@ -28080,6 +28112,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080558Z" creationid="Pedro Albuquerque" creationdate="20210505T080558Z">
+        <seg>clicar num cabeçalho de coluna altera a ordem da coluna,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090241Z" creationid="Pedro Albuquerque" creationdate="20210425T090241Z">
@@ -28140,6 +28180,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111851Z" creationid="Pedro Albuquerque" creationdate="20210422T111851Z">
         <seg>palavras duplas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080540Z" creationid="Pedro Albuquerque" creationdate="20210505T080540Z">
+        <seg>clicando duas vezes numa linha, activa o segmento correspondente no painel Editor,</seg>
       </tuv>
     </tu>
     <tu>
@@ -29582,6 +29630,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090352Z" creationid="Pedro Albuquerque" creationdate="20210425T090352Z">
         <seg>seleccione a memória de tradução de reserva que é a mais susceptível de conter os dados que procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080648Z" creationid="Pedro Albuquerque" creationdate="20210505T080648Z">
+        <seg>seleccionando ou movendo o rato sobre uma linha mostra um ícone de menu contextual na última coluna contendo acções para corrigir ou ignorar o erro.</seg>
       </tuv>
     </tu>
     <tu>
