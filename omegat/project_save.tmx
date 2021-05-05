@@ -1520,6 +1520,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123248Z" creationid="Pedro Albuquerque" creationdate="20210505T123248Z">
+        <seg>(em Italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173323Z" creationid="Pedro Albuquerque" creationdate="20210421T173323Z">
@@ -4358,6 +4366,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123203Z" creationid="Pedro Albuquerque" creationdate="20210505T123203Z">
+        <seg>Um vídeo introdutório ao OmegaT em inglês por John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064550Z" creationid="Pedro Albuquerque" creationdate="20210422T064550Z">
@@ -4998,10 +5014,26 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123327Z" creationid="Pedro Albuquerque" creationdate="20210505T123327Z">
+        <seg>Blogues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070834Z" creationid="Pedro Albuquerque" creationdate="20210421T070834Z">
         <seg>&amp;Referências de marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123232Z" creationid="Pedro Albuquerque" creationdate="20210505T123232Z">
+        <seg>Livros</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5146,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>But programming isn"t the only job needing to be done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123242Z" creationid="Pedro Albuquerque" creationdate="20210505T123242Z">
+        <seg>Por Marco Cevoli e Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10466,6 +10506,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123216Z" creationid="Pedro Albuquerque" creationdate="20210505T123216Z">
+        <seg>Da série YouTube OmegaT de Miguel Navarro (em espanhol).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093308Z" creationid="Pedro Albuquerque" creationdate="20210421T093308Z">
@@ -10918,6 +10966,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062622Z" creationid="Pedro Albuquerque" creationdate="20210421T062622Z">
         <seg>O grupo {0} não existe na expressão de procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123235Z" creationid="Pedro Albuquerque" creationdate="20210505T123235Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -16742,6 +16798,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123148Z" creationid="Pedro Albuquerque" creationdate="20210505T123148Z">
+        <seg>Tutorial de introdução ao OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -16932,6 +16996,14 @@ instalado no seu sistema.</seg>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072618Z" creationid="Pedro Albuquerque" creationdate="20210421T072618Z">
         <seg>O OmegaT usa as seguintes bibliotecas:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123141Z" creationid="Pedro Albuquerque" creationdate="20210505T123141Z">
+        <seg>Vídeos OmegaT no canal Qabiria do YouTube.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17972,6 +18044,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100907Z" creationid="Pedro Albuquerque" creationdate="20210422T100907Z">
         <seg>Os glossários de texto simples podem ser ficheiros de "valores separados por tabulação" (TSV) ou ficheiros de "valores separados por vírgula" (CSV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123128Z" creationid="Pedro Albuquerque" creationdate="20210505T123128Z">
+        <seg>Lista de reprodução de vídeos OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -21078,6 +21158,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103838Z" creationid="Pedro Albuquerque" creationdate="20210504T103838Z">
         <seg>Selecciona a correspondência anterior, a seguinte ou a n-ésima aproximada mostrada no painel de correspondências aproximadas para a substituir ou inserir no segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123322Z" creationid="Pedro Albuquerque" creationdate="20210505T123322Z">
+        <seg>Curso de formação em linha em inglês (para compra)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25975,6 +26063,22 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123304Z" creationid="Pedro Albuquerque" creationdate="20210505T123304Z">
+        <seg>Formação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123118Z" creationid="Pedro Albuquerque" creationdate="20210505T123118Z">
+        <seg>Vídeos de treino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T060415Z" creationid="Pedro Albuquerque" creationdate="20210421T060415Z">
@@ -27419,8 +27523,8 @@ e a aplicação OmegaT.</seg>
       <tuv lang="en">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Velior"s corporate blog &lt;br0/&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123343Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Blogue corporativo do Velior &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27437,6 +27541,30 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063705Z" creationid="Pedro Albuquerque" creationdate="20210421T063705Z">
         <seg>Versão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123206Z" creationid="Pedro Albuquerque" creationdate="20210505T123206Z">
+        <seg>Vídeo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123219Z" creationid="Pedro Albuquerque" creationdate="20210505T123219Z">
+        <seg>Vídeo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123226Z" creationid="Pedro Albuquerque" creationdate="20210505T123226Z">
+        <seg>Vídeo 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -30442,6 +30570,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123357Z" creationid="Pedro Albuquerque" creationdate="20210505T123357Z">
+        <seg>sobre a tradução e a &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open the project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090411Z" creationid="Pedro Albuquerque" creationdate="20210425T090411Z">
@@ -31102,6 +31238,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070511Z" creationid="Pedro Albuquerque" creationdate="20210426T070511Z">
         <seg>traduzi-lo para o ficheiro ODT de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123414Z" creationid="Pedro Albuquerque" creationdate="20210505T123414Z">
+        <seg>indústria de traduções</seg>
       </tuv>
     </tu>
     <tu>
