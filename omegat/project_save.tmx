@@ -16278,6 +16278,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090828Z" creationid="Pedro Albuquerque" creationdate="20210505T090828Z">
+        <seg>Naturalmente, premir &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; não terá qualquer efeito, se não houver a correspondência nº 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094126Z" creationid="Pedro Albuquerque" creationdate="20210504T094126Z">
@@ -23353,6 +23361,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090602Z" creationid="Pedro Albuquerque" creationdate="20210505T090602Z">
+        <seg>O visualizador de correspondências mostra os segmentos mais semelhantes das memórias de tradução, tanto da memória de tradução interna do projecto criada em tempo real à medida que traduz o seu projecto, como das memórias de tradução acessórias que importou dos seus trabalhos anteriores, ou que recebeu do seu cliente ou agência de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094834Z" creationid="Pedro Albuquerque" creationdate="20210504T094834Z">
@@ -27291,6 +27307,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090642Z" creationid="Pedro Albuquerque" creationdate="20210505T090642Z">
+        <seg>Quando se passa para o segmento seguinte, a primeira correspondência aproximada (aquela com a melhor percentagem de correspondência) é automaticamente seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085809Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -28114,6 +28138,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094536Z" creationid="Pedro Albuquerque" creationdate="20210425T094536Z">
         <seg>Pode até considerar a remoção daqueles que já não são necessários, após ter utilizado o seu conteúdo para preencher o ficheiro &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090709Z" creationid="Pedro Albuquerque" creationdate="20210505T090709Z">
+        <seg>Pode seleccionar uma correspondência diferente, premindo &lt;g0&gt;Ctrl+2, 3, 4, ou 5&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
