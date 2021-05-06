@@ -1592,6 +1592,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110250Z" creationid="Pedro Albuquerque" creationdate="20210506T110250Z">
+        <seg>(A definição de "único" é sensível a maiúsculas e minúsculas: "Correr" e "correr" são tratados como sendo diferentes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074406Z" creationid="Pedro Albuquerque" creationdate="20210421T074406Z">
@@ -10584,6 +10592,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110146Z" creationid="Pedro Albuquerque" creationdate="20210506T110146Z">
+        <seg>As entradas dos ficheiros incluem os seus nomes, tipos de filtros de ficheiros, a sua codificação e o número de segmentos que cada ficheiro contém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File format</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100809Z" creationid="Pedro Albuquerque" creationdate="20210422T100809Z">
@@ -14773,6 +14789,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110100Z" creationid="Pedro Albuquerque" creationdate="20210506T110100Z">
+        <seg>Também é possível alterar a posição de um nome de ficheiro, clicando-o e premindo os botões &lt;e0&gt;Mover ...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be obtained using the git command:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090326Z" creationid="Pedro Albuquerque" creationdate="20210506T090326Z">
@@ -18042,6 +18066,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074327Z" creationid="Pedro Albuquerque" creationdate="20210421T074327Z">
         <seg>Nota: a definição da codificação do ficheiro-fonte só afecta os ficheiros HTML que não têm declaração de codificação no seu interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110024Z" creationid="Pedro Albuquerque" creationdate="20210506T110024Z">
+        <seg>Nota: os nomes dos ficheiros (na primeira coluna) podem ser ordenados por ordem alfabética clicando no cabeçalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22172,6 +22204,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100801Z" creationid="Pedro Albuquerque" creationdate="20210422T100801Z">
         <seg>Clique com o botão direito do rato sobre o termo sublinhado e seleccione um termo-alvo para o inserir na posição do cursor na parte alvo do segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110132Z" creationid="Pedro Albuquerque" creationdate="20210506T110132Z">
+        <seg>Ao clicar com o botão direito do rato sobre um nome de ficheiro abre um menu que permite abrir o ficheiro-fonte e (se existir) o ficheiro-alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27093,6 +27133,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T160906Z" creationid="Pedro Albuquerque" creationdate="20210421T160906Z">
         <seg>O servidor não é um servidor Apertium válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110233Z" creationid="Pedro Albuquerque" creationdate="20210506T110233Z">
+        <seg>O conjunto de segmentos &lt;e0&gt;únicos&lt;/e0&gt; é calculado pegando em todos os segmentos e removendo todos os segmentos duplicados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32196,6 +32244,14 @@ script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110013Z" creationid="Pedro Albuquerque" creationdate="20210506T110013Z">
+        <seg>Pode seleccionar um ficheiro com as teclas &lt;k1&gt;Acima&lt;/k1&gt; e &lt;k2&gt;Abaixo&lt;/k2&gt;, e abri-lo para tradução premindo &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173720Z" creationid="Pedro Albuquerque" creationdate="20210423T173720Z">
@@ -34830,6 +34886,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090955Z" creationid="Pedro Albuquerque" creationdate="20210505T090955Z">
         <seg>a percentagem calculada sem lematização e ainda ignorando etiquetas e números (geralmente ligeiramente mais baixos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110201Z" creationid="Pedro Albuquerque" creationdate="20210506T110201Z">
+        <seg>o número total de segmentos, o número de segmentos únicos em todo o projecto e o número de segmentos únicos já traduzidos são mostrados na parte inferior</seg>
       </tuv>
     </tu>
     <tu>
