@@ -5006,6 +5006,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084101Z" creationid="Pedro Albuquerque" creationdate="20210506T084101Z">
+        <seg>Com base nas suas escolhas, recomendamos-lhe que utilize:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095736Z" creationid="Pedro Albuquerque" creationdate="20210424T095736Z">
@@ -8348,6 +8356,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084114Z" creationid="Pedro Albuquerque" creationdate="20210506T084114Z">
+        <seg>Transferir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124657Z" creationid="Pedro Albuquerque" creationdate="20210420T124657Z">
@@ -11382,6 +11398,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084030Z" creationid="Pedro Albuquerque" creationdate="20210506T084030Z">
+        <seg>No entanto, o manual do utilizador pode já não estar actualizado (e por isso possivelmente confuso), e alguns problemas menores são possíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085524Z" creationid="Pedro Albuquerque" creationdate="20210425T085524Z">
@@ -12155,6 +12179,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114421Z" creationid="Pedro Albuquerque" creationdate="20210423T114421Z">
         <seg>Se esta opção estiver marcada, o OmegaT não se lembrará da chave de acesso entre sessões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084138Z" creationid="Pedro Albuquerque" creationdate="20210506T084138Z">
+        <seg>Se esta versão não estiver disponível, pode tentar &lt;a0&gt;transferir a versão não assinada&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15886,6 +15918,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173429Z" creationid="Pedro Albuquerque" creationdate="20210421T173429Z">
         <seg>Tradução automática neural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084040Z" creationid="Pedro Albuquerque" creationdate="20210506T084040Z">
+        <seg>No entanto, as versões "mais recentes" do OmegaT são normalmente muito estáveis e são recomendadas para qualquer utilizador que já tenha alguma experiência com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31462,6 +31502,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072922Z" creationid="Pedro Albuquerque" creationdate="20210421T072922Z">
         <seg>slf4j (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084108Z" creationid="Pedro Albuquerque" creationdate="20210506T084108Z">
+        <seg>mesma versão</seg>
       </tuv>
     </tu>
     <tu>
