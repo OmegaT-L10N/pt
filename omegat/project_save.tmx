@@ -3866,6 +3866,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100504Z" creationid="Pedro Albuquerque" creationdate="20210506T100504Z">
+        <seg>Adicionar números a todos os segmentos, tornando-os todos "únicos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074438Z" creationid="Pedro Albuquerque" creationdate="20210421T074438Z">
@@ -3878,6 +3886,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T105530Z" creationid="Pedro Albuquerque" creationdate="20210425T105530Z">
         <seg>Adicionar padrões usando caracteres universais (estilo Formiga Apache): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100453Z" creationid="Pedro Albuquerque" creationdate="20210506T100453Z">
+        <seg>Acrescentar termos a um glossário enquanto se traduz em OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6130,6 +6146,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101954Z" creationid="Pedro Albuquerque" creationdate="20210424T101954Z">
         <seg>Verificar espaços à volta de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100523Z" creationid="Pedro Albuquerque" creationdate="20210506T100523Z">
+        <seg>Verificar ortografia (vários procedimentos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20960,6 +20984,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100514Z" creationid="Pedro Albuquerque" creationdate="20210506T100514Z">
+        <seg>Remover todo o texto excepto etiquetas, ou todas as etiquetas excepto texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T102658Z" creationid="Pedro Albuquerque" creationdate="20210424T102658Z">
@@ -21444,6 +21476,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093526Z" creationid="Pedro Albuquerque" creationdate="20210425T090807Z">
         <seg>Reutilizar as memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100525Z" creationid="Pedro Albuquerque" creationdate="20210506T100525Z">
+        <seg>Reviews of OmegaT</seg>
       </tuv>
     </tu>
     <tu>
