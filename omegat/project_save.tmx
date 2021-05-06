@@ -11138,6 +11138,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102725Z" creationid="Pedro Albuquerque" creationdate="20210506T102725Z">
+        <seg>Para memórias de tradução em pastas com um nome &lt;f0&gt;penalty-xxx&lt;/f0&gt; (com xxx entre 0 e 100), as correspondências serão degradadas de acordo com o nome da pasta: uma correspondência a 100% em qualquer uma das TMs, residente numa pasta chamada &lt;f1&gt;penalty-30&lt;/f1&gt;, por exemplo, será reduzida para uma correspondência a 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format, extensions and expected encoding</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101044Z" creationid="Pedro Albuquerque" creationdate="20210422T101044Z">
@@ -14093,6 +14101,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102821Z" creationid="Pedro Albuquerque" creationdate="20210506T102821Z">
+        <seg>Inicialmente vazia, esta pasta conterá dicionários que adicionou ao projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially load this many segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T093302Z" creationid="Pedro Albuquerque" creationdate="20210424T093302Z">
@@ -14859,6 +14875,14 @@ dentro da pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170017Z" creationid="Pedro Albuquerque" creationdate="20210420T170017Z">
         <seg>Não foi possível criar documentos traduzidos, porque algumas etiquetas estão em falta ou danificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102859Z" creationid="Pedro Albuquerque" creationdate="20210506T102859Z">
+        <seg>Conterá glossários a utilizar no projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22626,6 +22650,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102830Z" creationid="Pedro Albuquerque" creationdate="20210506T102830Z">
+        <seg>Ver &lt;l0&gt;Dicionários&lt;/l0&gt; para mais informações sobre este assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074742Z" creationid="Pedro Albuquerque" creationdate="20210505T074742Z">
@@ -23814,6 +23846,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071953Z" creationid="Pedro Albuquerque" creationdate="20210424T071953Z">
         <seg>Por vezes, pode desejar renomear os ficheiros que traduz automaticamente, por exemplo, acrescentando um código linguístico após o nome do ficheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102644Z" creationid="Pedro Albuquerque" creationdate="20210506T102644Z">
+        <seg>Por vezes, é útil distinguir entre memórias de tradução de alta qualidade e aquelas que, devido ao assunto, cliente, estado de revisão, etc., são menos fiáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25597,6 +25637,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102630Z" creationid="Pedro Albuquerque" creationdate="20210506T102630Z">
+        <seg>O fundo é restaurado ao normal quando sai do segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083340Z" creationid="Pedro Albuquerque" creationdate="20210504T083340Z">
@@ -26429,6 +26477,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092053Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>As senhas não coincidem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102807Z" creationid="Pedro Albuquerque" creationdate="20210506T102807Z">
+        <seg>A penalização aplica-se às três percentagens de correspondência: as correspondências 75, 80, 90 serão, neste caso, reduzidas para 45, 50, 60.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27679,6 +27735,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111102Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Esta funcionalidade destina-se à recolha de ficheiros-fonte, mas não se limita aos ficheiros-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102842Z" creationid="Pedro Albuquerque" creationdate="20210506T102842Z">
+        <seg>Esta pasta está inicialmente vazia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32552,6 +32616,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102809Z" creationid="Pedro Albuquerque" creationdate="20210506T102809Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091935Z" creationid="Pedro Albuquerque" creationdate="20210504T091935Z">
@@ -32860,6 +32932,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090327Z" creationid="Pedro Albuquerque" creationdate="20210506T090327Z">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102831Z" creationid="Pedro Albuquerque" creationdate="20210506T102831Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -34310,6 +34390,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102546Z" creationid="Pedro Albuquerque" creationdate="20210506T102546Z">
         <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102630Z" creationid="Pedro Albuquerque" creationdate="20210506T102630Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
