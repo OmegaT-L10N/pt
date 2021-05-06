@@ -4614,6 +4614,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094513Z" creationid="Pedro Albuquerque" creationdate="20210506T094513Z">
+        <seg>Extensão Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092627Z" creationid="Pedro Albuquerque" creationdate="20210422T092627Z">
@@ -5306,6 +5314,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065011Z" creationid="Pedro Albuquerque" creationdate="20210422T065011Z">
         <seg>Navegar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094541Z" creationid="Pedro Albuquerque" creationdate="20210506T094541Z">
+        <seg>Extensão para navegador web</seg>
       </tuv>
     </tu>
     <tu>
@@ -10048,6 +10064,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094551Z" creationid="Pedro Albuquerque" creationdate="20210506T094551Z">
+        <seg>Acesso rápido aos sítios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T173245Z" creationid="Pedro Albuquerque" creationdate="20210420T173245Z">
@@ -13933,6 +13957,22 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094522Z" creationid="Pedro Albuquerque" creationdate="20210506T094522Z">
+        <seg>Integra a funcionalidade de tradução automática Apertium no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094640Z" creationid="Pedro Albuquerque" creationdate="20210506T094640Z">
+        <seg>Integra o motor de tradução automática neural TexTra no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103651Z" creationid="Pedro Albuquerque" creationdate="20210424T103651Z">
@@ -17454,6 +17494,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094452Z" creationid="Pedro Albuquerque" creationdate="20210506T094452Z">
+        <seg>Extensão Filtros Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105627Z" creationid="Pedro Albuquerque" creationdate="20210424T105627Z">
@@ -18698,8 +18746,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094316Z" creationid="Pedro Albuquerque" creationdate="20210506T094316Z">
-        <seg>Other OmegaT resources</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094428Z" creationid="Pedro Albuquerque" creationdate="20210506T094316Z">
+        <seg>Outros recursos do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19354,6 +19402,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124835Z" creationid="Pedro Albuquerque" creationdate="20210420T124835Z">
         <seg>Por favor, insira ou cole o URL da página mediawiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094434Z" creationid="Pedro Albuquerque" creationdate="20210506T094434Z">
+        <seg>Extensões</seg>
       </tuv>
     </tu>
     <tu>
@@ -20024,6 +20080,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092619Z" creationid="Pedro Albuquerque" creationdate="20210422T092619Z">
         <seg>Fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094506Z" creationid="Pedro Albuquerque" creationdate="20210506T094506Z">
+        <seg>Fornece filtros para o tratamento de outros formatos de ficheiro, incluindo Trados TTX, e Markdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24046,6 +24110,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180826Z" creationid="Pedro Albuquerque" creationdate="20210421T180826Z">
         <seg>A testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094619Z" creationid="Pedro Albuquerque" creationdate="20210506T094619Z">
+        <seg>Extensão TexTra</seg>
       </tuv>
     </tu>
     <tu>
@@ -29335,6 +29407,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103659Z" creationid="Pedro Albuquerque" creationdate="20210424T103659Z">
         <seg>Gestor do sítio web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094613Z" creationid="Pedro Albuquerque" creationdate="20210506T094613Z">
+        <seg>O suporte a sítios web pode ser programado em Groovy.</seg>
       </tuv>
     </tu>
     <tu>
