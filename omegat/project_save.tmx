@@ -6778,6 +6778,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093748Z" creationid="Pedro Albuquerque" creationdate="20210506T093748Z">
+        <seg>Podem também existir funções ou soluções alternativas convenientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103414Z" creationid="Pedro Albuquerque" creationdate="20210424T103414Z">
@@ -7854,8 +7862,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT"s developers.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093802Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>A discussão técnica detalhada das alterações é melhor conduzida directamente com os programadores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10732,8 +10740,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>For this purpose, a dedicated &lt;a0&gt;developers" mailing list&lt;/a0&gt; exists.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093831Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Para este fim, existe uma lista de correio dedicada aos &lt;a0&gt;programadores&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11682,6 +11690,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085150Z" creationid="Pedro Albuquerque" creationdate="20210506T085150Z">
         <seg>No entanto, alguns utilizadores podem enfrentar restrições (impostas pelos seus sistemas operativos ou versão Java) que podem resultar numa preferência por uma versão mais antiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094035Z" creationid="Pedro Albuquerque" creationdate="20210506T094035Z">
+        <seg>No entanto, a apresentação de um RFE não significa que a característica ou melhoria desejada será automaticamente implementada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,6 +15195,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094013Z" creationid="Pedro Albuquerque" creationdate="20210506T094013Z">
+        <seg>Literalmente centenas de RFEs já foram feitos, e muitos deles já foram implementados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -18084,6 +18108,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075208Z" creationid="Pedro Albuquerque" creationdate="20210427T075208Z">
         <seg>Uma vez o &lt;a0&gt;OmegaT&lt;/a0&gt; instalado, pode iniciá-lo directamente a partir da linha de comandos, pode criar um script que inclua parâmetros de lançamento para a linha de comandos ou pode clicar em &lt;f1&gt;OmegaT.jar&lt;/f1&gt; para o iniciar directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093852Z" creationid="Pedro Albuquerque" creationdate="20210506T093852Z">
+        <seg>Uma vez que um utilizador tenha formulado uma proposta de alteração ou melhoramento ao OmegaT, existe um procedimento definido para a sua apresentação à equipa de desenvolvimento para consideração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25345,6 +25377,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093932Z" creationid="Pedro Albuquerque" creationdate="20210506T093932Z">
+        <seg>O procedimento é denominado um &lt;a0&gt;"RFE" (Request for Feature Enhancement) e é gerido aqui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113711Z" creationid="Pedro Albuquerque" creationdate="20210423T113711Z">
@@ -26431,6 +26471,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181735Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Este documento é o guia oficial do utilizador do OmegaT, a ferramenta gratuita de tradução assistida por computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093904Z" creationid="Pedro Albuquerque" creationdate="20210506T093904Z">
+        <seg>Isto permite que as numerosas sugestões sejam mais facilmente geridas.</seg>
       </tuv>
     </tu>
     <tu>
