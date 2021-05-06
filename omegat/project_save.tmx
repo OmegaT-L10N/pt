@@ -2012,6 +2012,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090904Z" creationid="Pedro Albuquerque" creationdate="20210506T090904Z">
+        <seg>...e cerca de 30 outros formatos de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T095918Z" creationid="Pedro Albuquerque" creationdate="20210422T101943Z">
@@ -6488,6 +6496,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085508Z" creationid="Pedro Albuquerque" creationdate="20210422T085508Z">
         <seg>Modo de comparação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091005Z" creationid="Pedro Albuquerque" creationdate="20210506T091005Z">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13685,6 +13701,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090956Z" creationid="Pedro Albuquerque" creationdate="20210506T090956Z">
+        <seg>Correcção ortográfica integral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103651Z" creationid="Pedro Albuquerque" creationdate="20210424T103651Z">
@@ -19022,6 +19046,14 @@ necessário tomar medidas adicionais.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090913Z" creationid="Pedro Albuquerque" creationdate="20210506T090913Z">
+        <seg>Ferramentas poderosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085026Z" creationid="Pedro Albuquerque" creationdate="20210506T085026Z">
@@ -23086,6 +23118,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090944Z" creationid="Pedro Albuquerque" creationdate="20210506T090944Z">
+        <seg>Apoio aos idiomas da direita para a esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -27623,6 +27663,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063000Z" creationid="Pedro Albuquerque" creationdate="20210421T063000Z">
         <seg>Carácter {0} ({1}) inesperado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090923Z" creationid="Pedro Albuquerque" creationdate="20210506T090923Z">
+        <seg>Suporte Unicode (UTF-8): pode ser utilizado com alfabetos não latinos</seg>
       </tuv>
     </tu>
     <tu>
