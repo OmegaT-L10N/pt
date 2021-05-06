@@ -10378,6 +10378,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091934Z" creationid="Pedro Albuquerque" creationdate="20210506T091934Z">
+        <seg>Para os defensores de programas de código aberto, esta liberdade é ainda mais importante do que a isenção de ter de pagar seja o que for.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174815Z" creationid="Pedro Albuquerque" creationdate="20210420T174815Z">
@@ -17574,6 +17582,14 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091724Z" creationid="Pedro Albuquerque" creationdate="20210506T091724Z">
+        <seg>OmegaT é um programa livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071840Z" creationid="Pedro Albuquerque" creationdate="20210424T071840Z">
@@ -17586,6 +17602,14 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084442Z" creationid="Pedro Albuquerque" creationdate="20210506T084442Z">
         <seg>O OmegaT não é particularmente difícil de instalar ou utilizar, mas requer alguma vontade de ler e seguir as instruções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091852Z" creationid="Pedro Albuquerque" creationdate="20210506T091852Z">
+        <seg>OmegaT é um programa de código-fonte aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17630,8 +17654,8 @@ ser iniciado.</seg>
       <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>OmegaT isn"t just a product; it"s an exciting project, and you can be part of it.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091700Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>OmegaT não é apenas um produto; é um projecto excitante do qual pode fazer parte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23804,6 +23828,22 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091914Z" creationid="Pedro Albuquerque" creationdate="20210506T091914Z">
+        <seg>Isto significa que se se sentir para tal inclinado, poderá modificar o OmegaT para se adaptar às suas próprias exigências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091802Z" creationid="Pedro Albuquerque" creationdate="20210506T091802Z">
+        <seg>Isso significa que os utilizadores são livres de o transferir e utilizar com muito poucas restrições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -29646,6 +29686,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093949Z" creationid="Pedro Albuquerque" creationdate="20210422T093949Z">
         <seg>Já tem a última versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091813Z" creationid="Pedro Albuquerque" creationdate="20210506T091813Z">
+        <seg>É também livre de o copiar e de o transmitir a outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
