@@ -4172,8 +4172,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103517Z" creationid="Pedro Albuquerque" creationdate="20210506T103517Z">
-        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103641Z" creationid="Pedro Albuquerque" creationdate="20210506T103517Z">
+        <seg>O alinhamento envolve a criação de uma memória de tradução bilingue a partir de documentos monolingues que já foram traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,6 +12751,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103726Z" creationid="Pedro Albuquerque" creationdate="20210506T103726Z">
+        <seg>Se o alinhamento parecer que pode ser melhorado, tente alterar os parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175037Z" creationid="Pedro Albuquerque" creationdate="20210423T175037Z">
@@ -13589,6 +13597,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104022Z" creationid="Pedro Albuquerque" creationdate="20210506T104022Z">
+        <seg>Em modo de comparação &lt;g0&gt;Global&lt;/g0&gt;, os textos são avaliados globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093449Z" creationid="Pedro Albuquerque" creationdate="20210422T093449Z">
@@ -13745,6 +13761,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071809Z" creationid="Pedro Albuquerque" creationdate="20210425T071809Z">
         <seg>Em muitos casos, contudo, é necessário incorporar texto LTR no texto RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103743Z" creationid="Pedro Albuquerque" creationdate="20210506T103743Z">
+        <seg>Na maioria dos casos, quanto menor for a pontuação &lt;g0&gt;Média&lt;/g0&gt;, melhor será o alinhamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24466,6 +24490,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103716Z" creationid="Pedro Albuquerque" creationdate="20210506T103716Z">
+        <seg>Passo 1: ajustar os parâmetros de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T103639Z" creationid="Pedro Albuquerque" creationdate="20210425T103639Z">
@@ -28335,6 +28367,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T060906Z" creationid="Pedro Albuquerque" creationdate="20210427T060906Z">
         <seg>Para aceder a &lt;f0&gt;Configuration.properties&lt;/f0&gt;, clique com o botão direito do rato em &lt;f1&gt;OmegaT.app&lt;/f1&gt; e seleccione "Mostrar conteúdo do pacote", depois abra o ficheiro em &lt;f2&gt;Conteúdos/Recursos&lt;/f2&gt;, clicando com o botão direito do rato sobre ele e seleccionando o editor de texto da sua escolha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103705Z" creationid="Pedro Albuquerque" creationdate="20210506T103705Z">
+        <seg>Para aceder a esta janela, seleccionar &lt;m0&gt; &lt;g1&gt;Ferramentas&lt;/g1&gt; &lt;g2&gt;Alinhar ficheiros...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
