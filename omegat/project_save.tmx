@@ -5350,6 +5350,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100845Z" creationid="Pedro Albuquerque" creationdate="20210506T100845Z">
+        <seg>Breve introdução ao OmegaT, 2009 (em vietnamita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054306Z" creationid="Pedro Albuquerque" creationdate="20210421T054306Z">
@@ -5438,6 +5446,38 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100629Z" creationid="Pedro Albuquerque" creationdate="20210506T100629Z">
+        <seg>Por Arno Peters e Mariëtte van Drunen (em holandês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100734Z" creationid="Pedro Albuquerque" creationdate="20210506T100734Z">
+        <seg>Por Asier Sarasua Garmendia (em basco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100810Z" creationid="Pedro Albuquerque" creationdate="20210506T100753Z">
+        <seg>Por Corinne McKay (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100820Z" creationid="Pedro Albuquerque" creationdate="20210506T100756Z">
+        <seg>Por Leo Viëtor (em holandês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123242Z" creationid="Pedro Albuquerque" creationdate="20210505T123242Z">
@@ -5470,10 +5510,34 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100748Z" creationid="Pedro Albuquerque" creationdate="20210506T100739Z">
+        <seg>Por Takashi Miyamoto (em japonês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Vladimir Zhdanov (in Russian).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122725Z" creationid="Pedro Albuquerque" creationdate="20210505T122725Z">
         <seg>Por Vladimir Zhdanov (em Russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100659Z" creationid="Pedro Albuquerque" creationdate="20210506T100659Z">
+        <seg>Por Václav Hejda (em checo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100721Z" creationid="Pedro Albuquerque" creationdate="20210506T100711Z">
+        <seg>Por Yutaka Kachi (em japonês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8048,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062248Z" creationid="Pedro Albuquerque" creationdate="20210422T062248Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100726Z" creationid="Pedro Albuquerque" creationdate="20210506T100712Z">
+        <seg>Descrição do OmegaT (2008).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13317,6 +13389,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100831Z" creationid="Pedro Albuquerque" creationdate="20210506T100800Z">
+        <seg>No PCW.GR (em grego).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065730Z" creationid="Pedro Albuquerque" creationdate="20210425T065730Z">
@@ -14193,6 +14273,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091107Z" creationid="Pedro Albuquerque" creationdate="20210506T091107Z">
         <seg>Interligação ao Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100614Z" creationid="Pedro Albuquerque" creationdate="20210506T100614Z">
+        <seg>Introdução ao OmegaT (2.5.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21480,10 +21568,58 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100707Z" creationid="Pedro Albuquerque" creationdate="20210506T100707Z">
+        <seg>Revisão ao OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100737Z" creationid="Pedro Albuquerque" creationdate="20210506T100737Z">
+        <seg>Revisão ao OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100640Z" creationid="Pedro Albuquerque" creationdate="20210506T100640Z">
+        <seg>Revisão ao OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100752Z" creationid="Pedro Albuquerque" creationdate="20210506T100741Z">
+        <seg>Revisão ao OmegaT, 11 April 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100759Z" creationid="Pedro Albuquerque" creationdate="20210506T100759Z">
+        <seg>Revisão ao OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100756Z" creationid="Pedro Albuquerque" creationdate="20210506T100756Z">
+        <seg>Revisão ao OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reviews of OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100525Z" creationid="Pedro Albuquerque" creationdate="20210506T100525Z">
-        <seg>Reviews of OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100606Z" creationid="Pedro Albuquerque" creationdate="20210506T100525Z">
+        <seg>Revisões do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
