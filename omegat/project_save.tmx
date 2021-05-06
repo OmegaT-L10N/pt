@@ -12905,8 +12905,16 @@ pré-definições como resultado da mudança de localização.</seg>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If they &lt;e0&gt;don"t need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102447Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se não &lt;e0&gt;não precisarem&lt;/e0&gt; de permanecer imunes a posteriores alterações, remova a TMX de /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102514Z" creationid="Pedro Albuquerque" creationdate="20210506T102514Z">
+        <seg>Se &lt;e0&gt; precisam&lt;/e0&gt; de se manter imunes a novas alterações, então mantenha a TMX em /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13841,6 +13849,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091226Z" creationid="Pedro Albuquerque" creationdate="20210505T091226Z">
         <seg>No exemplo acima, o segmento-fonte é &lt;e0&gt;Comando do menu contextual&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102604Z" creationid="Pedro Albuquerque" creationdate="20210506T102604Z">
+        <seg>No painel do editor, quando uma correspondência é inserida a partir de uma TMX contida numa pasta chamada &lt;f0&gt;mt&lt;/f0&gt;, o fundo do segmento activo é alterado para vermelho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16035,6 +16051,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102339Z" creationid="Pedro Albuquerque" creationdate="20210506T102339Z">
+        <seg>Tome decisões sobre a imunidade dos segmentos forçados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T090456Z" creationid="Pedro Albuquerque" creationdate="20210425T090456Z">
@@ -17848,8 +17872,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren"t kept at all.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102545Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Nota: se a TMX for removida de /tm/enforce antes do passo 3, as execuções não são de todo "mantidas".</seg>
       </tuv>
     </tu>
     <tu>
@@ -20848,6 +20872,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102042Z" creationid="Pedro Albuquerque" creationdate="20210506T102042Z">
         <seg>Ponha o TMX em /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102312Z" creationid="Pedro Albuquerque" creationdate="20210506T102312Z">
+        <seg>Ponha a TMX em /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27923,6 +27955,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102323Z" creationid="Pedro Albuquerque" creationdate="20210506T102323Z">
+        <seg>Isto modifica &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172712Z" creationid="Pedro Albuquerque" creationdate="20210423T172712Z">
@@ -34262,6 +34302,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102228Z" creationid="Pedro Albuquerque" creationdate="20210506T102228Z">
         <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102546Z" creationid="Pedro Albuquerque" creationdate="20210506T102546Z">
+        <seg>tm/mt</seg>
       </tuv>
     </tu>
     <tu>
