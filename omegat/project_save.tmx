@@ -3154,6 +3154,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105746Z" creationid="Pedro Albuquerque" creationdate="20210506T105746Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; é possível inibir a exibição da janela ao abrir, definindo &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; para &lt;e2&gt;false&lt;/e2&gt; em &lt;f3&gt;omegat.prefs&lt;/f3&gt; ficheiro (acessível por &lt;m4&gt; &lt;g5&gt;Opções&lt;/g5&gt; &lt;g6&gt;Aceder à pasta de configurações&lt;/g6&gt; &lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104605Z" creationid="Pedro Albuquerque" creationdate="20210425T104605Z">
@@ -6610,6 +6618,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083016Z" creationid="Pedro Albuquerque" creationdate="20210423T083016Z">
         <seg>Clicar em &lt;g0&gt;Instalar novo dicionário&lt;/g0&gt; abrirá a janela do instalador de dicionários, onde poderá seleccionar os dicionários que deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105928Z" creationid="Pedro Albuquerque" creationdate="20210506T105928Z">
+        <seg>Clicando em qualquer ficheiro, abri-lo-á para tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25525,6 +25541,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105827Z" creationid="Pedro Albuquerque" creationdate="20210506T105827Z">
+        <seg>A janela &lt;g2&gt;Ficheiros do projecto&lt;/g2&gt; mostra a seguinte informação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071205Z" creationid="Pedro Albuquerque" creationdate="20210425T071205Z">
@@ -27579,6 +27603,14 @@ do OmegaT não pode ser determinada de forma fiável.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105853Z" creationid="Pedro Albuquerque" creationdate="20210506T105853Z">
+        <seg>Estes são os ficheiros presentes na pasta /source, num formato que o OmegaT é capaz de reconhecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T105719Z" creationid="Pedro Albuquerque" creationdate="20210504T105719Z">
@@ -28247,6 +28279,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102323Z" creationid="Pedro Albuquerque" creationdate="20210506T102323Z">
         <seg>Isto modifica &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105908Z" creationid="Pedro Albuquerque" creationdate="20210506T105908Z">
+        <seg>Este número é apresentado entre parênteses, ao lado do título "Ficheiro de projecto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -29531,6 +29571,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105949Z" creationid="Pedro Albuquerque" creationdate="20210506T105949Z">
+        <seg>Escrever qualquer texto abrirá um campo &lt;g0&gt;Filtro&lt;/g0&gt; onde partes de nomes de ficheiros podem ser inseridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typo3 LocManager</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070403Z" creationid="Pedro Albuquerque" creationdate="20210421T070403Z">
@@ -30153,6 +30201,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T101212Z" creationid="Pedro Albuquerque" creationdate="20210426T070043Z">
         <seg>Utilizar o filtro padrão (entrada PDF) do &lt;a0&gt;OmegaT's&lt;/a0&gt;, traduzir, criar um ficheiro de destino (será um ficheiro de texto simples), adicionar formatação relevante e itens manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105804Z" creationid="Pedro Albuquerque" creationdate="20210506T105804Z">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; para abrir e &lt;k1&gt;Esc&lt;/k1&gt; para fechar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34746,6 +34802,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105916Z" creationid="Pedro Albuquerque" creationdate="20210506T105916Z">
+        <seg>a lista de todos os ficheiros traduzíveis no projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the percentage calculated with stemming</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090913Z" creationid="Pedro Albuquerque" creationdate="20210505T090913Z">
@@ -34766,6 +34830,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T090955Z" creationid="Pedro Albuquerque" creationdate="20210505T090955Z">
         <seg>a percentagem calculada sem lematização e ainda ignorando etiquetas e números (geralmente ligeiramente mais baixos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105837Z" creationid="Pedro Albuquerque" creationdate="20210506T105837Z">
+        <seg>o número total de ficheiros traduzíveis no projecto.</seg>
       </tuv>
     </tu>
     <tu>
