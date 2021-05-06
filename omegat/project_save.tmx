@@ -2476,6 +2476,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111633Z" creationid="Pedro Albuquerque" creationdate="20210506T111633Z">
+        <seg>&lt;e0&gt;Fechar:&lt;/e0&gt; fecha a janela sem qualquer alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174419Z" creationid="Pedro Albuquerque" creationdate="20210423T174419Z">
@@ -10188,6 +10196,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111752Z" creationid="Pedro Albuquerque" creationdate="20210506T111752Z">
+        <seg>Excepto uma: marque &lt;e0&gt;Não traduzidos&lt;/e0&gt; para operar a procura e substituição também em segmentos que ainda não tenham sido traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T073319Z" creationid="Pedro Albuquerque" creationdate="20210421T073319Z">
@@ -12795,6 +12811,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115035Z" creationid="Pedro Albuquerque" creationdate="20210423T115035Z">
         <seg>Se necessário, pode seleccionar um domínio específico para limitar o volume de dados enviados e recebidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111845Z" creationid="Pedro Albuquerque" creationdate="20210506T111845Z">
+        <seg>Se não for feita qualquer substituição a um determinado segmento, o segmento-alvo será "esvaziado", ou seja, permanecerá sem tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22986,6 +23010,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111647Z" creationid="Pedro Albuquerque" creationdate="20210506T111647Z">
+        <seg>Opções de procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111719Z" creationid="Pedro Albuquerque" creationdate="20210506T111719Z">
+        <seg>As opções de procura são semelhantes às mostradas na &lt;l0&gt;janela de procura&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062705Z" creationid="Pedro Albuquerque" creationdate="20210421T062705Z">
@@ -29159,6 +29199,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T062351Z" creationid="Pedro Albuquerque" creationdate="20210427T062351Z">
         <seg>Para iniciar múltiplas instâncias do &lt;f0&gt;OmegaT.app&lt;/f0&gt;, clique duas vezes no ficheiro &lt;e1&gt;OmegaT&lt;/e1&gt; localizado em &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111827Z" creationid="Pedro Albuquerque" creationdate="20210506T111827Z">
+        <seg>Para tornar possível (embora a procura e substituição funcione apenas em memória), o OmegaT copiará o segmento-fonte para o segmento-alvo antes de ocorrer a operação de substituição.</seg>
       </tuv>
     </tu>
     <tu>
