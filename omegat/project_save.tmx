@@ -2196,6 +2196,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092108Z" creationid="Pedro Albuquerque" creationdate="20210506T092108Z">
+        <seg>A &lt;a0&gt;documentação&lt;/a0&gt; é muito importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090535Z" creationid="Pedro Albuquerque" creationdate="20210506T090535Z">
@@ -4300,8 +4308,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Although many users are aware of this, their reaction is often "But I can"t program!".</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092010Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Embora muitos utilizadores estejam cientes disto, a sua reacção é frequentemente "Mas eu não consigo programar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5166,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092042Z" creationid="Pedro Albuquerque" creationdate="20210506T092042Z">
+        <seg>Abaixo está uma lista de áreas para as quais mais voluntários seriam mais do que bem-vindos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063528Z" creationid="Pedro Albuquerque" creationdate="20210422T063528Z">
@@ -5304,8 +5320,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>But programming isn"t the only job needing to be done.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092029Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Mas a programação não é o único trabalho que precisa de ser feito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8364,6 +8380,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092051Z" creationid="Pedro Albuquerque" creationdate="20210506T092051Z">
+        <seg>Autoria de documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103707Z" creationid="Pedro Albuquerque" creationdate="20210424T103707Z">
@@ -11378,6 +11402,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092144Z" creationid="Pedro Albuquerque" creationdate="20210506T092144Z">
+        <seg>Já pensou em escrever você mesmo alguma documentação para o utilizador?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -14195,8 +14227,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>It's a real eye-opener!</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>It"s a real eye-opener!</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092226Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>É um verdadeiro abridor de olhos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15328,6 +15360,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110319Z" creationid="Pedro Albuquerque" creationdate="20210421T110319Z">
         <seg>Regras definidas manualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092124Z" creationid="Pedro Albuquerque" creationdate="20210506T092124Z">
+        <seg>Muitos de vós que lerem isto serão tradutores que traduziram muita documentação do utilizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19520,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090711Z" creationid="Pedro Albuquerque" creationdate="20210506T090711Z">
         <seg>Características profissionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092021Z" creationid="Pedro Albuquerque" creationdate="20210506T092021Z">
+        <seg>A programação é certamente a função mais importante, e sem programação, não há programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24073,6 +24121,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182551Z" creationid="Pedro Albuquerque" creationdate="20210421T182551Z">
         <seg>O projecto OmegaT é mantido por um grupo informal e internacional de voluntários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091947Z" creationid="Pedro Albuquerque" creationdate="20210506T091947Z">
+        <seg>O projecto OmegaT beneficiaria de um maior apoio de voluntários em quase todas as áreas.</seg>
       </tuv>
     </tu>
     <tu>
