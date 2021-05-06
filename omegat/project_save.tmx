@@ -10492,8 +10492,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>For example, anyone is free to make changes to OmegaT"s program code and to submit these changes to the development team.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093418Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por exemplo, qualquer pessoa é livre de fazer alterações ao código de programa da OmegaT e de submeter estas alterações à equipa de desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10588,8 +10588,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT"s community of users.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093328Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por exemplo, nada impede um utilizador de escrever o seu próprio manual de utilizador ou um vídeo de demonstração para o OmegaT e, se o projecto o considerar remotamente útil, é provável que seja posto à disposição da comunidade de utilizadores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11610,6 +11610,14 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181344Z" creationid="Pedro Albuquerque" creationdate="20210421T181344Z">
         <seg>Guias práticos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093257Z" creationid="Pedro Albuquerque" creationdate="20210506T093257Z">
+        <seg>A forma como o fazem depende muito deles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13253,6 +13261,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093406Z" creationid="Pedro Albuquerque" creationdate="20210506T093406Z">
+        <seg>Em algumas áreas, é necessário algum grau de coordenação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095932Z" creationid="Pedro Albuquerque" creationdate="20210424T095932Z">
@@ -13433,6 +13449,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091210Z" creationid="Pedro Albuquerque" creationdate="20210504T091210Z">
         <seg>Neste modo, o OmegaT tentará traduzir os ficheiros em &lt;f0&gt;/source/&lt;/f0&gt; com as memórias de tradução disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093248Z" creationid="Pedro Albuquerque" creationdate="20210506T093248Z">
+        <seg>Por sua vez, são livres, e na verdade encorajados (mas não obrigados de forma alguma) a contribuir de novo para o projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18146,8 +18170,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Only if they are considered beneficial for OmegaT"s users, however, will the development team include them in OmegaT.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093453Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>No entanto, só se forem consideradas benéficas para os utilizadores do OmegaT, é que a equipa de desenvolvimento as incluirá no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24277,6 +24301,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093209Z" creationid="Pedro Albuquerque" creationdate="20210506T093209Z">
+        <seg>A filosofia do projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091947Z" creationid="Pedro Albuquerque" creationdate="20210506T091947Z">
@@ -25449,6 +25481,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093217Z" creationid="Pedro Albuquerque" creationdate="20210506T093217Z">
+        <seg>O mesmo espírito pode ser encontrado no âmbito do projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052058Z" creationid="Pedro Albuquerque" creationdate="20210422T052058Z">
@@ -26387,6 +26427,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093356Z" creationid="Pedro Albuquerque" creationdate="20210506T093356Z">
+        <seg>Esta abordagem de mãos-livres é descrita pelo actual coordenador do projecto OmegaT como "anarquia delegada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115404Z" creationid="Pedro Albuquerque" creationdate="20210426T115404Z">
@@ -26431,6 +26479,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054924Z" creationid="Pedro Albuquerque" creationdate="20210422T054924Z">
         <seg>Este é um ficheiro de projecto válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093200Z" creationid="Pedro Albuquerque" creationdate="20210506T093200Z">
+        <seg>Isto é descrito como "livre como na fala", em contraste com "cerveja grátis".</seg>
       </tuv>
     </tu>
     <tu>
@@ -28727,6 +28783,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093234Z" creationid="Pedro Albuquerque" creationdate="20210506T093234Z">
+        <seg>Os utilizadores são livres de transferir e utilizar o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085950Z" creationid="Pedro Albuquerque" creationdate="20210506T085950Z">
@@ -29415,6 +29479,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094026Z" creationid="Pedro Albuquerque" creationdate="20210504T094026Z">
         <seg>Sempre que quiser ver como será a sua tradução no seu formato final, prima &lt;k2&gt;Ctrl+D&lt;/k2&gt; para gerar os documentos traduzidos, que serão criados na sub-pasta &lt;f3&gt;/target/&lt;/f3&gt; da pasta do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093342Z" creationid="Pedro Albuquerque" creationdate="20210506T093342Z">
+        <seg>No que diz respeito às tarefas de rotina, aos voluntários que trabalham no projecto OmegaT é geralmente dada a maior liberdade possível na determinação da forma da sua contribuição.</seg>
       </tuv>
     </tu>
     <tu>
