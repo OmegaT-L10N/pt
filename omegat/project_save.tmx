@@ -3130,6 +3130,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085625Z" creationid="Pedro Albuquerque" creationdate="20210506T085625Z">
+        <seg>&lt;s0&gt;Utilizadores Linux&lt;/s0&gt;: a maioria das distribuições Linux são fornecidas com um Java Runtime Environment, mas algumas implementações open-source não funcionam correctamente com o OmegaT (embora isto possa não ser imediatamente visível).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123831Z" creationid="Pedro Albuquerque" creationdate="20210505T123831Z">
@@ -12327,6 +12335,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085639Z" creationid="Pedro Albuquerque" creationdate="20210506T085639Z">
+        <seg>Se é relativamente novo no Linux, aconselhamo-lo a seleccionar uma versão OmegaT com o JRE incluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124535Z" creationid="Pedro Albuquerque" creationdate="20210505T124535Z">
@@ -12339,6 +12355,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124228Z" creationid="Pedro Albuquerque" creationdate="20210505T124228Z">
         <seg>Se não tiver a certeza se um JRE adequado já está instalado no seu sistema, ainda pode transferir e instalar uma versão OmegaT com o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085547Z" creationid="Pedro Albuquerque" creationdate="20210506T085547Z">
+        <seg>Se não tiver a certeza se tem ou não uma versão adequada do JRE, seleccione uma versão com o JRE (ou a versão pré-definida).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12485,8 +12509,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT"s JRE will be installed separately and will not conflict with it.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085513Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se instalar a versão OmegaT com o JRE mesmo que o JRE já esteja instalado no seu computador, o JRE do OmegaT será instalado separadamente e não criará conflitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13893,6 +13917,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085523Z" creationid="Pedro Albuquerque" creationdate="20210506T085523Z">
+        <seg>Por conseguinte, é sempre seguro instalar a versão do OmegaT com JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091244Z" creationid="Pedro Albuquerque" creationdate="20210421T091244Z">
@@ -14539,8 +14571,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084811Z" creationid="Pedro Albuquerque" creationdate="20210506T084811Z">
-        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085424Z" creationid="Pedro Albuquerque" creationdate="20210506T084811Z">
+        <seg>Latest - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,6 +15800,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170329Z" creationid="Pedro Albuquerque" creationdate="20210420T170329Z">
         <seg>Mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085654Z" creationid="Pedro Albuquerque" creationdate="20210506T085654Z">
+        <seg>Os utilizadores mais experientes de Linux podem preferir instalar o Oracle (anteriormente Sun) JRE a nível do sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22620,8 +22660,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084657Z" creationid="Pedro Albuquerque" creationdate="20210506T084634Z">
-        <seg>Versão Standard - {{site.data.versions.standard.name}}</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085409Z" creationid="Pedro Albuquerque" creationdate="20210506T084634Z">
+        <seg>Standard - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
