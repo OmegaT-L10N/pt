@@ -2292,6 +2292,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100045Z" creationid="Pedro Albuquerque" creationdate="20210506T100045Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094209Z" creationid="Pedro Albuquerque" creationdate="20210506T094209Z">
@@ -2304,6 +2312,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095829Z" creationid="Pedro Albuquerque" creationdate="20210422T095829Z">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; detecta automaticamente os ficheiros de glossário nesta pasta quando um projecto é aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100046Z" creationid="Pedro Albuquerque" creationdate="20210506T100046Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3330,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100117Z" creationid="Pedro Albuquerque" creationdate="20210506T100117Z">
+        <seg>Um conjunto abrangente de utilitários para a preparação de ficheiros para tradução numa ferramenta CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T065941Z" creationid="Pedro Albuquerque" creationdate="20210425T065941Z">
@@ -3326,6 +3350,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110152Z" creationid="Pedro Albuquerque" creationdate="20210422T110152Z">
         <seg>Um símbolo de moeda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100139Z" creationid="Pedro Albuquerque" creationdate="20210506T100139Z">
+        <seg>Está disponível um tutorial detalhado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,6 +9216,14 @@ A sua página de ajuda não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100130Z" creationid="Pedro Albuquerque" creationdate="20210506T100130Z">
+        <seg>Permite a tradução de vários formatos de ficheiro que não podem ser tratados nativamente no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095502Z" creationid="Pedro Albuquerque" creationdate="20210424T095502Z">
@@ -10918,6 +10958,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T080059Z" creationid="Pedro Albuquerque" creationdate="20210505T080059Z">
         <seg>São detectados quatro tipos de problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100059Z" creationid="Pedro Albuquerque" creationdate="20210506T100059Z">
+        <seg>Alternativas (compatíveis) gratuitas ao Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17654,6 +17702,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100105Z" creationid="Pedro Albuquerque" creationdate="20210506T100105Z">
+        <seg>Okapi Framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105627Z" creationid="Pedro Albuquerque" creationdate="20210424T105627Z">
@@ -18436,6 +18492,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093736Z" creationid="Pedro Albuquerque" creationdate="20210506T093736Z">
         <seg>Uma razão para tal é que a função desejada pode já ter sido implementada, ou pode haver razões para que não possa ser implementada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100044Z" creationid="Pedro Albuquerque" creationdate="20210506T100044Z">
+        <seg>Repositórios online de dicionários ortográficos para utilização no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23570,6 +23634,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100033Z" creationid="Pedro Albuquerque" creationdate="20210506T100033Z">
+        <seg>Dicionários ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T101543Z" creationid="Pedro Albuquerque" creationdate="20210424T101543Z">
@@ -25295,6 +25367,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095943Z" creationid="Pedro Albuquerque" creationdate="20210506T095943Z">
+        <seg>Os ficheiros deste sítio, num pacote conveniente para aqueles que o desejem traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170819Z" creationid="Pedro Albuquerque" creationdate="20210423T170819Z">
@@ -26655,6 +26735,22 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095953Z" creationid="Pedro Albuquerque" creationdate="20210506T095953Z">
+        <seg>Programas de terceiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100024Z" creationid="Pedro Albuquerque" creationdate="20210506T100024Z">
+        <seg>Programas informáticos de terceiros para utilização com o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -27311,6 +27407,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093547Z" creationid="Pedro Albuquerque" creationdate="20210505T093547Z">
         <seg>Desta forma, o tradutor pode receber o contexto sobre o segmento a traduzir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095918Z" creationid="Pedro Albuquerque" creationdate="20210506T095918Z">
+        <seg>Este sítio web</seg>
       </tuv>
     </tu>
     <tu>
