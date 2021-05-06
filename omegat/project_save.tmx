@@ -5312,8 +5312,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>But I can"t program at all, I hear you say.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092847Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Estamos a ouvir "Mas não consigo programar de todo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8456,6 +8456,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091902Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Não perguntar antes de verificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092535Z" creationid="Pedro Albuquerque" creationdate="20210506T092535Z">
+        <seg>Donativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12567,6 +12575,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092755Z" creationid="Pedro Albuquerque" creationdate="20210506T092755Z">
+        <seg>Se sabe programar noutra linguagem, pode escrever código para apoiar a aplicação principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
@@ -12663,6 +12679,14 @@ usar o Java Web Start.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T112130Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
         <seg>Se já tiver traduzido um grande corpo de texto, e depois perceber que o código do idioma-alvo do projecto não corresponde ao código de idioma do corrector ortográfico (especificou pt como idioma, mas não existem vocabulários pt, por exemplo) pode simplesmente copiar os dois ficheiros correspondentes, renomeá-los (e. g. de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt.aff&lt;/e2&gt; e &lt;e3&gt;pt.dic&lt;/e3&gt;) e reiniciar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092629Z" creationid="Pedro Albuquerque" creationdate="20210506T092629Z">
+        <seg>Se achou o OmegaT útil e gostaria de expressar a sua gratidão faça uma &lt;a0&gt;doação&lt;/a0&gt; na nossa conta Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12845,8 +12869,8 @@ usar o Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>If you"re a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092720Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Se é um programador e por acaso conhece Java, por favor verifique a documentação no &lt;a0&gt; código-fonte&lt;/a0&gt; em /docs_devel para informações sobre como começar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17716,6 +17740,14 @@ ser iniciado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092653Z" creationid="Pedro Albuquerque" creationdate="20210506T092653Z">
+        <seg>O OmegaT é escrito em Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091700Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -19560,6 +19592,22 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090711Z" creationid="Pedro Albuquerque" creationdate="20210506T090711Z">
         <seg>Características profissionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092638Z" creationid="Pedro Albuquerque" creationdate="20210506T092638Z">
+        <seg>Programação (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092731Z" creationid="Pedro Albuquerque" creationdate="20210506T092731Z">
+        <seg>Programação (não-Java)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23302,6 +23350,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
         <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092813Z" creationid="Pedro Albuquerque" creationdate="20210506T092813Z">
+        <seg>Este código auxiliar já foi escrito em Javascript, Groovy e Tcl/Tk, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
