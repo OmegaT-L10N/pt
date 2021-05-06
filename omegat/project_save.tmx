@@ -2276,6 +2276,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094209Z" creationid="Pedro Albuquerque" creationdate="20210506T094209Z">
+        <seg>O &lt;a0&gt;patrocínio do desenvolvimento já resultou na adição de certas características.&lt;/a0&gt; Se estiver disposto a financiar o trabalho de implementação da sua característica desejada, por favor contacte a equipa de desenvolvimento em privado para obter um orçamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T095829Z" creationid="Pedro Albuquerque" creationdate="20210422T095829Z">
@@ -4734,6 +4742,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172530Z" creationid="Pedro Albuquerque" creationdate="20210423T172530Z">
         <seg>Como este é o comportamento padrão para ficheiros PO, está marcado por pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094308Z" creationid="Pedro Albuquerque" creationdate="20210506T094308Z">
+        <seg>No entanto, tal como nos desenvolvimentos grátis, continua a aplicar-se o princípio de que quaisquer alterações ao OmegaT devem ser benéficas para a aplicação e para os seus utilizadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14261,6 +14277,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094243Z" creationid="Pedro Albuquerque" creationdate="20210506T094243Z">
+        <seg>Também pode ser possível que desenvolvimentos encomendados a programadores externos sejam implementados no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075501Z" creationid="Pedro Albuquerque" creationdate="20210427T075501Z">
@@ -18034,8 +18058,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>OmegaT"s developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094137Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Os criadores do OmegaT, que são todos voluntários, podem estar mais dispostos a implementar um RFE se o trabalho de desenvolvimento for financiado pelo requerente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18668,6 +18692,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160641Z" creationid="Pedro Albuquerque" creationdate="20210426T160641Z">
         <seg>Outros ícones - Navegar, e navegar para a sub-pasta &lt;f0&gt;/images&lt;/f0&gt; na pasta do &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094316Z" creationid="Pedro Albuquerque" creationdate="20210506T094316Z">
+        <seg>Other OmegaT resources</seg>
       </tuv>
     </tu>
     <tu>
@@ -29591,6 +29623,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093342Z" creationid="Pedro Albuquerque" creationdate="20210506T093342Z">
         <seg>No que diz respeito às tarefas de rotina, aos voluntários que trabalham no projecto OmegaT é geralmente dada a maior liberdade possível na determinação da forma da sua contribuição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094112Z" creationid="Pedro Albuquerque" creationdate="20210506T094112Z">
+        <seg>A sua adopção ou não depende, em primeiro lugar, de a equipa de desenvolvimento a considerar benéfica para o OmegaT, e, em segundo lugar, de um dos programadores estar ou não disposto a fazer o trabalho de implementação da mesma.</seg>
       </tuv>
     </tu>
     <tu>
