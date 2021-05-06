@@ -8588,6 +8588,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090038Z" creationid="Pedro Albuquerque" creationdate="20210506T090038Z">
+        <seg>Durante a instalação, dependendo do seu sistema operativo, poderá receber vários avisos de segurança.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082206Z" creationid="Pedro Albuquerque" creationdate="20210427T082206Z">
@@ -12989,6 +12997,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090133Z" creationid="Pedro Albuquerque" creationdate="20210506T090133Z">
+        <seg>Para instalar a versão Web Start, já deve ter a versão Java 1.8 ou posterior instalada no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085236Z" creationid="Pedro Albuquerque" creationdate="20210506T085236Z">
@@ -13873,6 +13889,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070750Z" creationid="Pedro Albuquerque" creationdate="20210425T070750Z">
         <seg>É possível utilizar caracteres universais, usando a sintaxe &lt;u0&gt;ant&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090314Z" creationid="Pedro Albuquerque" creationdate="20210506T090314Z">
+        <seg>É recomendada apenas para programadores e equipas de teste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19110,8 +19134,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT"s web servers.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090154Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Informação sobre privacidade: o OmegaT Java Web Start não guarda nenhuma das suas informações nos servidores web do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23525,6 +23549,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090242Z" creationid="Pedro Albuquerque" creationdate="20210506T090242Z">
+        <seg>A versão "Master" (alfa) reflecte o mais recente estado de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085007Z" creationid="Pedro Albuquerque" creationdate="20210506T085007Z">
@@ -23789,6 +23821,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090014Z" creationid="Pedro Albuquerque" creationdate="20210506T090014Z">
+        <seg>A versão Web Start oferece um meio alternativo de instalar o OmegaT no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083210Z" creationid="Pedro Albuquerque" creationdate="20210504T083210Z">
@@ -23817,6 +23857,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082621Z" creationid="Pedro Albuquerque" creationdate="20210427T082621Z">
         <seg>A aplicação funciona apenas na sua máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090202Z" creationid="Pedro Albuquerque" creationdate="20210506T090202Z">
+        <seg>A aplicação é executada na sua máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23863,8 +23911,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The certificate is signed by OmegaT's lead developer.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The certificate is signed by OmegaT"s lead developer.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090058Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O certificado é assinado pelo programador principal do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24613,6 +24661,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082241Z" creationid="Pedro Albuquerque" creationdate="20210427T082241Z">
         <seg>As permissões que dá a esta versão (que podem aparecer como "acesso sem restrições ao computador") são idênticas às permissões que dá à versão local, ou seja, permitem o acesso ao disco rígido do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090113Z" creationid="Pedro Albuquerque" creationdate="20210506T090113Z">
+        <seg>As permissões que dá a esta versão (que podem ser descritas como "acesso sem restrições ao computador") não são diferentes das permissões que atribui à versão local, ou seja, um acesso ao disco rígido do seu computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28913,6 +28969,14 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090025Z" creationid="Pedro Albuquerque" creationdate="20210506T090025Z">
+        <seg>Com esta versão, as futuras actualizações serão instaladas automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With/without JRE</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085157Z" creationid="Pedro Albuquerque" creationdate="20210506T085157Z">
@@ -29714,6 +29778,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082638Z" creationid="Pedro Albuquerque" creationdate="20210427T082638Z">
         <seg>Os seus documentos e memórias de tradução permanecem no seu computador, e o projecto &lt;a2&gt;OmegaT&lt;/a2&gt; não terá acesso ao seu trabalho ou informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090227Z" creationid="Pedro Albuquerque" creationdate="20210506T090227Z">
+        <seg>Os seus documentos e memórias de tradução permanecem no seu computador e o projecto OmegaT não terá acesso ao seu trabalho ou informação.</seg>
       </tuv>
     </tu>
     <tu>
