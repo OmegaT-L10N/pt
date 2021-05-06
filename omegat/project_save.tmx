@@ -4026,6 +4026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104338Z" creationid="Pedro Albuquerque" creationdate="20210506T104338Z">
+        <seg>Após o processo automático, o alinhamento de dois ficheiros requer geralmente correcções manuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082507Z" creationid="Pedro Albuquerque" creationdate="20210427T082507Z">
@@ -6438,6 +6446,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104246Z" creationid="Pedro Albuquerque" creationdate="20210506T104246Z">
+        <seg>Escolher o que oferecer os melhores resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Class</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092523Z" creationid="Pedro Albuquerque" creationdate="20210422T092523Z">
@@ -6490,6 +6506,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T171205Z" creationid="Pedro Albuquerque" creationdate="20210423T171205Z">
         <seg>Clique em &lt;e0&gt;Pré-definições&lt;/e0&gt; para repor os filtros de ficheiro nas pré-definições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104255Z" creationid="Pedro Albuquerque" creationdate="20210506T104255Z">
+        <seg>Clique em &lt;g0&gt;Continuar&lt;/g0&gt; para aceder ao passo seguinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20474,6 +20498,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104453Z" creationid="Pedro Albuquerque" creationdate="20210506T104453Z">
+        <seg>Prima a barra de espaço (atalho para &lt;m0&gt; &lt;g1&gt;Editar&lt;/g1&gt; &lt;g2&gt;Iniciar alinhamento pontual&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103337Z" creationid="Pedro Albuquerque" creationdate="20210504T103337Z">
@@ -23298,6 +23330,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104416Z" creationid="Pedro Albuquerque" creationdate="20210506T104416Z">
+        <seg>Seleccione o primeiro segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
@@ -25433,6 +25473,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094808Z" creationid="Pedro Albuquerque" creationdate="20210504T094808Z">
         <seg>As memórias &lt;f3&gt; level1&lt;/f3&gt; e &lt;f4&gt;level2&lt;/f4&gt; podem ser partilhadas com utilizadores de outros programas de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104230Z" creationid="Pedro Albuquerque" creationdate="20210506T104230Z">
+        <seg>Os algoritmos &lt;g0&gt;Viterbi&lt;/g0&gt; e &lt;g1&gt;Forward-Backward&lt;/g1&gt; são dois métodos de cálculo diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28211,6 +28259,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104217Z" creationid="Pedro Albuquerque" creationdate="20210506T104217Z">
+        <seg>Esta opção só aparece se ambos os ficheiros seleccionados forem reconhecidos como ficheiros Key=Value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074427Z" creationid="Pedro Albuquerque" creationdate="20210427T074427Z">
@@ -28347,6 +28403,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104205Z" creationid="Pedro Albuquerque" creationdate="20210506T104205Z">
+        <seg>Isto funciona mesmo que as chaves não estejam na mesma ordem nos dois ficheiros, e/ou se os dois ficheiros não contiverem a mesma quantidade de informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065915Z" creationid="Pedro Albuquerque" creationdate="20210426T065915Z">
@@ -28455,6 +28519,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104220Z" creationid="Pedro Albuquerque" creationdate="20210425T104220Z">
         <seg>Para adicionar outros recursos (dicionários, TMXs ou glossários), utilize um cliente SVN ou Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104402Z" creationid="Pedro Albuquerque" creationdate="20210506T104402Z">
+        <seg>Para alinhar dois segmentos na mesma linha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29325,6 +29397,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063836Z" creationid="Pedro Albuquerque" creationdate="20210421T063836Z">
         <seg>Encontrada unidade de tradução antes do cabeçalho TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104349Z" creationid="Pedro Albuquerque" creationdate="20210506T104349Z">
+        <seg>As unidades de tradução estão localizadas em células nas duas últimas colunas.</seg>
       </tuv>
     </tu>
     <tu>
