@@ -6832,6 +6832,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095351Z" creationid="Pedro Albuquerque" creationdate="20210506T095351Z">
+        <seg>Contribuição de Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163040Z" creationid="Pedro Albuquerque" creationdate="20210420T163040Z">
@@ -11510,6 +11518,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055209Z" creationid="Pedro Albuquerque" creationdate="20210421T055209Z">
         <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095454Z" creationid="Pedro Albuquerque" creationdate="20210506T095454Z">
+        <seg>Foi testado em Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,6 +17558,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095503Z" creationid="Pedro Albuquerque" creationdate="20210506T095503Z">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T170820Z" creationid="Pedro Albuquerque" creationdate="20210420T170820Z">
@@ -18316,6 +18340,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094433Z" creationid="Pedro Albuquerque" creationdate="20210504T094353Z">
         <seg>Depois de se certificar de que não existem erros de etiqueta na sua tradução, prima &lt;k0&gt;Ctrl+D&lt;/k0&gt; para gerar os ficheiros de destino, que serão criados na sub-pasta &lt;f1&gt;/target/&lt;/f1&gt; da pasta do seu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095500Z" creationid="Pedro Albuquerque" creationdate="20210506T095500Z">
+        <seg>Ondiloto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19244,6 +19276,14 @@ submeter tudo.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084739Z" creationid="Pedro Albuquerque" creationdate="20210506T084739Z">
         <seg>Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095316Z" creationid="Pedro Albuquerque" creationdate="20210506T095316Z">
+        <seg>Independentes da plataforma; requerem tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21096,6 +21136,30 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095553Z" creationid="Pedro Albuquerque" creationdate="20210506T095553Z">
+        <seg>Requer Linux, w3m e tcl/tk (ambos geralmente fornecidos com o Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095444Z" creationid="Pedro Albuquerque" creationdate="20210506T095444Z">
+        <seg>Requer tcl/tk, Abiword e pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095343Z" creationid="Pedro Albuquerque" creationdate="20210506T095343Z">
+        <seg>Requer tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070345Z" creationid="Pedro Albuquerque" creationdate="20210421T070345Z">
@@ -21670,6 +21734,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052337Z" creationid="Pedro Albuquerque" creationdate="20210422T052337Z">
         <seg>Resultado do script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095337Z" creationid="Pedro Albuquerque" creationdate="20210506T095337Z">
+        <seg>Script para extrair texto para tradução de ficheiros de texto simples (por exemplo, código fonte informático) para tradução no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095257Z" creationid="Pedro Albuquerque" creationdate="20210506T095257Z">
+        <seg>Versões script do Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23626,6 +23706,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095316Z" creationid="Pedro Albuquerque" creationdate="20210506T095316Z">
+        <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Structure level segmentation</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074123Z" creationid="Pedro Albuquerque" creationdate="20210424T074123Z">
@@ -23814,6 +23902,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125230Z" creationid="Pedro Albuquerque" creationdate="20210420T125230Z">
         <seg>&amp;Memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095352Z" creationid="Pedro Albuquerque" creationdate="20210506T095352Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TKount text counting utility.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095432Z" creationid="Pedro Albuquerque" creationdate="20210506T095432Z">
+        <seg>Utilitário de contagem de texto TKount.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27795,6 +27899,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095159Z" creationid="Pedro Albuquerque" creationdate="20210506T095159Z">
         <seg>Toxic para Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095237Z" creationid="Pedro Albuquerque" creationdate="20210506T095237Z">
+        <seg>Scripts Toxic</seg>
       </tuv>
     </tu>
     <tu>
