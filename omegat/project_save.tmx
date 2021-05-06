@@ -16566,6 +16566,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085846Z" creationid="Pedro Albuquerque" creationdate="20210506T085708Z">
+        <seg>Autenticada vs Não assinada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062019Z" creationid="Pedro Albuquerque" creationdate="20210422T062019Z">
@@ -17178,6 +17186,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122659Z" creationid="Pedro Albuquerque" creationdate="20210505T122659Z">
         <seg>Tutorial OmegaT for Beginners</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085901Z" creationid="Pedro Albuquerque" creationdate="20210506T085835Z">
+        <seg>O OmegaT para macOS está disponível nas versões Autenticada e Não Assinada; são funcionalmente idênticas, mas a versão Autenticada é preferida porque é reconhecida pelo sistema como sendo a) publicada por um programador conhecido, e b) analisada pela Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25361,6 +25377,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085919Z" creationid="Pedro Albuquerque" creationdate="20210506T085919Z">
+        <seg>Pode haver um atraso na publicação da versão autenticada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T100332Z" creationid="Pedro Albuquerque" creationdate="20210425T100332Z">
@@ -28051,6 +28075,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173151Z" creationid="Pedro Albuquerque" creationdate="20210421T173151Z">
         <seg>Utilizador ou chave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085950Z" creationid="Pedro Albuquerque" creationdate="20210506T085950Z">
+        <seg>Os utilizadores com pressa podem utilizar a versão não assinada; se tiver dificuldade em iniciar a aplicação, veja &lt;a0&gt;como abrir uma aplicação de um programador não identificado&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31214,6 +31246,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073539Z" creationid="Pedro Albuquerque" creationdate="20210427T073539Z">
         <seg>Guloseimas macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085725Z" creationid="Pedro Albuquerque" creationdate="20210506T085725Z">
+        <seg>O macOS tenta aumentar a segurança, dificultando a execução de programas não verificados.</seg>
       </tuv>
     </tu>
     <tu>
