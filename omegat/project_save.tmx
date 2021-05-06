@@ -4536,8 +4536,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>And when they find things that don"t work, or deficiencies in the documentation, to tell us about them.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092501Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>E quando encontram coisas que não funcionam, ou deficiências na documentação, falarem-nos sobre elas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11412,8 +11412,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Have you ever written an article for your professional association"s journal?</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092517Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Alguma vez escreveu um artigo para a revista da sua associação profissional?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12131,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124123Z" creationid="Pedro Albuquerque" creationdate="20210505T124123Z">
         <seg>Se não, ou se não tiver a certeza, seleccione "com JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092528Z" creationid="Pedro Albuquerque" creationdate="20210506T092528Z">
+        <seg>Se não, porque não escrever um artigo sobre a utilização do OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,10 +15187,26 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092235Z" creationid="Pedro Albuquerque" creationdate="20210506T092235Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103715Z" creationid="Pedro Albuquerque" creationdate="20210424T103715Z">
         <seg>Gestor de localização, proprietário do grupo de utilizadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092353Z" creationid="Pedro Albuquerque" creationdate="20210506T092353Z">
+        <seg>A localização do OmegaT noutros idiomas é também uma tarefa contínua, uma vez que estão sempre a ser acrescentadas novas características e funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18008,6 +18032,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092438Z" creationid="Pedro Albuquerque" creationdate="20210506T092438Z">
+        <seg>Uma das coisas mais úteis que os utilizadores do OmegaT podem fazer é... usar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101852Z" creationid="Pedro Albuquerque" creationdate="20210422T101852Z">
@@ -18924,6 +18956,14 @@ uma descrição de como este erro foi produzido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092421Z" creationid="Pedro Albuquerque" creationdate="20210506T092421Z">
+        <seg>Por favor, contacte o coordenador de localização do &lt;a0&gt;OmegaT&lt;/a0&gt; para detalhes sobre o que está envolvido na localização/tradução do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105953Z" creationid="Pedro Albuquerque" creationdate="20210424T105953Z">
@@ -19816,6 +19856,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T085514Z" creationid="Pedro Albuquerque" creationdate="20210504T085514Z">
         <seg>Número de porta proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092506Z" creationid="Pedro Albuquerque" creationdate="20210506T092506Z">
+        <seg>Publicidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -23778,6 +23826,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092427Z" creationid="Pedro Albuquerque" creationdate="20210506T092427Z">
+        <seg>Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Testing...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T180826Z" creationid="Pedro Albuquerque" creationdate="20210421T180826Z">
@@ -23870,8 +23926,8 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Thanks to the work of translators in the past, OmegaT"s user interface and/or Help texts have been translated into several languages.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092304Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Graças ao trabalho de tradutores no passado, o ambiente de utilizador do OmegaT e/ou textos de ajuda foram traduzidos em vários idiomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23888,6 +23944,14 @@ o âmbito da substituição de texto são os segmentos-alvo do projecto, tenham 
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091802Z" creationid="Pedro Albuquerque" creationdate="20210506T091802Z">
         <seg>Isso significa que os utilizadores são livres de o transferir e utilizar com muito poucas restrições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092319Z" creationid="Pedro Albuquerque" creationdate="20210506T092319Z">
+        <seg>Isto significa que só restam alguns milhares!</seg>
       </tuv>
     </tu>
     <tu>
