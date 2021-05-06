@@ -2180,6 +2180,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090535Z" creationid="Pedro Albuquerque" creationdate="20210506T090535Z">
+        <seg>&lt;a0&gt;Transferir&lt;/a0&gt; &lt;a1&gt;Começar&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161803Z" creationid="Pedro Albuquerque" creationdate="20210426T161803Z">
@@ -10818,6 +10826,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090548Z" creationid="Pedro Albuquerque" creationdate="20210506T090548Z">
+        <seg>Promeiros passos com o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Git</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055207Z" creationid="Pedro Albuquerque" creationdate="20210421T055207Z">
@@ -13785,6 +13801,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T093736Z" creationid="Pedro Albuquerque" creationdate="20210505T093736Z">
         <seg>Mostra também o número de correspondências aproximadas e de glossário para o segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090326Z" creationid="Pedro Albuquerque" creationdate="20210506T090326Z">
+        <seg>Também pode ser obtida usando o comando git:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17086,6 +17110,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090523Z" creationid="Pedro Albuquerque" creationdate="20210506T090523Z">
+        <seg>OmegaT &lt;s0&gt;a ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123721Z" creationid="Pedro Albuquerque" creationdate="20210505T123721Z">
@@ -18552,6 +18584,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112147Z" creationid="Pedro Albuquerque" creationdate="20210422T112147Z">
         <seg>Ponto, seguido de uma letra maiúscula - possivelmente falta um espaço entre o ponto e o início de uma nova frase?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090422Z" creationid="Pedro Albuquerque" creationdate="20210506T090414Z">
+        <seg>Estão disponíveis periodicamente novas versões na SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22410,6 +22450,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090452Z" creationid="Pedro Albuquerque" creationdate="20210506T090415Z">
+        <seg>Os pacotes de código-fonte não são necessários aos utilizadores e destinam-se apenas a programadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062256Z" creationid="Pedro Albuquerque" creationdate="20210422T062256Z">
@@ -25543,6 +25591,14 @@ Você foi vítima de um deles</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090505Z" creationid="Pedro Albuquerque" creationdate="20210506T090505Z">
+        <seg>Podem ser encontrados nas pastas das versões compiladas correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T065858Z" creationid="Pedro Albuquerque" creationdate="20210426T065858Z">
@@ -28369,6 +28425,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090555Z" creationid="Pedro Albuquerque" creationdate="20210506T090555Z">
+        <seg>Vídeo por &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092440Z" creationid="Pedro Albuquerque" creationdate="20210421T092440Z">
@@ -30664,6 +30728,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090327Z" creationid="Pedro Albuquerque" creationdate="20210506T090327Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary/glossary.txt</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104334Z" creationid="Pedro Albuquerque" creationdate="20210425T104334Z">
@@ -32494,6 +32566,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091140Z" creationid="Pedro Albuquerque" creationdate="20210422T091140Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090537Z" creationid="Pedro Albuquerque" creationdate="20210506T090537Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
