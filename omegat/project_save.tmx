@@ -4496,8 +4496,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>An important aspect of this freedom is that users may also modify the program"s code.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093108Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Um aspecto importante desta liberdade é que os utilizadores também podem modificar o código do programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6740,6 +6740,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T085828Z" creationid="Pedro Albuquerque" creationdate="20210422T085828Z">
         <seg>Continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093003Z" creationid="Pedro Albuquerque" creationdate="20210506T093003Z">
+        <seg>Desenvolvimento profissional contínuo é a palavra-chave actual!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12487,6 +12495,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092939Z" creationid="Pedro Albuquerque" creationdate="20210506T092939Z">
+        <seg>Se já tiver uma familiarização razoável com computadores em geral e escolher uma linguagem de script simples como Javascript ou Tcl/Tk, poderá ensinar-se a si próprio o suficiente para poder escrever scripts simples mas úteis em apenas algumas semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085256Z" creationid="Pedro Albuquerque" creationdate="20210506T085256Z">
@@ -16862,6 +16878,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093058Z" creationid="Pedro Albuquerque" creationdate="20210506T093058Z">
+        <seg>Não só pode ser utilizado gratuitamente, os utilizadores também são livres de fazer cópias e distribuí-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061902Z" creationid="Pedro Albuquerque" creationdate="20210422T061902Z">
@@ -17654,6 +17678,14 @@ tradução alavancada em projectos actualizados.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T085823Z" creationid="Pedro Albuquerque" creationdate="20210505T085823Z">
         <seg>O OmegaT é capaz de armazenar traduções que são idênticas à fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093027Z" creationid="Pedro Albuquerque" creationdate="20210506T093027Z">
+        <seg>OmegaT é uma aplicação e um projecto de código aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25121,6 +25153,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093019Z" creationid="Pedro Albuquerque" creationdate="20210506T093019Z">
+        <seg>A filosofia do código aberto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112046Z" creationid="Pedro Albuquerque" creationdate="20210426T112046Z">
@@ -26549,8 +26589,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT"s license gives its users considerable freedom in its use.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093043Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Isto significa que o código-fonte do programa OmegaT está livremente disponível, e que a licença do OmegaT dá aos seus utilizadores uma liberdade considerável na sua utilização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27167,6 +27207,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093416Z" creationid="Pedro Albuquerque" creationdate="20210504T093416Z">
         <seg>Para começar a utilizar o OmegaT, crie primeiro um projecto que gravará todos os seus ficheiros, tais como o seu ficheiro-fonte, memórias de tradução, glossários e, eventualmente, o seu ficheiro traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093132Z" creationid="Pedro Albuquerque" creationdate="20210506T093132Z">
+        <seg>Para o movimento de código aberto, a liberdade que os utilizadores têm de mudar o programa para o adaptar às suas próprias necessidades é mais importante do que o facto de não terem de pagar por ele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29095,6 +29143,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210420T180647Z">
         <seg>Webster"s Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092857Z" creationid="Pedro Albuquerque" creationdate="20210506T092857Z">
+        <seg>Bem, já pensou em aprender?</seg>
       </tuv>
     </tu>
     <tu>
