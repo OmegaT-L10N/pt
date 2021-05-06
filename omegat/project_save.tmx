@@ -4026,6 +4026,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104524Z" creationid="Pedro Albuquerque" creationdate="20210506T104454Z">
+        <seg>Após várias destas operações, seleccione &lt;m0&gt; &lt;g1&gt;Editar&lt;/g1&gt; &lt;g2&gt;Realinhar pendente&lt;/g2&gt; &lt;/m0&gt; para actualizar o alinhamento dos outros segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104338Z" creationid="Pedro Albuquerque" creationdate="20210506T104338Z">
@@ -6514,6 +6522,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104255Z" creationid="Pedro Albuquerque" creationdate="20210506T104255Z">
         <seg>Clique em &lt;g0&gt;Continuar&lt;/g0&gt; para aceder ao passo seguinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104503Z" creationid="Pedro Albuquerque" creationdate="20210506T104453Z">
+        <seg>Clique na outra coluna na tradução correspondente ao primeiro segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19152,6 +19168,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104636Z" creationid="Pedro Albuquerque" creationdate="20210506T104636Z">
+        <seg>Apenas as linhas com a caixa &lt;g0&gt;Manter&lt;/g0&gt; marcada na primeira coluna serão incluídas quando a memória de tradução for criada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091948Z" creationid="Pedro Albuquerque" creationdate="20210504T091948Z">
@@ -20712,6 +20736,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125135Z" creationid="Pedro Albuquerque" creationdate="20210420T125135Z">
         <seg>&amp;Ficheiros de projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104709Z" creationid="Pedro Albuquerque" creationdate="20210506T104709Z">
+        <seg>Project Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -28803,6 +28835,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104610Z" creationid="Pedro Albuquerque" creationdate="20210506T104610Z">
+        <seg>Para modificar a posição de um ou mais segmentos individualmente, seleccione o(s) segmento(s) e prima &lt;u0&gt;C&lt;/u0&gt; (&lt;g1&gt;Mover acima&lt;/g1&gt;) ou&lt;u2&gt;B&lt;/u2&gt; (&lt;g3&gt;Mover abaixo&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084414Z" creationid="Pedro Albuquerque" creationdate="20210506T084414Z">
@@ -30999,6 +31039,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T074447Z" creationid="Pedro Albuquerque" creationdate="20210425T074447Z">
         <seg>Quando o documento traduzido for criado, a sua direcção de visualização será a mesma que a do documento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104705Z" creationid="Pedro Albuquerque" creationdate="20210506T104705Z">
+        <seg>Quando as duas colunas estiverem suficientemente alinhadas, clique em &lt;g0&gt;Gravar TMX...&lt;/g0&gt; para criar a memória de tradução resultante.</seg>
       </tuv>
     </tu>
     <tu>
