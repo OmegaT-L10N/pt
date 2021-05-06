@@ -3,57 +3,52 @@
 <section id="windows.scripts">
   <title>Scripts</title>
 
-  <para>This window is accessible by selecting <menuchoice>
-      <guimenuitem>Tools</guimenuitem>
-
-      <guimenuitem>Scripting...</guimenuitem>
-    </menuchoice></para>
+  <para>Esta janela é acessível seleccionando <menuchoice> <guimenuitem>Ferramentas</guimenuitem> <guimenuitem>Scripting...</guimenuitem> </menuchoice></para>
 
   <section>
-    <title>Use</title>
+    <title>Uso</title>
 
-    <para>The Scripting window allows you to load an existing script into the text area and run it against the current opened project. To customize the scripting feature, do the following:</para>
+    <para>A janela Scripting permite carregar um script existente na área de texto e executá-lo contra o actual projecto aberto. Para personalizar a funcionalidade de scripting, faça o seguinte:</para>
 
     <itemizedlist>
       <listitem>
-        <para>Load a script into the editor by clicking its name in the list in the left-hand panel.</para>
+        <para>Carregue um script no editor clicando no seu nome na lista no painel do lado esquerdo.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Right-click a button from <guilabel>&lt;1&gt;</guilabel> to <guilabel>&lt;12&gt;</guilabel> in the bottom panel and select <guilabel>Add Script</guilabel>.</para>
+        <para>Clique com o botão direito do rato num botão de <guilabel>&lt;1&gt;</guilabel> a <guilabel>&lt;12&gt;</guilabel> no painel inferior e seleccione <guilabel>Adicionar script</guilabel>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>When you left-click the number, the selected script will run. You can also start the selected macros from the main menu by using their entries in the <guisubmenu>Tools </guisubmenu>menu or by pressing<keycap> Ctrl+Alt+F#</keycap> (# 1 to 12).</para>
+        <para>Quando clicar com o botão esquerdo do rato sobre o número, o script seleccionado será executado. Pode também iniciar as macros seleccionadas a partir do menu principal utilizando as suas entradas no menu <guisubmenu>Ferramentas</guisubmenu> ou premindo<keycap> Ctrl+Alt+F</keycap> (1 a 12).</para>
       </listitem>
     </itemizedlist>
 
-    <para>By default, scripts are stored in the <filename>scripts</filename> folder located in the OmegaT installation folder (the folder that contains the <filename>OmegaT.jar</filename> file).</para>
+    <para>Por pré-definição, os scripts são armazenados na pasta <filename>scripts</filename> localizada na pasta de instalação do OmegaT (a pasta que contém o ficheiro <filename>OmegaT.jar</filename>)).</para>
 
-    <para>If you add new scripts there, they will appear in the list of available scripts in the <guilabel>Scripting</guilabel> window.</para>
+    <para>Se adicionar novos scripts lá, eles aparecerão na lista de scripts disponíveis na janela <guilabel>Scripting</guilabel>.</para>
 
-    <para>Some additional scripts can be found here: <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT
-    Scripts</ulink></para>
+    <para>Alguns scripts adicionais podem ser encontrados aqui: <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT Scripts</ulink></para>
   </section>
 
   <section>
-    <title>Scripting languages</title>
+    <title>Linguagens de scripting</title>
 
-    <para>The following scripting languages have been implemented:</para>
+    <para>Foram implementadas as seguintes linguagens de scripting:</para>
 
     <para><itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Groovy</emphasis> (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine. It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</para>
+          <para><emphasis role="bold">Groovy</emphasis> (http://groovy.codehaus.org): uma linguagem dinâmica para a máquina virtual Java. Baseia-se nos pontos fortes do Java mas tem características de poder adicionais inspiradas por linguagens como Python, Ruby e Smalltalk.</para>
         </listitem>
       </itemizedlist><itemizedlist>
         <listitem>
-          <para><emphasis role="bold">JavaScript</emphasis> (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</para>
+          <para><emphasis role="bold">JavaScript</emphasis> (por vezes abreviado JS, a não confundir com Java): uma linguagem de scripting baseada em protótipos que é dinâmica, pouco dactilografada e com funções de primeira classe. É uma linguagem multi-paradigma, apoiando estilos de programação orientados para objectos, imperativos, e funcionais. Sendo a linguagem por detrás de programas populares como o Firefox, é uma ferramenta de programação familiar e preferida no domínio do código aberto.</para>
         </listitem>
-      </itemizedlist>All the languages have access to the OmegaT object model, with the project as the top object. For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</para>
+      </itemizedlist>Todas as linguagens têm acesso ao modelo de objecto OmegaT, tendo o projecto como objecto de topo. Por exemplo, o seguinte código Groovy analisa todos os segmentos em todos os ficheiros do projecto actual e, se existir uma tradução, imprime a fonte e o alvo do segmento:</para>
 
     <programlisting>    files = project.projectFiles;
     for (i in 0 ..&lt; files.size())
