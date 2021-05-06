@@ -5694,6 +5694,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110932Z" creationid="Pedro Albuquerque" creationdate="20210506T110932Z">
+        <seg>Por pré-definição, os scripts são armazenados na pasta &lt;f0&gt;scripts&lt;/f0&gt; localizada na pasta de instalação do OmegaT (a pasta que contém o ficheiro &lt;f1&gt;OmegaT.jar&lt;/f1&gt;)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094158Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -16019,6 +16027,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110724Z" creationid="Pedro Albuquerque" creationdate="20210506T110724Z">
+        <seg>Carregue um script no editor clicando no seu nome na lista no painel do lado esquerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T053203Z" creationid="Pedro Albuquerque" creationdate="20210422T053203Z">
@@ -22216,6 +22232,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110759Z" creationid="Pedro Albuquerque" creationdate="20210506T110759Z">
+        <seg>Clique com o botão direito do rato num botão de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; no painel inferior e seleccione &lt;g2&gt;Adicionar script&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160929Z" creationid="Pedro Albuquerque" creationdate="20210426T160745Z">
@@ -25845,6 +25869,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110648Z" creationid="Pedro Albuquerque" creationdate="20210506T110648Z">
+        <seg>A janela Scripting permite carregar um script existente na área de texto e executá-lo contra o actual projecto aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084832Z" creationid="Pedro Albuquerque" creationdate="20210506T084647Z">
@@ -28587,6 +28619,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110627Z" creationid="Pedro Albuquerque" creationdate="20210506T110627Z">
+        <seg>Esta janela é acessível seleccionando &lt;m0&gt; &lt;g1&gt;Ferramentas&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T105635Z" creationid="Pedro Albuquerque" creationdate="20210506T105635Z">
@@ -28831,6 +28871,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091547Z" creationid="Pedro Albuquerque" creationdate="20210424T091547Z">
         <seg>Para criar uma, clique com o botão direito num segmento e seleccione "&lt;e2&gt;Configurar tradução vazia&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110711Z" creationid="Pedro Albuquerque" creationdate="20210506T110711Z">
+        <seg>Para personalizar a funcionalidade de scripting, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30269,6 +30317,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110630Z" creationid="Pedro Albuquerque" creationdate="20210506T110630Z">
+        <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062351Z" creationid="Pedro Albuquerque" creationdate="20210421T062351Z">
@@ -31363,6 +31419,14 @@ de o seleccionar, obter e instalar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110818Z" creationid="Pedro Albuquerque" creationdate="20210506T110818Z">
+        <seg>Quando clicar com o botão esquerdo do rato sobre o número, o script seleccionado será executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T111241Z" creationid="Pedro Albuquerque" creationdate="20210425T111241Z">
@@ -32122,6 +32186,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092748Z" creationid="Pedro Albuquerque" creationdate="20210504T092748Z">
         <seg>Também se pode executar directamente a aplicação com o seguinte comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110902Z" creationid="Pedro Albuquerque" creationdate="20210506T110902Z">
+        <seg>Pode também iniciar as macros seleccionadas a partir do menu principal utilizando as suas entradas no menu &lt;g0&gt;Ferramentas&lt;/g0&gt; ou premindo&lt;k1&gt; Ctrl+Alt+F&lt;/k1&gt; (1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
