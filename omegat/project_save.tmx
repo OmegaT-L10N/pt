@@ -3170,6 +3170,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091140Z" creationid="Pedro Albuquerque" creationdate="20210506T091140Z">
+        <seg>O &lt;s0&gt;OmegaT&lt;/s0&gt; está disponível em muitas versões diferentes, a fim de se adequar a uma série de requisitos dos utilizadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123831Z" creationid="Pedro Albuquerque" creationdate="20210505T123831Z">
@@ -4254,6 +4262,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162141Z" creationid="Pedro Albuquerque" creationdate="20210420T162141Z">
         <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091249Z" creationid="Pedro Albuquerque" creationdate="20210506T091249Z">
+        <seg>Em alternativa, se já souber que versão deseja transferir, clique no botão para ter uma visão geral das diferentes versões OmegaT disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,8 +6518,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091005Z" creationid="Pedro Albuquerque" creationdate="20210506T091005Z">
-        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091026Z" creationid="Pedro Albuquerque" creationdate="20210506T091005Z">
+        <seg>Compatível com outras aplicações de memória de tradução (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,6 +8496,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T114900Z" creationid="Pedro Albuquerque" creationdate="20210422T114900Z">
         <seg>Transferir página MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091313Z" creationid="Pedro Albuquerque" creationdate="20210506T091313Z">
+        <seg>Resumo das transferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091258Z" creationid="Pedro Albuquerque" creationdate="20210506T091258Z">
+        <seg>Selector de transferências</seg>
       </tuv>
     </tu>
     <tu>
@@ -13725,6 +13757,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091107Z" creationid="Pedro Albuquerque" creationdate="20210506T091107Z">
+        <seg>Interligação ao Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T074237Z" creationid="Pedro Albuquerque" creationdate="20210421T074237Z">
@@ -17234,6 +17274,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055714Z" creationid="Pedro Albuquerque" creationdate="20210421T055714Z">
         <seg>Pasta de projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091119Z" creationid="Pedro Albuquerque" creationdate="20210506T091119Z">
+        <seg>Ecrã do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26695,6 +26743,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083930Z" creationid="Pedro Albuquerque" creationdate="20210423T083712Z">
         <seg>Para activar o corrector ortográfico, seleccione &lt;g0&gt;Opções &gt; Preferências &gt; Correcção ortográfica&lt;/g0&gt; e marque a caixa &lt;g1&gt;Verificar automaticamente a ortografia do texto&lt;/g1&gt; (ver acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091217Z" creationid="Pedro Albuquerque" creationdate="20210506T091217Z">
+        <seg>Para encontrar a versão mais adequada para si, siga a ligação abaixo para o selector de transferências.</seg>
       </tuv>
     </tu>
     <tu>
