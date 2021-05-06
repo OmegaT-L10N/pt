@@ -7716,6 +7716,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084749Z" creationid="Pedro Albuquerque" creationdate="20210506T084749Z">
+        <seg>Instruções detalhadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T092819Z" creationid="Pedro Albuquerque" creationdate="20210504T092819Z">
@@ -7744,6 +7752,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T054800Z" creationid="Pedro Albuquerque" creationdate="20210422T054800Z">
         <seg>A detectar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084955Z" creationid="Pedro Albuquerque" creationdate="20210506T084955Z">
+        <seg>Versão de desenvolvimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8264,6 +8280,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105832Z" creationid="Pedro Albuquerque" creationdate="20210424T105832Z">
         <seg>Sistema de rastreio de documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084931Z" creationid="Pedro Albuquerque" creationdate="20210506T084931Z">
+        <seg>A documentação, particularmente das novas características, será menos abrangente do que a da versão Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13733,6 +13757,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084901Z" creationid="Pedro Albuquerque" creationdate="20210506T084839Z">
+        <seg>É uma versão mais recente do que a versão Standard e inclui novas características não presentes nesta última.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
@@ -14465,6 +14497,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084811Z" creationid="Pedro Albuquerque" creationdate="20210506T084811Z">
+        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch command arguments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083333Z" creationid="Pedro Albuquerque" creationdate="20210504T083333Z">
@@ -14573,6 +14613,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T130034Z" creationid="Pedro Albuquerque" creationdate="20210420T130034Z">
         <seg>Marca da esquerda para a direita (MED U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085037Z" creationid="Pedro Albuquerque" creationdate="20210506T085037Z">
+        <seg>Versões antigas</seg>
       </tuv>
     </tu>
     <tu>
@@ -15240,6 +15288,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062835Z" creationid="Pedro Albuquerque" creationdate="20210422T062835Z">
         <seg>Máscara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085029Z" creationid="Pedro Albuquerque" creationdate="20210506T085029Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -16150,6 +16206,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093730Z" creationid="Pedro Albuquerque" creationdate="20210504T093730Z">
         <seg>A seguir, abre-se o diálogo &lt;g0&gt;Ficheiros do projecto&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085030Z" creationid="Pedro Albuquerque" creationdate="20210506T085030Z">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,6 +18770,14 @@ necessário tomar medidas adicionais.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T071933Z" creationid="Pedro Albuquerque" creationdate="20210421T071933Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085026Z" creationid="Pedro Albuquerque" creationdate="20210506T085026Z">
+        <seg>Os binários pré-compilados, estão disponíveis como Nightly Builds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23349,6 +23421,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085007Z" creationid="Pedro Albuquerque" creationdate="20210506T085007Z">
+        <seg>A versão "mestre" é uma versão de vanguarda, "alfa", ainda em desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115347Z" creationid="Pedro Albuquerque" creationdate="20210426T115347Z">
@@ -23461,6 +23541,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084825Z" creationid="Pedro Albuquerque" creationdate="20210506T084825Z">
+        <seg>A versão mais recente requer o Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084918Z" creationid="Pedro Albuquerque" creationdate="20210506T084918Z">
+        <seg>A versão mais recente será normalmente razoavelmente estável e utilizável, mas pode ter alguns erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065843Z" creationid="Pedro Albuquerque" creationdate="20210421T065843Z">
@@ -23551,8 +23647,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084647Z" creationid="Pedro Albuquerque" creationdate="20210506T084647Z">
-        <seg>A versão Standard requer Java {{site.data.versions.standard.java_version}}.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084832Z" creationid="Pedro Albuquerque" creationdate="20210506T084647Z">
+        <seg>A versão Standard requer o Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27879,6 +27975,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084945Z" creationid="Pedro Albuquerque" creationdate="20210506T084945Z">
+        <seg>Os utilizadores que já têm alguma experiência com o OmegaT preferem frequentemente a versão mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071502Z" creationid="Pedro Albuquerque" creationdate="20210425T071502Z">
@@ -29312,6 +29416,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174524Z" creationid="Pedro Albuquerque" creationdate="20210423T174524Z">
         <seg>Pode seleccionar qual dos seguintes itens deve ser traduzido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085111Z" creationid="Pedro Albuquerque" creationdate="20210506T085111Z">
+        <seg>Ainda pode encontrar &lt;a0&gt;versões antigas já substituídas&lt;/a0&gt; do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31982,6 +32094,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105405Z" creationid="Pedro Albuquerque" creationdate="20210422T105405Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084803Z" creationid="Pedro Albuquerque" creationdate="20210506T084803Z">
+        <seg>{% else %} &lt;a0&gt;Transferir&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084757Z" creationid="Pedro Albuquerque" creationdate="20210506T084757Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Transferir&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
