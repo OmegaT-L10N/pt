@@ -4698,6 +4698,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093619Z" creationid="Pedro Albuquerque" creationdate="20210506T093619Z">
+        <seg>Tal como noutros locais do projecto OmegaT, o trabalho de programação do OmegaT é feito por voluntários e, de acordo com a filosofia do projecto, os desenvolvimentos e melhorias que estes fazem ao OmegaT estão, em última análise, à sua discrição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124653Z" creationid="Pedro Albuquerque" creationdate="20210505T124653Z">
@@ -7880,6 +7888,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103721Z" creationid="Pedro Albuquerque" creationdate="20210424T103721Z">
         <seg>Programadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093547Z" creationid="Pedro Albuquerque" creationdate="20210506T093547Z">
+        <seg>Desenvolvimento do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16522,6 +16538,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093717Z" creationid="Pedro Albuquerque" creationdate="20210506T093717Z">
+        <seg>Os novos utilizadores do OmegaT são encorajados a fazer quaisquer sugestões aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074651Z" creationid="Pedro Albuquerque" creationdate="20210505T074651Z">
@@ -18132,6 +18156,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101852Z" creationid="Pedro Albuquerque" creationdate="20210422T101852Z">
         <seg>um ou mais dos problemas acima referidos podem ter sido resolvidos, mas o projecto não foi recarregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093736Z" creationid="Pedro Albuquerque" creationdate="20210506T093736Z">
+        <seg>Uma razão para tal é que a função desejada pode já ter sido implementada, ou pode haver razões para que não possa ser implementada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24839,6 +24871,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093649Z" creationid="Pedro Albuquerque" creationdate="20210506T093649Z">
+        <seg>O primeiro destes é o grupo de utilizadores do &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first of these is:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T082806Z" creationid="Pedro Albuquerque" creationdate="20210504T082806Z">
@@ -26001,6 +26041,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093633Z" creationid="Pedro Albuquerque" creationdate="20210506T093633Z">
+        <seg>No entanto, existe uma margem considerável no âmbito do projecto para os utilizadores sugerirem melhorias e influenciarem o curso do desenvolvimento futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T101804Z" creationid="Pedro Albuquerque" creationdate="20210422T101726Z">
@@ -26397,8 +26445,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>This ensures that the users" interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093538Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Isto assegura que os interesses dos utilizadores estão protegidos e também resultou na atribuição ao OmegaT da garantia &lt;a0&gt;Softpedia "100% LIVRE"&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26543,6 +26591,14 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092326Z" creationid="Pedro Albuquerque" creationdate="20210424T092326Z">
         <seg>Esta é a pré-definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T093659Z" creationid="Pedro Albuquerque" creationdate="20210506T093659Z">
+        <seg>Este é o foco principal da comunidade de utilizadores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
