@@ -22730,6 +22730,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110552Z" creationid="Pedro Albuquerque" creationdate="20210506T110552Z">
+        <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052222Z" creationid="Pedro Albuquerque" creationdate="20210422T052222Z">
