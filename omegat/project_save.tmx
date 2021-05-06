@@ -13605,6 +13605,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104059Z" creationid="Pedro Albuquerque" creationdate="20210506T104059Z">
+        <seg>Em modo de comparação &lt;g1&gt;Por segmento&lt;/g1&gt;, são avaliados segmento a segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093449Z" creationid="Pedro Albuquerque" creationdate="20210422T093449Z">
@@ -26577,6 +26585,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104116Z" creationid="Pedro Albuquerque" creationdate="20210506T104116Z">
+        <seg>A opção só aparece quando tal selecção é possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T112046Z" creationid="Pedro Albuquerque" creationdate="20210426T112046Z">
@@ -30161,6 +30177,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T073509Z" creationid="Pedro Albuquerque" creationdate="20210427T073509Z">
         <seg>Utilizar o ficheiro &lt;f0&gt;OmegaT.jar&lt;/f0&gt; localizado em &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; para iniciar o &lt;a2&gt;OmegaT&lt;/a2&gt; a partir da linha de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T104150Z" creationid="Pedro Albuquerque" creationdate="20210506T104150Z">
+        <seg>Use o modo de comparação &lt;g0&gt;ID&lt;/g0&gt; para alinhar textos Key=Value.</seg>
       </tuv>
     </tu>
     <tu>
