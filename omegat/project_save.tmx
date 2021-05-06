@@ -9984,6 +9984,22 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084256Z" creationid="Pedro Albuquerque" creationdate="20210506T084256Z">
+        <seg>Os ficheiros em formato Microsoft Office XML podem ser traduzidos directamente no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084333Z" creationid="Pedro Albuquerque" creationdate="20210506T084333Z">
+        <seg>Os ficheiros nos formatos antigos MS Word, Excel e Powerpoint podem ser traduzidos após conversão para os formatos equivalentes actuais do Microsoft Office, ou alternativamente para o formato Office Open XML, que pode ser feito com o OpenOffice.org ou o LibreOffice (também gratuito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071840Z" creationid="Pedro Albuquerque" creationdate="20210426T071840Z">
@@ -17006,6 +17022,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084240Z" creationid="Pedro Albuquerque" creationdate="20210506T084240Z">
+        <seg>OmegaT foi instalado com sucesso no Windows (todas as versões a partir da 98), Macintosh OS X e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124550Z" creationid="Pedro Albuquerque" creationdate="20210420T124550Z">
@@ -17114,6 +17138,14 @@ publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071840Z" creationid="Pedro Albuquerque" creationdate="20210424T071840Z">
         <seg>O OmegaT é instruído para utilizar uma codificação obrigatória para certos formatos de ficheiro (Java properties etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084442Z" creationid="Pedro Albuquerque" creationdate="20210506T084442Z">
+        <seg>O OmegaT não é particularmente difícil de instalar ou utilizar, mas requer alguma vontade de ler e seguir as instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17276,6 +17308,14 @@ instalado no seu sistema.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093939Z" creationid="Pedro Albuquerque" creationdate="20210504T093939Z">
         <seg>O OmegaT mostra um segmento de cada vez para que possa traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084208Z" creationid="Pedro Albuquerque" creationdate="20210506T084208Z">
+        <seg>O OmegaT funcionará em qualquer sistema em que o JRE (Java Runtime Environment) apropriado tenha sido ou possa ser instalado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20072,6 +20112,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084145Z" creationid="Pedro Albuquerque" creationdate="20210506T084145Z">
+        <seg>Requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T070345Z" creationid="Pedro Albuquerque" creationdate="20210421T070345Z">
@@ -22722,6 +22770,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084156Z" creationid="Pedro Albuquerque" creationdate="20210506T084156Z">
+        <seg>Requisitos do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T125230Z" creationid="Pedro Albuquerque" creationdate="20210420T125230Z">
@@ -23313,6 +23369,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T122604Z" creationid="Pedro Albuquerque" creationdate="20210505T122604Z">
         <seg>O manual do utilizador em HTML para a versão padrão do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084224Z" creationid="Pedro Albuquerque" creationdate="20210506T084224Z">
+        <seg>O JRE é agora fornecido com o OmegaT e não precisa de ser obtido separadamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26171,6 +26235,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084414Z" creationid="Pedro Albuquerque" creationdate="20210506T084414Z">
+        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga a ligação a partir do botão "Programas de terceiros" à esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T094118Z" creationid="Pedro Albuquerque" creationdate="20210424T094118Z">
@@ -27667,6 +27739,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T110222Z" creationid="Pedro Albuquerque" creationdate="20210424T110222Z">
         <seg>User manuals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084423Z" creationid="Pedro Albuquerque" creationdate="20210506T084423Z">
+        <seg>Requisitos do utilizador</seg>
       </tuv>
     </tu>
     <tu>
