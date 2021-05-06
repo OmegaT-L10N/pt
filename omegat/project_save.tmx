@@ -5046,6 +5046,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084524Z" creationid="Pedro Albuquerque" creationdate="20210506T084524Z">
+        <seg>Antes de continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070634Z" creationid="Pedro Albuquerque" creationdate="20210426T070634Z">
@@ -9324,6 +9332,14 @@ Ninguém ouve os seus gritos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084607Z" creationid="Pedro Albuquerque" creationdate="20210506T084607Z">
+        <seg>Embora este programa seja gratuito, se achar o OmegaT útil e quiser expressar a sua gratidão, pode fazer uma doação na nossa conta Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104406Z" creationid="Pedro Albuquerque" creationdate="20210421T104406Z">
@@ -11178,6 +11194,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084535Z" creationid="Pedro Albuquerque" creationdate="20210506T084535Z">
+        <seg>Já pensou em doar ao OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12357,6 +12381,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070302Z" creationid="Pedro Albuquerque" creationdate="20210426T070302Z">
         <seg>Se tiver um ficheiro PDF feito de páginas digitalizadas (por vezes tais ficheiros são referidos como PDFs 'mortos'), precisa de usar um programa OCR (reconhecimento óptico de caracteres) para reconhecer o texto e convertê-lo para um formato que possa ser tratado pela OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084518Z" creationid="Pedro Albuquerque" creationdate="20210506T084518Z">
+        <seg>Se tem uma aversão natural à leitura de instruções e a sua abordagem a um novo programa é clicar em cada botão que vê até que algo semelhante ao efeito desejado ocorra, então o OmegaT provavelmente não é adequado para si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13693,6 +13725,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084722Z" creationid="Pedro Albuquerque" creationdate="20210506T084722Z">
+        <seg>Tem sido normalmente utilizada há já algum tempo e está, portanto, aprovada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082024Z" creationid="Pedro Albuquerque" creationdate="20210423T082024Z">
@@ -13909,6 +13949,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093435Z" creationid="Pedro Albuquerque" creationdate="20210422T093435Z">
         <seg>Itens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084735Z" creationid="Pedro Albuquerque" creationdate="20210506T084735Z">
+        <seg>A sua documentação, pelo menos em inglês, é normalmente razoavelmente actualizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18360,6 +18408,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084739Z" creationid="Pedro Albuquerque" creationdate="20210506T084739Z">
+        <seg>Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123128Z" creationid="Pedro Albuquerque" creationdate="20210505T123128Z">
@@ -22442,6 +22498,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084657Z" creationid="Pedro Albuquerque" creationdate="20210506T084634Z">
+        <seg>Versão Standard - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T065301Z" creationid="Pedro Albuquerque" creationdate="20210422T065301Z">
@@ -23481,6 +23545,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104808Z" creationid="Pedro Albuquerque" creationdate="20210425T104808Z">
         <seg>O gestor do projecto deve verificar com o tradutor que as estatísticas são idênticas em ambos os lados (lado do servidor e lado do tradutor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084647Z" creationid="Pedro Albuquerque" creationdate="20210506T084647Z">
+        <seg>A versão Standard requer Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26943,6 +27015,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T093404Z" creationid="Pedro Albuquerque" creationdate="20210422T093404Z">
         <seg>URLs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084625Z" creationid="Pedro Albuquerque" creationdate="20210506T084625Z">
+        <seg>USD &lt;a0&gt;Doar&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
