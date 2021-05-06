@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094823Z" creationid="Pedro Albuquerque" creationdate="20210506T094823Z">
+        <seg>Utilitário de alinhamento "Aligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094900Z" creationid="Pedro Albuquerque" creationdate="20210506T094900Z">
+        <seg>Utilitário de alinhamento "Bligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100930Z" creationid="Pedro Albuquerque" creationdate="20210424T100930Z">
@@ -6792,6 +6808,22 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094916Z" creationid="Pedro Albuquerque" creationdate="20210506T094916Z">
+        <seg>Contribuição de Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094837Z" creationid="Pedro Albuquerque" creationdate="20210506T094837Z">
+        <seg>Contribuição de Dmitri Gabinski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163040Z" creationid="Pedro Albuquerque" creationdate="20210420T163040Z">
@@ -8856,6 +8888,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091522Z" creationid="Pedro Albuquerque" creationdate="20210421T091522Z">
         <seg>E&amp;xportar o segmento para ficheiros de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094706Z" creationid="Pedro Albuquerque" creationdate="20210506T094706Z">
+        <seg>Extensão EPWING</seg>
       </tuv>
     </tu>
     <tu>
@@ -13077,6 +13117,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094758Z" creationid="Pedro Albuquerque" creationdate="20210506T094758Z">
+        <seg>Importante: as extensões listadas funcionam com o OmegaT versão 4 e superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T124849Z" creationid="Pedro Albuquerque" creationdate="20210420T124849Z">
@@ -14549,6 +14597,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T075550Z" creationid="Pedro Albuquerque" creationdate="20210427T075550Z">
         <seg>A tecnologia Java Web Start (parte de Java 8 e superior) pode ser utilizada para implementar aplicações Java autónomas com um único clique sobre a rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094936Z" creationid="Pedro Albuquerque" creationdate="20210506T094936Z">
+        <seg>Script de linha de comando Java para a união de dois ou mais ficheiros TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20092,6 +20148,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094722Z" creationid="Pedro Albuquerque" creationdate="20210506T094722Z">
+        <seg>Fornece funcionalidade para ler o formato de dicionários EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093037Z" creationid="Pedro Albuquerque" creationdate="20210421T093037Z">
@@ -23746,6 +23810,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094918Z" creationid="Pedro Albuquerque" creationdate="20210506T094918Z">
+        <seg>TMXMerger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T062750Z" creationid="Pedro Albuquerque" creationdate="20210422T062750Z">
@@ -24537,6 +24609,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064146Z" creationid="Pedro Albuquerque" creationdate="20210421T064146Z">
         <seg>O idioma-fonte da TMX ({0}) é diferente do idioma-fonte do projecto ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094657Z" creationid="Pedro Albuquerque" creationdate="20210506T094657Z">
+        <seg>O TexTra API é fornecido livremente pelo NICT, agência de investigação do governo japonês.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29113,6 +29193,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094807Z" creationid="Pedro Albuquerque" creationdate="20210506T094807Z">
+        <seg>Utilitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072734Z" creationid="Pedro Albuquerque" creationdate="20210421T072701Z">
@@ -29981,6 +30069,22 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T055601Z" creationid="Pedro Albuquerque" creationdate="20210421T055601Z">
         <seg>A pasta de glossários editáveis não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094829Z" creationid="Pedro Albuquerque" creationdate="20210506T094829Z">
+        <seg>Escrito em Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094905Z" creationid="Pedro Albuquerque" creationdate="20210506T094905Z">
+        <seg>Escrito em Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
