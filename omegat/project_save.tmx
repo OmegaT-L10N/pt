@@ -4558,6 +4558,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100235Z" creationid="Pedro Albuquerque" creationdate="20210506T100235Z">
+        <seg>Uma ferramenta de linha de comando inteligente de alinhamento para a produção de ficheiros de memória de tradução a partir de textos antigos e das suas traduções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123203Z" creationid="Pedro Albuquerque" creationdate="20210505T123203Z">
@@ -7186,6 +7194,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100441Z" creationid="Pedro Albuquerque" creationdate="20210506T100441Z">
+        <seg>Criar um ficheiro TMX contendo todas as cadeias, com fonte e alvo idênticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094245Z" creationid="Pedro Albuquerque" creationdate="20210425T094245Z">
@@ -7950,8 +7966,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Descriptions of and links to Samuel Murray"s scripts/procedures.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100327Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Descrições e ligações aos scripts/procedimentos do Samuel Murray.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10056,6 +10072,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100426Z" creationid="Pedro Albuquerque" creationdate="20210506T100426Z">
+        <seg>Extrair todo o texto original dos ficheiros do projecto num único e grande ficheiro de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052900Z" creationid="Pedro Albuquerque" creationdate="20210422T052900Z">
@@ -11118,6 +11142,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161258Z" creationid="Pedro Albuquerque" creationdate="20210426T161258Z">
         <seg>O GNOME pode não exibir os ficheiros de ícones nos formatos disponíveis e inicialmente parecer à espera de um ficheiro SVG, mas se a pasta for seleccionada, os ficheiros devem aparecer e o &lt;f4&gt;OmegaT.png&lt;/f4&gt; pode ser seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100201Z" creationid="Pedro Albuquerque" creationdate="20210506T100201Z">
+        <seg>Ferramenta de alinhamento GUI para a produção de ficheiros de memória de tradução a partir de textos antigos e as suas traduções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14881,6 +14913,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100202Z" creationid="Pedro Albuquerque" creationdate="20210506T100202Z">
+        <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065356Z" creationid="Pedro Albuquerque" creationdate="20210421T065356Z">
@@ -16480,6 +16520,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T112700Z" creationid="Pedro Albuquerque" creationdate="20210422T112700Z">
         <seg>A maioria dos itens que aparecem no menu principal pode ter um novo atalho atribuído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100340Z" creationid="Pedro Albuquerque" creationdate="20210506T100340Z">
+        <seg>A maioria destes scripts requer MS Windows, embora alguns procedimentos também possam funcionar noutras plataformas.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21666,8 +21714,8 @@ Estas palavras: "Página não encontrada"</seg>
       <tuv lang="en">
         <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Samuel Murray"s scripts and procedures</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100302Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Os scripts e procedimentos do Samuel Murray</seg>
       </tuv>
     </tu>
     <tu>
@@ -21910,6 +21958,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052222Z" creationid="Pedro Albuquerque" creationdate="20210422T052222Z">
         <seg>Pasta de scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100403Z" creationid="Pedro Albuquerque" creationdate="20210506T100403Z">
+        <seg>Os scripts/procedimentos estão disponíveis para lhe permitir fazer o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23102,6 +23158,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172601Z" creationid="Pedro Albuquerque" creationdate="20210423T172601Z">
         <seg>Saltar cabeçalho PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100415Z" creationid="Pedro Albuquerque" creationdate="20210506T100415Z">
+        <seg>Saltar segmentos contendo um determinado conjunto de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -31716,6 +31780,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063147Z" creationid="Pedro Albuquerque" creationdate="20210421T063147Z">
         <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100147Z" creationid="Pedro Albuquerque" creationdate="20210506T100147Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
