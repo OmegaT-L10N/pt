@@ -2516,6 +2516,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111037Z" creationid="Pedro Albuquerque" creationdate="20210506T111037Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): uma linguagem dinâmica para a máquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070249Z" creationid="Pedro Albuquerque" creationdate="20210425T070249Z">
@@ -2560,6 +2568,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T153557Z" creationid="Pedro Albuquerque" creationdate="20210426T153557Z">
         <seg>&lt;e0&gt;Instalar numa nova pasta.&lt;/e0&gt; Isto permitir-lhe-á manter ambas as versões lado a lado, o que poderá querer fazer até se sentir confortável com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111101Z" creationid="Pedro Albuquerque" creationdate="20210506T111101Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13135,6 +13151,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110947Z" creationid="Pedro Albuquerque" creationdate="20210506T110947Z">
+        <seg>Se adicionar novos scripts lá, eles aparecerão na lista de scripts disponíveis na janela &lt;g0&gt;Scripting&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115259Z" creationid="Pedro Albuquerque" creationdate="20210426T115259Z">
@@ -14809,6 +14833,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110100Z" creationid="Pedro Albuquerque" creationdate="20210506T110100Z">
         <seg>Também é possível alterar a posição de um nome de ficheiro, clicando-o e premindo os botões &lt;e0&gt;Mover ...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111054Z" creationid="Pedro Albuquerque" creationdate="20210506T111054Z">
+        <seg>Baseia-se nos pontos fortes do Java mas tem características de poder adicionais inspiradas por linguagens como Python, Ruby e Smalltalk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22746,6 +22778,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111012Z" creationid="Pedro Albuquerque" creationdate="20210506T111012Z">
+        <seg>Linguagens de scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripting...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T081227Z" creationid="Pedro Albuquerque" creationdate="20210505T081227Z">
@@ -24086,6 +24126,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105841Z" creationid="Pedro Albuquerque" creationdate="20210424T105841Z">
         <seg>Redes sociais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111005Z" creationid="Pedro Albuquerque" creationdate="20210506T111005Z">
+        <seg>Alguns scripts adicionais podem ser encontrados aqui: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26491,6 +26539,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T095148Z" creationid="Pedro Albuquerque" creationdate="20210425T095148Z">
         <seg>A receita seguinte é apenas uma das possibilidades, mas suficientemente simples de seguir e sem qualquer perigo para os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111021Z" creationid="Pedro Albuquerque" creationdate="20210506T111021Z">
+        <seg>Foram implementadas as seguintes linguagens de scripting:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33980,6 +34036,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T175942Z" creationid="Pedro Albuquerque" creationdate="20210420T175942Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T110948Z" creationid="Pedro Albuquerque" creationdate="20210506T110948Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
