@@ -5170,6 +5170,14 @@ experimentar um comportamento inesperado, mas correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103032Z" creationid="Pedro Albuquerque" creationdate="20210506T103032Z">
+        <seg>As salvaguardas deste ficheiro (com extensão bak) são acrescentadas progressivamente a esta sub-pasta, primeiro no início da sessão de tradução, no seu final, e enquanto a tradução progride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062632Z" creationid="Pedro Albuquerque" creationdate="20210421T062632Z">
@@ -9100,6 +9108,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103047Z" creationid="Pedro Albuquerque" creationdate="20210506T103047Z">
+        <seg>Durante a tradução podem ser criados ficheiros adicionais nesta sub-pasta da seguinte forma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094046Z" creationid="Pedro Albuquerque" creationdate="20210504T094046Z">
@@ -12995,6 +13011,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T115259Z" creationid="Pedro Albuquerque" creationdate="20210426T115259Z">
         <seg>Se já tem uma versão do OmegaT instalada no seu PC e deseja actualizar para uma versão mais recente, tem duas opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103153Z" creationid="Pedro Albuquerque" creationdate="20210506T103153Z">
+        <seg>Se já reuniu palavras que deseja que o corrector ortográfico ignore/aceite, basta copiar os dois ficheiros correspondentes para a sub-pasta &lt;f0&gt;omegat&lt;/f0&gt; do seu projecto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22658,6 +22682,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102912Z" creationid="Pedro Albuquerque" creationdate="20210506T102912Z">
+        <seg>Ver &lt;l0&gt;Glossaries&lt;/l0&gt; para mais informações sobre este assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074742Z" creationid="Pedro Albuquerque" creationdate="20210505T074742Z">
@@ -25301,6 +25333,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102932Z" creationid="Pedro Albuquerque" creationdate="20210506T102932Z">
+        <seg>A sub-pasta &lt;e0&gt;omegat&lt;/e0&gt; contém pelo menos um e possivelmente vários outros ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094808Z" creationid="Pedro Albuquerque" creationdate="20210504T094808Z">
@@ -26381,6 +26421,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163257Z" creationid="Pedro Albuquerque" creationdate="20210420T163257Z">
         <seg>A informação mais actual sobre o OmegaT pode ser encontrada em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102947Z" creationid="Pedro Albuquerque" creationdate="20210506T102947Z">
+        <seg>O ficheiro mais importante aqui é o &lt;f1&gt;project_save.tmx, &lt;/f1&gt; que é a memória de tradução de trabalho para o projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31884,6 +31932,14 @@ script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103107Z" creationid="Pedro Albuquerque" creationdate="20210506T103107Z">
+        <seg>Pode vê-lo seleccionando &lt;g0&gt;Ferramentas &gt; Estatísticas&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T094014Z" creationid="Pedro Albuquerque" creationdate="20210422T094014Z">
@@ -32496,6 +32552,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103118Z" creationid="Pedro Albuquerque" creationdate="20210506T103118Z">
+        <seg>são criados e utilizados pelo corrector ortográfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063147Z" creationid="Pedro Albuquerque" creationdate="20210421T063147Z">
@@ -32588,6 +32652,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111910Z" creationid="Pedro Albuquerque" creationdate="20210422T111910Z">
         <seg>vírgula ou um ponto, seguido de espaços e ainda outra vírgula ou ponto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the current statistics of the current project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103055Z" creationid="Pedro Albuquerque" creationdate="20210506T103055Z">
+        <seg>contém as estatísticas actuais do projecto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33408,6 +33480,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103107Z" creationid="Pedro Albuquerque" creationdate="20210506T103107Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070439Z" creationid="Pedro Albuquerque" creationdate="20210426T070439Z">
@@ -33534,6 +33614,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090009Z" creationid="Pedro Albuquerque" creationdate="20210421T090009Z">
         <seg>lan&amp;g (atributo de idioma)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103108Z" creationid="Pedro Albuquerque" creationdate="20210506T103108Z">
+        <seg>learned_words.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -34122,6 +34210,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103154Z" creationid="Pedro Albuquerque" creationdate="20210506T103154Z">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084240Z" creationid="Pedro Albuquerque" creationdate="20210505T084240Z">
@@ -34302,6 +34398,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T085955Z" creationid="Pedro Albuquerque" creationdate="20210421T085955Z">
         <seg>src (URL de &amp;imagens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103047Z" creationid="Pedro Albuquerque" creationdate="20210506T103047Z">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
