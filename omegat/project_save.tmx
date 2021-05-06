@@ -4170,6 +4170,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103517Z" creationid="Pedro Albuquerque" creationdate="20210506T103517Z">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T090412Z" creationid="Pedro Albuquerque" creationdate="20210422T090412Z">
