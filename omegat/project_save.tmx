@@ -4670,6 +4670,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101729Z" creationid="Pedro Albuquerque" creationdate="20210506T101729Z">
+        <seg>Qualquer texto, já traduzido e armazenado nesses ficheiros, aparecerá entre as correspondências aproximadas, se for suficientemente semelhante ao texto actualmente a ser traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T113106Z" creationid="Pedro Albuquerque" creationdate="20210422T113106Z">
@@ -11010,6 +11018,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101842Z" creationid="Pedro Albuquerque" creationdate="20210506T101842Z">
+        <seg>Por exemplo (se a pré-definição for aceite), a tradução da TM auxiliar é aceite e prefixada com&lt;e3&gt; [fuzzy]&lt;/e3&gt;, para que o tradutor possa rever as traduções numa fase posterior e verificar se os segmentos marcados desta forma, foram traduzidos correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12819,6 +12835,14 @@ pré-definições como resultado da mudança de localização.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100812Z" creationid="Pedro Albuquerque" creationdate="20210425T090617Z">
         <seg>Se o ficheiro-fonte for modificado após ter começado a traduzir, o &lt;a1&gt;OmegaT&lt;/a1&gt; poderá não conseguir encontrar um segmento que já tenha traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101805Z" creationid="Pedro Albuquerque" creationdate="20210506T101805Z">
+        <seg>Se o segmento-fonte numa das TMs auxiliares for idêntico ao texto a ser traduzido, o OmegaT actua como definido na janela de diálogo &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Comportamento de edição...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14737,6 +14761,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T094243Z" creationid="Pedro Albuquerque" creationdate="20210506T094243Z">
         <seg>Também pode ser possível que desenvolvimentos encomendados a programadores externos sejam implementados no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101858Z" creationid="Pedro Albuquerque" creationdate="20210506T101858Z">
+        <seg>Pode acontecer, que as memórias de tradução, disponíveis na sub-pasta &lt;f0&gt;tm&lt;/f0&gt;, contenham segmentos com texto de origem idêntico, mas com alvos diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,6 +17698,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
         <seg>Note-se que a função "Instalar" requer uma ligação à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101949Z" creationid="Pedro Albuquerque" creationdate="20210506T101949Z">
+        <seg>Note-se que os ficheiros TMX na pasta tm podem ser comprimidos com gzip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24554,6 +24594,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101917Z" creationid="Pedro Albuquerque" creationdate="20210506T101917Z">
+        <seg>Os ficheiros TMX são lidos ordenados pelos seus nomes e segmentos dentro de um determinado ficheiro TMX, linha a linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T095910Z" creationid="Pedro Albuquerque" creationdate="20210506T095828Z">
@@ -26075,6 +26123,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111834Z" creationid="Pedro Albuquerque" creationdate="20210426T111834Z">
         <seg>A última janela oferece-lhe a possibilidade de ver os ficheiros readme e as alterações para a versão que tem instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101938Z" creationid="Pedro Albuquerque" creationdate="20210506T101938Z">
+        <seg>O último segmento com o texto de origem idêntico prevalecerá assim (nota: claro que faz mais sentido evitar que isto aconteça em primeiro lugar).</seg>
       </tuv>
     </tu>
     <tu>
