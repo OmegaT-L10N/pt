@@ -2574,8 +2574,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111101Z" creationid="Pedro Albuquerque" creationdate="20210506T111101Z">
-        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111122Z" creationid="Pedro Albuquerque" creationdate="20210506T111101Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (por vezes abreviado JS, a não confundir com Java): uma linguagem de scripting baseada em protótipos que é dinâmica, pouco dactilografada e com funções de primeira classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4346,6 +4346,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111220Z" creationid="Pedro Albuquerque" creationdate="20210506T111220Z">
+        <seg>Todas as linguagens têm acesso ao modelo de objecto OmegaT, tendo o projecto como objecto de topo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T091709Z" creationid="Pedro Albuquerque" creationdate="20210421T091709Z">
@@ -5370,6 +5378,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082108Z" creationid="Pedro Albuquerque" creationdate="20210423T082108Z">
         <seg>Antes da função de verificação ortográfica poder ser utilizada, deve ser instalado um dicionário ou dicionários adequados (isto é, para o seu idioma-alvo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111158Z" creationid="Pedro Albuquerque" creationdate="20210506T111158Z">
+        <seg>Sendo a linguagem por detrás de programas populares como o Firefox, é uma ferramenta de programação familiar e preferida no domínio do código aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,6 +11130,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111243Z" creationid="Pedro Albuquerque" creationdate="20210506T111243Z">
+        <seg>Por exemplo, o seguinte código Groovy analisa todos os segmentos em todos os ficheiros do projecto actual e, se existir uma tradução, imprime a fonte e o alvo do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T175025Z" creationid="Pedro Albuquerque" creationdate="20210423T175025Z">
@@ -14913,6 +14937,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084901Z" creationid="Pedro Albuquerque" creationdate="20210506T084839Z">
         <seg>É uma versão mais recente do que a versão Standard e inclui novas características não presentes nesta última.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111137Z" creationid="Pedro Albuquerque" creationdate="20210506T111137Z">
+        <seg>É uma linguagem multi-paradigma, apoiando estilos de programação orientados para objectos, imperativos, e funcionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33232,6 +33264,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111247Z" creationid="Pedro Albuquerque" creationdate="20210506T111247Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103055Z" creationid="Pedro Albuquerque" creationdate="20210506T103055Z">
@@ -33252,6 +33292,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104123Z" creationid="Pedro Albuquerque" creationdate="20210425T104123Z">
         <seg>copiar os ficheiros para a pasta &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111246Z" creationid="Pedro Albuquerque" creationdate="20210506T111246Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -33576,6 +33624,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111245Z" creationid="Pedro Albuquerque" creationdate="20210506T111245Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>filters.xml</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T103238Z" creationid="Pedro Albuquerque" creationdate="20210506T103238Z">
@@ -33588,6 +33644,22 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075810Z" creationid="Pedro Albuquerque" creationdate="20210423T075810Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111245Z" creationid="Pedro Albuquerque" creationdate="20210506T111245Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111246Z" creationid="Pedro Albuquerque" creationdate="20210506T111246Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -34068,6 +34140,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T070143Z" creationid="Pedro Albuquerque" creationdate="20210426T070143Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111246Z" creationid="Pedro Albuquerque" creationdate="20210506T111246Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -35026,6 +35106,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111247Z" creationid="Pedro Albuquerque" creationdate="20210506T111247Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074934Z" creationid="Pedro Albuquerque" creationdate="20210424T074934Z">
@@ -35054,6 +35142,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101307Z" creationid="Pedro Albuquerque" creationdate="20210506T101307Z">
         <seg>target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111247Z" creationid="Pedro Albuquerque" creationdate="20210506T111247Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35434,6 +35530,14 @@ criasse o ficheiro de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111245Z" creationid="Pedro Albuquerque" creationdate="20210506T111245Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084803Z" creationid="Pedro Albuquerque" creationdate="20210506T084803Z">
@@ -35614,6 +35718,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T091140Z" creationid="Pedro Albuquerque" creationdate="20210422T091140Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111248Z" creationid="Pedro Albuquerque" creationdate="20210506T111248Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
