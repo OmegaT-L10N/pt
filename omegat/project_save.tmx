@@ -10490,6 +10490,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085137Z" creationid="Pedro Albuquerque" creationdate="20210506T085137Z">
+        <seg>Para a maioria dos utilizadores, estas não são de interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T061241Z" creationid="Pedro Albuquerque" creationdate="20210427T061241Z">
@@ -11454,6 +11462,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085150Z" creationid="Pedro Albuquerque" creationdate="20210506T085150Z">
+        <seg>No entanto, alguns utilizadores podem enfrentar restrições (impostas pelos seus sistemas operativos ou versão Java) que podem resultar numa preferência por uma versão mais antiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T082732Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -12279,6 +12295,14 @@ pré-definições como resultado da mudança de localização.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085256Z" creationid="Pedro Albuquerque" creationdate="20210506T085256Z">
+        <seg>Se estiver confiante de que uma versão adequada do JRE já está instalada no seu computador, pode transferir uma versão do OmegaT sem o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123709Z" creationid="Pedro Albuquerque" creationdate="20210505T123709Z">
@@ -12941,6 +12965,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085236Z" creationid="Pedro Albuquerque" creationdate="20210506T085236Z">
+        <seg>Para funcionar, o OmegaT requer que o Java Runtime Environment (JRE) esteja instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T073153Z" creationid="Pedro Albuquerque" creationdate="20210424T073153Z">
@@ -13081,6 +13113,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094220Z" creationid="Pedro Albuquerque" creationdate="20210425T094220Z">
         <seg>Neste caso, um procedimento útil seria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085353Z" creationid="Pedro Albuquerque" creationdate="20210506T085353Z">
+        <seg>Neste caso, não seleccione a versão pré-definida; seleccione uma versão diferente (por exemplo, Standard ou Latest), depois seleccione uma versão marcada com "Java não incluído".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14621,6 +14661,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085037Z" creationid="Pedro Albuquerque" creationdate="20210506T085037Z">
         <seg>Versões antigas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085123Z" creationid="Pedro Albuquerque" creationdate="20210506T085123Z">
+        <seg>As versões legadas são versões mais antigas que foram substituídas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24023,6 +24071,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085319Z" creationid="Pedro Albuquerque" creationdate="20210506T085319Z">
+        <seg>A transferência será mais rápida e a instalação exigirá menos espaço no seu disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T110655Z" creationid="Pedro Albuquerque" creationdate="20210422T110655Z">
@@ -28781,6 +28837,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T120341Z" creationid="Pedro Albuquerque" creationdate="20210426T120341Z">
         <seg>Com este método, pode também transferir a versão "Windows sem JRE", uma vez que a nova instalação utilizará o seu JRE existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085157Z" creationid="Pedro Albuquerque" creationdate="20210506T085157Z">
+        <seg>Com/Sem JRE</seg>
       </tuv>
     </tu>
     <tu>
