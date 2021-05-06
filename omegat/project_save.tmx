@@ -1560,6 +1560,14 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090703Z" creationid="Pedro Albuquerque" creationdate="20210506T090703Z">
+        <seg>(os programas que o fazem chamam-se "tradução automática", e terão de ser procurados noutro local.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162545Z" creationid="Pedro Albuquerque" creationdate="20210420T162545Z">
@@ -3142,6 +3150,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T085625Z" creationid="Pedro Albuquerque" creationdate="20210506T085625Z">
         <seg>&lt;s0&gt;Utilizadores Linux&lt;/s0&gt;: a maioria das distribuições Linux são fornecidas com um Java Runtime Environment, mas algumas implementações open-source não funcionam correctamente com o OmegaT (embora isto possa não ser imediatamente visível).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090612Z" creationid="Pedro Albuquerque" creationdate="20210506T090612Z">
+        <seg>O &lt;s0&gt;OmegaT&lt;/s0&gt; é uma aplicação de memória de tradução livre que funciona em Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10770,6 +10786,14 @@ fornecido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090720Z" creationid="Pedro Albuquerque" creationdate="20210506T090720Z">
+        <seg>Correspondências aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T160741Z" creationid="Pedro Albuquerque" creationdate="20210426T160741Z">
@@ -13853,6 +13877,14 @@ faça duplo clique nesse atalho.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090631Z" creationid="Pedro Albuquerque" creationdate="20210506T090631Z">
+        <seg>Não traduz por si!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084722Z" creationid="Pedro Albuquerque" creationdate="20210506T084722Z">
@@ -13865,6 +13897,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084901Z" creationid="Pedro Albuquerque" creationdate="20210506T084839Z">
         <seg>É uma versão mais recente do que a versão Standard e inclui novas características não presentes nesta última.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090622Z" creationid="Pedro Albuquerque" creationdate="20210506T090622Z">
+        <seg>É um instrumento destinado a tradutores profissionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15484,6 +15524,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090731Z" creationid="Pedro Albuquerque" creationdate="20210506T090731Z">
+        <seg>Propagação de correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064953Z" creationid="Pedro Albuquerque" creationdate="20210422T064953Z">
@@ -15568,6 +15616,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062512Z" creationid="Pedro Albuquerque" creationdate="20210421T062512Z">
         <seg>Foi atingido o máximo de resultados ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090849Z" creationid="Pedro Albuquerque" creationdate="20210506T090849Z">
+        <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15672,6 +15728,14 @@ na primeira execução.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T173410Z" creationid="Pedro Albuquerque" creationdate="20210421T173410Z">
         <seg>Chave de subscrição do Microsoft Translator indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090843Z" creationid="Pedro Albuquerque" creationdate="20210506T090843Z">
+        <seg>Microsoft Word, Excel, Power</seg>
       </tuv>
     </tu>
     <tu>
@@ -17864,6 +17928,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090847Z" creationid="Pedro Albuquerque" creationdate="20210506T090847Z">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T174514Z" creationid="Pedro Albuquerque" creationdate="20210423T174514Z">
@@ -18632,6 +18704,14 @@ submeter tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090855Z" creationid="Pedro Albuquerque" creationdate="20210506T090855Z">
+        <seg>Texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T100907Z" creationid="Pedro Albuquerque" creationdate="20210422T100907Z">
@@ -19256,6 +19336,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061839Z" creationid="Pedro Albuquerque" creationdate="20210422T061839Z">
         <seg>A processar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090711Z" creationid="Pedro Albuquerque" creationdate="20210506T090711Z">
+        <seg>Características profissionais</seg>
       </tuv>
     </tu>
     <tu>
@@ -22150,6 +22238,22 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T092639Z" creationid="Pedro Albuquerque" creationdate="20210421T092639Z">
         <seg>Simplificar dicas em par&amp;tes protegidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090744Z" creationid="Pedro Albuquerque" creationdate="20210506T090744Z">
+        <seg>Processamento simultâneo de projectos de ficheiros múltiplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090752Z" creationid="Pedro Albuquerque" creationdate="20210506T090752Z">
+        <seg>Utilização simultânea de múltiplas memórias de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -28111,6 +28215,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090825Z" creationid="Pedro Albuquerque" creationdate="20210506T090825Z">
+        <seg>Glossários de utilizadores com reconhecimento de formas inflectidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User group</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T105410Z" creationid="Pedro Albuquerque" creationdate="20210424T103843Z">
@@ -29097,6 +29209,14 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090842Z" creationid="Pedro Albuquerque" creationdate="20210506T090842Z">
+        <seg>Trabalhar com mais de 30 formatos de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Working offline</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T071945Z" creationid="Pedro Albuquerque" creationdate="20210426T071945Z">
@@ -29253,6 +29373,14 @@ A sua página não foi encontrada</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T090434Z" creationid="Pedro Albuquerque" creationdate="20210421T090434Z">
         <seg>Opções de filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090846Z" creationid="Pedro Albuquerque" creationdate="20210506T090846Z">
+        <seg>XHTML e HTML</seg>
       </tuv>
     </tu>
     <tu>
