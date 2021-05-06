@@ -10576,6 +10576,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101416Z" creationid="Pedro Albuquerque" creationdate="20210506T101416Z">
+        <seg>Os ficheiros dentro da pasta &lt;f7&gt;source&lt;/f7&gt;, traduzidos ou não, são então gerados aqui, com a mesma hierarquia que está presente na sub-pasta source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T171739Z" creationid="Pedro Albuquerque" creationdate="20210420T171739Z">
@@ -17646,6 +17654,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101558Z" creationid="Pedro Albuquerque" creationdate="20210506T101558Z">
+        <seg>Note-se que outras ferramentas CAT podem exportar (e importar também) ficheiros tmx, geralmente nas três formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T082813Z" creationid="Pedro Albuquerque" creationdate="20210423T082813Z">
@@ -24346,6 +24362,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101547Z" creationid="Pedro Albuquerque" creationdate="20210506T101547Z">
+        <seg>Tais ficheiros podem ser criados em qualquer uma das três variedades indicadas acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T075005Z" creationid="Pedro Albuquerque" creationdate="20210425T075005Z">
@@ -25101,6 +25125,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101536Z" creationid="Pedro Albuquerque" creationdate="20210506T101536Z">
+        <seg>A pasta /tm/ pode conter qualquer número de memórias de tradução acessórias - ou seja, ficheiros tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094808Z" creationid="Pedro Albuquerque" creationdate="20210504T094808Z">
@@ -25453,6 +25485,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101619Z" creationid="Pedro Albuquerque" creationdate="20210506T101619Z">
+        <seg>O melhor, naturalmente, é utilizar ficheiros TMX específicos do OmegaT (ver acima), de modo a que a formatação em linha dentro do segmento seja mantida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105530Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -25602,6 +25642,22 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092530Z" creationid="Pedro Albuquerque" creationdate="20210424T092530Z">
         <seg>O conteúdo do texto-alvo do segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101458Z" creationid="Pedro Albuquerque" creationdate="20210506T101458Z">
+        <seg>O conteúdo da sub-pasta target reflectirá o estado actual da tradução, tal como presente na memória de tradução do projecto, gravada na actual &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101644Z" creationid="Pedro Albuquerque" creationdate="20210506T101644Z">
+        <seg>O conteúdo das memórias de tradução na sub-pasta tm serve para gerar sugestões para o(s) texto(s) a traduzir</seg>
       </tuv>
     </tu>
     <tu>
@@ -29449,6 +29505,14 @@ e a aplicação OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063247Z" creationid="Pedro Albuquerque" creationdate="20210422T063247Z">
         <seg>Texto dos segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101519Z" creationid="Pedro Albuquerque" creationdate="20210506T101519Z">
+        <seg>Os segmentos não traduzidos permanecerão no idioma-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34054,6 +34118,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T075915Z" creationid="Pedro Albuquerque" creationdate="20210423T075915Z">
         <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T101520Z" creationid="Pedro Albuquerque" creationdate="20210506T101520Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
