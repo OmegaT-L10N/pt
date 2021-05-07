@@ -3492,8 +3492,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160400Z" creationid="Pedro Albuquerque" creationdate="20210420T160304Z">
-        <seg>Este documento foi traduzido por Pedro M. R. Albuquerque</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081301Z" creationid="Pedro Albuquerque" creationdate="20210420T160304Z">
+        <seg>Este documento foi traduzido por Pedro Albuquerque</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +3558,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T075829Z" creationid="Pedro Albuquerque" creationdate="20210424T075829Z">
         <seg>Alguns exemplos simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081144Z" creationid="Pedro Albuquerque" creationdate="20210507T081144Z">
+        <seg>Um ficheiro pode não ter entradas correspondentes, pelo que se mostrará vazio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,6 +3678,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T170725Z" creationid="Pedro Albuquerque" creationdate="20210423T170725Z">
         <seg>Um script integrado com o OmegaT chamado Switch Colour Themes fornece um tema padrão "Dark".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081125Z" creationid="Pedro Albuquerque" creationdate="20210507T081125Z">
+        <seg>Uma procura pode ser limitada a 1000 itens, por isso, se procurar numa frase comum, o editor então mostra apenas aquelas 1000 entradas correspondentes, e não todas as entradas que correspondem aos critérios de procura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12833,6 +12849,14 @@ o caminho completo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081209Z" creationid="Pedro Albuquerque" creationdate="20210507T081209Z">
+        <seg>Se uma procura remover duplicados, esses duplicados não estarão no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124113Z" creationid="Pedro Albuquerque" creationdate="20210505T124113Z">
@@ -17730,6 +17754,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081049Z" creationid="Pedro Albuquerque" creationdate="20210507T081049Z">
+        <seg>N.B.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T104630Z" creationid="Pedro Albuquerque" creationdate="20210421T093510Z">
@@ -21006,6 +21038,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T060208Z" creationid="Pedro Albuquerque" creationdate="20210422T060208Z">
         <seg>Prima &lt;u&gt;{0}&lt;/u&gt; para voltar às sugestões &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081016Z" creationid="Pedro Albuquerque" creationdate="20210507T081016Z">
+        <seg>Prima o botão &lt;e0&gt;Filtro&lt;/e0&gt; no fundo para limitar as entradas mostradas na janela do editor àquelas que correspondem à procura actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29675,6 +29715,14 @@ do servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081222Z" creationid="Pedro Albuquerque" creationdate="20210507T081222Z">
+        <seg>Para remover um filtro, prima o botão &lt;e0&gt;Remover filtro&lt;/e0&gt;, ou recarregue um projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T090052Z" creationid="Pedro Albuquerque" creationdate="20210504T090052Z">
@@ -33104,6 +33152,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T071127Z" creationid="Pedro Albuquerque" creationdate="20210425T071127Z">
         <seg>Pode alternar entre diferentes modos de visualização premindo &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (esta é a letra O e não o algarismo zero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T081043Z" creationid="Pedro Albuquerque" creationdate="20210507T081043Z">
+        <seg>Pode usar a navegação normal para ir, por exemplo, ao próximo segmento (não traduzido) que corresponda aos critérios de procura.</seg>
       </tuv>
     </tu>
     <tu>
