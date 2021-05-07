@@ -2676,6 +2676,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075302Z" creationid="Pedro Albuquerque" creationdate="20210507T075302Z">
+        <seg>&lt;e0&gt;Espaço corresponde a nbsp&lt;/e0&gt;: quando esta opção está marcada, um carácter de espaço colocado na entrada de procura pode corresponder a um carácter de espaço normal ou a um carácter de espaço inseparável (\u00A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100253Z" creationid="Pedro Albuquerque" creationdate="20210423T172856Z">
@@ -2728,6 +2736,38 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210427T074345Z" creationid="Pedro Albuquerque" creationdate="20210427T074345Z">
         <seg>&lt;e0&gt;Sim:&lt;/e0&gt; transfira o &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075210Z" creationid="Pedro Albuquerque" creationdate="20210507T075210Z">
+        <seg>&lt;e0&gt; sensível a maiúsculas&lt;/e0&gt;: a procura será efectuada para a cadeia exacta especificada; ou seja, as maiúsculas são comparadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075430Z" creationid="Pedro Albuquerque" creationdate="20210507T075430Z">
+        <seg>&lt;e0&gt;nas notas&lt;/e0&gt;: procurar em notas dos segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075320Z" creationid="Pedro Albuquerque" creationdate="20210507T075320Z">
+        <seg>&lt;e0&gt;na fonte: &lt;/e0&gt;pesquisar nos segmentos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075359Z" creationid="Pedro Albuquerque" creationdate="20210507T075359Z">
+        <seg>&lt;e0&gt;nas traduções&lt;/e0&gt;: procurar nos segmentos-alvo</seg>
       </tuv>
     </tu>
     <tu>
