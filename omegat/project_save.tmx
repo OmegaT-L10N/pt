@@ -4490,6 +4490,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073437Z" creationid="Pedro Albuquerque" creationdate="20210507T073437Z">
+        <seg>Em alternativa, pode seleccionar uma palavra ou frase no painel do editor, no painel de aproximadas ou no painel do glossário e premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T092010Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -6690,6 +6698,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074935Z" creationid="Pedro Albuquerque" creationdate="20210505T074935Z">
         <seg>Clique no separador &lt;g0&gt;Editar&lt;/g0&gt; na página da Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073555Z" creationid="Pedro Albuquerque" creationdate="20210507T073555Z">
+        <seg>Clique na seta descendente da caixa &lt;e0&gt;Procurar por&lt;/e0&gt; para aceder às últimas 10 procuras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19536,6 +19552,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073356Z" creationid="Pedro Albuquerque" creationdate="20210507T073356Z">
+        <seg>Abra a janela de pesquisa com &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; e insira a palavra ou frase que deseja procurar na caixa &lt;e3&gt;Procurar por&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T102050Z" creationid="Pedro Albuquerque" creationdate="20210506T102050Z">
@@ -26037,6 +26061,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073609Z" creationid="Pedro Albuquerque" creationdate="20210507T073609Z">
+        <seg>A janela de procura tem os seus próprios menus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T084832Z" creationid="Pedro Albuquerque" creationdate="20210506T084647Z">
@@ -27733,6 +27765,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092659Z" creationid="Pedro Albuquerque" creationdate="20210424T092659Z">
         <seg>Todo o processo pode ser dirigido e controlado através de Tck/Tcl-based scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073459Z" creationid="Pedro Albuquerque" creationdate="20210507T073459Z">
+        <seg>A palavra ou frase é inserida na caixa &lt;e3&gt;Procurar por&lt;/e3&gt; automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32518,6 +32558,14 @@ menu Iniciar, a área de trabalho ou a área de início rápido para o ligar a p
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T182432Z" creationid="Pedro Albuquerque" creationdate="20210421T182432Z">
         <seg>Pode ir à &lt;a0&gt;página inicial&lt;/a0&gt; e, esperançosamente encontrar aí a informação que procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073539Z" creationid="Pedro Albuquerque" creationdate="20210507T073539Z">
+        <seg>Pode ter várias janelas de procura abertas ao mesmo tempo, mas feche-as quando já não forem necessárias para que não desorganizem o seu ambiente de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
