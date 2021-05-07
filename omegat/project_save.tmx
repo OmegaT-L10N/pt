@@ -2492,6 +2492,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075730Z" creationid="Pedro Albuquerque" creationdate="20210507T075730Z">
+        <seg>&lt;e0&gt;Mostrar: todos os segmentos correspondentes&lt;/e0&gt;: se marcada, todos os segmentos são mostrados um a um, mesmo que estejam presentes várias vezes no mesmo documento ou em documentos diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173514Z" creationid="Pedro Albuquerque" creationdate="20210423T173514Z">
@@ -2700,6 +2708,30 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075542Z" creationid="Pedro Albuquerque" creationdate="20210507T075542Z">
+        <seg>&lt;e0&gt;Traduzido ou não traduzido: &lt;/e0&gt;procurar tanto em segmentos traduzidos como em não traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075609Z" creationid="Pedro Albuquerque" creationdate="20210507T075609Z">
+        <seg>&lt;e0&gt;Traduzido&lt;/e0&gt;: procurar apenas em segmentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075632Z" creationid="Pedro Albuquerque" creationdate="20210507T075632Z">
+        <seg>&lt;e0&gt;Não traduzido&lt;/e0&gt;: procurar apenas em segmentos não traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T074043Z" creationid="Pedro Albuquerque" creationdate="20210424T074043Z">
@@ -2748,6 +2780,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075514Z" creationid="Pedro Albuquerque" creationdate="20210507T075514Z">
+        <seg>&lt;e0&gt;nos comentários&lt;/e0&gt;: procurar nos comentários dos segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075430Z" creationid="Pedro Albuquerque" creationdate="20210507T075430Z">
@@ -2758,8 +2798,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075320Z" creationid="Pedro Albuquerque" creationdate="20210507T075320Z">
-        <seg>&lt;e0&gt;na fonte: &lt;/e0&gt;pesquisar nos segmentos-fonte</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075447Z" creationid="Pedro Albuquerque" creationdate="20210507T075320Z">
+        <seg>&lt;e0&gt;na fonte&lt;/e0&gt;: procurar nos segmentos-fonte</seg>
       </tuv>
     </tu>
     <tu>
