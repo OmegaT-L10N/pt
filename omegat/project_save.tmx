@@ -6760,8 +6760,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115113Z" creationid="Pedro Albuquerque" creationdate="20210423T115113Z">
-        <seg>Desmarque esta opção para desactivar a pesquisa automática - se os dicionários forem demasiado longos, por exemplo.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210423T115113Z">
+        <seg>Desmarque esta opção para desactivar a procura automática - se os dicionários forem demasiado longos, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,8 +8406,8 @@ Compre outra bebida</seg>
       <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070325Z" creationid="Pedro Albuquerque" creationdate="20210425T070325Z">
-        <seg>Define os recursos de pesquisa externa específicos do projecto.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210425T070325Z">
+        <seg>Define os recursos de procura externa específicos do projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,8 +14151,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073944Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Tanto nas pesquisas exactas como nas pesquisas por palavras-chave, podem ser utilizados os caracteres universais "*" e "?".</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Tanto nas procuras exactas como nas procuras por palavras-chave, podem ser utilizados os caracteres universais "*" e "?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15811,8 +15811,8 @@ na primeira execução.</seg>
       <tuv lang="en">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074752Z" creationid="Pedro Albuquerque" creationdate="20210507T074735Z">
-        <seg>As procuras por palavras-chave são semelhantes a uma pesquisa "com todas as palavras" num motor de busca da Internet como o Google (equivalente ao E lógico).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210507T074735Z">
+        <seg>As procuras por palavras-chave são semelhantes a uma procura "com todas as palavras" num motor de busca da Internet como o Google (equivalente ao E lógico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,8 +18312,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074228Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Note-se que "*" e "?" têm um significado especial em expressões regulares, pelo que a pesquisa tal como aqui descrita, aplica-se apenas à pesquisa exacta e por palavra-chave (ver abaixo).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Note-se que "*" e "?" têm um significado especial em expressões regulares, pelo que a procura tal como aqui descrita, aplica-se apenas à procura exacta e por palavra-chave (ver abaixo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,9 +19114,9 @@ a pasta Aplicações.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T100401Z" creationid="Pedro Albuquerque" creationdate="20210420T160655Z">
-        <seg>O OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
-com correspondência fuzzy, memória de tradução, pesquisa de palavras-chave, glossários e
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210420T160655Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador multi-plataforma livre e de código aberto
+com correspondências aproximadas, memória de tradução, procura de palavras-chave, glossários e
 tradução alavancada em projectos actualizados.</seg>
       </tuv>
     </tu>
@@ -19842,8 +19842,8 @@ instalado no seu sistema.</seg>
       <tuv lang="en">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073356Z" creationid="Pedro Albuquerque" creationdate="20210507T073356Z">
-        <seg>Abra a janela de pesquisa com &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; e insira a palavra ou frase que deseja procurar na caixa &lt;e3&gt;Procurar por&lt;/e3&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210507T073356Z">
+        <seg>Abra a janela de procura com &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; e insira a palavra ou frase que deseja procurar na caixa &lt;e3&gt;Procurar por&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21068,8 +21068,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T103337Z" creationid="Pedro Albuquerque" creationdate="20210504T103337Z">
-        <seg>Premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; mostra a última janela de pesquisa já aberta (em vez de abrir uma nova).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210504T103337Z">
+        <seg>Premir &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; mostra a última janela de procura já aberta (em vez de abrir uma nova).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23380,8 +23380,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Search results display</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080408Z" creationid="Pedro Albuquerque" creationdate="20210507T080408Z">
-        <seg>Exibição dos resultados da pesquisa</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210507T080408Z">
+        <seg>Exibição dos resultados da procura</seg>
       </tuv>
     </tu>
     <tu>
@@ -23924,8 +23924,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T115024Z" creationid="Pedro Albuquerque" creationdate="20210423T115024Z">
-        <seg>Seleccionar domínio de pesquisa terminológica TaaS...</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210423T115024Z">
+        <seg>Seleccionar domínio de procura terminológica TaaS...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23980,8 +23980,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074635Z" creationid="Pedro Albuquerque" creationdate="20210507T074635Z">
-        <seg>Seleccione a pesquisa por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210507T074635Z">
+        <seg>Seleccione a procura por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27025,8 +27025,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T111813Z" creationid="Pedro Albuquerque" creationdate="20210422T111813Z">
-        <seg>A lista seguinte inclui expressões que poderá achar úteis ao pesquisar através da memória de tradução:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210422T111813Z">
+        <seg>A lista seguinte inclui expressões que poderá achar úteis ao procurar através da memória de tradução:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27635,8 +27635,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105157Z" creationid="Pedro Albuquerque" creationdate="20210422T105157Z">
-        <seg>As expressões regulares (ou regex para abreviar) utilizadas nas pesquisas e regras de segmentação são as suportadas pelo Java.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210422T105157Z">
+        <seg>As expressões regulares (ou regex para abreviar) utilizadas nas procuras e regras de segmentação são as suportadas pelo Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27747,8 +27747,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074051Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>O termo de pesquisa &lt;l0&gt;"run*"&lt;/l0&gt; por exemplo, corresponderia a palavras &lt;l1&gt;"run"&lt;/l1&gt;, &lt;l2&gt;"runs"&lt;/l2&gt; e &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O termo de procura &lt;l0&gt;"run*"&lt;/l0&gt; por exemplo, corresponderia a palavras &lt;l1&gt;"run"&lt;/l1&gt;, &lt;l2&gt;"runs"&lt;/l2&gt; e &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28441,8 +28441,8 @@ Você foi vítima de um deles</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100019Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
-        <seg>Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio), produzindo os resultados na caixa de texto.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
+        <seg>Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de procura (caixa de texto no meio), produzindo os resultados na caixa de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28621,8 +28621,8 @@ do servidor.</seg>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T105249Z" creationid="Pedro Albuquerque" creationdate="20210422T105249Z">
-        <seg>Este capítulo destina-se a utilizadores avançados, que precisam de definir as suas próprias variantes de regras de segmentação ou conceber itens de pesquisa-chave mais complexos e poderosos.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210422T105249Z">
+        <seg>Este capítulo destina-se a utilizadores avançados, que precisam de definir as suas próprias variantes de regras de segmentação ou conceber itens de procura-chave mais complexos e poderosos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32845,9 +32845,9 @@ can then launch the Kaptain launch script with:</seg>
         <seg>You can also launch it from
 the Spotlight search field.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162107Z" creationid="Pedro Albuquerque" creationdate="20210420T162107Z">
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T083639Z" creationid="Pedro Albuquerque" creationdate="20210420T162107Z">
         <seg>Pode também iniciá-lo a partir do
-campo de pesquisa Spotlight.</seg>
+campo de procura Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
