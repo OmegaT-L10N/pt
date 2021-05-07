@@ -15593,6 +15593,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074752Z" creationid="Pedro Albuquerque" creationdate="20210507T074735Z">
+        <seg>As procuras por palavras-chave são semelhantes a uma pesquisa "com todas as palavras" num motor de busca da Internet como o Google (equivalente ao E lógico).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T061646Z" creationid="Pedro Albuquerque" creationdate="20210421T061529Z">
@@ -18714,6 +18722,14 @@ a pasta Aplicações.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124154Z" creationid="Pedro Albuquerque" creationdate="20210505T124154Z">
         <seg>O OmegaT requer actualmente a versão 1.8 do JRE ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074654Z" creationid="Pedro Albuquerque" creationdate="20210507T074654Z">
+        <seg>O OmegaT mostra uma lista de todos os segmentos contendo todas as palavras especificadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23058,6 +23074,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074624Z" creationid="Pedro Albuquerque" creationdate="20210507T074624Z">
+        <seg>Procure segmentos contendo todas as palavras-chave por si especificadas, em qualquer ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074352Z" creationid="Pedro Albuquerque" creationdate="20210507T074352Z">
@@ -23124,8 +23148,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074528Z" creationid="Pedro Albuquerque" creationdate="20210507T074528Z">
-        <seg>Procurar por &lt;l0&gt;abrir ficheiro&lt;/l0&gt; encontrará assim todas as ocorrências da cadeia &lt;e1&gt;&lt;l2&gt;abrir ficheiro&lt;/l2&gt;&lt;/e1&gt;, mas não &lt;e3&gt;&gt;l4&gt;ficheiro aberto&lt;/l4&gt;&lt;/e3&gt; ou &lt;e5&gt;&lt;l6&gt;abrir ficheiro de entrada&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074541Z" creationid="Pedro Albuquerque" creationdate="20210507T074528Z">
+        <seg>Procurar por &lt;l0&gt;abrir ficheiro&lt;/l0&gt; encontrará assim todas as ocorrências da cadeia &lt;e1&gt;&lt;l2&gt;abrir ficheiro&lt;/l2&gt;&lt;/e1&gt;, mas não &lt;e3&gt;&lt;l4&gt;ficheiro aberto&lt;/l4&gt;&lt;/e3&gt; ou &lt;e5&gt;&lt;l6&gt;abrir ficheiro de entrada&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23702,6 +23726,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T161107Z" creationid="Pedro Albuquerque" creationdate="20210426T161107Z">
         <seg>Seleccione-o e confirme com Aceitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074635Z" creationid="Pedro Albuquerque" creationdate="20210507T074635Z">
+        <seg>Seleccione a pesquisa por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31153,6 +31185,14 @@ e a aplicação OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074946Z" creationid="Pedro Albuquerque" creationdate="20210507T074737Z">
+        <seg>Usar a procura por palavra-chave com &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; encontrará assim todas as ocorrências de &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;, &lt;/e2&gt;assim como &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T083948Z" creationid="Pedro Albuquerque" creationdate="20210423T083715Z">
@@ -34574,6 +34614,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072924Z" creationid="Pedro Albuquerque" creationdate="20210421T072924Z">
         <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074603Z" creationid="Pedro Albuquerque" creationdate="20210507T074533Z">
+        <seg>procura por palavra-chave</seg>
       </tuv>
     </tu>
     <tu>
