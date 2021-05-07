@@ -3092,6 +3092,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075113Z" creationid="Pedro Albuquerque" creationdate="20210507T075113Z">
+        <seg>&lt;l0&gt;Expressões regulares&lt;/l0&gt; são uma forma poderosa de procurar instâncias de uma cadeia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T104655Z" creationid="Pedro Albuquerque" creationdate="20210425T104655Z">
@@ -4046,6 +4054,14 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T072928Z" creationid="Pedro Albuquerque" creationdate="20210424T072928Z">
         <seg>Estão disponíveis variantes adicionais para as variáveis ${nameOnly} e ${Extension}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075127Z" creationid="Pedro Albuquerque" creationdate="20210507T075127Z">
+        <seg>Para além de um dos métodos acima referidos, pode seleccionar o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27481,6 +27497,22 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075056Z" creationid="Pedro Albuquerque" creationdate="20210507T075056Z">
+        <seg>A cadeia de procura - [a-zA-Z]+[öäüqwß] - no exemplo acima, por exemplo, procura palavras no segmento-alvo, contendo caracteres questionáveis do teclado alemão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search string will be treated as a regular expression.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075012Z" creationid="Pedro Albuquerque" creationdate="20210507T075012Z">
+        <seg>A cadeia de procura será tratada como uma expressão regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074051Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -35246,6 +35278,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T084240Z" creationid="Pedro Albuquerque" creationdate="20210505T084240Z">
         <seg>coloca o painel de volta dentro da janela principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074958Z" creationid="Pedro Albuquerque" creationdate="20210507T074958Z">
+        <seg>expressões regulares</seg>
       </tuv>
     </tu>
     <tu>
