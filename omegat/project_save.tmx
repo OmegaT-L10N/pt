@@ -4662,6 +4662,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074414Z" creationid="Pedro Albuquerque" creationdate="20210507T074414Z">
+        <seg>Uma procura exacta procura por uma frase, ou seja, se forem introduzidas várias palavras, estas só são encontradas se ocorrerem exactamente nessa sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T095011Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -23050,6 +23058,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074352Z" creationid="Pedro Albuquerque" creationdate="20210507T074352Z">
+        <seg>Procure segmentos que contenham a cadeia exacta que especificou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180307Z" creationid="Pedro Albuquerque" creationdate="20210420T180307Z">
@@ -23074,6 +23090,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074247Z" creationid="Pedro Albuquerque" creationdate="20210507T074247Z">
+        <seg>Métodos e opções de procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111647Z" creationid="Pedro Albuquerque" creationdate="20210506T111647Z">
@@ -23094,6 +23118,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T062705Z" creationid="Pedro Albuquerque" creationdate="20210421T062705Z">
         <seg>Fio de procura quebrado inesperadamente!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074528Z" creationid="Pedro Albuquerque" creationdate="20210507T074528Z">
+        <seg>Procurar por &lt;l0&gt;abrir ficheiro&lt;/l0&gt; encontrará assim todas as ocorrências da cadeia &lt;e1&gt;&lt;l2&gt;abrir ficheiro&lt;/l2&gt;&lt;/e1&gt;, mas não &lt;e3&gt;&gt;l4&gt;ficheiro aberto&lt;/l4&gt;&lt;/e3&gt; ou &lt;e5&gt;&lt;l6&gt;abrir ficheiro de entrada&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23710,6 +23742,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T091007Z" creationid="Pedro Albuquerque" creationdate="20210424T091007Z">
         <seg>Seleccionar a localização do verificador de idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074303Z" creationid="Pedro Albuquerque" creationdate="20210507T074303Z">
+        <seg>Seleccionar o método usando os botões de opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26731,6 +26771,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111021Z" creationid="Pedro Albuquerque" creationdate="20210506T111021Z">
         <seg>Foram implementadas as seguintes linguagens de scripting:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074316Z" creationid="Pedro Albuquerque" creationdate="20210507T074316Z">
+        <seg>Estão disponíveis os seguintes métodos de procura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33796,6 +33844,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T180652Z" creationid="Pedro Albuquerque" creationdate="20210420T180652Z">
         <seg>etc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074326Z" creationid="Pedro Albuquerque" creationdate="20210507T074326Z">
+        <seg>procura exacta</seg>
       </tuv>
     </tu>
     <tu>
