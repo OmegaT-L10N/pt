@@ -11048,6 +11048,14 @@ Os fios de Gossamer retêm-nos
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080930Z" creationid="Pedro Albuquerque" creationdate="20210507T080930Z">
+        <seg>Filtrar as entradas no editor de acordo com a procura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T172146Z" creationid="Pedro Albuquerque" creationdate="20210423T172123Z">
@@ -11270,6 +11278,14 @@ fornecido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T113446Z" creationid="Pedro Albuquerque" creationdate="20210423T113446Z">
         <seg>Por razões de confidencialidade, pode querer não enviar todos os segmentos para o motor de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080951Z" creationid="Pedro Albuquerque" creationdate="20210507T080951Z">
+        <seg>Para uma navegação mais fácil no conjunto de resultados de procura, pode aplicar a procura ao editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,6 +14385,14 @@ faça duplo clique nesse atalho.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T070714Z" creationid="Pedro Albuquerque" creationdate="20210425T070714Z">
         <seg>No diálogo dos padrões de exclusão, é possível adicionar ou remover um padrão, ou editar um, seleccionando uma linha e premindo F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080826Z" creationid="Pedro Albuquerque" creationdate="20210507T080826Z">
+        <seg>Na janela de procura, pode usar atalhos padrão (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) para se deslocar de um segmento para outro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33004,6 +33028,14 @@ script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080910Z" creationid="Pedro Albuquerque" creationdate="20210507T080910Z">
+        <seg>Pode ver rapidamente o seu conteúdo ao olhar para o seu título: conterá o termo de procura utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T093904Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -33048,6 +33080,14 @@ script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T114336Z" creationid="Pedro Albuquerque" creationdate="20210423T114336Z">
         <seg>Pode então criar uma chave de acesso na página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080751Z" creationid="Pedro Albuquerque" creationdate="20210507T080751Z">
+        <seg>Pode então voltar à janela de procura para o próximo segmento encontrado, por exemplo para verificar e, se necessário, corrigir a terminologia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33098,6 +33138,14 @@ para poder iniciá-lo a partir de qualquer local.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094536Z" creationid="Pedro Albuquerque" creationdate="20210425T094536Z">
         <seg>Pode até considerar a remoção daqueles que já não são necessários, após ter utilizado o seu conteúdo para preencher o ficheiro &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080844Z" creationid="Pedro Albuquerque" creationdate="20210507T080844Z">
+        <seg>Pode ter várias janelas de procura abertas ao mesmo tempo.</seg>
       </tuv>
     </tu>
     <tu>
