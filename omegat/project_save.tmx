@@ -2500,6 +2500,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075804Z" creationid="Pedro Albuquerque" creationdate="20210507T075804Z">
+        <seg>&lt;e0&gt;Mostrar: nomes de ficheiros&lt;/e0&gt;: se marcada, o nome do ficheiro onde cada segmento é encontrado é mostrado acima de cada resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T173514Z" creationid="Pedro Albuquerque" creationdate="20210423T173514Z">
@@ -2672,6 +2680,22 @@ A definição actual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111540Z" creationid="Pedro Albuquerque" creationdate="20210506T111540Z">
         <seg>&lt;e0&gt;Substituir:&lt;/e0&gt; opera uma substituição "um por um", por meio de botões no &lt;e1&gt;cabeçalho do painel do editor&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080012Z" creationid="Pedro Albuquerque" creationdate="20210507T080012Z">
+        <seg>&lt;e0&gt;Procurar em ficheiros&lt;/e0&gt;: procurar num único ficheiro ou numa pasta contendo um conjunto de ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075845Z" creationid="Pedro Albuquerque" creationdate="20210507T075845Z">
+        <seg>&lt;e0&gt;Procurar no projecto&lt;/e0&gt;: marcar &lt;e1&gt;Memória&lt;/e1&gt; para incluir a memória do projecto (ficheiro project_save.tmx) na procura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6298,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T093409Z" creationid="Pedro Albuquerque" creationdate="20210421T093409Z">
         <seg>Procurar variáveis printf &amp;simples (e.g., %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075912Z" creationid="Pedro Albuquerque" creationdate="20210507T075912Z">
+        <seg>Marcar &lt;e2&gt;TMs&lt;/e2&gt; para incluir as memórias de tradução localizadas na pasta &lt;f3&gt;tm&lt;/f3&gt; na procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T075948Z" creationid="Pedro Albuquerque" creationdate="20210507T075948Z">
+        <seg>Marcar &lt;e4&gt;Glossários&lt;/e4&gt; para incluir os glossários localizados na pasta &lt;f5&gt;glossary&lt;/f5&gt; na procura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31743,6 +31783,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T091751Z" creationid="Pedro Albuquerque" creationdate="20210504T091751Z">
         <seg>Quando o modo tiver sido utilizado, esta opção especificará os ficheiros a processar automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080042Z" creationid="Pedro Albuquerque" creationdate="20210507T080042Z">
+        <seg>Ao procurar em ficheiros (por oposição às memórias de tradução), o OmegaT restringe a procura a ficheiros em formatos de ficheiro-fonte.</seg>
       </tuv>
     </tu>
     <tu>
