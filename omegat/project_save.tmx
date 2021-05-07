@@ -1504,16 +1504,16 @@
       <tuv lang="en">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>"*" matches zero or more characters, from the current position in a given word to its end.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074016Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>"*" corresponde a zero ou mais caracteres, desde a posição actual numa dada palavra até ao seu fim.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'?' matches any single character.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>"?" matches any single character.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074101Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>"?" corresponde a qualquer carácter único.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11308,8 +11308,8 @@ fornecido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>For instance, &lt;l0&gt;"run?"&lt;/l0&gt; would match the word &lt;l1&gt;"runs"&lt;/l1&gt; and &lt;l2&gt;"runn"&lt;/l2&gt; in the word &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074129Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Por exemplo, &lt;l0&gt;"run?"&lt;/l0&gt; corresponderia à palavra &lt;l1&gt;"runs"&lt;/l1&gt; e &lt;l2&gt;"runn"&lt;/l2&gt; na palavra &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13935,8 +13935,8 @@ faça duplo clique nesse atalho.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>In both exact and keyword searches, the wild card search characters "*" and "?" can be used.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T073944Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Tanto nas pesquisas exactas como nas pesquisas por palavras-chave, podem ser utilizados os caracteres universais "*" e "?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18072,8 +18072,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>Note that "*" and "?" have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074228Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>Note-se que "*" e "?" têm um significado especial em expressões regulares, pelo que a pesquisa tal como aqui descrita, aplica-se apenas à pesquisa exacta e por palavra-chave (ver abaixo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26961,6 +26961,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The matches will be displayed in bold blue.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074202Z" creationid="Pedro Albuquerque" creationdate="20210507T074202Z">
+        <seg>As correspondências serão mostradas em azul negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T094834Z" creationid="Pedro Albuquerque" creationdate="20210504T094834Z">
@@ -27395,8 +27403,8 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T064821Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
-        <seg>The search term &lt;l0&gt;"run*"&lt;/l0&gt; for example would match words &lt;l1&gt;"run"&lt;/l1&gt;, &lt;l2&gt;"runs"&lt;/l2&gt; and &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074051Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
+        <seg>O termo de pesquisa &lt;l0&gt;"run*"&lt;/l0&gt; por exemplo, corresponderia a palavras &lt;l1&gt;"run"&lt;/l1&gt;, &lt;l2&gt;"runs"&lt;/l2&gt; e &lt;l3&gt;"running"&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28083,6 +28091,14 @@ Você foi vítima de um deles</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T100019Z" creationid="Pedro Albuquerque" creationdate="20210422T111455Z">
         <seg>Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio), produzindo os resultados na caixa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T074002Z" creationid="Pedro Albuquerque" creationdate="20210507T074002Z">
+        <seg>Têm o significado familiar aos utilizadores de Word:</seg>
       </tuv>
     </tu>
     <tu>
