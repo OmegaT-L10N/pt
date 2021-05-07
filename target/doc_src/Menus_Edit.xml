@@ -110,7 +110,7 @@
 
         <para>Se seleccionar uma cadeia de texto (em qualquer painel) antes de premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, o texto será colado por pré-definição no campo <guilabel>Procurar por</guilabel>.</para>
 
-        <para>Premir <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> mostra a última janela de pesquisa já aberta (em vez de abrir uma nova).</para>
+        <para>Premir <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> mostra a última janela de procura já aberta (em vez de abrir uma nova).</para>
       </listitem>
     </varlistentry>
 

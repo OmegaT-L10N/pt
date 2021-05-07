@@ -133,7 +133,7 @@
         </varlistentry>
 
         <varlistentry>
-          <term>Seleccionar domínio de pesquisa terminológica TaaS...</term>
+          <term>Seleccionar domínio de procura terminológica TaaS...</term>
 
           <listitem>
             <para>Se necessário, pode seleccionar um domínio específico para limitar o volume de dados enviados e recebidos.</para>
@@ -151,7 +151,7 @@
         <term>Pesquisa automática de texto de segmento no dicionário</term>
 
         <listitem>
-          <para>Desmarque esta opção para desactivar a pesquisa automática - se os dicionários forem demasiado longos, por exemplo.</para>
+          <para>Desmarque esta opção para desactivar a procura automática - se os dicionários forem demasiado longos, por exemplo.</para>
         </listitem>
       </varlistentry>
 
@@ -255,7 +255,7 @@
         <listitem>
           <para><emphasis>Substituir automaticamente &quot;nplurals=INTEGER; plural=EXPRESSION;&quot; no cabeçalho</emphasis></para>
 
-          <para><emphasis>Esta opção permite que o OmegaT substitua a especificação no cabeçalho do ficheiro PO e utilize a predefinição para o idioma-alvo seleccionado.</emphasis></para>
+          <para><emphasis>Esta opção permite que o OmegaT substitua a especificação no cabeçalho do ficheiro PO e utilize a pré-definição para o idioma-alvo seleccionado.</emphasis></para>
         </listitem>
       </itemizedlist>
 
@@ -426,7 +426,7 @@
 
         <itemizedlist>
           <listitem>
-            <para>O OmegaT utiliza a codificação predefinida do sistema operativo para ficheiros de texto.</para>
+            <para>O OmegaT utiliza a codificação pré-definida do sistema operativo para ficheiros de texto.</para>
           </listitem>
         </itemizedlist>
       </section>
@@ -595,7 +595,7 @@
         </varlistentry>
       </variablelist>
 
-      <para>As regras de interrupção predefinidas devem ser suficientes para a maioria dos idiomas europeus e para o japonês. Tendo em conta a flexibilidade, pode considerar definir mais regras de excepção para o seu idioma-fonte, a fim de fornecer segmentos mais significativos e coerentes.</para>
+      <para>As regras de interrupção pré-definidas devem ser suficientes para a maioria dos idiomas europeus e para o japonês. Tendo em conta a flexibilidade, pode considerar definir mais regras de excepção para o seu idioma-fonte, a fim de fornecer segmentos mais significativos e coerentes.</para>
     </section>
 
     <section id="rules.priority">

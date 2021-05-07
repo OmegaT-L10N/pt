@@ -4,8 +4,8 @@ Este documento foi traduzido por Pedro Albuquerque
 O que é o OmegaT?
 ===============
 
-O OmegaT é uma ferramenta de tradução assistida por computador multiplataforma livre e de código aberto
-com correspondência fuzzy, memória de tradução, pesquisa de palavras-chave, glossários e
+O OmegaT é uma ferramenta de tradução assistida por computador multi-plataforma livre e de código aberto
+com correspondências aproximadas, memória de tradução, procura de palavras-chave, glossários e
 tradução alavancada em projectos actualizados.
 
 
@@ -108,7 +108,7 @@ Faça duplo clique na aplicação OmegaT.
 
 Pode arrastar a aplicação OmegaT para a sua doca ou para a barra de ferramentas de um Finder
 para poder iniciá-lo a partir de qualquer local. Pode também iniciá-lo a partir do
-campo de pesquisa Spotlight.
+campo de procura Spotlight.
 
 
 

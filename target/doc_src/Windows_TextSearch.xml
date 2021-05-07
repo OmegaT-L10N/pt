@@ -3,7 +3,7 @@
 <section id="windows.textsearch">
   <title>Procurar texto</title>
 
-  <para>Abra a janela de pesquisa com <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo> e insira a palavra ou frase que deseja procurar na caixa <emphasis>Procurar por</emphasis>.</para>
+  <para>Abra a janela de procura com <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo> e insira a palavra ou frase que deseja procurar na caixa <emphasis>Procurar por</emphasis>.</para>
 
   <para>Em alternativa, pode seleccionar uma palavra ou frase no painel do editor, no painel de aproximadas ou no painel do glossário e premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. A palavra ou frase é inserida na caixa <emphasis>Procurar por</emphasis> automaticamente. Pode ter várias janelas de procura abertas ao mesmo tempo, mas feche-as quando já não forem necessárias para que não desorganizem o seu ambiente de trabalho.</para>
 
@@ -36,11 +36,11 @@
   <section id="using.wild.cards">
     <title>Utilização de caracteres universais</title>
 
-    <para>Tanto nas pesquisas exactas como nas pesquisas por palavras-chave, podem ser utilizados os caracteres universais &quot;*&quot; e &quot;?&quot;. Têm o significado familiar aos utilizadores de Word:</para>
+    <para>Tanto nas procuras exactas como nas procuras por palavras-chave, podem ser utilizados os caracteres universais &quot;*&quot; e &quot;?&quot;. Têm o significado familiar aos utilizadores de Word:</para>
 
     <itemizedlist>
       <listitem>
-        <para>&quot;*&quot; corresponde a zero ou mais caracteres, desde a posição actual numa dada palavra até ao seu fim. O termo de pesquisa <literal>&quot;run*&quot;</literal> por exemplo, corresponderia a palavras <literal>&quot;run&quot;</literal>, <literal>&quot;runs&quot;</literal> e <literal>&quot;running&quot;</literal>.</para>
+        <para>&quot;*&quot; corresponde a zero ou mais caracteres, desde a posição actual numa dada palavra até ao seu fim. O termo de procura <literal>&quot;run*&quot;</literal> por exemplo, corresponderia a palavras <literal>&quot;run&quot;</literal>, <literal>&quot;runs&quot;</literal> e <literal>&quot;running&quot;</literal>.</para>
       </listitem>
     </itemizedlist>
 
@@ -50,7 +50,7 @@
       </listitem>
     </itemizedlist>
 
-    <para>As correspondências serão mostradas em azul negrito. Note-se que &quot;*&quot; e &quot;?&quot; têm um significado especial em expressões regulares, pelo que a pesquisa tal como aqui descrita, aplica-se apenas à pesquisa exacta e por palavra-chave (ver abaixo).</para>
+    <para>As correspondências serão mostradas em azul negrito. Note-se que &quot;*&quot; e &quot;?&quot; têm um significado especial em expressões regulares, pelo que a procura tal como aqui descrita, aplica-se apenas à procura exacta e por palavra-chave (ver abaixo).</para>
   </section>
 
   <section id="search.methoids">
@@ -71,7 +71,7 @@
         <term>procura por palavra-chave</term>
 
         <listitem>
-          <para>Procure segmentos contendo todas as palavras-chave por si especificadas, em qualquer ordem. Seleccione a pesquisa por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem. O OmegaT mostra uma lista de todos os segmentos contendo todas as palavras especificadas. As procuras por palavras-chave são semelhantes a uma pesquisa &quot;com todas as palavras&quot; num motor de busca da Internet como o Google (equivalente ao E lógico). Usar a procura por palavra-chave com <emphasis><literal>open file</literal></emphasis> encontrará assim todas as ocorrências de <emphasis><literal>open file</literal>, </emphasis>assim como <emphasis><literal>file opened</literal>, <literal>open input file</literal>, <literal>file may not be safe to open</literal></emphasis>, etc.</para>
+          <para>Procure segmentos contendo todas as palavras-chave por si especificadas, em qualquer ordem. Seleccione a procura por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem. O OmegaT mostra uma lista de todos os segmentos contendo todas as palavras especificadas. As procuras por palavras-chave são semelhantes a uma procura &quot;com todas as palavras&quot; num motor de busca da Internet como o Google (equivalente ao E lógico). Usar a procura por palavra-chave com <emphasis><literal>open file</literal></emphasis> encontrará assim todas as ocorrências de <emphasis><literal>open file</literal>, </emphasis>assim como <emphasis><literal>file opened</literal>, <literal>open input file</literal>, <literal>file may not be safe to open</literal></emphasis>, etc.</para>
         </listitem>
       </varlistentry>
 
@@ -144,7 +144,7 @@
   </section>
 
   <section id="search.result.display">
-    <title>Exibição dos resultados da pesquisa</title>
+    <title>Exibição dos resultados da procura</title>
 
     <para>Ao premir o botão Procurar após inserir uma cadeia no campo de procura, são mostrados todos os segmentos do projecto que incluem a cadeia inserida. Como o <application>OmegaT</application> trata segmentos idênticos como uma única entidade, apenas o primeiro segmento único é mostrado. Os segmentos são mostrados pela ordem em que surgem no projecto. Os segmentos traduzidos são mostrados com o texto original em cima e o texto traduzido em baixo, os segmentos não traduzidos são mostrados apenas como fonte.</para>
 

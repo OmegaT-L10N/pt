@@ -3,10 +3,10 @@
 <appendix id="appendix.regexp">
   <title>Expressões regulares</title>
 
-  <para>As expressões regulares (ou regex para abreviar) utilizadas nas pesquisas e regras de segmentação são as suportadas pelo Java. Se precisar de informações mais específicas, consulte a documentação <ulink url="https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html">Java Regex</ulink>. Ver referências e exemplos adicionais abaixo.</para>
+  <para>As expressões regulares (ou regex para abreviar) utilizadas nas procuras e regras de segmentação são as suportadas pelo Java. Se precisar de informações mais específicas, consulte a documentação <ulink url="https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html">Java Regex</ulink>. Ver referências e exemplos adicionais abaixo.</para>
 
   <note>
-    <para>Este capítulo destina-se a utilizadores avançados, que precisam de definir as suas próprias variantes de regras de segmentação ou conceber itens de pesquisa-chave mais complexos e poderosos.</para>
+    <para>Este capítulo destina-se a utilizadores avançados, que precisam de definir as suas próprias variantes de regras de segmentação ou conceber itens de procura-chave mais complexos e poderosos.</para>
   </note>
 
   <table>
@@ -476,7 +476,7 @@
   <section id="regex.tools.and.examples.of.use">
     <title>Ferramentas Regex e exemplos de utilização</title>
 
-    <para>Estão disponíveis várias ferramentas interactivas para desenvolver e testar expressões regulares. Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de pesquisa (caixa de texto no meio), produzindo os resultados na caixa de texto.</para>
+    <para>Estão disponíveis várias ferramentas interactivas para desenvolver e testar expressões regulares. Seguem geralmente o mesmo padrão (para um exemplo de teste de expressão regular ver abaixo): a expressão regular (entrada superior) analisa o texto de procura (caixa de texto no meio), produzindo os resultados na caixa de texto.</para>
 
     <figure id="regerx.tester">
       <title>Teste de Regex</title>
@@ -494,7 +494,7 @@
 
     <para>Veja o <ulink url="http://weitz.de/regex-coach/">The Regex Coach</ulink> para Windows, Linux, FreeBSD como ferramenta independente. Isto é muito idêntico ao exemplo acima.</para>
 
-    <para>Uma bela colecção de casos regex úteis pode ser encontrada no <application>OmegaT</application> em si mesmo (ver Opções &gt; Segmentação). A lista seguinte inclui expressões que poderá achar úteis ao pesquisar através da memória de tradução:</para>
+    <para>Uma bela colecção de casos regex úteis pode ser encontrada no <application>OmegaT</application> em si mesmo (ver Opções &gt; Segmentação). A lista seguinte inclui expressões que poderá achar úteis ao procurar através da memória de tradução:</para>
 
     <table>
       <title>Regex - Exemplos de expressões regulares em traduções</title>
