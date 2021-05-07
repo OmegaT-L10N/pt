@@ -1,4 +1,4 @@
-Este documento foi traduzido por Pedro M. R. Albuquerque
+Este documento foi traduzido por Pedro Albuquerque
 
 
 O que é o OmegaT?

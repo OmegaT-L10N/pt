@@ -3,306 +3,179 @@
 <section id="windows.textsearch">
   <title>Procurar texto</title>
 
-  <para>Open the Search window with <keycombo>
-      <keycap>Ctrl</keycap>
+  <para>Abra a janela de pesquisa com <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo> e insira a palavra ou frase que deseja procurar na caixa <emphasis>Procurar por</emphasis>.</para>
 
-      <keycap>F</keycap>
-    </keycombo> and enter the word or phrase you wish to search for in the
-  <emphasis>Search for</emphasis> box.</para>
+  <para>Em alternativa, pode seleccionar uma palavra ou frase no painel do editor, no painel de aproximadas ou no painel do glossário e premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. A palavra ou frase é inserida na caixa <emphasis>Procurar por</emphasis> automaticamente. Pode ter várias janelas de procura abertas ao mesmo tempo, mas feche-as quando já não forem necessárias para que não desorganizem o seu ambiente de trabalho.</para>
 
-  <para>Alternatively, you can select a word or phrase in the Editor pane,
-  Fuzzy matches pane or Glossary pane and hit <keycombo>
-      <keycap>Ctrl</keycap>
+  <para>Clique na seta descendente da caixa <emphasis>Procurar por</emphasis> para aceder às últimas 10 procuras.</para>
 
-      <keycap>F</keycap>
-    </keycombo>. The word or phrase is entered in the <emphasis>Search
-  for</emphasis> box automatically. You can have several Search windows open
-  at the same time, but close them when they are no longer needed so that they
-  do not clutter your desktop.</para>
-
-  <para>Click the dropdown arrow of the <emphasis>Search for</emphasis> box to
-  access the last 10 searches.</para>
-
-  <para>The Search window has its own menus:</para>
+  <para>A janela de procura tem os seus próprios menus:</para>
 
   <itemizedlist>
     <listitem>
-      <para>File &gt; Search for selection (<keycombo>
-          <keycap>Ctrl</keycap>
-
-          <keycap>F</keycap>
-        </keycombo>): refocus on the search field and select all its
-      contents.</para>
+      <para>Ficheiro &gt; Pesquisa para selecção (<keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>): focar no campo de procura e seleccionar todo o seu conteúdo.</para>
     </listitem>
 
     <listitem>
-      <para>File &gt; Close (<keycombo>
-          <keycap>Ctrl</keycap>
-
-          <keycap>W</keycap>
-        </keycombo>): close the search window (in the same way as
-      <keycap>Esc</keycap>)</para>
+      <para>Ficheiro &gt; Fechar (<keycombo> <keycap>Ctrl</keycap> <keycap>W</keycap> </keycombo>): fechar a janela de procura (tal como <keycap>Esc</keycap>)</para>
     </listitem>
 
     <listitem>
-      <para>Edit &gt; Insert source (<keycombo>
-          <keycap>Ctrl</keycap>
-
-          <keycap>Shift</keycap>
-
-          <keycap>I</keycap>
-        </keycombo>): insert current segment source.</para>
+      <para>Editar &gt; Inserir fonte (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>I</keycap> </keycombo>): inserir segmento-fonte actual.</para>
     </listitem>
 
     <listitem>
-      <para>Edit &gt; Replace with source (<keycombo>
-          <keycap>Ctrl</keycap>
-
-          <keycap>Shift</keycap>
-
-          <keycap>R</keycap>
-        </keycombo>): replace with current segment source.</para>
+      <para>Editar &gt; Substituir por fonte (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>R</keycap> </keycombo>): substituir por segmento-fonte actual.</para>
     </listitem>
 
     <listitem>
-      <para>Edit &gt; Create Glossary Entry (<keycombo>
-          <keycap>Ctrl</keycap>
-
-          <keycap>Shift</keycap>
-
-          <keycap>G</keycap>
-        </keycombo>): add a new glossary item.</para>
+      <para>Editar &gt; Criar entrada de glossário (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>): adicionar um novo item ao glossário.</para>
     </listitem>
   </itemizedlist>
 
   <section id="using.wild.cards">
-    <title>Using wild cards</title>
+    <title>Utilização de caracteres universais</title>
 
-    <para>In both exact and keyword searches, the wild card search characters &quot;*&quot; and &quot;?&quot; can be used. They have the meaning, familiar to Word users:</para>
+    <para>Tanto nas pesquisas exactas como nas pesquisas por palavras-chave, podem ser utilizados os caracteres universais &quot;*&quot; e &quot;?&quot;. Têm o significado familiar aos utilizadores de Word:</para>
 
     <itemizedlist>
       <listitem>
-        <para>&quot;*&quot; matches zero or more characters, from the current position in a given word to its end. The search term <literal>&quot;run*&quot;</literal> for example would match words <literal>&quot;run&quot;</literal>, <literal>&quot;runs&quot;</literal> and <literal>&quot;running&quot;</literal>.</para>
+        <para>&quot;*&quot; corresponde a zero ou mais caracteres, desde a posição actual numa dada palavra até ao seu fim. O termo de pesquisa <literal>&quot;run*&quot;</literal> por exemplo, corresponderia a palavras <literal>&quot;run&quot;</literal>, <literal>&quot;runs&quot;</literal> e <literal>&quot;running&quot;</literal>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>&quot;?&quot; matches any single character. For instance, <literal>&quot;run?&quot;</literal> would match the word <literal>&quot;runs&quot;</literal> and <literal>&quot;runn&quot;</literal> in the word <literal>&quot;running&quot;</literal>.</para>
+        <para>&quot;?&quot; corresponde a qualquer carácter único. Por exemplo, <literal>&quot;run?&quot;</literal> corresponderia à palavra <literal>&quot;runs&quot;</literal> e <literal>&quot;runn&quot;</literal> na palavra <literal>&quot;running&quot;</literal>.</para>
       </listitem>
     </itemizedlist>
 
-    <para>The matches will be displayed in bold blue. Note that &quot;*&quot; and &quot;?&quot; have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</para>
+    <para>As correspondências serão mostradas em azul negrito. Note-se que &quot;*&quot; e &quot;?&quot; têm um significado especial em expressões regulares, pelo que a pesquisa tal como aqui descrita, aplica-se apenas à pesquisa exacta e por palavra-chave (ver abaixo).</para>
   </section>
 
   <section id="search.methoids">
-    <title>Search methods and options</title>
+    <title>Métodos e opções de procura</title>
 
-    <para>Select the method using the radio buttons. The following search
-    methods are available:</para>
+    <para>Seleccionar o método usando os botões de opção. Estão disponíveis os seguintes métodos de procura:</para>
 
     <variablelist>
       <varlistentry>
-        <term>exact search</term>
+        <term>procura exacta</term>
 
         <listitem>
-          <para>Search for segments containing the exact string you specified.
-          An exact search looks for a phrase, i.e. if several words are
-          entered, they are found only if they occur in exactly that sequence.
-          Searching for <literal>open file</literal> will thus find all
-          occurrences of the string <emphasis><literal>open
-          file</literal></emphasis>, but not <emphasis><literal>file
-          opened</literal></emphasis> or <emphasis><literal>open input
-          file</literal></emphasis>.</para>
+          <para>Procure segmentos que contenham a cadeia exacta que especificou. Uma procura exacta procura por uma frase, ou seja, se forem introduzidas várias palavras, estas só são encontradas se ocorrerem exactamente nessa sequência. Procurar por <literal>abrir ficheiro</literal> encontrará assim todas as ocorrências da cadeia <emphasis><literal>abrir ficheiro</literal></emphasis>, mas não <emphasis><literal>ficheiro aberto</literal></emphasis> ou <emphasis><literal>abrir ficheiro de entrada</literal></emphasis>.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term>keyword search</term>
+        <term>procura por palavra-chave</term>
 
         <listitem>
-          <para>Search for segments containing all keywords you specified, in
-          any order. Select keyword search to search for any number of
-          individual full words, in any order. OmegaT displays a list of all
-          segments containing all of the words specified. Keyword searches are
-          similar to a search &quot;with all of the words&quot; in an Internet search
-          engine such as Google (AND logic). Using keyword search with
-          <emphasis><literal>open file</literal></emphasis> will thus find all
-          occurrences of the string <emphasis><literal>open
-          file</literal>,</emphasis> as well as <emphasis><literal>file
-          opened</literal>, <literal>open input file</literal>, <literal>file
-          may not be safe to open</literal></emphasis>, etc.</para>
+          <para>Procure segmentos contendo todas as palavras-chave por si especificadas, em qualquer ordem. Seleccione a pesquisa por palavra-chave para procurar qualquer número de palavras individuais completas, em qualquer ordem. O OmegaT mostra uma lista de todos os segmentos contendo todas as palavras especificadas. As procuras por palavras-chave são semelhantes a uma pesquisa &quot;com todas as palavras&quot; num motor de busca da Internet como o Google (equivalente ao E lógico). Usar a procura por palavra-chave com <emphasis><literal>open file</literal></emphasis> encontrará assim todas as ocorrências de <emphasis><literal>open file</literal>, </emphasis>assim como <emphasis><literal>file opened</literal>, <literal>open input file</literal>, <literal>file may not be safe to open</literal></emphasis>, etc.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term><emphasis role="bold">regular expressions</emphasis></term>
+        <term><emphasis role="bold">expressões regulares</emphasis></term>
 
         <listitem>
-          <para>The search string will be treated as a regular expression. The
-          search string - [a-zA-Z]+[öäüqwß] - in the example above for
-          instance looks for words in the target segment, containing
-          questionable characters from German keyboard. <link linkend="appendix.regexp">Regular expressions</link> are a powerful
-          way to look for instances of a string.</para>
+          <para>A cadeia de procura será tratada como uma expressão regular. A cadeia de procura - [a-zA-Z]+[öäüqwß] - no exemplo acima, por exemplo, procura palavras no segmento-alvo, contendo caracteres questionáveis do teclado alemão. <link linkend="appendix.regexp">Expressões regulares</link> são uma forma poderosa de procurar instâncias de uma cadeia.</para>
         </listitem>
       </varlistentry>
     </variablelist>
 
-    <para>Additionally to one of the methods above you can select the
-    following:</para>
+    <para>Para além de um dos métodos acima referidos, pode seleccionar o seguinte:</para>
 
     <itemizedlist>
       <listitem>
-        <para><emphasis role="bold">case sensitive</emphasis>: the search will
-        be performed for the exact string specified; i.e. capitalization is
-        observed.</para>
+        <para><emphasis role="bold"> sensível a maiúsculas</emphasis>: a procura será efectuada para a cadeia exacta especificada; ou seja, as maiúsculas são comparadas.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Space matches nbsp</emphasis>: when this
-        option is checked, a space character put in search entry can match
-        either a normal space character or a non-breacking space (\u00A)
-        character.</para>
+        <para><emphasis role="bold">Espaço corresponde a nbsp</emphasis>: quando esta opção está marcada, um carácter de espaço colocado na entrada de procura pode corresponder a um carácter de espaço normal ou a um carácter de espaço inseparável (\u00A).</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">in source: </emphasis>search in the source
-        segments</para>
+        <para><emphasis role="bold">na fonte</emphasis>: procurar nos segmentos-fonte</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">in translations: </emphasis>search in the
-        target segments</para>
+        <para><emphasis role="bold">nas traduções</emphasis>: procurar nos segmentos-alvo</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">in notes: </emphasis>search in notes to
-        segments</para>
+        <para><emphasis role="bold">nas notas</emphasis>: procurar em notas dos segmentos</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">in comments: </emphasis>search in comments
-        to segments</para>
+        <para><emphasis role="bold">nos comentários</emphasis>: procurar nos comentários dos segmentos</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Translated or untranslated:
-        </emphasis>search in both translated and untranslated segments.</para>
+        <para><emphasis role="bold">Traduzido ou não traduzido: </emphasis>procurar tanto em segmentos traduzidos como em não traduzidos.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Translated: </emphasis>search only in
-        translated segments.</para>
+        <para><emphasis role="bold">Traduzido</emphasis>: procurar apenas em segmentos traduzidos.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Untranslated: </emphasis>search only in
-        untranslated segments.</para>
+        <para><emphasis role="bold">Não traduzido</emphasis>: procurar apenas em segmentos não traduzidos.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Display: all matching segments:
-        </emphasis>if checked, all the segments are displayed one by one, even
-        if they are present several times in the same document or in different
-        documents.</para>
+        <para><emphasis role="bold">Mostrar: todos os segmentos correspondentes</emphasis>: se marcada, todos os segmentos são mostrados um a um, mesmo que estejam presentes várias vezes no mesmo documento ou em documentos diferentes.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Display: file names: </emphasis>if
-        checked, the name of the file where each segment is found is displayed
-        above each result.</para>
+        <para><emphasis role="bold">Mostrar: nomes de ficheiros</emphasis>: se marcada, o nome do ficheiro onde cada segmento é encontrado é mostrado acima de cada resultado.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Search in Project</emphasis>: check
-        <emphasis>Memory</emphasis> to include the project memory
-        (project_save.tmx file) in the search. Check <emphasis>TMs</emphasis>
-        to include the translation memories located in the
-        <filename>tm</filename> folder in the search. Check
-        <emphasis>Glossaries</emphasis> to include the glossaries located in
-        the <filename>glossary</filename> folder in the search.</para>
+        <para><emphasis role="bold">Procurar no projecto</emphasis>: marcar <emphasis>Memória</emphasis> para incluir a memória do projecto (ficheiro project_save.tmx) na procura. Marcar <emphasis>TMs</emphasis> para incluir as memórias de tradução localizadas na pasta <filename>tm</filename> na procura. Marcar <emphasis>Glossários</emphasis> para incluir os glossários localizados na pasta <filename>glossary</filename> na procura.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Search in Files: </emphasis>search in a
-        single file or a folder containing a set of files. When searching
-        through files (as opposed to translation memories), OmegaT restricts
-        the search to files in source file formats. Consequently, although
-        OmegaT is quite able to handle<filename> tmx</filename> files, it does
-        not include them in the Search files search.</para>
+        <para><emphasis role="bold">Procurar em ficheiros</emphasis>: procurar num único ficheiro ou numa pasta contendo um conjunto de ficheiros. Ao procurar em ficheiros (por oposição às memórias de tradução), o OmegaT restringe a procura a ficheiros em formatos de ficheiro-fonte. Consequentemente, embora o OmegaT seja bastante capaz de lidar com ficheiros<filename> tmx</filename>, não os inclui na procura Procurar em ficheiros.</para>
       </listitem>
     </itemizedlist>
 
-    <para>If you click on the button <guibutton>Advanced options</guibutton>
-    additional criteria (author or changer of the translation, date
-    translated, excluding orphan segments, etc) can be selected. When
-    <emphasis>Full/Half width char insensitive</emphasis> option is checked,
-    searches for fullwidth forms (CJK characters) will match halfwidth forms
-    and vice versa.</para>
+    <para>Se clicar no botão <guibutton>Opções avançadas</guibutton>, podem ser seleccionados critérios adicionais (autor ou alterador da tradução, data traduzida, excluindo segmentos órfãos, etc.). Quando a opção <emphasis>Insensível a largura total/meia largura</emphasis> está marcada, as procuras por formas de largura total (caracteres CJK) corresponderão a formas de meia largura e vice-versa.</para>
   </section>
 
   <section id="search.result.display">
-    <title>Search results display</title>
+    <title>Exibição dos resultados da pesquisa</title>
 
-    <para>Pressing the search button after entering a string in the search
-    field displays all the segments in the project that include the entered
-    string. As <application>OmegaT</application> handles identical segments as
-    one single entity, only the first unique segment is shown. The segments
-    are displayed in order of appearance in the project. Translated segments
-    are displayed with the original text at the top and the translated text at
-    the bottom, untranslated segments are displayed as the source only.</para>
+    <para>Ao premir o botão Procurar após inserir uma cadeia no campo de procura, são mostrados todos os segmentos do projecto que incluem a cadeia inserida. Como o <application>OmegaT</application> trata segmentos idênticos como uma única entidade, apenas o primeiro segmento único é mostrado. Os segmentos são mostrados pela ordem em que surgem no projecto. Os segmentos traduzidos são mostrados com o texto original em cima e o texto traduzido em baixo, os segmentos não traduzidos são mostrados apenas como fonte.</para>
 
-    <para>Double-clicking on a segment opens it in the Editor for
-    modifications (one single click does it when <emphasis role="bold">Auto-sync with Editor</emphasis> option is checked). You can
-    then switch back to the Search window for the next segment found, for
-    instance to check and, if necessary, correct the terminology.</para>
+    <para>Um duplo clique sobre um segmento abre-o no editor para modificações (um único clique fá-lo quando a opção <emphasis role="bold">Sincronização automática</emphasis> está marcada). Pode então voltar à janela de procura para o próximo segmento encontrado, por exemplo para verificar e, se necessário, corrigir a terminologia.</para>
 
-    <para>In the Search window, you can use standard shortcuts (<keycombo>
-        <keycap>Ctrl</keycap>
+    <para>Na janela de procura, pode usar atalhos padrão (<keycombo> <keycap>Ctrl</keycap> <keycap>N</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>P</keycap> </keycombo>) para se deslocar de um segmento para outro.</para>
 
-        <keycap>N</keycap>
-      </keycombo>, <keycombo>
-        <keycap>Ctrl</keycap>
-
-        <keycap>P</keycap>
-      </keycombo>) to move from one segment to another.</para>
-
-    <para>You may have several Search windows open at the same time. You can
-    quickly see their contents by looking at their title: it will contain the
-    search term used.</para>
+    <para>Pode ter várias janelas de procura abertas ao mesmo tempo. Pode ver rapidamente o seu conteúdo ao olhar para o seu título: conterá o termo de procura utilizado.</para>
   </section>
 
   <section id="search.filter">
-    <title>Filter entries in editor according to search</title>
+    <title>Filtrar as entradas no editor de acordo com a procura</title>
 
-    <para>For easier navigation in the search result set, you can apply the
-    search to the editor. Press the <emphasis role="bold">Filter</emphasis>
-    button on the bottom to limit the shown entries in the editor window to
-    those that match the current search. You can use normal navigation to go
-    to e.g. the next (untranslated) segment that matches the search
-    criteria.</para>
+    <para>Para uma navegação mais fácil no conjunto de resultados de procura, pode aplicar a procura ao editor. Prima o botão <emphasis role="bold">Filtro</emphasis> no fundo para limitar as entradas mostradas na janela do editor àquelas que correspondem à procura actual. Pode usar a navegação normal para ir, por exemplo, ao próximo segmento (não traduzido) que corresponda aos critérios de procura.</para>
 
-    <para>NB:</para>
+    <para>N.B.:</para>
 
     <itemizedlist>
       <listitem>
-        <para>A search may be limited to 1000 items, so if you search on a
-        common phrase, the editor then shows only those 1000 matching entries,
-        and not all entries that match the search criteria.</para>
+        <para>Uma procura pode ser limitada a 1000 itens, por isso, se procurar numa frase comum, o editor então mostra apenas aquelas 1000 entradas correspondentes, e não todas as entradas que correspondem aos critérios de procura.</para>
       </listitem>
 
       <listitem>
-        <para>A file might have no matching entries, so it will show
-        empty.</para>
+        <para>Um ficheiro pode não ter entradas correspondentes, pelo que se mostrará vazio.</para>
       </listitem>
 
       <listitem>
-        <para>If a search removes duplicates, those duplicates will not be in
-        the Editor.</para>
+        <para>Se uma procura remover duplicados, esses duplicados não estarão no editor.</para>
       </listitem>
     </itemizedlist>
 
-    <para>To remove a filter, press the <emphasis role="bold">Remove
-    filter</emphasis> button, or reload a project.</para>
+    <para>Para remover um filtro, prima o botão <emphasis role="bold">Remover filtro</emphasis>, ou recarregue um projecto.</para>
   </section>
 </section>
