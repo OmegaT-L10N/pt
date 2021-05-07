@@ -5022,6 +5022,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080518Z" creationid="Pedro Albuquerque" creationdate="20210507T080518Z">
+        <seg>Como o &lt;a0&gt;OmegaT&lt;/a0&gt; trata segmentos idênticos como uma única entidade, apenas o primeiro segmento único é mostrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -9192,6 +9200,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162010Z" creationid="Pedro Albuquerque" creationdate="20210420T162010Z">
         <seg>Faça duplo clique na aplicação OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080719Z" creationid="Pedro Albuquerque" creationdate="20210507T080719Z">
+        <seg>Um duplo clique sobre um segmento abre-o no editor para modificações (um único clique fá-lo quando a opção &lt;e0&gt;Sincronização automática&lt;/e0&gt; está marcada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21002,6 +21018,14 @@ local sem funcionalidade de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080458Z" creationid="Pedro Albuquerque" creationdate="20210507T080458Z">
+        <seg>Ao premir o botão Procurar após inserir uma cadeia no campo de procura, são mostrados todos os segmentos do projecto que incluem a cadeia inserida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prevent data loss</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T083835Z" creationid="Pedro Albuquerque" creationdate="20210425T075012Z">
@@ -23286,6 +23310,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T111719Z" creationid="Pedro Albuquerque" creationdate="20210506T111719Z">
         <seg>As opções de procura são semelhantes às mostradas na &lt;l0&gt;janela de procura&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080408Z" creationid="Pedro Albuquerque" creationdate="20210507T080408Z">
+        <seg>Exibição dos resultados da pesquisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -27689,6 +27721,14 @@ xx ou xxx é o código de idioma e YY é o dialecto ou código de país (opciona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080556Z" creationid="Pedro Albuquerque" creationdate="20210507T080556Z">
+        <seg>Os segmentos são mostrados pela ordem em que surgem no projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T091156Z" creationid="Pedro Albuquerque" creationdate="20210505T091156Z">
@@ -30061,6 +30101,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T063255Z" creationid="Pedro Albuquerque" creationdate="20210422T063255Z">
         <seg>Segmentos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080631Z" creationid="Pedro Albuquerque" creationdate="20210507T080631Z">
+        <seg>Os segmentos traduzidos são mostrados com o texto original em cima e o texto traduzido em baixo, os segmentos não traduzidos são mostrados apenas como fonte.</seg>
       </tuv>
     </tu>
     <tu>
