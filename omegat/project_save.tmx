@@ -7220,6 +7220,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080127Z" creationid="Pedro Albuquerque" creationdate="20210507T080127Z">
+        <seg>Consequentemente, embora o OmegaT seja bastante capaz de lidar com ficheiros&lt;f1&gt; tmx&lt;/f1&gt;, não os inclui na procura Procurar em ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T083315Z" creationid="Pedro Albuquerque" creationdate="20210504T083315Z">
@@ -13589,6 +13597,14 @@ Explorer), altere as definições para que as extensões dos ficheiros sejam mos
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210426T111628Z" creationid="Pedro Albuquerque" creationdate="20210426T111628Z">
         <seg>Se marcar a caixa correspondente, o ficheiro &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; é modificado para utilizar o idioma seleccionado (ver secção seguinte para detalhes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080200Z" creationid="Pedro Albuquerque" creationdate="20210507T080200Z">
+        <seg>Se clicar no botão &lt;g0&gt;Opções avançadas&lt;/g0&gt;, podem ser seleccionados critérios adicionais (autor ou alterador da tradução, data traduzida, excluindo segmentos órfãos, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31743,6 +31759,14 @@ de o seleccionar, obter e instalar.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160600Z" creationid="Pedro Albuquerque" creationdate="20210420T160317Z">
         <seg>O que é o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210507T080351Z" creationid="Pedro Albuquerque" creationdate="20210507T080351Z">
+        <seg>Quando a opção &lt;e1&gt;Insensível a largura total/meia largura&lt;/e1&gt; está marcada, as procuras por formas de largura total (caracteres CJK) corresponderão a formas de meia largura e vice-versa.</seg>
       </tuv>
     </tu>
     <tu>
