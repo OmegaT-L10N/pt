@@ -3494,8 +3494,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160602Z" creationid="Pedro Albuquerque" creationdate="20210420T160602Z">
-        <seg>===============</seg>
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194512Z" creationid="Pedro Albuquerque" creationdate="20210420T160602Z">
+        <seg>=================</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,9 +7421,9 @@ Compre outra bebida</seg>
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162819Z" creationid="Pedro Albuquerque" creationdate="20210420T162819Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194549Z" creationid="Pedro Albuquerque" creationdate="20210420T162819Z">
         <seg>Contribuintes
-============</seg>
+=============</seg>
       </tuv>
     </tu>
     <tu>
@@ -14926,9 +14926,9 @@ faça duplo clique nesse atalho.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161357Z" creationid="Pedro Albuquerque" creationdate="20210420T161357Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194540Z" creationid="Pedro Albuquerque" creationdate="20210420T161357Z">
         <seg>Instalar o OmegaT (Solaris, FreeBSD, etc.)
-=========================================</seg>
+==========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16188,9 +16188,9 @@ na primeira execução.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T162419Z" creationid="Pedro Albuquerque" creationdate="20210420T162419Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194547Z" creationid="Pedro Albuquerque" creationdate="20210420T162419Z">
         <seg>Início do OmegaT a partir da linha de comando (todos os sistemas)
-====================================================</seg>
+=================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,9 +16358,9 @@ na primeira execução.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160709Z" creationid="Pedro Albuquerque" creationdate="20210420T160709Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194520Z" creationid="Pedro Albuquerque" creationdate="20210420T160709Z">
         <seg>Informação de licenciamento
-=====================</seg>
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20979,9 +20979,9 @@ necessário tomar medidas adicionais.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T160838Z" creationid="Pedro Albuquerque" creationdate="20210420T160838Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194524Z" creationid="Pedro Albuquerque" creationdate="20210420T160838Z">
         <seg>Pré-requisitos para instalar o OmegaT
-===================================</seg>
+=====================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,9 +31274,9 @@ e a aplicação OmegaT.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T163240Z" creationid="Pedro Albuquerque" creationdate="20210420T163240Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194550Z" creationid="Pedro Albuquerque" creationdate="20210420T163240Z">
         <seg>Ligações úteis
-============</seg>
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -31460,9 +31460,9 @@ e a aplicação OmegaT.</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T161430Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
+      <tuv lang="pt" changeid="Kos Ivantsov" changedate="20210508T194541Z" creationid="Pedro Albuquerque" creationdate="20210420T161430Z">
         <seg>Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
-===========================================================</seg>
+===================================================================</seg>
       </tuv>
     </tu>
     <tu>
