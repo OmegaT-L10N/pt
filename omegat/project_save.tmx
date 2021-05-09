@@ -3868,6 +3868,14 @@ A definição actual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T055959Z" creationid="Pedro Albuquerque" creationdate="20210509T055959Z">
+        <seg>Acerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072345Z" creationid="Pedro Albuquerque" creationdate="20210421T072345Z">
@@ -7314,6 +7322,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060007Z" creationid="Pedro Albuquerque" creationdate="20210509T060007Z">
+        <seg>Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contains a comprehensive description of OmegaT.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100905Z" creationid="Pedro Albuquerque" creationdate="20210506T100905Z">
@@ -9106,6 +9122,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101445Z" creationid="Pedro Albuquerque" creationdate="20210421T101445Z">
         <seg>Ancorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060004Z" creationid="Pedro Albuquerque" creationdate="20210509T060004Z">
+        <seg>Documentação</seg>
       </tuv>
     </tu>
     <tu>
@@ -19148,6 +19172,14 @@ tradução alavancada em projectos actualizados.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T055935Z" creationid="Pedro Albuquerque" creationdate="20210509T055935Z">
+        <seg>O OmegaT é uma aplicação de memória de tradução gratuita de código aberto para tradutores profissionais, escrita em Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T092347Z" creationid="Pedro Albuquerque" creationdate="20210424T092335Z">
@@ -22570,6 +22602,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060018Z" creationid="Pedro Albuquerque" creationdate="20210509T060018Z">
+        <seg>Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T101453Z" creationid="Pedro Albuquerque" creationdate="20210421T101453Z">
@@ -25432,6 +25472,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072915Z" creationid="Pedro Albuquerque" creationdate="20210421T072915Z">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060023Z" creationid="Pedro Albuquerque" creationdate="20210509T060023Z">
+        <seg>Suporte</seg>
       </tuv>
     </tu>
     <tu>
