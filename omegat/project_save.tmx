@@ -7956,6 +7956,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061322Z" creationid="Pedro Albuquerque" creationdate="20210509T061322Z">
+        <seg>Multi-plataforma sem JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+1</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T080013Z" creationid="Pedro Albuquerque" creationdate="20210423T080013Z">
@@ -16573,6 +16581,22 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061256Z" creationid="Pedro Albuquerque" creationdate="20210509T061256Z">
+        <seg>Linux com 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061253Z" creationid="Pedro Albuquerque" creationdate="20210509T061253Z">
+        <seg>Linux com JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T061912Z" creationid="Pedro Albuquerque" creationdate="20210422T061912Z">
@@ -25072,6 +25096,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T071305Z" creationid="Pedro Albuquerque" creationdate="20210424T071305Z">
         <seg>Codificação de ficheiros fonte e alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061333Z" creationid="Pedro Albuquerque" creationdate="20210509T061333Z">
+        <seg>Código-fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -35329,6 +35361,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061239Z" creationid="Pedro Albuquerque" creationdate="20210509T061202Z">
         <seg>macOS Autenticada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061246Z" creationid="Pedro Albuquerque" creationdate="20210509T061246Z">
+        <seg>macOS Não assinada</seg>
       </tuv>
     </tu>
     <tu>
