@@ -2,7 +2,7 @@ Este documento foi traduzido por Pedro Albuquerque
 
 
 O que é o OmegaT?
-===============
+=================
 
 O OmegaT é uma ferramenta de tradução assistida por computador multi-plataforma livre e de código aberto
 com correspondências aproximadas, memória de tradução, procura de palavras-chave, glossários e
@@ -11,7 +11,7 @@ tradução alavancada em projectos actualizados.
 
 
 Informação de licenciamento
-=====================
+===========================
 
 O OmegaT está disponível sob os termos da GNU General Public License como
 publicado pela Free Software Foundation, quer a versão 3 da Licença, quer
@@ -24,7 +24,7 @@ O OmegaT usa uma série de bibliotecas. A licença de cada biblioteca é mencion
 
 
 Pré-requisitos para instalar o OmegaT
-===================================
+=====================================
 
 O OmegaT requer que o Java Runtime Environment (JRE) versão 1.8 ou superior esteja
 instalado no seu sistema.
@@ -64,7 +64,7 @@ linux-install.sh, e execute com ./linux-install.sh.
 
 
 Instalar o OmegaT (Solaris, FreeBSD, etc.)
-=========================================
+==========================================
 
 Colocar o arquivo em qualquer pasta adequada e desempacotá-lo. O OmegaT está pronto para
 ser iniciado.
@@ -72,7 +72,7 @@ ser iniciado.
 
 
 Usar o Java Web Start para instalar o OmegaT (todas as plataformas)
-===========================================================
+===================================================================
 
 Se já tem o Java instalado no seu sistema, uma forma de instalar o OmegaT é
 usar o Java Web Start.
@@ -135,7 +135,7 @@ e depois:
 
 
 Início do OmegaT a partir da linha de comando (todos os sistemas)
-====================================================
+=================================================================
 
 O comando para iniciar o OmegaT é:
 
@@ -149,7 +149,7 @@ o caminho completo.)
 
 
 Contribuintes
-============
+=============
 
 O OmegaT é o trabalho original de Keith Godfrey.
 
@@ -191,7 +191,7 @@ não vê o seu nome nas listas, sinta-se à vontade para nos contactar).
 
 
 Ligações úteis
-============
+==============
 
 A informação mais actual sobre o OmegaT pode ser encontrada em
 
