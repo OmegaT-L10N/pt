@@ -12738,24 +12738,24 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Howto - Spellchecking</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060328Z" creationid="Pedro Albuquerque" creationdate="20210509T060328Z">
-        <seg>Como fazer - Spellchecking</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060859Z" creationid="Pedro Albuquerque" creationdate="20210509T060328Z">
+        <seg>Como fazer - Verificação ortográfica</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060514Z" creationid="Pedro Albuquerque" creationdate="20210509T060317Z">
-        <seg>Como fazer - Tradução do OmegaT para o seu idioma</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060708Z" creationid="Pedro Albuquerque" creationdate="20210509T060317Z">
+        <seg>Como fazer - Traduzir o OmegaT para o seu idioma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060431Z" creationid="Pedro Albuquerque" creationdate="20210509T060313Z">
-        <seg>Como fazer - Tradução de ficheiros PDF com Iceni Infix e OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060658Z" creationid="Pedro Albuquerque" creationdate="20210509T060313Z">
+        <seg>Como fazer - Traduzir ficheiros PDF com Iceni Infix e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,8 +12786,8 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060331Z" creationid="Pedro Albuquerque" creationdate="20210509T060331Z">
-        <seg>Como fazer - Using the OmegaT text export function (scripting interface)</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060940Z" creationid="Pedro Albuquerque" creationdate="20210509T060331Z">
+        <seg>Como fazer - Utilizar a função de exportação de texto do OmegaT (ambiente de scripting)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21736,8 +21736,8 @@ local sem funcionalidade de equipa.</seg>
       <tuv lang="en">
         <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060325Z" creationid="Pedro Albuquerque" creationdate="20210509T060325Z">
-        <seg>Propagation and one-to-many matching HowTo</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060822Z" creationid="Pedro Albuquerque" creationdate="20210509T060325Z">
+        <seg>Como fazer - Propagação e correspondências de um para muitos</seg>
       </tuv>
     </tu>
     <tu>
