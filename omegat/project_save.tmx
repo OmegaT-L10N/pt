@@ -12794,8 +12794,8 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060335Z" creationid="Pedro Albuquerque" creationdate="20210509T060335Z">
-        <seg>Como fazer - Using the OmegaT tokenizer</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061025Z" creationid="Pedro Albuquerque" creationdate="20210509T060335Z">
+        <seg>Como fazer - Usar o código do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -32588,6 +32588,30 @@ A sua página não foi encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061039Z" creationid="Pedro Albuquerque" creationdate="20210509T061039Z">
+        <seg>Windows com 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061033Z" creationid="Pedro Albuquerque" creationdate="20210509T061033Z">
+        <seg>Windows com JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061044Z" creationid="Pedro Albuquerque" creationdate="20210509T061044Z">
+        <seg>Windows semJRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124448Z" creationid="Pedro Albuquerque" creationdate="20210505T124448Z">
@@ -35297,6 +35321,14 @@ criasse o ficheiro de configuração.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T072942Z" creationid="Pedro Albuquerque" creationdate="20210421T072942Z">
         <seg>mALIGNa (Licença MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T061239Z" creationid="Pedro Albuquerque" creationdate="20210509T061202Z">
+        <seg>macOS Autenticada</seg>
       </tuv>
     </tu>
     <tu>
