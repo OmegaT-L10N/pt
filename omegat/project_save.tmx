@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18848,6 +18848,14 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T055736Z" creationid="Pedro Albuquerque" creationdate="20210509T055736Z">
+        <seg>OmegaT - A ferramenta memória de tradução gratuita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 4.2 - User's Guide</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T181627Z" creationid="Pedro Albuquerque" creationdate="20210421T064821Z">
@@ -24444,6 +24452,14 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T055556Z" creationid="Pedro Albuquerque" creationdate="20210509T055444Z">
+        <seg>Mostrar a versão inglesa (English)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T052749Z" creationid="Pedro Albuquerque" creationdate="20210422T052749Z">
@@ -29169,6 +29185,15 @@ do servidor.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210424T103037Z" creationid="Pedro Albuquerque" creationdate="20210424T102954Z">
         <seg>Este script destina-se a correr no OmegaT 3.6 e mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Added '(English)' intentionally	</note>
+      <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T055655Z" creationid="Pedro Albuquerque" creationdate="20210509T055546Z">
+        <seg>Este sítio também está disponível em inglês!</seg>
       </tuv>
     </tu>
     <tu>
