@@ -12696,6 +12696,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060606Z" creationid="Pedro Albuquerque" creationdate="20210509T060325Z">
+        <seg>Como fazer - Adicionar uma função de antevisão ao OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060243Z" creationid="Pedro Albuquerque" creationdate="20210509T060221Z">
@@ -12706,16 +12714,16 @@ O seu Inverno chegou</seg>
       <tuv lang="en">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060322Z" creationid="Pedro Albuquerque" creationdate="20210509T060322Z">
-        <seg>Como fazer - Creating a new file filter</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060542Z" creationid="Pedro Albuquerque" creationdate="20210509T060322Z">
+        <seg>Como fazer - Criar um novo filtro de ficheiros</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060308Z" creationid="Pedro Albuquerque" creationdate="20210509T060308Z">
-        <seg>Como fazer - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060645Z" creationid="Pedro Albuquerque" creationdate="20210509T060308Z">
+        <seg>Como fazer - Exportar do OmegaT para o formato "Trados uncleaned RTF".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12728,42 +12736,66 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060328Z" creationid="Pedro Albuquerque" creationdate="20210509T060328Z">
+        <seg>Como fazer - Spellchecking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060317Z" creationid="Pedro Albuquerque" creationdate="20210509T060317Z">
-        <seg>Como fazer - Translating OmegaT into your language</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060514Z" creationid="Pedro Albuquerque" creationdate="20210509T060317Z">
+        <seg>Como fazer - Tradução do OmegaT para o seu idioma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060313Z" creationid="Pedro Albuquerque" creationdate="20210509T060313Z">
-        <seg>Como fazer - Translating PDF files with Iceni Infix and OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060431Z" creationid="Pedro Albuquerque" creationdate="20210509T060313Z">
+        <seg>Como fazer - Tradução de ficheiros PDF com Iceni Infix e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060305Z" creationid="Pedro Albuquerque" creationdate="20210509T060305Z">
-        <seg>Como fazer - Tradução de ficheiros Word 2007 em OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060623Z" creationid="Pedro Albuquerque" creationdate="20210509T060305Z">
+        <seg>Como fazer - Traduzir ficheiros Word 2007 em OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060311Z" creationid="Pedro Albuquerque" creationdate="20210509T060311Z">
-        <seg>Como fazer - Using Google Translate in OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060415Z" creationid="Pedro Albuquerque" creationdate="20210509T060311Z">
+        <seg>Como fazer - Usar o Google Translate no OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Using Microsoft Translator in OmegaT</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060319Z" creationid="Pedro Albuquerque" creationdate="20210509T060319Z">
-        <seg>Como fazer - Using Microsoft Translator in OmegaT</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060533Z" creationid="Pedro Albuquerque" creationdate="20210509T060319Z">
+        <seg>Como fazer - Usar o Microsoft Translator no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060331Z" creationid="Pedro Albuquerque" creationdate="20210509T060331Z">
+        <seg>Como fazer - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060335Z" creationid="Pedro Albuquerque" creationdate="20210509T060335Z">
+        <seg>Como fazer - Using the OmegaT tokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -19432,8 +19464,8 @@ ser iniciado.</seg>
       <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060314Z" creationid="Pedro Albuquerque" creationdate="20210509T060314Z">
-        <seg>OmegaT on Linux HowTo</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060456Z" creationid="Pedro Albuquerque" creationdate="20210509T060314Z">
+        <seg>Como fazer do OmegaT em Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -21698,6 +21730,14 @@ local sem funcionalidade de equipa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210423T165851Z" creationid="Pedro Albuquerque" creationdate="20210421T061340Z">
         <seg>As procuras em projectos são feitas, por pré-definição, em fontes, alvos, memórias de tradução, glossários, notas e comentários do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060325Z" creationid="Pedro Albuquerque" creationdate="20210509T060325Z">
+        <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
     </tu>
     <tu>
