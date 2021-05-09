@@ -7166,6 +7166,14 @@ Compre outra bebida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060148Z" creationid="Pedro Albuquerque" creationdate="20210509T060148Z">
+        <seg>Compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T091026Z" creationid="Pedro Albuquerque" creationdate="20210506T091005Z">
@@ -7242,6 +7250,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T063027Z" creationid="Pedro Albuquerque" creationdate="20210421T063027Z">
         <seg>Confuso por início falso da etiqueta de comentário!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060035Z" creationid="Pedro Albuquerque" creationdate="20210509T060035Z">
+        <seg>Ligar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7326,6 +7342,14 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060007Z" creationid="Pedro Albuquerque" creationdate="20210509T060007Z">
         <seg>Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060106Z" creationid="Pedro Albuquerque" creationdate="20210509T060106Z">
+        <seg>Contacto e suporte</seg>
       </tuv>
     </tu>
     <tu>
@@ -12608,6 +12632,14 @@ O seu Inverno chegou</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060127Z" creationid="Pedro Albuquerque" creationdate="20210509T060127Z">
+        <seg>Como fazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T094654Z" creationid="Pedro Albuquerque" creationdate="20210425T094654Z">
@@ -12660,6 +12692,78 @@ O seu Inverno chegou</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210425T085524Z" creationid="Pedro Albuquerque" creationdate="20210425T085524Z">
         <seg>No entanto, deve tomar precauções contra a perda de dados ao utilizar o &lt;a1&gt;OmegaT&lt;/a1&gt;, tal como em qualquer outra aplicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060243Z" creationid="Pedro Albuquerque" creationdate="20210509T060221Z">
+        <seg>Como fazer - Compilação do OmegaT a partir do código fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060322Z" creationid="Pedro Albuquerque" creationdate="20210509T060322Z">
+        <seg>Como fazer - Creating a new file filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060308Z" creationid="Pedro Albuquerque" creationdate="20210509T060308Z">
+        <seg>Como fazer - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060212Z" creationid="Pedro Albuquerque" creationdate="20210509T060212Z">
+        <seg>Como fazer - Compatibilidade do OmegaT com Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060317Z" creationid="Pedro Albuquerque" creationdate="20210509T060317Z">
+        <seg>Como fazer - Translating OmegaT into your language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060313Z" creationid="Pedro Albuquerque" creationdate="20210509T060313Z">
+        <seg>Como fazer - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060305Z" creationid="Pedro Albuquerque" creationdate="20210509T060305Z">
+        <seg>Como fazer - Tradução de ficheiros Word 2007 em OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060311Z" creationid="Pedro Albuquerque" creationdate="20210509T060311Z">
+        <seg>Como fazer - Using Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060319Z" creationid="Pedro Albuquerque" creationdate="20210509T060319Z">
+        <seg>Como fazer - Using Microsoft Translator in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16782,6 +16886,14 @@ na primeira execução.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060118Z" creationid="Pedro Albuquerque" creationdate="20210509T060118Z">
+        <seg>Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T110319Z" creationid="Pedro Albuquerque" creationdate="20210421T110319Z">
@@ -19318,6 +19430,14 @@ ser iniciado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060314Z" creationid="Pedro Albuquerque" creationdate="20210509T060314Z">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100923Z" creationid="Pedro Albuquerque" creationdate="20210506T100923Z">
@@ -20330,6 +20450,14 @@ instalado no seu sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060053Z" creationid="Pedro Albuquerque" creationdate="20210509T060053Z">
+        <seg>Página não encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -20546,6 +20674,14 @@ Desaparecendo como névoa</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T090422Z" creationid="Pedro Albuquerque" creationdate="20210506T090414Z">
         <seg>Estão disponíveis periodicamente novas versões na SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060113Z" creationid="Pedro Albuquerque" creationdate="20210509T060113Z">
+        <seg>Filosofia</seg>
       </tuv>
     </tu>
     <tu>
@@ -22734,6 +22870,14 @@ Estas palavras: "Página não encontrada"</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210506T100756Z" creationid="Pedro Albuquerque" creationdate="20210506T100756Z">
         <seg>Revisão ao OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060136Z" creationid="Pedro Albuquerque" creationdate="20210509T060136Z">
+        <seg>Críticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -26403,6 +26547,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T065934Z" creationid="Pedro Albuquerque" creationdate="20210421T065934Z">
         <seg>O filtro Mozilla FTL gerou uma excepção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210509T060043Z" creationid="Pedro Albuquerque" creationdate="20210509T060043Z">
+        <seg>O projecto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
