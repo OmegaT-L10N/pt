@@ -22250,6 +22250,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073959Z" creationid="pmra" creationdate="20210610T073959Z">
+        <seg>Caracteres restantes (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="pmra" changedate="20210610T073904Z" creationid="pmra" creationdate="20210610T073904Z">
@@ -31046,6 +31054,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T074009Z" creationid="pmra" creationdate="20210610T074009Z">
+        <seg>Caracteres únicos (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="pmra" changedate="20210610T073918Z" creationid="pmra" creationdate="20210610T073918Z">
@@ -31066,6 +31082,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174421Z" creationid="Pedro Albuquerque" creationdate="20210420T174421Z">
         <seg>Caracteres únicos restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T074021Z" creationid="pmra" creationdate="20210610T074021Z">
+        <seg>Caracteres únicos restantes (com espaços)</seg>
       </tuv>
     </tu>
     <tu>
