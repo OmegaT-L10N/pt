@@ -19202,8 +19202,8 @@ a pasta Aplicações.</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092708Z" creationid="Pedro Albuquerque" creationdate="20210422T092708Z">
-        <seg>OmegaT encripta senhas sensíveis e chaves API com uma senha mestra.</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T074212Z" creationid="Pedro Albuquerque" creationdate="20210422T092708Z">
+        <seg>O OmegaT encripta senhas sensíveis e chaves API com uma senha mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23718,8 +23718,8 @@ por pré-definição, o âmbito da procura é o projecto e pode ser definido par
       <tuv lang="en">
         <seg>Secure Store</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T092638Z" creationid="Pedro Albuquerque" creationdate="20210422T092638Z">
-        <seg>Loja segura</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T074204Z" creationid="Pedro Albuquerque" creationdate="20210422T092638Z">
+        <seg>Armazenamento seguro</seg>
       </tuv>
     </tu>
     <tu>
