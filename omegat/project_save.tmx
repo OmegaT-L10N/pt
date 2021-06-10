@@ -22250,6 +22250,14 @@ Estas palavras: "Página não encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073904Z" creationid="pmra" creationdate="20210610T073904Z">
+        <seg>Caracteres restantes (c/s espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174245Z" creationid="Pedro Albuquerque" creationdate="20210420T174245Z">
@@ -30234,6 +30242,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073947Z" creationid="pmra" creationdate="20210610T073947Z">
+        <seg>Total de caracteres (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="pmra" changedate="20210610T073755Z" creationid="pmra" creationdate="20210610T073755Z">
@@ -31030,6 +31046,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073918Z" creationid="pmra" creationdate="20210610T073918Z">
+        <seg>Caracteres únicos (c/s espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174304Z" creationid="Pedro Albuquerque" creationdate="20210420T174304Z">
@@ -31042,6 +31066,14 @@ procuras exactas correspondem à cadeia de procura completa.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174421Z" creationid="Pedro Albuquerque" creationdate="20210420T174421Z">
         <seg>Caracteres únicos restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073931Z" creationid="pmra" creationdate="20210610T073931Z">
+        <seg>Caracteres únicos restantes (c/s espaços)</seg>
       </tuv>
     </tu>
     <tu>
