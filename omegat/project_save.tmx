@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1152,6 +1152,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210422T064302Z" creationid="Pedro Albuquerque" creationdate="20210422T064302Z">
         <seg>&amp;Repor esta cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073354Z" creationid="pmra" creationdate="20210610T073354Z">
+        <seg>&amp;Reiniciar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6284,6 +6292,22 @@ Compre outra bebida</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174026Z" creationid="Pedro Albuquerque" creationdate="20210420T174026Z">
         <seg>Caracteres (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073435Z" creationid="pmra" creationdate="20210610T073435Z">
+        <seg>Caracteres (s/ espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073423Z" creationid="pmra" creationdate="20210610T073423Z">
+        <seg>Caracteres (c/s espaços)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30206,6 +30230,14 @@ linux-install.sh, e execute com ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T174337Z" creationid="Pedro Albuquerque" creationdate="20210420T174337Z">
         <seg>Total de caracteres (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210610T073755Z" creationid="pmra" creationdate="20210610T073755Z">
+        <seg>Total de caracteres (c/s espaços)</seg>
       </tuv>
     </tu>
     <tu>
