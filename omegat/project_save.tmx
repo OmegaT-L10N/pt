@@ -3334,8 +3334,8 @@ A definição actual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T093329Z" creationid="Pedro Albuquerque" creationdate="20210504T093329Z">
-        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; Num Mac Apple, usar a tecla &lt;k1&gt;Command&lt;/k1&gt; em vez da tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210701T060310Z" creationid="Pedro Albuquerque" creationdate="20210504T093329Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; num Mac Apple, usar a tecla &lt;k1&gt;Command&lt;/k1&gt; em vez da tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
