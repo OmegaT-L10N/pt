@@ -19104,6 +19104,22 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T054236Z" creationid="pmra" creationdate="20210731T054236Z">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T054216Z" creationid="pmra" creationdate="20210731T054216Z">
+        <seg>Predefinição OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T123721Z" creationid="Pedro Albuquerque" creationdate="20210505T123721Z">
@@ -19192,10 +19208,26 @@ a pasta Aplicações.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T054252Z" creationid="pmra" creationdate="20210731T054238Z">
+        <seg>Tema clássico do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T124154Z" creationid="Pedro Albuquerque" creationdate="20210505T124154Z">
         <seg>O OmegaT requer actualmente a versão 1.8 do JRE ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T054229Z" creationid="pmra" creationdate="20210731T054229Z">
+        <seg>Tema pré-definido do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
