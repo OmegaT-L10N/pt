@@ -19536,8 +19536,8 @@ ser iniciado.</seg>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210420T123231Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
-        <seg>OmegaT esgotou a memória e sairá quando clicar em Aceitar</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T053801Z" creationid="Pedro Albuquerque" creationdate="20210420T123231Z">
+        <seg>O OmegaT esgotou a memória e sairá quando clicar em Aceitar</seg>
       </tuv>
     </tu>
     <tu>
