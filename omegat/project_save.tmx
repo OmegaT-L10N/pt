@@ -10692,16 +10692,16 @@ Os fios de Gossamer retêm-nos
       <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054142Z" creationid="Pedro Albuquerque" creationdate="20210421T054142Z">
-        <seg>Comando externo de pós-proessamento (desactivado):</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T074625Z" creationid="Pedro Albuquerque" creationdate="20210421T054142Z">
+        <seg>Comando externo de pós-processamento (desactivado):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210421T054133Z" creationid="Pedro Albuquerque" creationdate="20210421T054133Z">
-        <seg>Comando externo de pós-proessamento:</seg>
+      <tuv lang="pt" changeid="pmra" changedate="20210731T074625Z" creationid="Pedro Albuquerque" creationdate="20210421T054133Z">
+        <seg>Comando externo de pós-processamento:</seg>
       </tuv>
     </tu>
     <tu>
