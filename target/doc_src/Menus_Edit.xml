@@ -86,7 +86,7 @@
       <term>Exportar selecção</term>
 
       <listitem>
-        <para>Exporta a selecção actual para um ficheiro de texto para processamento. Se nenhum texto tiver sido seleccionado, o segmento-fonte actual é escrito neste ficheiro. Quando o utilizador sai do <application>OmegaT</application>, este ficheiro não é esvaziado, de modo a ser consistente com o comportamento habitual da área de transferência. O conteúdo exportado é copiado para o ficheiro <filename>selection.txt</filename> localizado na pasta de ficheiros de preferência do Utilizador.</para>
+        <para>Exporta a selecção actual para um ficheiro de texto para processamento. Se nenhum texto tiver sido seleccionado, o segmento-fonte actual é escrito neste ficheiro. When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior. The exported contents are copied to the file <filename>selection.txt</filename> located in the User's preference files folder.</para>
       </listitem>
     </varlistentry>
 
@@ -136,7 +136,7 @@
       <term>Mude maiúsculas para</term>
 
       <listitem>
-        <para>Altera as letras do texto destacado no segmento-alvo para a opção seleccionada (minúsculas, maiúsculas, título ou frase). Use <keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo> para percorrer as quatro alternativas. Se não houver texto seleccionado, o <application>OmegaT</application> selecciona a palavra que contém a letra imediatamente à direita do cursor.</para>
+        <para>Altera as letras do texto destacado no segmento-alvo para a opção seleccionada (minúsculas, maiúsculas, título ou frase). Use <keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo> para percorrer as quatro alternativas. If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</para>
       </listitem>
     </varlistentry>
 

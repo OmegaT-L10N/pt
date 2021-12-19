@@ -37,7 +37,7 @@
         <term>Obter automaticamente traduções</term>
 
         <listitem>
-          <para>Por razões de confidencialidade, pode querer não enviar todos os segmentos para o motor de tradução automática. Se desmarcar esta opção, as traduções automáticas só serão procuradas quando premir <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> (<keycombo> <keycap>Cmd</keycap> <keycap>M</keycap> </keycombo> em OS X) no segmento actual. Deve então premir <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> novamente para inserir a sugestão.</para>
+          <para>Por razões de confidencialidade, pode querer não enviar todos os segmentos para o motor de tradução automática. If you uncheck this option, machine translations will be fetched only when you press <keycombo><keycap>Ctrl</keycap><keycap>M</keycap></keycombo> (<keycombo><keycap>Cmd</keycap><keycap>M</keycap></keycombo> on OS X) in the current segment. You must then press <keycombo><keycap>Ctrl</keycap><keycap>M</keycap> </keycombo> again to insert the suggestion.</para>
         </listitem>
       </varlistentry>
 
@@ -100,6 +100,23 @@
           <para>Se esta opção estiver marcada, o glossário mostrará apenas uma entrada, mesmo que a mesma palavra exista em várias formas (por exemplo, com e sem maiúsculas) no glossário.</para>
         </listitem>
       </varlistentry>
+
+	  <varlistentry>
+        <term>Glossary layout</term>
+
+        <listitem>
+          <para>You can select a glossary pane contents layout. Layout variations can be added as plugins.</para>
+        </listitem>
+      </varlistentry>
+
+	  <varlistentry>
+        <term>Merge alternate definition for the same term</term>
+
+        <listitem>
+          <para>If a glossary item has alternate definitions, they will be displayed on the same line.</para>
+        </listitem>
+      </varlistentry>
+
     </variablelist>
 
     <section>
@@ -128,7 +145,7 @@
           <term>Procurar colecções do TaaS...</term>
 
           <listitem>
-            <para>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto. As colecções privadas são mostradas a negrito. As colecções são transferidas como glossários TBX e armazenadas na pasta do glossário actual.</para>
+            <para>Este botão permite-lhe navegar e transferir as colecções que existam para os idiomas fonte e alvo do projecto. As colecções privadas são mostradas a negrito. The collections are downloaded as TBX glossaries and stored in the current <filename class="directory">glossary</filename> folder.</para>
           </listitem>
         </varlistentry>
 
@@ -169,6 +186,14 @@
     <title>Aparência</title>
 
     <variablelist>
+	  <varlistentry>
+        <term>Theme</term>
+
+        <listitem>
+          <para>You can select a theme for OmegaT's user interface. Theme can also be added as plugins.</para>
+        </listitem>
+      </varlistentry>
+
       <varlistentry>
         <term>Restaurar a janela principal</term>
 
@@ -176,6 +201,7 @@
           <para>Restaura os componentes da janela principal do OmegaT para o seu estado padrão. Utilize esta funcionalidade quando tiver desbloqueado, movido ou ocultado um ou mais componentes e não conseguir restaurar a disposição desejada. Também pode ser utilizado quando os painéis não aparecem como esperado após uma actualização do OmegaT.</para>
         </listitem>
       </varlistentry>
+
     </variablelist>
 
     <section>
@@ -196,38 +222,38 @@
   <section id="dialogs.preferences.filefilters">
     <title>Filtros de ficheiro</title>
 
-    <para>Este diálogo lista os filtros de ficheiros disponíveis. Os filtros utilizados pelo projecto actual são apresentados em negrito. Se preferir não utilizar o OmegaT para traduzir ficheiros de um determinado tipo, pode desligar o filtro correspondente desmarcando a caixa ao lado do seu nome. A OmegaT omitirá então os ficheiros correspondentes ao carregar projectos, e copiá-los-á sem modificação para a pasta de destino ao criar documentos-alvo. Quando desejar utilizar o filtro de novo, basta marcar a respectiva caixa. Clique em <emphasis role="bold">Pré-definições</emphasis> para repor os filtros de ficheiro nas pré-definições. Para editar os ficheiros e codificações em que se utiliza um filtro, seleccione o filtro na lista e clique em <emphasis role="bold">Editar</emphasis>.</para>
+    <para>Este diálogo lista os filtros de ficheiros disponíveis. Os filtros utilizados pelo projecto actual são apresentados em negrito. Se preferir não utilizar o OmegaT para traduzir ficheiros de um determinado tipo, pode desligar o filtro correspondente desmarcando a caixa ao lado do seu nome. OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the <filename class="directory">target</filename> folder when creating target documents. Quando desejar utilizar o filtro de novo, basta marcar a respectiva caixa. Click <guilabel>Defaults</guilabel> to reset the file filters to the default settings. To edit the files and encodings a filter is used for, select the filter in the list and click <guilabel>Edit</guilabel>.</para>
 
     <para>O diálogo permite activar ou desactivar as seguintes opções:</para>
 
     <itemizedlist>
       <listitem>
-        <para>remover as etiquetas iniciais e finais: desmarque esta opção para mostrar todas as etiquetas, incluindo as iniciais e finais do segmento; Aviso: nos formatos Microsoft Open XML (docx, xlsx, etc.), se todas as etiquetas forem mostradas, NÃO coloque qualquer texto antes da primeira etiqueta - é uma etiqueta técnica que deve sempre iniciar o segmento.</para>
+        <para><guilabel>Remove leading and trailing tags</guilabel>: uncheck this option to display all the tags, including tags at the beginning and end of the segment. Aviso: nos formatos Microsoft Open XML (docx, xlsx, etc.), se todas as etiquetas forem mostradas, NÃO coloque qualquer texto antes da primeira etiqueta - é uma etiqueta técnica que deve sempre iniciar o segmento.</para>
       </listitem>
 
       <listitem>
-        <para>remover espaços iniciais e finais em projectos não segmentados; por defeito, o OmegaT remove-os; Em projectos não segmentados, é possível mantê-los, desmarcando esta opção;</para>
+        <para><guilabel>Remove leading and trailing whitespace in non-segmented projects</guilabel>: by default, OmegaT removes leading and trailing whitespace. Em projectos não segmentados, é possível mantê-los, desmarcando esta opção;</para>
       </listitem>
 
       <listitem>
-        <para>Preservar espaços para todas as etiquetas: marque esta opção se os documentos-fonte contêm espaços significativos utilizados para controlar a disposição e que não devem ser ignorados;</para>
+        <para><guilabel>Preserve spaces for all tags</guilabel>: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</para>
       </listitem>
 
       <listitem>
-        <para>ignorar o contexto do ficheiro ao identificar segmentos com traduções alternativas: por defeito, OmegaT utiliza o nome do ficheiro-fonte como parte da identificação de uma tradução alternativa; Se a opção estiver marcada, o nome do ficheiro-fonte não será utilizado e traduções alternativas terão efeito em qualquer ficheiro desde que o outro contexto (segmentos anteriores/seguintes ou algum tipo de identificador de segmento, dependendo do formato do ficheiro) corresponda.</para>
+        <para><guilabel>Ignore file context when identifying segments with alternate translations</guilabel>: by default, OmegaT uses the source file name as part of the identification of an alternative translation. Se a opção estiver marcada, o nome do ficheiro-fonte não será utilizado e traduções alternativas terão efeito em qualquer ficheiro desde que o outro contexto (segmentos anteriores/seguintes ou algum tipo de identificador de segmento, dependendo do formato do ficheiro) corresponda.</para>
       </listitem>
     </itemizedlist>
 
     <section id="filters.options">
       <title>Opções de filtro</title>
 
-      <para>Vários filtros (ficheiros de texto, ficheiros XHTML, ficheiros HTML e XHTML, ficheiros OpenDocument e ficheiros Microsoft Open XML) têm uma ou mais opções específicas. Para modificar as opções, seleccione o filtro na lista e clique em <emphasis role="bold">Opções</emphasis>. As opções disponíveis são as seguintes:</para>
+      <para>Vários filtros (ficheiros de texto, ficheiros XHTML, ficheiros HTML e XHTML, ficheiros OpenDocument e ficheiros Microsoft Open XML) têm uma ou mais opções específicas. To modify the options, select the filter in the list and click <guibutton>Options...</guibutton>. As opções disponíveis são as seguintes:</para>
 
       <para><emphasis role="bold">Ficheiros de texto</emphasis></para>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Segmentação de parágrafos em quebras de linha, linhas vazias ou nunca:</emphasis></para>
+          <para><guilabel>Segmentar texto-fonte em parágrafos em:</guilabel></para>
 
           <para>se as regras de segmentação de frases estiverem activas, o texto será ainda mais segmentado de acordo com a opção aqui seleccionada.</para>
         </listitem>
@@ -237,7 +263,8 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Permitir traduções em branco no ficheiro-alvo</emphasis>:</para>
+          <para><guilabel>Allow blank translations in the target
+          file</guilabel>:</para>
 
           <para>Se marcada, quando um segmento num ficheiro PO (que pode ser um parágrafo inteiro) não for traduzido, a tradução estará vazia no ficheiro-alvo. Tecnicamente falando, o segmento <code>msgstr</code> no ficheiro-alvo do PO, se criado, será deixado vazio. Como este é o comportamento padrão para ficheiros PO, está marcado por pré-definição. Se a opção estiver desligada, o texto-fonte será copiado para o segmento-alvo.</para>
         </listitem>
@@ -245,7 +272,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Saltar cabeçalho PO</emphasis></para>
+          <para><guilabel>Saltar cabeçalho PO</guilabel></para>
 
           <para>O cabeçalho do PO será saltado e deixado inalterado se esta opção estiver marcada.</para>
         </listitem>
@@ -253,7 +280,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Substituir automaticamente &quot;nplurals=INTEGER; plural=EXPRESSION;&quot; no cabeçalho</emphasis></para>
+          <para><guilabel>Substituir automaticamente &quot;nplurals=INTEGER; plural=EXPRESSION;&quot; no cabeçalho</guilabel></para>
 
           <para><emphasis>Esta opção permite que o OmegaT substitua a especificação no cabeçalho do ficheiro PO e utilize a pré-definição para o idioma-alvo seleccionado.</emphasis></para>
         </listitem>
@@ -263,31 +290,33 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Traduzir os seguintes atributos</emphasis>: os atributos seleccionados aparecerão como segmentos na janela do editor.</para>
+          <para><guilabel>Translate the following attributes</guilabel>: the
+          selected attributes will appear as segments in the Editor
+          window.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
+          <para><guilabel>Start a new paragraph on</guilabel>: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Saltar texto correspondente à expressão regular</emphasis>: qualquer texto correspondente à expressão regular é saltado. É mostrado a vermelho no avaliador de etiquetas. O texto nos segmentos-fonte que correspondem é mostrado em itálico.</para>
+          <para><guilabel>Skip text matching regular expression</guilabel>: any text matching the regular expression is skipped. É mostrado a vermelho no avaliador de etiquetas. O texto nos segmentos-fonte que correspondem é mostrado em itálico.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Não traduzir o atributo de conteúdo das meta-etiquetas ...:</emphasis> As meta-etiquetas na caixa não serão traduzidas.</para>
+          <para><guilabel>Do not translate the content attribute of meta-tags ...</guilabel>: the meta-tags in the box will not be translated.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Não traduzir o conteúdo das etiquetas com os seguintes pares chave-valor (separar com vírgulas)</emphasis>: se uma etiqueta corresponder à lista de pares chave-valor, o seu conteúdo será ignorado.</para>
+          <para><guilabel>Do not translate the content of tags with the following attribute key-value pairs (separate with commas)</guilabel>: if a tag matches the list of key-value pairs, its content will be ignored.</para>
 
           <para>É por vezes útil poder tornar certas etiquetas intraduzíveis com base nos valores dos seus atributos. Por exemplo, <literal>&lt;div class=&quot;hide&quot;&gt; &lt;span translate=&quot;no&quot;&gt;</literal>. É possível definir pares chave-valor para as etiquetas a deixar sem tradução. Para o exemplo acima, o campo conteria: <literal>class=hide, translate=no </literal>.</para>
         </listitem>
@@ -327,11 +356,11 @@
 
           <itemizedlist>
             <listitem>
-              <para><emphasis>Etiquetas agregadas</emphasis>: se marcada, as etiquetas sem texto traduzível entre elas serão agregadas numa única etiqueta.</para>
+              <para><guilabel>Aggregate tags</guilabel>: if checked, tags with no translatable text between them will be aggregated into a single tag.</para>
             </listitem>
 
             <listitem>
-              <para><emphasis>Preservar espaços para todas as etiquetas</emphasis>: se verificado, &quot;espaço branco&quot; (isto é, espaços e novas linhas) será preservado, mesmo que esta opção não esteja definida no documento.</para>
+              <para><guilabel>Preserve spaces for all tags</guilabel>: if checked, &quot;white space&quot; (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</para>
             </listitem>
           </itemizedlist>
         </listitem>
@@ -341,47 +370,49 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Adicionar ou reescrever a declaração de codificação em ficheiros HTML e XHTML</emphasis>: os ficheiros-alvo precisam frequentemente de ter um conjunto de caracteres de codificação diferente daquele do ficheiro-fonte (quer esteja explicitamente definido ou implícito). Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída. Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</para>
+          <para><guilabel>Add or rewrite encoding declaration in HTML and XHTML files</guilabel>: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied). Usando esta opção, o tradutor pode especificar se os ficheiros de destino devem ter a declaração de codificação incluída. Por exemplo, se o filtro de ficheiros especificar UTF8 como o esquema de codificação para os ficheiros-alvo, a selecção Sempre garantirá que esta informação seja incluída nos ficheiros traduzidos.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Traduzir os seguintes atributos</emphasis>: os atributos seleccionados aparecerão como segmentos na janela do editor.</para>
+          <para><guilabel>Translate the following attributes</guilabel>: the
+          selected attributes will appear as segments in the Editor
+          window.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Iniciar um novo parágrafo em</emphasis>: a etiqueta HTML &lt;br&gt; constituirá uma quebra de parágrafo para fins de segmentação.</para>
+          <para><guilabel>Start a new paragraph on</guilabel>: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Saltar texto correspondente à expressão regular</emphasis>: qualquer texto correspondente à expressão regular é saltado. É mostrado a vermelho no avaliador de etiquetas. O texto nos segmentos-fonte que correspondem é mostrado em itálico.</para>
+          <para><guilabel>Skip text matching regular expression</guilabel>: any text matching the regular expression is skipped. É mostrado a vermelho no avaliador de etiquetas. O texto nos segmentos-fonte que correspondem é mostrado em itálico.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Não traduzir o atributo de conteúdo das meta-etiquetas ...:</emphasis> As meta-etiquetas na caixa não serão traduzidas.</para>
+          <para><guilabel>Do not translate the content attribute of meta-tags ...:</guilabel> The meta-tags in the box will not be translated.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Não traduzir o conteúdo das etiquetas com os seguintes pares chave-valor (separar com vírgulas)</emphasis>: se uma etiqueta corresponder à lista de pares chave-valor, o seu conteúdo será ignorado.</para>
+          <para><guilabel>Do not translate the content of tags with the following attribute key-value pairs (separate with commas)</guilabel>: if a tag matches the list of key-value pairs, its content will be ignored.</para>
 
           <para>É por vezes útil poder tornar certas etiquetas intraduzíveis com base nos valores dos seus atributos. Por exemplo, <literal>&lt;div class=&quot;hide&quot;&gt; &lt;span translate=&quot;no&quot;&gt;</literal>. É possível definir pares chave-valor para as etiquetas a deixar sem tradução. Para o exemplo acima, o campo conteria: <literal>class=hide, translate=no </literal>.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis>Comprimir espaço em branco no documento traduzido</emphasis>: múltiplos espaços contínuos em branco serão convertidos num único espaço em branco no documento traduzido.</para>
+          <para><guilabel>Compress whitespace in translated document</guilabel>: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis>Remover comentários HTML no documento traduzido</emphasis>: as partes comentadas (entre &lt;!-- e --&gt;) não serão copiadas para o documento traduzido.</para>
+          <para><guilabel>Remove HTML comments in translated document</guilabel>: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</para>
         </listitem>
       </itemizedlist>
 
@@ -399,18 +430,18 @@
     <section id="edit.filter.dialog">
       <title>Diálogo Editar filtro</title>
 
-      <para>Este diálogo permite especificar os padrões de nome de ficheiro-fonte para ficheiros a processar pelo filtro, personalizar os nomes dos ficheiros traduzidos e seleccionar que codificações devem ser utilizadas para carregar o ficheiro-fonte e gravar a tradução. Para modificar um padrão de filtro de ficheiros, modifique os campos directamente ou clique em <emphasis role="bold">Editar</emphasis>. Para adicionar um novo padrão de filtro de ficheiros, clique em <emphasis role="bold">Adicionar</emphasis>. O mesmo diálogo é utilizado para adicionar um padrão ou para editar um determinado padrão. O diálogo inclui um editor especial de nomes de ficheiros-alvo, que pode utilizar para personalizar os nomes dos ficheiros de saída.</para>
+      <para>Este diálogo permite especificar os padrões de nome de ficheiro-fonte para ficheiros a processar pelo filtro, personalizar os nomes dos ficheiros traduzidos e seleccionar que codificações devem ser utilizadas para carregar o ficheiro-fonte e gravar a tradução. To modify a file filter pattern, either modify the fields directly or click <guibutton>Edit</guibutton>. To add a new file filter pattern, click <guibutton>Add</guibutton>. O mesmo diálogo é utilizado para adicionar um padrão ou para editar um determinado padrão. O diálogo inclui um editor especial de nomes de ficheiros-alvo, que pode utilizar para personalizar os nomes dos ficheiros de saída.</para>
 
       <section id="source.filetype.and.filename.pattern">
         <title>Tipo de ficheiro-fonte, padrão de nome de ficheiro</title>
 
-        <para>Quando o OmegaT encontra um ficheiro na sua pasta de origem, tenta seleccionar o filtro com base na extensão do ficheiro. Mais precisamente, o OmegaT tenta fazer corresponder os padrões de nome de ficheiro de cada filtro com o nome do ficheiro. Por exemplo, o padrão <literal>*.xhtml </literal>corresponde a qualquer ficheiro com a extensão <literal>.xhtml</literal>. Se for encontrado o filtro apropriado, o ficheiro é-lhe atribuído para processamento. Por exemplo, por defeito, o filtro XHTML é utilizado para processar ficheiros com a extensão .xhtml. Pode alterar ou adicionar padrões de nomes de ficheiro para ficheiros a serem tratados por cada filtro de ficheiro. Os padrões de nomes de ficheiro-fonte utilizam caracteres universais semelhantes aos utilizados em <emphasis role="bold">Procuras </emphasis>. O carácter &quot;*&quot; corresponde a zero ou mais caracteres. O carácter &quot;?&quot; corresponde exactamente a um carácter. Todos os outros caracteres representam-se a si próprios. Por exemplo, se desejar que o filtro de texto trate ficheiros readme (<literal>readme, read.me</literal>, e <literal>readme.txt</literal>) deverá utilizar o padrão <literal>read*</literal>.</para>
+        <para>When OmegaT encounters a file in its <filename class="directory">source</filename> folder, it attempts to select the filter based upon the file's extension. Mais precisamente, o OmegaT tenta fazer corresponder os padrões de nome de ficheiro de cada filtro com o nome do ficheiro. For example, the pattern <literal>*.xhtml </literal>matches any file with the <literal>.xhtml</literal> extension. Se for encontrado o filtro apropriado, o ficheiro é-lhe atribuído para processamento. Por exemplo, por defeito, o filtro XHTML é utilizado para processar ficheiros com a extensão .xhtml. Pode alterar ou adicionar padrões de nomes de ficheiro para ficheiros a serem tratados por cada filtro de ficheiro. Source filename patterns use wild card characters similar to those used in <emphasis role="bold">Searches</emphasis>. The '*' character matches zero or more characters. O carácter &quot;?&quot; corresponde exactamente a um carácter. Todos os outros caracteres representam-se a si próprios. For example, if you wish the text filter to handle readme files (<literal>readme, read.me</literal>, and <literal>readme.txt</literal>) you should use the pattern <literal>read*</literal>.</para>
       </section>
 
       <section id="source.and.target.files.encoding">
         <title>Codificação de ficheiros fonte e alvo</title>
 
-        <para>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória. Os formatos de ficheiro que não especifiquem a sua codificação, utilizarão a codificação que tiver configurado para a extensão que corresponda ao seu nome. Por exemplo, por pré-definição, os ficheiros <literal>.txt</literal> serão carregados utilizando a codificação pré-definida do seu sistema operativo. É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente. Os ficheiros-alvo também podem ser escritos em qualquer codificação. Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte. Os campos de codificação de fonte e alvo utilizam menus pendentes contendo todas as codificações suportadas. &lt;auto&gt; deixa a escolha da codificação ao <application>OmegaT</application>. É assim que funciona:</para>
+        <para>Apenas um número limitado de formatos de ficheiro especifica uma codificação obrigatória. Os formatos de ficheiro que não especifiquem a sua codificação, utilizarão a codificação que tiver configurado para a extensão que corresponda ao seu nome. Por exemplo, por pré-definição, os ficheiros <literal>.txt</literal> serão carregados utilizando a codificação pré-definida do seu sistema operativo. É possível alterar a codificação da fonte para cada padrão de nome de ficheiro de fonte diferente. Os ficheiros-alvo também podem ser escritos em qualquer codificação. Por pré-definição, a codificação do ficheiro-alvo é a mesma que a codificação do ficheiro-fonte. Os campos de codificação de fonte e alvo utilizam menus pendentes contendo todas as codificações suportadas. &lt;auto&gt; leaves the choice of encoding to OmegaT. É assim que funciona:</para>
 
         <itemizedlist>
           <listitem>
@@ -540,20 +571,21 @@
   <section id="dialogs.preferences.segmentationsetup">
     <title>Configuração da segmentação</title>
 
-    <para>As ferramentas de memória de tradução funcionam com unidades de texto chamadas segmentos. O <application>OmegaT</application> tem duas formas de segmentar um texto: por parágrafo ou por segmentação de frases (também referida como &quot;segmentação baseada em regras&quot;). Para seleccionar o tipo de segmentação, seleccione <menuchoice> <guimenu>Projecto</guimenu> <guimenuitem>Propriedades...</guimenuitem> </menuchoice> no menu principal e marque ou desmarque a caixa fornecida. A segmentação de parágrafos é vantajosa em certos casos, tais como traduções altamente criativas ou estilísticas em que o tradutor pode querer alterar a ordem de frases inteiras; para a maioria dos projectos, contudo, a segmentação de frases é uma escolha a privilegiar, uma vez que proporciona melhores correspondências com as traduções anteriores. Se a segmentação de frases foi seleccionada, pode configurar as regras seleccionando <menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Segmentação...</guimenuitem> </menuchoice>do menu principal.</para>
+    <para>As ferramentas de memória de tradução funcionam com unidades de texto chamadas segmentos. OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”). In order to select the type of segmentation, select <menuchoice> <guimenu>Project</guimenu> <guimenuitem>Properties...</guimenuitem> </menuchoice> from the main menu and tick or untick the check box provided. A segmentação de parágrafos é vantajosa em certos casos, tais como traduções altamente criativas ou estilísticas em que o tradutor pode querer alterar a ordem de frases inteiras; para a maioria dos projectos, contudo, a segmentação de frases é uma escolha a privilegiar, uma vez que proporciona melhores correspondências com as traduções anteriores. If sentence segmentation has been selected, you can setup the rules by selecting <menuchoice> <guimenu>Options</guimenu> <guimenuitem>Segmentation...</guimenuitem> </menuchoice>from the main menu.</para>
 
     <para>Já existem regras de segmentação fiáveis para muitos idiomas, pelo que é provável que não tenha de se envolver na escrita das suas próprias regras de segmentação. Por outro lado, esta funcionalidade pode ser muito útil em casos especiais, onde pode aumentar a sua produtividade ajustando as regras de segmentação ao texto a traduzir.</para>
 
     <para><emphasis role="bold">Aviso</emphasis>: porque o texto será segmentado de forma diferente após as opções de filtro terem sido alteradas, poderá ter de começar a traduzir a partir do zero. Ao mesmo tempo, os segmentos válidos anteriores na memória de tradução do projecto transformar-se-ão em segmentos órfãos. Se alterar as opções de segmentação quando um projecto está aberto, deve recarregar o projecto para que as alterações produzam efeito.</para>
 
-    <para>O <application>OmegaT</application> utiliza a seguinte sequência de passos:</para>
+    <para>OmegaT uses the following sequence of
+    steps:</para>
 
     <variablelist>
       <varlistentry>
         <term>Segmentação a nível estrutural</term>
 
         <listitem>
-          <para>O <application>OmegaT</application> primeiro analisa o texto para segmentação a nível de estrutura. Durante este processo, é apenas a estrutura do ficheiro-fonte que é utilizada para produzir segmentos.</para>
+          <para>OmegaT first parses the text for structure-level segmentation. Durante este processo, é apenas a estrutura do ficheiro-fonte que é utilizada para produzir segmentos.</para>
 
           <para>Por exemplo, os ficheiros de texto podem ser segmentados em quebras de linha, linhas vazias, ou não ser segmentados de todo. Os ficheiros contendo formatação (documentos ODF, documentos HTML, etc.) são segmentados nas etiquetas de nível de bloco (parágrafo). Os atributos de objectos traduzíveis em XHTML ou ficheiros HTML podem ser extraídos como segmentos separados.</para>
         </listitem>
@@ -563,7 +595,9 @@
         <term>Segmentação a nível de frase</term>
 
         <listitem>
-          <para>Após segmentar o ficheiro de origem em unidades estruturais, o <application>OmegaT</application> segmenta estes blocos em frases.</para>
+          <para>After segmenting the source file into structural units,
+          OmegaT will segment these blocks further
+          into sentences.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -696,7 +730,7 @@
 
     <para>Clique em <guimenuitem> Tabela de caracteres...</guimenuitem> para definir as opções de conclusão automática da tabela de caracteres.</para>
 
-    <para>O auto-completar é lançado dentro do segmento-alvo através do atalho <emphasis role="bold">Ctrl+Space</emphasis> shortcut.</para>
+    <para>Auto-completer is launched within the target segment via <keycombo><keycap>Ctrl</keycap><keycap>Space</keycap></keycombo> shortcut.</para>
 
     <para>Se a opção <emphasis role="bold">Mostrar sugestões relevantes automaticamente</emphasis> estiver marcada, a conclusão automática é lançada automaticamente, digitando a primeira letra de uma entrada do glossário traduzida, ou digitando &quot;&lt;&quot; no caso de etiquetas.</para>
   </section>
@@ -739,7 +773,7 @@
         <term>Activar comandos específicos do projecto</term>
 
         <listitem>
-          <para>Por pré-definição, o OmegaT não executa os comandos especificados nas definições específicas do projecto (o ficheiro <filename>finder.xml</filename> na pasta <filename>omegat</filename>), porque podem ter um impacto crítico na segurança da máquina.</para>
+          <para>Por pré-definição, o OmegaT não executa os comandos especificados nas definições específicas do projecto (o ficheiro <filename>finder.xml</filename> na pasta <filename class="directory">omegat</filename>), porque podem ter um impacto crítico na segurança da máquina.</para>
 
           <para>Active esta opção só se souber o que está a fazer e apenas para projectos de fontes fidedignas.</para>
         </listitem>
@@ -773,7 +807,7 @@
         <term>Deixar o segmento vazio</term>
 
         <listitem>
-          <para>O OmegaT deixa o campo de edição em branco. Esta opção permite-lhe inserir a tradução sem necessidade de remover o texto original, poupando assim dois toques de tecla (<emphasis role="bold">Ctrl+A</emphasis> e <emphasis role="bold">Del. </emphasis> As traduções vazias são agora permitidas. São mostradas como &lt;VAZIA&gt; no Editor. Para criar uma, clique com o botão direito num segmento e seleccione &quot;<emphasis role="bold">Configurar tradução vazia</emphasis>&quot;. A entrada <emphasis role="bold">Remover tradução</emphasis> no mesmo menu pendente também permite apagar a tradução existente do segmento actual. Consegue-se o mesmo ao limpar o segmento alvo e ao premir <guibutton>Enter.</guibutton></para>
+          <para>O OmegaT deixa o campo de edição em branco. This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (<keycombo><keycap>Ctrl</keycap><keycap>A</keycap></keycombo> and <keycap>Del</keycap>). Empty translations are now allowed. São mostradas como &lt;VAZIA&gt; no Editor. To create one, right-click in a segment, and select <guilabel>Set empty translation</guilabel>. The entry <guilabel>Remove translation</guilabel> in the same pop up menu also allows to delete the existing translation of the current segment. You achieve the same by clearing the target segment and pressing <guibutton>Enter</guibutton>.</para>
         </listitem>
       </varlistentry>
 
@@ -829,7 +863,7 @@
         <term>Exportar o segmento para ficheiros de texto</term>
 
         <listitem>
-          <para>A função de exportação de texto exporta dados de dentro do actual projecto <application>OmegaT</application> para ficheiros de texto simples. Os dados são exportados quando o segmento é aberto. Os ficheiros aparecem na sub-pasta /script na pasta de ficheiros de utilizador OmegaT e incluem:</para>
+          <para>The text export function exports data from within the current OmegaT project to plain text files. Os dados são exportados quando o segmento é aberto. The files appear in the <filename class="directory">script</filename> subfolder in the OmegaT user files folder, and include:</para>
 
           <itemizedlist>
             <listitem>
@@ -841,7 +875,9 @@
             </listitem>
 
             <listitem>
-              <para>O texto realçado pelo utilizador, quando <keycap>Ctrl+Shift+C</keycap> é premido ou <guimenuitem>Editar &gt; Exportar selecção</guimenuitem> é seleccionado (<filename>selection.txt</filename>).</para>
+              <para>The text highlighted by the user, when
+              <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>C</keycap></keycombo> is pressed or <menuchoice><guimenu>Edit</guimenu><guimenuitem>Export Selection</guimenuitem></menuchoice> is selected
+              (<filename>selection.txt</filename>).</para>
             </listitem>
           </itemizedlist>
 
@@ -1096,12 +1132,12 @@
   <section>
     <title>Extensões</title>
 
-    <para>Dá acesso à lista de extensões disponíveis. As extensões são instalados na pasta <filename>/plugins</filename> sob a pasta de instalação do OmegaT ou na pasta de preferências do utilizador OmegaT específica da plataforma.</para>
+    <para>Dá acesso à lista de extensões disponíveis. Plugins are installed in the <filename class="directory">plugins</filename> folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</para>
   </section>
 
   <section>
     <title>Actualizações</title>
 
-    <para>Permite a notificação automática de actualizações do <application>OmegaT</application>.</para>
+    <para>Enables automatic notification of OmegaT updates.</para>
   </section>
 </section>

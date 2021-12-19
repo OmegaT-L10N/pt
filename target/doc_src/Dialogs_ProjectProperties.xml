@@ -21,7 +21,7 @@
         <term>Activar a segmentação ao nível das frases</term>
 
         <listitem>
-          <para>As definições de segmentação apenas abordam a forma como os ficheiros de origem são tratados pelo <application>OmegaT</application>. A forma predominante de segmentar as fontes é a segmentação ao nível da frase, pelo que esta caixa deve, num caso normal, ser deixada marcada.</para>
+          <para>The segmentation settings only address the way the source files are handled by OmegaT. A forma predominante de segmentar as fontes é a segmentação ao nível da frase, pelo que esta caixa deve, num caso normal, ser deixada marcada.</para>
 
           <para>Nalguns casos raros, a alternativa, ou seja, a segmentação por parágrafos, pode ser preferida. A mudança desta bandeira não altera a segmentação das memórias de tradução já existentes. Se decidir mudar de tradução de frase para tradução de parágrafo, a memória de tradução interna do projecto não será alterada (o OmegaT pode actualizar memórias de tradução antigas que não usavam segmentação de frases, mas não vice-versa), mas o OmegaT tentará criar correspondências aproximadas de parágrafo, colando as traduções de frases existentes.</para>
 
@@ -94,9 +94,9 @@
   <section>
     <title>Localização dos ficheiros</title>
 
-    <para>Aqui pode seleccionar diferentes sub-pastas, por exemplo, a sub-pasta com ficheiros de origem, sub-pasta para ficheiros de destino, etc. Se inserir nomes de pastas que ainda não existem, <application>OmegaT</application> cria-os por si. No caso de decidir modificar as pastas do projecto, tenha em mente que isto não irá mover ficheiros existentes das pastas antigas para o novo local.</para>
+    <para>Aqui pode seleccionar diferentes sub-pastas, por exemplo, a sub-pasta com ficheiros de origem, sub-pasta para ficheiros de destino, etc. If you enter names of folders that do not exist yet, OmegaT creates them for you. No caso de decidir modificar as pastas do projecto, tenha em mente que isto não irá mover ficheiros existentes das pastas antigas para o novo local.</para>
 
-    <para>Clique em <guibutton>Exclusões...</guibutton> para definir os ficheiros ou pastas que serão ignorados pelo <application>OmegaT</application>. Um ficheiro ou pasta ignorado:</para>
+    <para>Clic on <guibutton>Exclusions...</guibutton> to define the files or folders that will be ignored by OmegaT. Um ficheiro ou pasta ignorado:</para>
 
     <itemizedlist>
       <listitem>
@@ -108,7 +108,8 @@
       </listitem>
 
       <listitem>
-        <para>não é copiado para a pasta /target durante o processo de criação de ficheiros traduzidos.</para>
+        <para>is not copied in <filename class="directory">target</filename> folder during the translated files
+        creation process.</para>
       </listitem>
     </itemizedlist>
 

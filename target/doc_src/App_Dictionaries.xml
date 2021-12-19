@@ -6,7 +6,7 @@
   <section>
     <title>Como transferir e instalar dicionários</title>
 
-    <para>Os dicionários no <application>OmegaT</application> são baseados no formato StarDict ou Lingvo DSL. Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</para>
+    <para>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format. Para instalar os ficheiros necessários para o formato StarDict, proceda como se segue:</para>
 
     <itemizedlist>
       <listitem>
@@ -16,13 +16,17 @@
 
     <itemizedlist>
       <listitem>
-        <para>Transfira o ficheiro - deverá ser um arquivo <filename>tarball</filename> (extensão <emphasis>tar.bz</emphasis> ou <emphasis>tar.bz2</emphasis>).</para>
+        <para>Download the file - it should be a tarball archive (extension <filename>tar.bz</filename> or
+        <filename>tar.bz2</filename>).</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Use o utilitário untar (ou equivalente, por exemplo, o <filename> winrar</filename> em Windows) para extrair o conteúdo para a pasta de projecto &quot;Dictionary&quot;. Deverá haver três ficheiros, com as extensões <emphasis>dz, idx </emphasis>e <emphasis>ifo</emphasis>.</para>
+        <para>Use untar utility (or its equivalent, for instance<filename>
+        winrar</filename> in Windows) to extract its contents into the <filename class="directory">dictionary</filename> project
+        folder. There should be three files, with extensions
+        <filename>dz, idx </filename>and <filename>ifo</filename>.</para>
       </listitem>
     </itemizedlist>
 
@@ -80,7 +84,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>A pasta contém três ficheiros com o mesmo nome, com extensões? Se só um ficheiro estiver presente, verifique a sua extensão. Se for <emphasis>tar.bz</emphasis>, esqueceu-se de o desempacotar (untar).</para>
+        <para>A pasta contém três ficheiros com o mesmo nome, com extensões? Se só um ficheiro estiver presente, verifique a sua extensão. If it is <filename>tar.bz</filename>, you have forgotten to unpack (untar) it.</para>
       </listitem>
     </itemizedlist>
   </section>

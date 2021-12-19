@@ -5,11 +5,18 @@
 
   <para>Inicialmente, ou seja, quando o projecto é criado, a TM principal do projecto, <filename>project_save.tmx</filename> está vazia. Esta TM torna-se gradualmente preenchida durante a tradução. Para acelerar este processo, as traduções existentes podem ser reutilizadas. Se uma determinada frase já tiver sido traduzida uma vez, e traduzida correctamente, não há necessidade de ser retraduzida. As memórias de tradução podem também conter traduções de referência: a legislação multinacional, como a da Comunidade Europeia, é um exemplo típico.</para>
 
-  <para>Quando se criam os documentos-alvo num projecto <application>OmegaT</application>, a memória de tradução do projecto é produzida sob a forma de três ficheiros na pasta raiz do seu projecto <application>OmegaT</application> (ver a descrição acima). Pode considerar estes três ficheiros tmx (<filename>-omegat.tmx</filename>, <filename>-level1.tmx</filename> e <filename>-level2.tmx</filename>) como uma &quot;memória de tradução de exportação&quot;, ou seja, como uma exportação do conteúdo do seu projecto actual na forma bilingue.</para>
+  <para>When you create the target documents in an
+  OmegaT project, the translation memory of the
+  project is output in the form of three files in the root folder of your
+  OmegaT project (see the above description). You
+  can regard these three tmx files (<filename>-omegat.tmx</filename>,
+  <filename>-level1.tmx</filename> and <filename>-level2.tmx</filename>) as an
+  &quot;export translation memory&quot;, i.e. as an export of your current project's
+  content in bilingual form.</para>
 
-  <para>Se desejar reutilizar uma memória de tradução de um projecto anterior (por exemplo, porque o novo projecto é semelhante ao projecto anterior, ou utiliza terminologia que possa ter sido utilizada anteriormente), pode utilizar estas memórias de tradução como &quot;memórias de tradução de entrada&quot;, ou seja, para importação para o seu novo projecto. Neste caso, coloque as memórias de tradução que deseja utilizar na pasta <emphasis>/tm</emphasis> ou <emphasis>/tm/auto</emphasis> do seu novo projecto: no primeiro caso obterá os resultados destas memórias de tradução no painel de correspondências aproximadas e no segundo caso estas TMs serão utilizadas para pré-traduzir o seu texto-fonte.</para>
+  <para>Se desejar reutilizar uma memória de tradução de um projecto anterior (por exemplo, porque o novo projecto é semelhante ao projecto anterior, ou utiliza terminologia que possa ter sido utilizada anteriormente), pode utilizar estas memórias de tradução como &quot;memórias de tradução de entrada&quot;, ou seja, para importação para o seu novo projecto. In this case, place the translation memories you wish to use in the <filename class="directory">/tm</filename> or <filename class="directory">tm/auto</filename> folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</para>
 
-  <para>Por pré-definição, a pasta /tm está abaixo da pasta raiz do projecto (por exemplo ...<emphasis>/MeuProjecto/tm</emphasis>), mas pode escolher uma pasta diferente no diálogo de propriedades do projecto, se desejar. Isto é útil se utilizar frequentemente memórias de tradução produzidas no passado, por exemplo, porque estão sobre o mesmo assunto ou para o mesmo cliente. Neste caso, um procedimento útil seria:</para>
+  <para>By default, the <filename class="directory">tm</filename> folder is below the project's root folder (e.g. ...<filename class="directory">MyProject/tm</filename>), but you can choose a different folder in the project properties dialog if you wish. Isto é útil se utilizar frequentemente memórias de tradução produzidas no passado, por exemplo, porque estão sobre o mesmo assunto ou para o mesmo cliente. Neste caso, um procedimento útil seria:</para>
 
   <itemizedlist>
     <listitem>
@@ -56,19 +63,20 @@
 
     <itemizedlist>
       <listitem>
-        <para>Copie os documentos para os quais precisa da memória de tradução para a pasta de fontes do projecto.</para>
+        <para>Copy the documents, you need the translation memory for, into
+        the <filename class="directory">source</filename> folder of the project.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Copie as memórias de tradução, contendo as traduções dos documentos acima, para a sub-pasta <filename>tm/auto</filename> do novo projecto.</para>
+        <para>Copie as memórias de tradução, contendo as traduções dos documentos acima, para a sub-pasta <filename class="directory">tm/auto</filename> do novo projecto.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Inicie o projecto. Verifique possíveis erros de etiqueta com <keycap>Ctrl+T </keycap> e segmentos não traduzidos com <keycap>Ctrl+U</keycap>. Para verificar que tudo está como esperado, pode premir <keycap>Ctrl+D</keycap> para criar os documentos alvo e verificar o seu conteúdo.</para>
+        <para>Inicie o projecto. Check for possible Tag errors with <keycombo><keycap>Ctrl</keycap><keycap>T</keycap></keycombo> and untranslated segments with <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo>. To check everything is as expected, you may press <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> to create the target documents and check their contents.</para>
       </listitem>
     </itemizedlist>
 
@@ -98,7 +106,7 @@
 
     <para>Pode haver casos em que tenha feito um projecto com, por exemplo, fontes holandesas e uma tradução em, digamos, inglês. Depois precisa de uma tradução em, por exemplo, chinês, mas a sua tradutora não entende holandês; no entanto, ela entende perfeitamente inglês. Neste caso, a memória de tradução NL-EN pode servir de intermediário para ajudar a gerar a tradução de NL para ZH.</para>
 
-    <para>A solução no nosso exemplo é copiar a memória de tradução existente para a sub-pasta tm/tmx2source/ e renomeá-la para ZH_CN.tmx para indicar a língua de destino do tmx. Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</para>
+    <para>The solution in our example is to copy the existing translation memory into the <filename class="directory">tm/tmx2source/</filename> subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx. Ao tradutor serão mostradas traduções em inglês para segmentos de origem em holandês e usá-las-á para criar a tradução em chinês.</para>
 
     <para><emphasis role="bold">Importante: </emphasis>o TMX de suporte deve ser renomeado XX_YY.tmx, onde XX_YY é o idioma-alvo do tmx, por exemplo para ZH_CN.tmx no exemplo acima. O projecto e os idiomas de origem TMX devem, evidentemente, ser idênticos - NL no nosso exemplo. Note-se que só é possível um TMX para um determinado par de idiomas, por isso, se se devem envolver várias memórias de tradução, será necessário uni-las todas no XX_YY.tmx.</para>
   </section>

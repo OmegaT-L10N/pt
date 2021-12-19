@@ -6,7 +6,9 @@
   <para>A janela principal é constituída por vários painéis, o menu principal e uma barra de estado. Pode alterar a posição de qualquer painel ou mesmo movê-lo para uma janela separada, clicando e arrastando o painel pelo seu nome. Dependendo do estado do painel, diferentes sinais podem aparecer no seu canto superior direito:</para>
 
   <note>
-    <para>Se não conseguir ver todos os painéis (estejam eles abertos ou minimizados), premindo <guisubmenu> Opções &gt; Restaurar janela principal </guisubmenu> restaurá-los-á ao estado definido na instalação.</para>
+    <para>If you can not see all the panes (be it opened or minimized),
+    pressing <menuchoice><guimenu>Options</guimenu><guilabel>Restore Main Window</guilabel></menuchoice> will
+    restore them to the state, defined in the installation.</para>
   </note>
 
   <table>
@@ -89,23 +91,23 @@
     </tgroup>
   </table>
 
-  <para>Se desejar, pode sobrepor painéis. Quando isto é feito, os painéis mostram um separador no topo. Os separadores entre os painéis podem ser arrastados para os redimensionar. Caso perca a noção das suas alterações ao ambiente do utilizador, pode usar <guimenuitem> Opções → Restaurar a janela principal</guimenuitem> a qualquer momento para voltar à disposição original.</para>
+  <para>Se desejar, pode sobrepor painéis. Quando isto é feito, os painéis mostram um separador no topo. Os separadores entre os painéis podem ser arrastados para os redimensionar. Should you lose track of your changes to the user interface, you can use <menuchoice><guimenu>Options</guimenu><guilabel>Restore Main Window</guilabel></menuchoice> any time to return to the original layout.</para>
 
   <para>É possível arrastar e largar ficheiros para cada painel, que reagirá em conformidade.<itemizedlist>
       <listitem>
-        <para>Painel do editor: Se um ficheiro de projecto OmegaT (<filename>omegat.project</filename>) for largado neste painel, o projecto correspondente será aberto, fechando primeiro qualquer projecto aberto. Outros ficheiros largados serão copiados para a pasta <filename>source</filename>. Isto aplica-se também à janela <link linkend="windows.projectfiles">Ficheiros de projecto</link>.</para>
+        <para>Painel do editor: Se um ficheiro de projecto OmegaT (<filename>omegat.project</filename>) for largado neste painel, o projecto correspondente será aberto, fechando primeiro qualquer projecto aberto. Outros ficheiros largados serão copiados para a pasta <filename class="directory">source</filename>. Isto aplica-se também à janela <link linkend="windows.projectfiles">Ficheiros de projecto</link>.</para>
       </listitem>
 
       <listitem>
-        <para>Painel Correspondências aproximadas: ficheiros <filename>.tmx</filename> largados aqui serão copiados para a pasta <filename>tm</filename>.</para>
+        <para>Painel Correspondências aproximadas: ficheiros <filename>.tmx</filename> largados aqui serão copiados para a pasta <filename class="directory">tm</filename>.</para>
       </listitem>
 
       <listitem>
-        <para>Painel Glossário: ficheiros largados com extensões de glossário conhecidas, (<filename>.txt</filename>, <filename>.tab</filename>, etc.) serão copiados para a pasta <filename>glossary</filename>.</para>
+        <para>Painel Glossário: ficheiros largados com extensões de glossário conhecidas, (<filename>.txt</filename>, <filename>.tab</filename>, etc.) serão copiados para a pasta <filename class="directory">glossary</filename>.</para>
       </listitem>
     </itemizedlist></para>
 
-  <section id="editor.pane">
+  <section id="panes.editor">
     <title>Editor</title>
 
     <para>É aqui que escreve e edita a sua tradução. O painel Editor mostra o texto do documento parcialmente traduzido: o texto já traduzido é mostrado na tradução enquanto o texto não traduzido é mostrado no idioma original. O texto mostrado é dividido em segmentos e pode percorrer o documento e fazer duplo clique sobre qualquer segmento para o abrir e editar. No caso acima, os segmentos já traduzidos são mostrados a amarelo.</para>
@@ -114,7 +116,7 @@
 
     <para>Nota: o marcador de segmento mostra <literal>&gt;segmento nnnn +yyy more&gt; quando o segmento não é único. Nesse caso, yy é o número de outras ocorrências do segmento no projecto.</literal></para>
 
-    <para>Dependendo do comportamento de edição preferido, o campo de edição para o segmento não traduzido pode estar vazio, conter o texto original, ou conter a tradução da cadeia mais parecida com a que será traduzida. Quando se passa para outro segmento, a tradução é validada e armazenada. Se quiser que a tradução seja a mesma que a fonte, basta esvaziar o campo de edição removendo todo o texto (seleccione tudo com <keycap>Ctrl+A</keycap> e apague com <keycap>Del</keycap>). O OmegaT é capaz de armazenar traduções que são idênticas à fonte. Isto é útil para documentos que contenham marcas, nomes ou outros substantivos próprios, ou partes num terceiro idioma que não necessitem de tradução. Ver <emphasis>Edição da tradução</emphasis> para mais detalhes.</para>
+    <para>Dependendo do comportamento de edição preferido, o campo de edição para o segmento não traduzido pode estar vazio, conter o texto original, ou conter a tradução da cadeia mais parecida com a que será traduzida. Quando se passa para outro segmento, a tradução é validada e armazenada. If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with <keycombo><keycap>Ctrl</keycap><keycap>A</keycap></keycombo> and delete with <keycap>Del</keycap>). O OmegaT é capaz de armazenar traduções que são idênticas à fonte. Isto é útil para documentos que contenham marcas, nomes ou outros substantivos próprios, ou partes num terceiro idioma que não necessitem de tradução. See <emphasis>Translation editing</emphasis> for more details.</para>
 
     <para>Se clicar com o botão direito do rato no painel Editor, abre-se um menu contextual, oferecendo as funções <emphasis role="bold">Cortar, Copiar, Colar</emphasis> (isto é, as mesmas funções que <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> e <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo>), <emphasis role="bold">Ir para segmento</emphasis> e <emphasis role="bold">Adicionar entrada de glossário</emphasis>. Além disso, quando o clique direito ocorre num segmento aberto, são propostas outras opções relativas a <emphasis role="bold">Traduções alternativas</emphasis>, por exemplo para saltar para outro exemplo de segmentos não-únicos.</para>
 
@@ -123,12 +125,12 @@
     <para>Por pré-definição, não é possível seleccionar palavras no segmento de origem utilizando o teclado em vez do rato. Premindo <keycap>F2</keycap> permite mover o cursor para o segmento-fonte (ou para qualquer parte do editor) com as setas do teclado. Neste modo, &quot;<guilabel>Bloqueio de cursor desligado</guilabel>&quot; é mostrado no fundo do painel. Para voltar ao modo padrão &quot;<guilabel>Bloqueio de cursor ligado</guilabel>&quot;, prima novamente <keycap>F2</keycap>.</para>
   </section>
 
-  <section>
+  <section id="panes.fuzzymatches">
     <title>Correspondências aproximadas</title>
 
     <para>O visualizador de correspondências mostra os segmentos mais semelhantes das memórias de tradução, tanto da memória de tradução interna do projecto criada em tempo real à medida que traduz o seu projecto, como das memórias de tradução acessórias que importou dos seus trabalhos anteriores, ou que recebeu do seu cliente ou agência de tradução.</para>
 
-    <para>Quando se passa para o segmento seguinte, a primeira correspondência aproximada (aquela com a melhor percentagem de correspondência) é automaticamente seleccionada. Pode seleccionar uma correspondência diferente, premindo <guimenuitem>Ctrl+2, 3, 4, ou 5</guimenuitem>. Naturalmente, premir <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> não terá qualquer efeito, se não houver a correspondência nº 5. Para usar a correspondência seleccionada na sua tradução, use <guimenuitem>Ctrl+R</guimenuitem> para substituir o campo alvo pela correspondência ou use <guimenuitem>Ctrl+I </guimenuitem> para o inserir na posição do cursor.</para>
+    <para>Quando se passa para o segmento seguinte, a primeira correspondência aproximada (aquela com a melhor percentagem de correspondência) é automaticamente seleccionada. Pode seleccionar uma correspondência diferente, premindo <guimenuitem>Ctrl+2, 3, 4, ou 5</guimenuitem>. Naturalmente, premir <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> não terá qualquer efeito, se não houver a correspondência nº 5. To use the selected match in your translation, use <keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> to replace the target field with the match or use <keycombo><keycap>Ctrl</keycap><keycap>I</keycap></keycombo> to insert it at the cursor position.</para>
 
     <para>As três percentagens correspondentes estão na seguinte ordem:<itemizedlist>
       <listitem>
@@ -150,45 +152,45 @@
     <para>A correspondência aproximada seleccionada é realçada em negrito, as palavras que faltam no segmento que está a traduzir estão em azul e as palavras adjacentes às partes em falta estão em verde. No exemplo acima, o segmento-fonte é <emphasis role="bold">Comando do menu contextual</emphasis>. A correspondência máxima é de 100%, porque todas as palavras coincidem. Assim como as duas correspondências seguintes e a partida número 4 é semelhante, mas diferente. A linha com a percentagem de correspondência também inclui o nome da memória de tradução que contém a correspondência. Se não houver nenhum nome de ficheiro mostrado, a fonte é a memória interna de tradução do projecto. Segmentos órfãos (correspondência nº 2) descrevem segmentos na memória de tradução pré-definida do projecto que não têm segmento-fonte correspondente.</para>
   </section>
 
-  <section>
+  <section id="panes.glossary">
     <title>Glossário</title>
 
     <para>O painel Glossário permite-lhe aceder à sua própria colecção de expressões e terminologia especializada que construiu nos seus ficheiros de glossário. Mostra a tradução de termos encontrados no segmento actual. O segmento-fonte no exemplo abaixo foi &quot;<emphasis>Comando do menu contextual</emphasis>&quot;, como no exemplo de correspondências aproximadas acima, e os termos mostrados foram encontrados nos glossários disponíveis (Microsoft's Term collection e Slovenian Linux User group).</para>
 
-    <para>Se tiver a opção Dicas de tradução activada (<guimenuitem>Opções → Dicas de tradução</guimenuitem>), pode clicar com o botão direito do rato sobre a palavra em destaque no segmento-fonte para abrir um menu contextual com sugestões de tradução, tal como oferecido pelo seu glossário. A selecção de uma delas inseri-la-á na posição actual do cursor no segmento-alvo. Pode também realçar a sua alternativa preferida no painel do glossário e inseri-la no alvo, clicando com o botão direito do rato na selecção.</para>
+    <para>If you have TransTips option activated (<menuchoice><guimenu>Options</guimenu><guilabel>TransTips</guilabel></menuchoice>), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary. A selecção de uma delas inseri-la-á na posição actual do cursor no segmento-alvo. Pode também realçar a sua alternativa preferida no painel do glossário e inseri-la no alvo, clicando com o botão direito do rato na selecção.</para>
   </section>
 
-  <section>
+  <section id="panes.dictionary">
     <title>Dicionário</title>
 
     <para>Os dicionários são os equivalentes electrónicos de dicionários impressos como Merriam Webster, Duden, Larousse, etc., que poderá ter na sua secretária. Saiba mais sobre eles no capítulo sobre <link linkend="appendix.dictionaries">Dicionários</link></para>
   </section>
 
-  <section>
+  <section id="panes.machinetranslation">
     <title>Tradução automática</title>
 
-    <para>O painel de tradução automática, quando aberto, contém as sugestões das ferramentas de tradução automática para o segmento actual. Prima <keysym>Ctrl+M</keysym> para substituir a tradução do segmento actual com a tradução sugerida.</para>
+    <para>O painel de tradução automática, quando aberto, contém as sugestões das ferramentas de tradução automática para o segmento actual. Press <keycombo><keycap>Ctrl</keycap><keycap>M</keycap></keycombo> to replace the translation of the current segment with the suggested translation.</para>
   </section>
 
-  <section>
+  <section id="panes.multipletranslations">
     <title>Traduções múltiplas</title>
 
-    <para>Um determinado segmento-fonte pode requerer várias traduções diferentes, dependendo do contexto. Se a tradução actual do segmento não se enquadrar, o utilizador pode seleccionar <guisubmenu>Editar → Criar tradução alternativa</guisubmenu>. O texto de destino inserido depois disso será tratado como uma tradução alternativa do segmento de origem. Pode definir uma das alternativas - por exemplo a mais provável entre elas - como tradução pré-definida seleccionando <guisubmenu>Editar → Usar como tradução pré-definida</guisubmenu></para>
+    <para>Um determinado segmento-fonte pode requerer várias traduções diferentes, dependendo do contexto. If the current translation of the segment does not fit, the user can select <menuchoice><guimenu>Edit</guimenu><guilabel>Create Alternative Translation</guilabel></menuchoice>. O texto de destino inserido depois disso será tratado como uma tradução alternativa do segmento de origem. You can define one of the alternative - for instance the most probable among them - as default translation by selecting <menuchoice><guimenu>Edit</guimenu><guilabel>Use as Default Translation</guilabel></menuchoice></para>
   </section>
 
-  <section>
+  <section id="panes.notes">
     <title>Notas</title>
 
-    <para>O tradutor pode acrescentar notas ao segmento aberto, por exemplo para voltar mais tarde ao segmento e refazer a tradução, verificar se as traduções alternativas estão correctas ou pedir a opinião dos colegas. Pode navegar através de notas usando <guisubmenu>Ir para → Nota seguinte</guisubmenu> e <guisubmenu>Ir para → Nota anterior</guisubmenu>.</para>
+    <para>O tradutor pode acrescentar notas ao segmento aberto, por exemplo para voltar mais tarde ao segmento e refazer a tradução, verificar se as traduções alternativas estão correctas ou pedir a opinião dos colegas. You can browse through notes using <menuchoice><guimenu>GoTo</guimenu><guilabel>Next Note</guilabel></menuchoice> and <menuchoice><guimenu>GoTo</guimenu><guilabel>Previous Note</guilabel></menuchoice>.</para>
   </section>
 
-  <section>
+  <section id="panes.comments">
     <title>Comentários</title>
 
     <para>Alguns dos formatos de ficheiro, especializados para trabalhos de tradução, por exemplo PO, permitem a inclusão de comentários. Desta forma, o tradutor pode receber o contexto sobre o segmento a traduzir No exemplo abaixo, o autor do ficheiro PO incluiu um aviso para o tradutor verificar a extensão da tradução:</para>
   </section>
 
-  <section>
+  <section id="panes.statusbar">
     <title>Barra de estado</title>
 
     <para>A barra de estado mostra mensagens relacionadas com o fluxo de trabalho na parte inferior da janela principal. Esta barra dá ao utilizador um retorno sobre operações específicas que estão em curso. Mostra também o número de correspondências aproximadas e de glossário para o segmento actual.</para>

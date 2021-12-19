@@ -18,15 +18,16 @@
 
     <para>Após dar um nome ao seu projecto, será aberto o diálogo <guilabel>Criar novo projecto</guilabel>. Ao cimo desse diálogo, seleccione o idioma do seu ficheiro-fonte, o idioma que o seu ficheiro traduzido terá e clique em <guibutton>Aceitar</guibutton> para continuar.</para>
 
-    <para>Se estiver interessado noutras definições deste diálogo, pode regressar ao mesmo em qualquer altura, premindo <keycap>Ctrl+E.</keycap></para>
+    <para>If you are interested in other settings of this dialog,
+    you can return to it any time by pressing <keycombo><keycap>Ctrl</keycap><keycap>E</keycap></keycombo>.</para>
 
-    <para>A seguir, abre-se o diálogo <guilabel>Ficheiros do projecto</guilabel>. Clique em <guibutton>Copiar ficheiros para a pasta-fonte...</guibutton> para seleccionar os seus ficheiros-fonte. O OmegaT vai então copiar os ficheiros seleccionados para a sub-pasta <filename>/source/</filename> do seu projecto recentemente criado. Após os ficheiros-fonte terem sido carregados no <guilabel>Editor</guilabel>, pode fechar o diálogo <guilabel> Ficheiros do projecto</guilabel>.</para>
+    <para>A seguir, abre-se o diálogo <guilabel>Ficheiros do projecto</guilabel>. Clique em <guibutton>Copiar ficheiros para a pasta-fonte...</guibutton> para seleccionar os seus ficheiros-fonte. OmegaT will then copy the selected files to the <filename class="directory">source</filename> subfolder of your newly created project. Após os ficheiros-fonte terem sido carregados no <guilabel>Editor</guilabel>, pode fechar o diálogo <guilabel> Ficheiros do projecto</guilabel>.</para>
   </section>
 
   <section id="translate.the.segments.one.by.one">
     <title>Traduza o ficheiro</title>
 
-    <para>O OmegaT mostra um segmento de cada vez para que possa traduzir. Após ter traduzido cada segmento, prima <keycap>Ctrl+U</keycap> para passar ao próximo segmento não traduzido (ou <keycap>Ctrl+Shift+U</keycap> para passar ao próximo segmento traduzido). Sempre que quiser ver como será a sua tradução no seu formato final, prima <keycap>Ctrl+D</keycap> para gerar os documentos traduzidos, que serão criados na sub-pasta <filename>/target/</filename> da pasta do seu projecto. Durante a tradução, utilize os menus <guimenu>Editar</guimenu> e <guimenu>Ir para</guimenu> para executar várias funções úteis.</para>
+    <para>O OmegaT mostra um segmento de cada vez para que possa traduzir. After you have translated each segment, press <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo> to move to the next untranslated segment (or <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>U</keycap></keycombo> to move to the next translated segment). Whenever you want to see what your translation will look like in its final format, press <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> to generate the translated documents, which will be created in the <filename class="directory">target</filename> subfolder of your project folder. During translation, use the <guimenu>Edit</guimenu> and <guimenu>Go To</guimenu> menus to perform various useful functions.</para>
   </section>
 
   <section>
@@ -52,13 +53,16 @@
     </mediaobject>
     </para>
     
-    <para>As etiquetas no OmegaT são cinzentas, pelo que são fáceis de reconhecer. Estão protegidas, de modo que não pode modificar o seu conteúdo, mas pode apagá-las, inseri-las à mão ou movê-las na frase-alvo. Contudo, se cometer erros ao digitar as etiquetas de formatação, os seus ficheiros traduzidos podem não conseguir abrir. Portanto, prima <keycap>Ctrl+Shift+V</keycap> antes de gerar os seus ficheiros traduzidos, para verificar se as suas etiquetas estão correctas.</para>
+    <para>As etiquetas no OmegaT são cinzentas, pelo que são fáceis de reconhecer. Estão protegidas, de modo que não pode modificar o seu conteúdo, mas pode apagá-las, inseri-las à mão ou movê-las na frase-alvo. Contudo, se cometer erros ao digitar as etiquetas de formatação, os seus ficheiros traduzidos podem não conseguir abrir. Therefore, press <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>V</keycap></keycombo> before you generate your translated files, to validate that your tags are correct.</para>
   </section>
 
   <section>
     <title>Gere o ficheiro traduzido</title>
 
-    <para>Depois de se certificar de que não existem erros de etiqueta na sua tradução, prima <keycap>Ctrl+D</keycap> para gerar os ficheiros de destino, que serão criados na sub-pasta <filename>/target/</filename> da pasta do seu projecto.</para>
+    <para>Once you have made certain that there are no tag errors in your
+    translation, press <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> to generate the target files,
+    which will be created in the <filename class="directory">target</filename> subfolder of
+    your project folder.</para>
   </section>
 
   <section>
@@ -78,25 +82,33 @@
 
     <itemizedlist>
       <listitem>
-        <para>Para se lembrar das configurações iniciais do projecto, abra o diálogo de propriedades do projecto, premindo <keycap>Ctrl+E</keycap>. Para ver uma lista de ficheiros no projecto, abra o diálogo <guilabel>Ficheiros do projecto</guilabel>, premindo <keycap>Ctrl+L</keycap>.</para>
+        <para>To remind yourself of the project's initial settings, open the
+        project properties dialog by pressing <keycombo><keycap>Ctrl</keycap><keycap>E</keycap></keycombo>. To see a
+        list of files in the project, open the <guilabel>Project Files</guilabel> dialog by
+        pressing <keycombo><keycap>Ctrl</keycap><keycap>L</keycap></keycombo>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>No final da sua tradução, o OmegaT exporta três memórias de tradução chamadas <filename>level1</filename>, <filename>level2</filename> e <filename>omegat</filename> para a pasta do seu projecto. As memórias <filename> level1</filename> e <filename>level2</filename> podem ser partilhadas com utilizadores de outros programas de tradução. A memória denominada <filename>omegat</filename> pode ser utilizada pelo próprio OmegaT, em projectos futuros que criar. Se colocar esses ficheiros de memória de tradução na sub-pasta <filename>/tm/</filename> de um projecto, o OmegaT procurá-los-á automaticamente por segmentos semelhantes, chamados &quot;correspondências aproximadas&quot;.</para>
+        <para>No final da sua tradução, o OmegaT exporta três memórias de tradução chamadas <filename>level1</filename>, <filename>level2</filename> e <filename>omegat</filename> para a pasta do seu projecto. As memórias <filename> level1</filename> e <filename>level2</filename> podem ser partilhadas com utilizadores de outros programas de tradução. A memória denominada <filename>omegat</filename> pode ser utilizada pelo próprio OmegaT, em projectos futuros que criar. If you place such translation memory files in the <filename class="directory">tm</filename> subfolder of a project, OmegaT will automatically search them for similar segments, called &quot;fuzzy matches&quot;.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Pode adicionar um novo termo ao glossário premindo <keycap>Ctrl+Shift+G</keycap>, ou copiar glossários existentes para a sub-pasta <filename>/glossary/</filename> da pasta do seu projecto e o OmegaT procurará automaticamente as palavras neles contidas.</para>
+        <para>You can add a new term to the glossary by pressing
+        <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>G</keycap></keycombo>, or copy existing glossaries to
+        the <filename class="directory">glossary</filename> subfolder of your project folder,
+        and OmegaT will automatically look up words in them.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>É frequentemente útil procurar palavras e frases no texto original e na sua tradução, por isso prima <keycap>Ctrl+F</keycap> para abrir o diálogo <guilabel>Procura de texto</guilabel> em qualquer altura.</para>
+        <para>It is often useful to search for words and phrases in the source
+        text and in your translation, so press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> for the
+        <guilabel>Text Search</guilabel> dialog at any time.</para>
       </listitem>
     </itemizedlist>
 

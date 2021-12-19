@@ -5,7 +5,7 @@
 
   <para>O alinhamento envolve a criação de uma memória de tradução bilingue a partir de documentos monolingues que já foram traduzidos.</para>
 
-  <para>Para aceder a esta janela, seleccionar <menuchoice> <guimenuitem>Ferramentas</guimenuitem> <guimenuitem>Alinhar ficheiros...</guimenuitem> </menuchoice>.</para>
+  <para>To access this window, select <menuchoice><guimenu>Tools</guimenu><guimenuitem>Align Files...</guimenuitem></menuchoice>.</para>
 
   <section>
     <title>Passo 1: ajustar os parâmetros de alinhamento</title>
@@ -36,7 +36,7 @@
       </listitem>
 
       <listitem>
-        <para>Prima a barra de espaço (atalho para <menuchoice> <guimenuitem>Editar</guimenuitem> <guimenuitem>Iniciar alinhamento pontual</guimenuitem> </menuchoice>).</para>
+        <para>Press the space bar (shortcut for <menuchoice><guimenu>Edit</guimenu><guimenuitem>Start Pinpoint Align</guimenuitem> </menuchoice>).</para>
       </listitem>
 
       <listitem>
@@ -44,7 +44,7 @@
       </listitem>
     </orderedlist>
 
-    <para>Após várias destas operações, seleccione <menuchoice> <guimenuitem>Editar</guimenuitem> <guimenuitem>Realinhar pendente</guimenuitem> </menuchoice> para actualizar o alinhamento dos outros segmentos.</para>
+    <para>After several of these operations, select <menuchoice><guimenu>Edit</guimenu><guimenuitem>Realign pending</guimenuitem> </menuchoice> to update the alignment of the other segments.</para>
 
     <para>Para modificar a posição de um ou mais segmentos individualmente, seleccione o(s) segmento(s) e prima <userinput>C</userinput> (<guilabel>Mover acima</guilabel>) ou<userinput>B</userinput> (<guilabel>Mover abaixo</guilabel>).</para>
 

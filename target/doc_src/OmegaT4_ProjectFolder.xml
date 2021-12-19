@@ -5,39 +5,42 @@
 
   <para>Um projecto OmegaT é uma pasta contendo ficheiros e sub-pastas.</para>
 
-  <section>
+  <section id="projectfolder.source">
     <title>source</title>
 
     <para>A sub-pasta de origem contém ficheiros a traduzir Pode acrescentar-lhe os ficheiros mais tarde. Note que a estrutura da sub-pasta de fontes pode assumir a forma que desejar. Se os ficheiros a traduzir forem partes de uma estrutura em árvore (como num sítio web), basta especificar a sub-pasta de nível superior e o OmegaT manterá todo o conteúdo, mantendo intacta a estrutura em árvore.</para>
   </section>
 
-  <section>
+  <section id="projectfolder.target">
     <title>target</title>
 
-    <para>Esta sub-pasta está inicialmente vazia. Para lhe adicionar conteúdo, seleccionar <menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>D</keycap> </keycombo> </shortcut> <guimenu>Projecto</guimenu> <guimenuitem>Criar documentos traduzidos</guimenuitem> </menuchoice>. Os ficheiros dentro da pasta <filename>source</filename>, traduzidos ou não, são então gerados aqui, com a mesma hierarquia que está presente na sub-pasta source. O conteúdo da sub-pasta target reflectirá o estado actual da tradução, tal como presente na memória de tradução do projecto, gravada na actual <emphasis role="bold">/omegat/project_save.tmx</emphasis>. Os segmentos não traduzidos permanecerão no idioma-fonte.</para>
+    <para>Esta sub-pasta está inicialmente vazia. Para lhe adicionar conteúdo, seleccionar <menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>D</keycap> </keycombo> </shortcut> <guimenu>Projecto</guimenu> <guimenuitem>Criar documentos traduzidos</guimenuitem> </menuchoice>. Os ficheiros dentro da pasta <filename class="directory">source</filename>, traduzidos ou não, são então gerados aqui, com a mesma hierarquia que está presente na sub-pasta source. The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current <filename>/omegat/project_save.tmx</filename>. Os segmentos não traduzidos permanecerão no idioma-fonte.</para>
   </section>
 
-  <section>
+  <section id="projectfolder.tm">
     <title>tm</title>
 
-    <para>A pasta /tm/ pode conter qualquer número de memórias de tradução acessórias - ou seja, ficheiros tmx. Tais ficheiros podem ser criados em qualquer uma das três variedades indicadas acima. Note-se que outras ferramentas CAT podem exportar (e importar também) ficheiros tmx, geralmente nas três formas. O melhor, naturalmente, é utilizar ficheiros TMX específicos do OmegaT (ver acima), de modo a que a formatação em linha dentro do segmento seja mantida.</para>
+    <para>The <filename class="directory">tm</filename> folder can contain any number of ancillary translation memories - i.e. tmx files. Tais ficheiros podem ser criados em qualquer uma das três variedades indicadas acima. Note-se que outras ferramentas CAT podem exportar (e importar também) ficheiros tmx, geralmente nas três formas. O melhor, naturalmente, é utilizar ficheiros TMX específicos do OmegaT (ver acima), de modo a que a formatação em linha dentro do segmento seja mantida.</para>
 
-    <para>O conteúdo das memórias de tradução na sub-pasta tm serve para gerar sugestões para o(s) texto(s) a traduzir Qualquer texto, já traduzido e armazenado nesses ficheiros, aparecerá entre as correspondências aproximadas, se for suficientemente semelhante ao texto actualmente a ser traduzido.</para>
+    <para>The contents of translation memories in the <filename class="directory">tm</filename> subfolder serve to generate suggestions for the text(s) to be translated. Qualquer texto, já traduzido e armazenado nesses ficheiros, aparecerá entre as correspondências aproximadas, se for suficientemente semelhante ao texto actualmente a ser traduzido.</para>
 
-    <para>Se o segmento-fonte numa das TMs auxiliares for idêntico ao texto a ser traduzido, o OmegaT actua como definido na janela de diálogo <menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Comportamento de edição...</guimenuitem> </menuchoice>. Por exemplo (se a pré-definição for aceite), a tradução da TM auxiliar é aceite e prefixada com<emphasis> [fuzzy]</emphasis>, para que o tradutor possa rever as traduções numa fase posterior e verificar se os segmentos marcados desta forma, foram traduzidos correctamente.</para>
+    <para>Se o segmento-fonte numa das TMs auxiliares for idêntico ao texto a ser traduzido, o OmegaT actua como definido na janela de diálogo <menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Comportamento de edição...</guimenuitem> </menuchoice>. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with <emphasis>[fuzzy]</emphasis>, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</para>
 
-    <para>Pode acontecer, que as memórias de tradução, disponíveis na sub-pasta <filename>tm</filename>, contenham segmentos com texto de origem idêntico, mas com alvos diferentes. Os ficheiros TMX são lidos ordenados pelos seus nomes e segmentos dentro de um determinado ficheiro TMX, linha a linha. O último segmento com o texto de origem idêntico prevalecerá assim (nota: claro que faz mais sentido evitar que isto aconteça em primeiro lugar).</para>
+    <para>Pode acontecer, que as memórias de tradução, disponíveis na sub-pasta <filename class="directory">tm</filename>, contenham segmentos com texto de origem idêntico, mas com alvos diferentes. Os ficheiros TMX são lidos ordenados pelos seus nomes e segmentos dentro de um determinado ficheiro TMX, linha a linha. O último segmento com o texto de origem idêntico prevalecerá assim (nota: claro que faz mais sentido evitar que isto aconteça em primeiro lugar).</para>
 
-    <para>Note-se que os ficheiros TMX na pasta tm podem ser comprimidos com gzip.</para>
+    <para>Note that the TMX files in the <filename class="directory">tm</filename> folder can be compressed with
+    gzip.</para>
 
-    <section>
+    <section id="projectfolder.tmauto">
       <title>tm/auto</title>
 
-      <para>Se estiver claro desde o início que as traduções numa determinada TM (ou TMs) estão todas correctas, pode-se colocá-las na pasta<emphasis role="bold"> tm/auto</emphasis> e evitar confirmar muitos casos <emphasis>[fuzzy]</emphasis>.</para>
+      <para>If it is clear from the very start, that translations in a given
+      TM (or TMs) are all correct, one can put them into the <filename class="directory">tm/auto</filename> folder and avoid confirming a lot
+      of <emphasis>[fuzzy]</emphasis> cases.</para>
 
       <para><orderedlist>
           <listitem>
-            <para>Ponha o TMX em /tm/auto.</para>
+            <para>Put the TMX in <filename class="directory">tm/auto</filename>.</para>
           </listitem>
 
           <listitem>
@@ -49,17 +52,21 @@
           </listitem>
         </orderedlist></para>
 
-      <para>Nota: se TMX for removida de /tm/auto antes do passo 3, nenhuma TU extra é adicionada.</para>
+      <para>Note: if TMX is removed from <filename class="directory">tm/auto</filename> before step 3, no extra
+      Translation Unit is added.</para>
     </section>
 
-    <section>
+    <section id="projectfolder.tmenforce">
       <title>tm/enforce</title>
 
-      <para>Se não tiver dúvidas de que uma TMX é mais precisa que a <filename>project_save.tmx</filename> do OmegaT, coloque esta TMX em /tm/enforce para sobrescrever incondicionalmente as traduções pré-definidas existentes.</para>
+      <para>If you have no doubt that a TMX is more accurate than the
+      <filename>project_save.tmx</filename> of OmegaT, put this TMX in
+      <filename class="directory">tm/enforce</filename> to overwrite existing default translations
+      unconditionally.</para>
 
       <para><orderedlist>
           <listitem>
-            <para>Ponha a TMX em /tm/enforce.</para>
+            <para>Put the TMX in <filename class="directory">tm/enforce</filename>.</para>
           </listitem>
 
           <listitem>
@@ -73,48 +80,52 @@
           <listitem>
             <para>Tome decisões sobre a imunidade dos segmentos forçados:<itemizedlist>
                 <listitem>
-                  <para>Se não <emphasis>não precisarem</emphasis> de permanecer imunes a posteriores alterações, remova a TMX de /tm/enforce.</para>
+                  <para>If they <emphasis>don't need</emphasis> to stay immune
+                  from further changes, then remove the TMX from
+                  <filename class="directory">tm/enforce</filename>.</para>
                 </listitem>
 
                 <listitem>
-                  <para>Se <emphasis> precisam</emphasis> de se manter imunes a novas alterações, então mantenha a TMX em /tm/enforce.</para>
+                  <para>If they <emphasis>need</emphasis> to stay immune from
+                  further changes, then keep the TMX in <filename class="directory">tm/enforce</filename>.</para>
                 </listitem>
               </itemizedlist></para>
           </listitem>
         </orderedlist></para>
 
-      <para>Nota: se a TMX for removida de /tm/enforce antes do passo 3, as execuções não são de todo &quot;mantidas&quot;.</para>
+      <para>Note: if TMX is removed from <filename class="directory">tm/enforce</filename> before step 3,
+      enforcements aren't kept at all.</para>
     </section>
 
-    <section>
+    <section id="projectfolder.tmmt">
       <title>tm/mt</title>
 
-      <para>No painel do editor, quando uma correspondência é inserida a partir de uma TMX contida numa pasta chamada <filename>mt</filename>, o fundo do segmento activo é alterado para vermelho. O fundo é restaurado ao normal quando sai do segmento.</para>
+      <para>No painel do editor, quando uma correspondência é inserida a partir de uma TMX contida numa pasta chamada <filename class="directory">mt</filename>, o fundo do segmento activo é alterado para vermelho. O fundo é restaurado ao normal quando sai do segmento.</para>
     </section>
 
-    <section>
+    <section id="projectfolder.tmpenalty">
       <title>tm/penalty-xxx</title>
 
-      <para>Por vezes, é útil distinguir entre memórias de tradução de alta qualidade e aquelas que, devido ao assunto, cliente, estado de revisão, etc., são menos fiáveis. Para memórias de tradução em pastas com um nome <filename>penalty-xxx</filename> (com xxx entre 0 e 100), as correspondências serão degradadas de acordo com o nome da pasta: uma correspondência a 100% em qualquer uma das TMs, residente numa pasta chamada <filename>penalty-30</filename>, por exemplo, será reduzida para uma correspondência a 70%. A penalização aplica-se às três percentagens de correspondência: as correspondências 75, 80, 90 serão, neste caso, reduzidas para 45, 50, 60.</para>
+      <para>Por vezes, é útil distinguir entre memórias de tradução de alta qualidade e aquelas que, devido ao assunto, cliente, estado de revisão, etc., são menos fiáveis. Para memórias de tradução em pastas com um nome <filename class="directory">penalty-xxx</filename> (com xxx entre 0 e 100), as correspondências serão degradadas de acordo com o nome da pasta: uma correspondência a 100% em qualquer uma das TMs, residente numa pasta chamada <filename class="directory">penalty-30</filename>, por exemplo, será reduzida para uma correspondência a 70%. A penalização aplica-se às três percentagens de correspondência: as correspondências 75, 80, 90 serão, neste caso, reduzidas para 45, 50, 60.</para>
     </section>
   </section>
 
-  <section>
+  <section id="projectfolder.dictionary">
     <title>dictionary</title>
 
     <para>Inicialmente vazia, esta pasta conterá dicionários que adicionou ao projecto. Ver <link linkend="appendix.dictionaries">Dicionários</link> para mais informações sobre este assunto.</para>
   </section>
 
-  <section>
+  <section id="projectfolder.glossary">
     <title>glossary</title>
 
     <para>Esta pasta está inicialmente vazia. Conterá glossários a utilizar no projecto. Ver <link linkend="appendix.glossaries">Glossaries</link> para mais informações sobre este assunto.</para>
   </section>
 
-  <section id="folder.omegat">
+  <section id="projectfolder.omegat">
     <title>omegat</title>
 
-    <para>A sub-pasta <emphasis role="bold">omegat</emphasis> contém pelo menos um e possivelmente vários outros ficheiros. O ficheiro mais importante aqui é o <filename>project_save.tmx, </filename> que é a memória de tradução de trabalho para o projecto. As salvaguardas deste ficheiro (com extensão bak) são acrescentadas progressivamente a esta sub-pasta, primeiro no início da sessão de tradução, no seu final, e enquanto a tradução progride.</para>
+    <para>The <filename class="directory">omegat</filename> subfolder contains at least one and possibly several other files. The most important file here is the <filename>project_save.tmx</filename>, that is the working translation memory for the project. As salvaguardas deste ficheiro (com extensão bak) são acrescentadas progressivamente a esta sub-pasta, primeiro no início da sessão de tradução, no seu final, e enquanto a tradução progride.</para>
 
     <para>Durante a tradução podem ser criados ficheiros adicionais nesta sub-pasta da seguinte forma</para>
 
@@ -123,7 +134,7 @@
         <term>stats.txt</term>
 
         <listitem>
-          <para>contém as estatísticas actuais do projecto actual. Pode vê-lo seleccionando <guimenuitem>Ferramentas &gt; Estatísticas</guimenuitem></para>
+          <para>contém as estatísticas actuais do projecto actual. You can view it by selecting <menuchoice><guimenu>Tools</guimenu><guilabel>Statistics</guilabel></menuchoice></para>
         </listitem>
       </varlistentry>
 
@@ -133,7 +144,7 @@
         <term>learned_words.txt</term>
 
         <listitem>
-          <para>são criados e utilizados pelo corrector ortográfico. Se já reuniu palavras que deseja que o corrector ortográfico ignore/aceite, basta copiar os dois ficheiros correspondentes para a sub-pasta <filename>omegat</filename> do seu projecto actual.</para>
+          <para>são criados e utilizados pelo corrector ortográfico. If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the <filename class="directory">omegat</filename> subfolder of your current project.</para>
         </listitem>
       </varlistentry>
 
@@ -141,7 +152,8 @@
         <term>project_stats_match.txt</term>
 
         <listitem>
-          <para>contém as mais recentes estatísticas de resultados do projecto, geradas por <guimenuitem>Ferramentas &gt; Estatísticas de correspondências</guimenuitem></para>
+          <para>contains the latest project match statistics, generated by
+          <menuchoice><guimenu>Tools</guimenu><guilabel>Match Statistics</guilabel></menuchoice></para>
         </listitem>
       </varlistentry>
 
@@ -171,13 +183,13 @@
     </variablelist>
   </section>
 
-  <section>
+  <section id="projectfolder.omegat.project">
     <title>omegat.project (ficheiro)</title>
 
     <para>Contém os parâmetros do projecto tal como definidos no diálogo <link linkend="dialogs.projectproperties">Propriedades do projecto</link>.</para>
   </section>
 
-  <section>
+  <section id="projectfolder.repositories">
     <title>.repositories</title>
 
     <para>Num projecto em equipa, esta pasta contém uma cópia com versão da estrutura em árvore do projecto ligada directamente ao servidor remoto.</para>

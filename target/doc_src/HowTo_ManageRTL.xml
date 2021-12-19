@@ -23,18 +23,25 @@
       </listitem>
     </itemizedlist>
 
-    <para>Utilizar o modo RTL no <application>OmegaT</application> não tem qualquer influência sobre o modo de apresentação dos documentos traduzidos criados no <application>OmegaT</application>. O modo de apresentação dos documentos traduzidos deve ser modificado no âmbito da aplicação (como o Microsoft Word) normalmente utilizado para os mostrar ou modificar (consultar os manuais relevantes para mais pormenores). Usando <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> faz com que tanto a entrada de texto como a exibição em <application>OmegaT</application> mudem. Pode ser utilizado separadamente para os três painéis (Editor, Correspondências aproximadas e Glossário), clicando no painel e alternando o modo de visualização. Também pode ser usado em todos os campos de entrada encontrados no <application>OmegaT</application> - na janela de procura, para regras de segmentação, etc.</para>
+    <para>Using the RTL mode in OmegaT has no influence whatsoever on the display mode of the translated documents created in OmegaT. O modo de apresentação dos documentos traduzidos deve ser modificado no âmbito da aplicação (como o Microsoft Word) normalmente utilizado para os mostrar ou modificar (consultar os manuais relevantes para mais pormenores). Using <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> causes both text input and display in OmegaT to change. Pode ser utilizado separadamente para os três painéis (Editor, Correspondências aproximadas e Glossário), clicando no painel e alternando o modo de visualização. It can also be used in all the input fields found in OmegaT - in the search window, for segmentation rules etc.</para>
 
-    <para>Utilizadores Mac OS X, notem: usem <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> e <emphasis role="bold">não</emphasis> cmd+Ctrl+O.</para>
+    <para>Mac OS X users, note: use <keycombo>
+        <keycap>Shift</keycap>
+
+        <keycap>Ctrl</keycap>
+
+        <keycap>O</keycap>
+      </keycombo> shortcut and not
+    <keycombo><keycap>cmd</keycap><keycap>Ctrl</keycap><keycap>O</keycap></keycombo>.</para>
 
     <section>
       <title>Mistura de cadeias RTL e LTR em segmentos</title>
 
-      <para>Ao escrever texto puramente RTL, pode ser utilizada a visualização por defeito (LTR). Em muitos casos, contudo, é necessário incorporar texto LTR no texto RTL. Por exemplo, em etiquetas OmegaT, nomes de produtos que devem ser deixados no idioma-fonte LTR, colocar suportes em ficheiros de localização e números em texto. Em casos como estes torna-se necessário mudar para o modo RTL, de modo a que o texto RTL (de facto bidireccional) seja exibido correctamente. Deve-se notar que quando o <application>OmegaT</application> está em modo RTL, tanto a fonte como o alvo são exibidos em modo RTL. Isto significa que se o idioma-fonte for LTR e o idioma-alvo for RTL, ou vice-versa, poderá ser necessário alternar entre os modos RTL e LTR para ver a fonte e entrar facilmente no alvo nos seus respectivos modos.</para>
+      <para>Ao escrever texto puramente RTL, pode ser utilizada a visualização por defeito (LTR). Em muitos casos, contudo, é necessário incorporar texto LTR no texto RTL. Por exemplo, em etiquetas OmegaT, nomes de produtos que devem ser deixados no idioma-fonte LTR, colocar suportes em ficheiros de localização e números em texto. Em casos como estes torna-se necessário mudar para o modo RTL, de modo a que o texto RTL (de facto bidireccional) seja exibido correctamente. It should be noted that when OmegaT is in RTL mode, both source and target are displayed in RTL mode. Isto significa que se o idioma-fonte for LTR e o idioma-alvo for RTL, ou vice-versa, poderá ser necessário alternar entre os modos RTL e LTR para ver a fonte e entrar facilmente no alvo nos seus respectivos modos.</para>
     </section>
 
     <section>
-      <title>Etiquetas <application>OmegaT</application> em segmentos RTL</title>
+      <title>OmegaT tags in RTL segments</title>
 
       <para>Como foi dito acima, as etiquetas OmegaT são cadeias LTR. Ao traduzir entre idiomas RTL e LTR, a leitura correcta das etiquetas a partir da fonte e a sua introdução correcta no destino pode exigir que o tradutor mude entre os modos LTR e RTL inúmeras vezes.</para>
 

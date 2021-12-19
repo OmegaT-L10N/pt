@@ -3,7 +3,7 @@
 <section id="howto.translatepdf">
   <title>Traduzir um ficheiro PDF</title>
 
-<para>Os ficheiros PDF são um caso especial. Contêm informação de formatação de texto, mas tal informação não pode ser reutilizada pelo <application>OmegaT</application> a fim de criar ficheiros-alvo. Assim, os ficheiros PDF são tratados como ficheiros de texto simples, e os ficheiros de saída são ficheiros de texto simples.</para>
+<para>Os ficheiros PDF são um caso especial. They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files. Assim, os ficheiros PDF são tratados como ficheiros de texto simples, e os ficheiros de saída são ficheiros de texto simples.</para>
   <para>Se precisar de reproduzir a formatação do texto (bem como outras coisas como desenhos) na sua tradução, há três maneiras de tentar:</para>
   <orderedlist>
     <listitem>

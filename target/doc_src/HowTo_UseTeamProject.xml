@@ -13,7 +13,7 @@
 
   <para>A cada 3 minutos (por defeito), o projecto local é sincronizado com o repositório remoto para que o gestor do projecto ou outros tradutores possam ver e utilizar as traduções adicionadas durante esse período.</para>
 
-  <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
+  <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
 
   <para><emphasis role="bold">Ficheiros sincronizados</emphasis></para>
 
@@ -21,11 +21,11 @@
 
   <itemizedlist>
     <listitem>
-      <para><filename>omegat/project_save.tmx</filename></para>
+      <para>omegat/project_save.tmx</para>
     </listitem>
 
     <listitem>
-      <para><filename>glossary/glossary.txt</filename></para>
+      <para>glossary/glossary.txt</para>
     </listitem>
   </itemizedlist>
 
@@ -37,11 +37,11 @@
 
   <para><orderedlist>
       <listitem>
-        <para>copiar os ficheiros para a pasta <filename>/source</filename></para>
+        <para>copy the files to the <filename class="directory">source</filename> folder</para>
       </listitem>
 
       <listitem>
-        <para>usar <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Submeter ficheiros-fonte</guimenuitem> </menuchoice></para>
+        <para>usar <menuchoice> <guimenu>Projecto</guimenu> <guimenuitem>Submeter ficheiros-fonte</guimenuitem> </menuchoice></para>
       </listitem>
     </orderedlist>Os ficheiros-fonte existentes podem ser modificados, mas a operação de autorização deve ser realizada antes de uma gravação automática e antes de o projecto ser recarregado ou encerrado.</para>
 

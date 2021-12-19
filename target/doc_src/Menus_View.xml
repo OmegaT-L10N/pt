@@ -80,7 +80,7 @@
       <term>Marcar segmentos povoados automaticamente</term>
 
       <listitem>
-        <para>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em <filename>/tm/auto</filename> por exemplo) são mostrados a cores. As cores são mostradas enquanto a opção <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Gravar o estado de povoamento automático</guimenuitem></link> esteja marcada. As traduções habituais inseridas a partir da pasta auto são mostradas em laranja. Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores. Para detalhes técnicos, ver <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Pedidos de melhoramentos</ulink>.</para>
+        <para>Se marcada, o fundo de todos os segmentos onde o segmento-alvo foi auto-povoado (das TMXs colocados em <filename class="directory">/tm/auto</filename> por exemplo) são mostrados a cores. As cores são mostradas enquanto a opção <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Gravar o estado de povoamento automático</guimenuitem></link> esteja marcada. Usual translations inserted from the <filename class="directory">auto</filename> folder are displayed in orange. Outras traduções, identificadas especificamente na TMX, podem ser mostradas utilizando diferentes cores. For technical details, see the <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request For Enhancement</ulink>.</para>
       </listitem>
     </varlistentry>
 
@@ -88,7 +88,7 @@
       <term>Garantia agressiva de letra</term>
 
       <listitem>
-        <para>Marque esta opção caso o <application>OmegaT</application> não mostrar correctamente alguns glifos (mesmo que as letras contendo os glifos relevantes estejam instaladas na sua máquina). Nota: no Windows parece que este mecanismo manual de garantia de letra pode interferir com a garantia de letra padrão, causando uma substituição indesejável da fonte. Por esse motivo, está DESLIGADO por pré-definição.</para>
+        <para>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine). Nota: no Windows parece que este mecanismo manual de garantia de letra pode interferir com a garantia de letra padrão, causando uma substituição indesejável da fonte. Por esse motivo, está DESLIGADO por pré-definição.</para>
       </listitem>
     </varlistentry>
 

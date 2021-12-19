@@ -3,11 +3,17 @@
 <section id="windows.textsearch">
   <title>Procurar texto</title>
 
-  <para>Abra a janela de procura com <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo> e insira a palavra ou frase que deseja procurar na caixa <emphasis>Procurar por</emphasis>.</para>
+  <para>Open the Search window with <keycombo>
+      <keycap>Ctrl</keycap>
 
-  <para>Em alternativa, pode seleccionar uma palavra ou frase no painel do editor, no painel de aproximadas ou no painel do glossário e premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. A palavra ou frase é inserida na caixa <emphasis>Procurar por</emphasis> automaticamente. Pode ter várias janelas de procura abertas ao mesmo tempo, mas feche-as quando já não forem necessárias para que não desorganizem o seu ambiente de trabalho.</para>
+      <keycap>F</keycap>
+    </keycombo> and enter the word or phrase you wish to search for in the
+  <guilabel>Search for</guilabel> box.</para>
 
-  <para>Clique na seta descendente da caixa <emphasis>Procurar por</emphasis> para aceder às últimas 10 procuras.</para>
+  <para>Em alternativa, pode seleccionar uma palavra ou frase no painel do editor, no painel de aproximadas ou no painel do glossário e premir <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. The word or phrase is entered in the <guilabel>Search for</guilabel> box automatically. Pode ter várias janelas de procura abertas ao mesmo tempo, mas feche-as quando já não forem necessárias para que não desorganizem o seu ambiente de trabalho.</para>
+
+  <para>Click the dropdown arrow of the <guilabel>Search for</guilabel> box to
+  access the last 10 searches.</para>
 
   <para>A janela de procura tem os seus próprios menus:</para>
 
@@ -88,67 +94,90 @@
 
     <itemizedlist>
       <listitem>
-        <para><emphasis role="bold"> sensível a maiúsculas</emphasis>: a procura será efectuada para a cadeia exacta especificada; ou seja, as maiúsculas são comparadas.</para>
+        <para><guilabel>case sensitive</guilabel>: the search will
+        be performed for the exact string specified; i.e. capitalization is
+        observed.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Espaço corresponde a nbsp</emphasis>: quando esta opção está marcada, um carácter de espaço colocado na entrada de procura pode corresponder a um carácter de espaço normal ou a um carácter de espaço inseparável (\u00A).</para>
+        <para><guilabel>Space matches nbsp</guilabel>: when this
+        option is checked, a space character put in search entry can match
+        either a normal space character or a non-breacking space (\u00A)
+        character.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">na fonte</emphasis>: procurar nos segmentos-fonte</para>
+        <para><guilabel>in source</guilabel>: search in the source
+        segments</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">nas traduções</emphasis>: procurar nos segmentos-alvo</para>
+        <para><guilabel>in translations</guilabel>: search in the
+        target segments</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">nas notas</emphasis>: procurar em notas dos segmentos</para>
+        <para><guilabel>in notes</guilabel>: search in notes to
+        segments</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">nos comentários</emphasis>: procurar nos comentários dos segmentos</para>
+        <para><guilabel>in comments</guilabel>: search in comments
+        to segments</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Traduzido ou não traduzido: </emphasis>procurar tanto em segmentos traduzidos como em não traduzidos.</para>
+        <para><guilabel>Translated or untranslated</guilabel>:
+        search in both translated and untranslated segments.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Traduzido</emphasis>: procurar apenas em segmentos traduzidos.</para>
+        <para><guilabel>Translated</guilabel>: search only in
+        translated segments.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Não traduzido</emphasis>: procurar apenas em segmentos não traduzidos.</para>
+        <para><guilabel>Untranslated</guilabel>: search only in
+        untranslated segments.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Mostrar: todos os segmentos correspondentes</emphasis>: se marcada, todos os segmentos são mostrados um a um, mesmo que estejam presentes várias vezes no mesmo documento ou em documentos diferentes.</para>
+        <para><guilabel>Display: all matching segments</guilabel>:
+        if checked, all the segments are displayed one by one, even
+        if they are present several times in the same document or in different
+        documents.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Mostrar: nomes de ficheiros</emphasis>: se marcada, o nome do ficheiro onde cada segmento é encontrado é mostrado acima de cada resultado.</para>
+        <para><guilabel>Display: file names</guilabel>: if
+        checked, the name of the file where each segment is found is displayed
+        above each result.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Procurar no projecto</emphasis>: marcar <emphasis>Memória</emphasis> para incluir a memória do projecto (ficheiro project_save.tmx) na procura. Marcar <emphasis>TMs</emphasis> para incluir as memórias de tradução localizadas na pasta <filename>tm</filename> na procura. Marcar <emphasis>Glossários</emphasis> para incluir os glossários localizados na pasta <filename>glossary</filename> na procura.</para>
+        <para><guilabel>Search in Project</guilabel>: check
+        <guilabel>Memory</guilabel> to include the project memory
+        (<filename>project_save.tmx</filename> file) in the search. Check <guilabel>TMs</guilabel>
+        to include the translation memories located in the
+        <filename class="directory">tm</filename> folder in the search. Check
+        <guilabel>Glossaries</guilabel> to include the glossaries located in
+        the <filename class="directory">glossary</filename> folder in the search.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Procurar em ficheiros</emphasis>: procurar num único ficheiro ou numa pasta contendo um conjunto de ficheiros. Ao procurar em ficheiros (por oposição às memórias de tradução), o OmegaT restringe a procura a ficheiros em formatos de ficheiro-fonte. Consequentemente, embora o OmegaT seja bastante capaz de lidar com ficheiros<filename> tmx</filename>, não os inclui na procura Procurar em ficheiros.</para>
+        <para><guilabel>Search in Files</guilabel>: search in a single file or a folder containing a set of files. Ao procurar em ficheiros (por oposição às memórias de tradução), o OmegaT restringe a procura a ficheiros em formatos de ficheiro-fonte. Consequently, although OmegaT is quite able to handle <filename>tmx</filename> files, it does not include them in the Search files search.</para>
       </listitem>
     </itemizedlist>
 
-    <para>Se clicar no botão <guibutton>Opções avançadas</guibutton>, podem ser seleccionados critérios adicionais (autor ou alterador da tradução, data traduzida, excluindo segmentos órfãos, etc.). Quando a opção <emphasis>Insensível a largura total/meia largura</emphasis> está marcada, as procuras por formas de largura total (caracteres CJK) corresponderão a formas de meia largura e vice-versa.</para>
+    <para>Se clicar no botão <guibutton>Opções avançadas</guibutton>, podem ser seleccionados critérios adicionais (autor ou alterador da tradução, data traduzida, excluindo segmentos órfãos, etc.). When <guilabel>Full/Half width char insensitive</guilabel> option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</para>
   </section>
 
   <section id="search.result.display">
     <title>Exibição dos resultados da procura</title>
 
-    <para>Ao premir o botão Procurar após inserir uma cadeia no campo de procura, são mostrados todos os segmentos do projecto que incluem a cadeia inserida. Como o <application>OmegaT</application> trata segmentos idênticos como uma única entidade, apenas o primeiro segmento único é mostrado. Os segmentos são mostrados pela ordem em que surgem no projecto. Os segmentos traduzidos são mostrados com o texto original em cima e o texto traduzido em baixo, os segmentos não traduzidos são mostrados apenas como fonte.</para>
+    <para>Ao premir o botão Procurar após inserir uma cadeia no campo de procura, são mostrados todos os segmentos do projecto que incluem a cadeia inserida. As OmegaT handles identical segments as one single entity, only the first unique segment is shown. Os segmentos são mostrados pela ordem em que surgem no projecto. Os segmentos traduzidos são mostrados com o texto original em cima e o texto traduzido em baixo, os segmentos não traduzidos são mostrados apenas como fonte.</para>
 
-    <para>Um duplo clique sobre um segmento abre-o no editor para modificações (um único clique fá-lo quando a opção <emphasis role="bold">Sincronização automática</emphasis> está marcada). Pode então voltar à janela de procura para o próximo segmento encontrado, por exemplo para verificar e, se necessário, corrigir a terminologia.</para>
+    <para>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when <guilabel role="bold">Auto-sync with Editor</guilabel> option is checked). Pode então voltar à janela de procura para o próximo segmento encontrado, por exemplo para verificar e, se necessário, corrigir a terminologia.</para>
 
     <para>Na janela de procura, pode usar atalhos padrão (<keycombo> <keycap>Ctrl</keycap> <keycap>N</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>P</keycap> </keycombo>) para se deslocar de um segmento para outro.</para>
 
@@ -158,7 +187,7 @@
   <section id="search.filter">
     <title>Filtrar as entradas no editor de acordo com a procura</title>
 
-    <para>Para uma navegação mais fácil no conjunto de resultados de procura, pode aplicar a procura ao editor. Prima o botão <emphasis role="bold">Filtro</emphasis> no fundo para limitar as entradas mostradas na janela do editor àquelas que correspondem à procura actual. Pode usar a navegação normal para ir, por exemplo, ao próximo segmento (não traduzido) que corresponda aos critérios de procura.</para>
+    <para>Para uma navegação mais fácil no conjunto de resultados de procura, pode aplicar a procura ao editor. Press the <guibutton>Filter</guibutton> button on the bottom to limit the shown entries in the editor window to those that match the current search. Pode usar a navegação normal para ir, por exemplo, ao próximo segmento (não traduzido) que corresponda aos critérios de procura.</para>
 
     <para>N.B.:</para>
 
@@ -176,6 +205,6 @@
       </listitem>
     </itemizedlist>
 
-    <para>Para remover um filtro, prima o botão <emphasis role="bold">Remover filtro</emphasis>, ou recarregue um projecto.</para>
+    <para>To remove a filter, press the <guibutton>Remove filter</guibutton> button, or reload a project.</para>
   </section>
 </section>

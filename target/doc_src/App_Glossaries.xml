@@ -9,20 +9,28 @@
 
   <para>Independentemente do número de glossários num projecto, qualquer termo num segmento que tenha uma correspondência num glossário será mostrado no painel do glossário.</para>
 
-  <section>
+  <section id="glossaries.defaultglossary">
     <title>Glossário pré-definido</title>
 
-    <para>O glossário pré-definido está localizado na pasta <filename>/glossary</filename> do projecto e chama-se <filename>glossary.txt</filename>.</para>
+    <para>The default writable glossary is located in the the
+    <filename class="directory">glossary</filename> project folder and is called
+    <filename>glossary.txt</filename>.</para>
 
-    <para>O seu nome e localização podem ser modificados no diálogo de propriedades do projecto, mas a sua extensão deve ser <filename>.txt</filename> ou <filename>.utf8</filename> e a sua localização deve estar contida na pasta <filename>/glossary</filename> do projecto.</para>
+    <para>Its name and location can be modified in the project properties
+    dialog but its extension must be <filename>.txt</filename> or
+    <filename>.utf8</filename> and its location must be contained in the
+    <filename class="directory">glossary</filename> project folder.</para>
 
     <para>O ficheiro não precisa de existir ao defini-lo, ele será criado ao adicionar a primeira entrada do glossário. Se o ficheiro já existir, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do ficheiro: as novas entradas serão sempre em formato separado por tabulação e o ficheiro será gravado com codificação UTF-8.</para>
   </section>
 
-  <section>
+  <section id="glossaries.usage">
     <title>Uso</title>
 
-    <para>Para utilizar um glossário existente, basta colocá-lo na pasta <filename>/glossary</filename> após a criação do projecto. <application>OmegaT</application> detecta automaticamente os ficheiros de glossário nesta pasta quando um projecto é aberto.</para>
+    <para>To use an existing glossary, simply place it in the
+    <filename class="directory">glossary</filename> folder after creating the project.
+    OmegaT automatically detects glossary files in
+    this folder when a project is opened.</para>
 
     <para>Para adicionar um novo termo ao glossário editável, use <guimenuitem>Editar</guimenuitem> &gt; <guimenuitem>Criar entrada de glossário</guimenuitem> (<keycap>Ctrl+Shift+G</keycap>). Os novos termos adicionados serão imediatamente reconhecidos. Para adicionar novos termos aos glossários de referência, edite-os num editor de texto externo. Os novos termos adicionados serão reconhecidos assim que as alterações tenham sido gravadas.</para>
 
@@ -37,7 +45,7 @@
     <para>Para sublinhar termos correspondentes na parte da fonte do segmento utilizar <guimenuitem>Ver</guimenuitem> &gt; <guimenuitem>Marcar correspondências do glossário</guimenuitem>. Clique com o botão direito do rato sobre o termo sublinhado e seleccione um termo-alvo para o inserir na posição do cursor na parte alvo do segmento.</para>
   </section>
 
-  <section>
+  <section id="glossaries.fileformat">
     <title>Formato de ficheiro</title>
 
     <para>Os ficheiros de glossário do OmegaT são simples listas de três colunas em texto simples com o termo-fonte na primeira coluna, um termo-alvo opcional na segunda coluna e um comentário opcional na terceira coluna.</para>
@@ -62,17 +70,17 @@
       </tbody>
     </table>
 
-    <para>Os glossários devem estar localizados na pasta <filename>/glossary</filename> do projecto. Os glossários localizados em pastas aninhadas também são reconhecidos.</para>
+    <para>Glossaries must be located in the <filename class="directory">glossary</filename> project folder. Os glossários localizados em pastas aninhadas também são reconhecidos.</para>
   </section>
 
-  <section>
+  <section id="glossaries.commonproblems">
     <title>Problemas comuns de glossários</title>
 
     <para><emphasis role="bold">Problema: não são mostrados termos de glossário - causas possíveis:</emphasis></para>
 
     <itemizedlist>
       <listitem>
-        <para>nenhum ficheiro de glossário encontrado na pasta &lt;f0&gt;/glossary&lt;/f0&gt;.</para>
+        <para>No glossary file found in the <filename class="directory">glossary</filename> folder.</para>
       </listitem>
     </itemizedlist>
 

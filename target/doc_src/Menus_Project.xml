@@ -40,7 +40,7 @@
       <term>Copiar ficheiros para a pasta-fonte...</term>
 
       <listitem>
-        <para>Copia os ficheiros seleccionados para a pasta <filename>source</filename> e recarrega o projecto para carregar o novo files.</para>
+        <para>Copia os ficheiros seleccionados para a pasta <filename class="directory">source</filename> e recarrega o projecto para carregar o novo files.</para>
       </listitem>
     </varlistentry>
 
@@ -56,7 +56,7 @@
           </listitem>
 
           <listitem>
-            <para>Copie o URL da página (terminando com <guilabel>action=edit</guilabel>) e cole-o em <application>OmegaT</application>.</para>
+            <para>Copy the URL of the page (ending with <guilabel>action=edit</guilabel>) and paste it into OmegaT.</para>
           </listitem>
         </orderedlist>
 
@@ -64,7 +64,7 @@
 
         <orderedlist>
           <listitem>
-            <para>Abra o ficheiro <filename>.UTF8</filename> gerado na pasta <filename>/target</filename>.</para>
+            <para>Open the <filename>.UTF8</filename> file generated in the <filename class="directory">target</filename> folder.</para>
           </listitem>
 
           <listitem>
@@ -80,7 +80,7 @@
       <listitem>
         <para>Recarrega o projecto para ter em conta as alterações externas nos ficheiros-fonte e definições do projecto.</para>
 
-        <para>Novas memórias de tradução colocadas na pasta <filename>/tm</filename> enquanto se traduz são carregadas automaticamente assim que o cursor se move de um segmento para outro.</para>
+        <para>New translation memories placed in the <filename class="directory">tm</filename> folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</para>
       </listitem>
     </varlistentry>
 
@@ -98,7 +98,7 @@
       <listitem>
         <para>Grava a memória interna de tradução no disco rígido. O OmegaT grava automaticamente as traduções a cada 3 minutos, assim como quando fecha o projecto ou sai do OmegaT.</para>
 
-        <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
+        <para>O intervalo de 3 minutos pode ser alterado em <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenu>Opções</guimenu> <guimenuitem>Preferências</guimenuitem> <guimenuitem>Gravação e saída</guimenuitem> </menuchoice></link>.</para>
       </listitem>
     </varlistentry>
 
@@ -106,7 +106,8 @@
       <term>Enviar ficheiros-fonte</term>
 
       <listitem>
-        <para>Envia para o repositório os ficheiros que foram adicionados ou modificados localmente na pasta <filename>source</filename>.</para>
+        <para>Uploads to the repository the files that have been added or
+        modified locally in the <filename class="directory">source</filename> folder.</para>
 
         <para>Esta função é específica para projectos de equipa.</para>
       </listitem>
@@ -116,7 +117,8 @@
       <term>Enviar ficheiros-alvo</term>
 
       <listitem>
-        <para>Envia para o repositório os ficheiros que foram criados localmente na pasta <filename>target</filename>.</para>
+        <para>Uploads to the repository the files that have been created
+        locally in the <filename class="directory">target</filename> folder.</para>
 
         <para>Esta função é específica para projectos de equipa.</para>
       </listitem>
@@ -126,7 +128,7 @@
       <term>Criar documentos traduzidos</term>
 
       <listitem>
-        <para>Cria os documentos-alvo com base na sua tradução. Os documentos-alvo criados estão localizados na pasta <filename>target</filename>.</para>
+        <para>Cria os documentos-alvo com base na sua tradução. Os documentos-alvo criados estão localizados na pasta <filename class="directory">target</filename>.</para>
       </listitem>
     </varlistentry>
 
@@ -181,10 +183,20 @@
     </varlistentry>
 
     <varlistentry>
+      <term>Restart</term>
+
+      <listitem>
+        <para>Saves the project and restarts OmegaT. Se ainda não gravou o projecto, isto confirma manualmente se deseja realmente desistir.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
       <term>Sair</term>
 
       <listitem>
-        <para>Grava o projecto e sai do <application>OmegaT</application>. Se ainda não gravou o projecto, isto confirma manualmente se deseja realmente desistir.</para>
+        <para>Saves the project and quits OmegaT. Se ainda não gravou o projecto, isto confirma manualmente se deseja realmente desistir.</para>
+
+		<para>In macOS, this menu item is listed in the application menu.</para>
       </listitem>
     </varlistentry>
   </variablelist>

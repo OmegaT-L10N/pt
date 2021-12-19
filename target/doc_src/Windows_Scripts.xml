@@ -24,11 +24,11 @@
 
     <itemizedlist>
       <listitem>
-        <para>Quando clicar com o botão esquerdo do rato sobre o número, o script seleccionado será executado. Pode também iniciar as macros seleccionadas a partir do menu principal utilizando as suas entradas no menu <guisubmenu>Ferramentas</guisubmenu> ou premindo<keycap> Ctrl+Alt+F</keycap> (1 a 12).</para>
+        <para>Quando clicar com o botão esquerdo do rato sobre o número, o script seleccionado será executado. You can also start the selected macros from the main menu by using their entries in the <guisubmenu>Tools</guisubmenu> menu or by pressing <keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>F#</keycap></keycombo> (# 1 to 12).</para>
       </listitem>
     </itemizedlist>
 
-    <para>Por pré-definição, os scripts são armazenados na pasta <filename>scripts</filename> localizada na pasta de instalação do OmegaT (a pasta que contém o ficheiro <filename>OmegaT.jar</filename>)).</para>
+    <para>Por pré-definição, os scripts são armazenados na pasta <filename class="directory">scripts</filename> localizada na pasta de instalação do OmegaT (a pasta que contém o ficheiro <filename>OmegaT.jar</filename>)).</para>
 
     <para>Se adicionar novos scripts lá, eles aparecerão na lista de scripts disponíveis na janela <guilabel>Scripting</guilabel>.</para>
 

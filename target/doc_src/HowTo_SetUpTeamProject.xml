@@ -62,7 +62,7 @@
 
     <orderedlist>
       <listitem>
-        <para>copiar os ficheiros para a pasta <filename>/source</filename></para>
+        <para>copy the files to the <filename>source</filename> folder</para>
       </listitem>
 
       <listitem>

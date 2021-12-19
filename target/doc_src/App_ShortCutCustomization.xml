@@ -6,11 +6,13 @@
   <section id="ch04.shortcuts.customization">
     <title>Personalização dos atalhos</title>
 
-    <para>A maioria dos itens que aparecem no menu principal pode ter um novo atalho atribuído. Pode alterar os atalhos já atribuídos e adicionar novos atalhos colocando um ficheiro de definição de atalhos na sua pasta de preferências do <application>OmegaT</application> (acessível em <menuchoice> <guimenuitem>Opções</guimenuitem> <guimenuitem>Aceder à pasta de configurações</guimenuitem> </menuchoice>).</para>
+    <para>A maioria dos itens que aparecem no menu principal pode ter um novo atalho atribuído. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by <menuchoice> <guimenuitem>Options</guimenuitem> <guimenuitem>Access Configuration Folder</guimenuitem> </menuchoice> menu).</para>
 
     <para>O ficheiro de definição de atalho deve ser nomeado <filename>MainMenuShortcuts.properties</filename> e deve conter, no máximo, uma definição de atalho por linha. As linhas vazias são aceites e as linhas de comentário devem começar com &quot;//&quot;. Qualquer coisa depois de &quot;//&quot; será ignorada.</para>
 
-    <para>Assim que o ficheiro <filename>MainMenuShortcuts.properties</filename> for modificado, o <application>OmegaT</application> deve ser reiniciado para ter em conta os novos atalhos.</para>
+    <para>Once the <filename>MainMenuShortcuts.properties</filename> file is
+    modified, OmegaT must be relaunched to take the
+    new shortcuts into account.</para>
 
     <para>A sintaxe de definição do atalho é a seguinte: <code>&lt;código do item do menu&gt;==&lt;atalho&gt;</code>, onde <emphasis>&lt;código do item do menu&gt;</emphasis> é um código retirado das tabelas abaixo e <emphasis>&lt;atalho&gt;</emphasis> é uma combinação de teclas premidas especificadas pelo utilizador<footnote>
         <para>A sintaxe completa das teclas (atalhos) é definida na seguinte documentação Java 1.6 da Oracle (parte inferior da página): <ulink url="http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html">Java 1.6 keystrokes shortcuts</ulink></para>
@@ -63,7 +65,7 @@
     <para><code> toolsShowStatisticsStandardMenuItem=shift meta
     S</code></para>
 
-    <para>Grave o ficheiro e reinicie o <application>OmegaT</application>. Os seus novos atalhos devem agora aparecer ao lado dos itens do menu que modificou. Se não entrarem em conflito com os atalhos do sistema, devem estar disponíveis a partir do OmegaT.</para>
+    <para>Save then the file and relaunch OmegaT. Os seus novos atalhos devem agora aparecer ao lado dos itens do menu que modificou. Se não entrarem em conflito com os atalhos do sistema, devem estar disponíveis a partir do OmegaT.</para>
   </section>
 
   <section id="ch04.shortcuts.ProjectMenu">
@@ -256,6 +258,14 @@
             <entry/>
 
             <entry>projectAccessWriteableGlossaryMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Restart</entry>
+
+            <entry/>
+
+            <entry>projectRestartMenuItem</entry>
           </row>
 
           <row>
